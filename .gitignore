@@ -1,0 +1,5 @@
+.private_generator/
+.private_src/
+__pycache__/
+*.pyc
+.DS_Store
