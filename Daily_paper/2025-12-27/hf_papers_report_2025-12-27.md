@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2025-12-27
 **Source URL**: https://huggingface.co/papers/date/2025-12-27
 
 ============================================================
 
-### 📄 VA-π: Variational Policy Alignment for Pixel-Aware Autoregressive Generation
+## 📄 VA-π: Variational Policy Alignment for Pixel-Aware Autoregressive Generation
 
 - **链接**: https://huggingface.co/papers/2512.19680
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 Schoenfeld's Anatomy of Mathematical Reasoning by Language Models
+## 📄 Schoenfeld's Anatomy of Mathematical Reasoning by Language Models
 
 - **链接**: https://huggingface.co/papers/2512.19995
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@
 
 ============================================================
 
-### 📄 Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning
+## 📄 Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning
 
 - **链接**: https://huggingface.co/papers/2512.20605
 - **阅读来源**: HTML
@@ -125,7 +122,7 @@
 
 ============================================================
 
-### 📄 Latent Implicit Visual Reasoning
+## 📄 Latent Implicit Visual Reasoning
 
 - **链接**: https://huggingface.co/papers/2512.21218
 - **阅读来源**: HTML
@@ -166,7 +163,7 @@
 
 ============================================================
 
-### 📄 GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training
+## 📄 GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training
 
 - **链接**: https://huggingface.co/papers/2512.13043
 - **阅读来源**: HTML
@@ -203,7 +200,7 @@
 
 ============================================================
 
-### 📄 How Much 3D Do Video Foundation Models Encode?
+## 📄 How Much 3D Do Video Foundation Models Encode?
 
 - **链接**: https://huggingface.co/papers/2512.19949
 - **阅读来源**: HTML
@@ -240,7 +237,7 @@
 
 ============================================================
 
-### 📄 Spatia: Video Generation with Updatable Spatial Memory
+## 📄 Spatia: Video Generation with Updatable Spatial Memory
 
 - **链接**: https://huggingface.co/papers/2512.15716
 - **阅读来源**: HTML
@@ -279,4 +276,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
