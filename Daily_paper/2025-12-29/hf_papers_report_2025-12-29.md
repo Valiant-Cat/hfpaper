@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2025-12-29
 **Source URL**: https://huggingface.co/papers/date/2025-12-29
 
 ============================================================
 
-### 📄 Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding
+## 📄 Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding
 
 - **链接**: https://huggingface.co/papers/2512.17220
 - **阅读来源**: HTML
@@ -41,7 +38,7 @@
 
 ============================================================
 
-### 📄 A 58-Addition, Rank-23 Scheme for General 3x3 Matrix Multiplication
+## 📄 A 58-Addition, Rank-23 Scheme for General 3x3 Matrix Multiplication
 
 - **链接**: https://huggingface.co/papers/2512.21980
 - **阅读来源**: HTML
@@ -79,7 +76,7 @@
 
 ============================================================
 
-### 📄 Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding
+## 📄 Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding
 
 - **链接**: https://huggingface.co/papers/2512.21643
 - **阅读来源**: HTML
@@ -116,7 +113,7 @@
 
 ============================================================
 
-### 📄 ProEdit: Inversion-based Editing From Prompts Done Right
+## 📄 ProEdit: Inversion-based Editing From Prompts Done Right
 
 - **链接**: https://huggingface.co/papers/2512.22118
 - **阅读来源**: HTML
@@ -150,7 +147,7 @@
 
 ============================================================
 
-### 📄 MAI-UI Technical Report: Real-World Centric Foundation GUI Agents
+## 📄 MAI-UI Technical Report: Real-World Centric Foundation GUI Agents
 
 - **链接**: https://huggingface.co/papers/2512.22047
 - **阅读来源**: HTML
@@ -188,7 +185,7 @@ MAI-UI 在多个核心基准测试中刷新了 SOTA（目前最优）成绩：
 
 ============================================================
 
-### 📄 InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion
+## 📄 InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion
 
 - **链接**: https://huggingface.co/papers/2512.17504
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ MAI-UI 在多个核心基准测试中刷新了 SOTA（目前最优）成绩：
 
 ============================================================
 
-### 📄 UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
+## 📄 UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 
 - **链接**: https://huggingface.co/papers/2512.21675
 - **阅读来源**: HTML
@@ -275,7 +272,7 @@ MAI-UI 在多个核心基准测试中刷新了 SOTA（目前最优）成绩：
 
 ============================================================
 
-### 📄 SlideTailor: Personalized Presentation Slide Generation for Scientific Papers
+## 📄 SlideTailor: Personalized Presentation Slide Generation for Scientific Papers
 
 - **链接**: https://huggingface.co/papers/2512.20292
 - **阅读来源**: HTML
@@ -316,7 +313,7 @@ MAI-UI 在多个核心基准测试中刷新了 SOTA（目前最优）成绩：
 
 ============================================================
 
-### 📄 InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search
+## 📄 InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search
 
 - **链接**: https://huggingface.co/papers/2512.18745
 - **阅读来源**: HTML
@@ -354,7 +351,7 @@ MAI-UI 在多个核心基准测试中刷新了 SOTA（目前最优）成绩：
 
 ============================================================
 
-### 📄 SVBench: Evaluation of Video Generation Models on Social Reasoning
+## 📄 SVBench: Evaluation of Video Generation Models on Social Reasoning
 
 - **链接**: https://huggingface.co/papers/2512.21507
 - **阅读来源**: HTML
@@ -386,7 +383,7 @@ MAI-UI 在多个核心基准测试中刷新了 SOTA（目前最优）成绩：
 
 ============================================================
 
-### 📄 SWE-RM: Execution-free Feedback For Software Engineering Agents
+## 📄 SWE-RM: Execution-free Feedback For Software Engineering Agents
 
 - **链接**: https://huggingface.co/papers/2512.21919
 - **阅读来源**: HTML
@@ -423,7 +420,7 @@ MAI-UI 在多个核心基准测试中刷新了 SOTA（目前最优）成绩：
 
 ============================================================
 
-### 📄 TimeBill: Time-Budgeted Inference for Large Language Models
+## 📄 TimeBill: Time-Budgeted Inference for Large Language Models
 
 - **链接**: https://huggingface.co/papers/2512.21859
 - **阅读来源**: HTML
@@ -462,7 +459,7 @@ MAI-UI 在多个核心基准测试中刷新了 SOTA（目前最优）成绩：
 
 ============================================================
 
-### 📄 See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning
+## 📄 See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning
 
 - **链接**: https://huggingface.co/papers/2512.22120
 - **阅读来源**: HTML
@@ -495,4 +492,3 @@ MAI-UI 在多个核心基准测试中刷新了 SOTA（目前最优）成绩：
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
