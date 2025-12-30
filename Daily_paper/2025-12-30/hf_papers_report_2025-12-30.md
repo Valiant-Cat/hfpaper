@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2025-12-30
 **Source URL**: https://huggingface.co/papers/date/2025-12-30
 
 ============================================================
 
-### 📄 LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation
+## 📄 LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2512.23576
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@
 
 ============================================================
 
-### 📄 Act2Goal: From World Model To General Goal-conditioned Policy
+## 📄 Act2Goal: From World Model To General Goal-conditioned Policy
 
 - **链接**: https://huggingface.co/papers/2512.23541
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@
 
 ============================================================
 
-### 📄 Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss
+## 📄 Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss
 
 - **链接**: https://huggingface.co/papers/2512.23447
 - **阅读来源**: HTML
@@ -135,7 +132,7 @@
 
 ============================================================
 
-### 📄 Video-BrowseComp: Benchmarking Agentic Video Research on Open Web
+## 📄 Video-BrowseComp: Benchmarking Agentic Video Research on Open Web
 
 - **链接**: https://huggingface.co/papers/2512.23044
 - **阅读来源**: HTML
@@ -176,7 +173,7 @@
 
 ============================================================
 
-### 📄 SpotEdit: Selective Region Editing in Diffusion Transformers
+## 📄 SpotEdit: Selective Region Editing in Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2512.22323
 - **阅读来源**: HTML
@@ -211,7 +208,7 @@
 
 ============================================================
 
-### 📄 GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models
+## 📄 GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2512.15560
 - **阅读来源**: HTML
@@ -244,7 +241,7 @@
 
 ============================================================
 
-### 📄 Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation
+## 📄 Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation
 
 - **链接**: https://huggingface.co/papers/2512.23705
 - **阅读来源**: HTML
@@ -287,7 +284,7 @@
 
 ============================================================
 
-### 📄 OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding
+## 📄 OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding
 
 - **链接**: https://huggingface.co/papers/2512.23646
 - **阅读来源**: HTML
@@ -327,7 +324,7 @@
 
 ============================================================
 
-### 📄 DiRL: An Efficient Post-Training Framework for Diffusion Language Models
+## 📄 DiRL: An Efficient Post-Training Framework for Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2512.22234
 - **阅读来源**: HTML
@@ -362,7 +359,7 @@
 
 ============================================================
 
-### 📄 Training AI Co-Scientists Using Rubric Rewards
+## 📄 Training AI Co-Scientists Using Rubric Rewards
 
 - **链接**: https://huggingface.co/papers/2512.23707
 - **阅读来源**: HTML
@@ -394,7 +391,7 @@
 
 ============================================================
 
-### 📄 Monadic Context Engineering
+## 📄 Monadic Context Engineering
 
 - **链接**: https://huggingface.co/papers/2512.22431
 - **阅读来源**: ArXiv Abs
@@ -432,7 +429,7 @@
 
 ============================================================
 
-### 📄 SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents
+## 📄 SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents
 
 - **链接**: https://huggingface.co/papers/2512.22322
 - **阅读来源**: HTML
@@ -469,7 +466,7 @@
 
 ============================================================
 
-### 📄 An Information Theoretic Perspective on Agentic System Design
+## 📄 An Information Theoretic Perspective on Agentic System Design
 
 - **链接**: https://huggingface.co/papers/2512.21720
 - **阅读来源**: HTML
@@ -503,7 +500,7 @@
 
 ============================================================
 
-### 📄 Bridging Your Imagination with Audio-Video Generation via a Unified Director
+## 📄 Bridging Your Imagination with Audio-Video Generation via a Unified Director
 
 - **链接**: https://huggingface.co/papers/2512.23222
 - **阅读来源**: HTML
@@ -541,7 +538,7 @@ UniMAGE 提出了一个“统一导演模型”，通过混合 Transformer 架�
 
 ============================================================
 
-### 📄 SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling
+## 📄 SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling
 
 - **链接**: https://huggingface.co/papers/2512.23162
 - **阅读来源**: HTML
@@ -579,7 +576,7 @@ UniMAGE 提出了一个“统一导演模型”，通过混合 Transformer 架�
 
 ============================================================
 
-### 📄 Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone
+## 📄 Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone
 
 - **链接**: https://huggingface.co/papers/2512.22615
 - **阅读来源**: HTML
@@ -615,7 +612,7 @@ UniMAGE 提出了一个“统一导演模型”，通过混合 Transformer 架�
 
 ============================================================
 
-### 📄 Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation
+## 📄 Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation
 
 - **链接**: https://huggingface.co/papers/2512.21734
 - **阅读来源**: HTML
@@ -648,7 +645,7 @@ UniMAGE 提出了一个“统一导演模型”，通过混合 Transformer 架�
 
 ============================================================
 
-### 📄 Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion
+## 📄 Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion
 
 - **链接**: https://huggingface.co/papers/2512.23709
 - **阅读来源**: HTML
@@ -687,7 +684,7 @@ UniMAGE 提出了一个“统一导演模型”，通过混合 Transformer 架�
 
 ============================================================
 
-### 📄 Web World Models
+## 📄 Web World Models
 
 - **链接**: https://huggingface.co/papers/2512.23676
 - **阅读来源**: HTML
@@ -735,7 +732,7 @@ UniMAGE 提出了一个“统一导演模型”，通过混合 Transformer 架�
 
 ============================================================
 
-### 📄 Nested Browser-Use Learning for Agentic Information Seeking
+## 📄 Nested Browser-Use Learning for Agentic Information Seeking
 
 - **链接**: https://huggingface.co/papers/2512.23647
 - **阅读来源**: HTML
@@ -771,7 +768,7 @@ UniMAGE 提出了一个“统一导演模型”，通过混合 Transformer 架�
 
 ============================================================
 
-### 📄 Yume-1.5: A Text-Controlled Interactive World Generation Model
+## 📄 Yume-1.5: A Text-Controlled Interactive World Generation Model
 
 - **链接**: https://huggingface.co/papers/2512.22096
 - **阅读来源**: HTML
@@ -804,4 +801,3 @@ UniMAGE 提出了一个“统一导演模型”，通过混合 Transformer 架�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
