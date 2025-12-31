@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2025-12-31
 **Source URL**: https://huggingface.co/papers/date/2025-12-31
 
 ============================================================
 
-### 📄 GraphLocator: Graph-guided Causal Reasoning for Issue Localization
+## 📄 GraphLocator: Graph-guided Causal Reasoning for Issue Localization
 
 - **链接**: https://huggingface.co/papers/2512.22469
 - **阅读来源**: HTML
@@ -54,7 +51,7 @@
 
 ============================================================
 
-### 📄 GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs
+## 📄 GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs
 
 - **链接**: https://huggingface.co/papers/2512.21008
 - **阅读来源**: HTML
@@ -92,7 +89,7 @@
 
 ============================================================
 
-### 📄 Evaluating Parameter Efficient Methods for RLVR
+## 📄 Evaluating Parameter Efficient Methods for RLVR
 
 - **链接**: https://huggingface.co/papers/2512.23165
 - **阅读来源**: HTML
@@ -130,7 +127,7 @@
 
 ============================================================
 
-### 📄 End-to-End Test-Time Training for Long Context
+## 📄 End-to-End Test-Time Training for Long Context
 
 - **链接**: https://huggingface.co/papers/2512.23675
 - **阅读来源**: HTML
@@ -168,7 +165,7 @@
 
 ============================================================
 
-### 📄 DreamOmni3: Scribble-based Editing and Generation
+## 📄 DreamOmni3: Scribble-based Editing and Generation
 
 - **链接**: https://huggingface.co/papers/2512.22525
 - **阅读来源**: HTML
@@ -201,4 +198,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
