@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-01
 **Source URL**: https://huggingface.co/papers/date/2026-01-01
 
 ============================================================
 
-### 📄 Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem
+## 📄 Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem
 
 - **链接**: https://huggingface.co/papers/2512.24873
 - **阅读来源**: ArXiv Abs
@@ -44,7 +41,7 @@
 
 ============================================================
 
-### 📄 Factorized Learning for Temporally Grounded Video-Language Models
+## 📄 Factorized Learning for Temporally Grounded Video-Language Models
 
 - **链接**: https://huggingface.co/papers/2512.24097
 - **阅读来源**: HTML
@@ -83,7 +80,7 @@
 
 ============================================================
 
-### 📄 AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents
+## 📄 AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents
 
 - **链接**: https://huggingface.co/papers/2512.23343
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@
 
 ============================================================
 
-### 📄 Geometry-Aware Optimization for Respiratory Sound Classification: Enhancing Sensitivity with SAM-Optimized Audio Spectrogram Transformers
+## 📄 Geometry-Aware Optimization for Respiratory Sound Classification: Enhancing Sensitivity with SAM-Optimized Audio Spectrogram Transformers
 
 - **链接**: https://huggingface.co/papers/2512.22564
 - **阅读来源**: ArXiv Abs
@@ -153,7 +150,7 @@
 
 ============================================================
 
-### 📄 Valori: A Deterministic Memory Substrate for AI Systems
+## 📄 Valori: A Deterministic Memory Substrate for AI Systems
 
 - **链接**: https://huggingface.co/papers/2512.22280
 - **阅读来源**: HTML
@@ -186,7 +183,7 @@
 
 ============================================================
 
-### 📄 BEDA: Belief Estimation as Probabilistic Constraints for Performing Strategic Dialogue Acts
+## 📄 BEDA: Belief Estimation as Probabilistic Constraints for Performing Strategic Dialogue Acts
 
 - **链接**: https://huggingface.co/papers/2512.24885
 - **阅读来源**: ArXiv Abs
@@ -222,7 +219,7 @@
 
 ============================================================
 
-### 📄 JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation
+## 📄 JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation
 
 - **链接**: https://huggingface.co/papers/2512.22905
 - **阅读来源**: HTML
@@ -253,7 +250,7 @@
 
 ============================================================
 
-### 📄 GR-Dexter Technical Report
+## 📄 GR-Dexter Technical Report
 
 - **链接**: https://huggingface.co/papers/2512.24210
 - **阅读来源**: HTML
@@ -280,7 +277,7 @@
 
 ============================================================
 
-### 📄 Pretraining Frame Preservation in Autoregressive Video Memory Compression
+## 📄 Pretraining Frame Preservation in Autoregressive Video Memory Compression
 
 - **链接**: https://huggingface.co/papers/2512.23851
 - **阅读来源**: HTML
@@ -315,7 +312,7 @@
 
 ============================================================
 
-### 📄 PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation
+## 📄 PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation
 
 - **链接**: https://huggingface.co/papers/2512.24551
 - **阅读来源**: HTML
@@ -354,7 +351,7 @@
 
 ============================================================
 
-### 📄 Figure It Out: Improving the Frontier of Reasoning with Active Visual Thinking
+## 📄 Figure It Out: Improving the Frontier of Reasoning with Active Visual Thinking
 
 - **链接**: https://huggingface.co/papers/2512.24297
 - **阅读来源**: HTML
@@ -398,7 +395,7 @@
 
 ============================================================
 
-### 📄 SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time
+## 📄 SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time
 
 - **链接**: https://huggingface.co/papers/2512.25075
 - **阅读来源**: HTML
@@ -441,7 +438,7 @@
 
 ============================================================
 
-### 📄 Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models
+## 📄 Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models
 
 - **链接**: https://huggingface.co/papers/2512.24618
 - **阅读来源**: HTML
@@ -477,7 +474,7 @@
 
 ============================================================
 
-### 📄 GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction
+## 📄 GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction
 
 - **链接**: https://huggingface.co/papers/2512.25073
 - **阅读来源**: HTML
@@ -516,7 +513,7 @@
 
 ============================================================
 
-### 📄 Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process
+## 📄 Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process
 
 - **链接**: https://huggingface.co/papers/2512.23988
 - **阅读来源**: HTML
@@ -551,7 +548,7 @@
 
 ============================================================
 
-### 📄 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems
+## 📄 Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems
 
 - **链接**: https://huggingface.co/papers/2512.24385
 - **阅读来源**: HTML
@@ -587,7 +584,7 @@
 
 ============================================================
 
-### 📄 Scaling Open-Ended Reasoning to Predict the Future
+## 📄 Scaling Open-Ended Reasoning to Predict the Future
 
 - **链接**: https://huggingface.co/papers/2512.25070
 - **阅读来源**: HTML
@@ -620,4 +617,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
