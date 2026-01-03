@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-03
 **Source URL**: https://huggingface.co/papers/date/2026-01-03
 
 ============================================================
 
-### 📄 Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling
+## 📄 Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling
 
 - **链接**: https://huggingface.co/papers/2512.23959
 - **阅读来源**: HTML
@@ -43,7 +40,7 @@
 
 ============================================================
 
-### 📄 FlowBlending: Stage-Aware Multi-Model Sampling for Fast and High-Fidelity Video Generation
+## 📄 FlowBlending: Stage-Aware Multi-Model Sampling for Fast and High-Fidelity Video Generation
 
 - **链接**: https://huggingface.co/papers/2512.24724
 - **阅读来源**: HTML
@@ -81,7 +78,7 @@
 
 ============================================================
 
-### 📄 TESO Tabu Enhanced Simulation Optimization for Noisy Black Box Problems
+## 📄 TESO Tabu Enhanced Simulation Optimization for Noisy Black Box Problems
 
 - **链接**: https://huggingface.co/papers/2512.24007
 - **阅读来源**: HTML
@@ -121,7 +118,7 @@
 
 ============================================================
 
-### 📄 Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space
+## 📄 Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space
 
 - **链接**: https://huggingface.co/papers/2512.24617
 - **阅读来源**: HTML
@@ -159,7 +156,7 @@
 
 ============================================================
 
-### 📄 DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models
+## 📄 DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2512.24165
 - **阅读来源**: HTML
@@ -192,7 +189,7 @@
 
 ============================================================
 
-### 📄 On the Role of Discreteness in Diffusion LLMs
+## 📄 On the Role of Discreteness in Diffusion LLMs
 
 - **链接**: https://huggingface.co/papers/2512.22630
 - **阅读来源**: HTML
@@ -228,7 +225,7 @@
 
 ============================================================
 
-### 📄 Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow
+## 📄 Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow
 
 - **链接**: https://huggingface.co/papers/2512.24766
 - **阅读来源**: ArXiv Abs
@@ -260,4 +257,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
