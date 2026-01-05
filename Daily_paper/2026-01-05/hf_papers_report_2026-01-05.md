@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-05
 **Source URL**: https://huggingface.co/papers/date/2026-01-05
 
 ============================================================
 
-### 📄 Nested Learning: The Illusion of Deep Learning Architectures
+## 📄 Nested Learning: The Illusion of Deep Learning Architectures
 
 - **链接**: https://huggingface.co/papers/2512.24695
 - **阅读来源**: ArXiv Abs
@@ -40,7 +37,7 @@
 
 ============================================================
 
-### 📄 NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos
+## 📄 NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos
 
 - **链接**: https://huggingface.co/papers/2601.00393
 - **阅读来源**: HTML
@@ -85,7 +82,7 @@
 
 ============================================================
 
-### 📄 Fast-weight Product Key Memory
+## 📄 Fast-weight Product Key Memory
 
 - **链接**: https://huggingface.co/papers/2601.00671
 - **阅读来源**: HTML
@@ -123,7 +120,7 @@
 
 ============================================================
 
-### 📄 Deep Delta Learning
+## 📄 Deep Delta Learning
 
 - **链接**: https://huggingface.co/papers/2601.00417
 - **阅读来源**: HTML
@@ -164,7 +161,7 @@
 
 ============================================================
 
-### 📄 AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction
+## 📄 AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction
 
 - **链接**: https://huggingface.co/papers/2601.00796
 - **阅读来源**: HTML
@@ -199,7 +196,7 @@
 
 ============================================================
 
-### 📄 MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
+## 📄 MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
 
 - **链接**: https://huggingface.co/papers/2601.00204
 - **阅读来源**: HTML
@@ -234,7 +231,7 @@
 
 ============================================================
 
-### 📄 InfoSynth: Information-Guided Benchmark Synthesis for LLMs
+## 📄 InfoSynth: Information-Guided Benchmark Synthesis for LLMs
 
 - **链接**: https://huggingface.co/papers/2601.00575
 - **阅读来源**: HTML
@@ -271,7 +268,7 @@
 
 ============================================================
 
-### 📄 Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation
+## 📄 Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation
 
 - **链接**: https://huggingface.co/papers/2512.24271
 - **阅读来源**: HTML
@@ -306,7 +303,7 @@
 
 ============================================================
 
-### 📄 Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation
+## 📄 Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation
 
 - **链接**: https://huggingface.co/papers/2601.00664
 - **阅读来源**: HTML
@@ -339,7 +336,7 @@
 
 ============================================================
 
-### 📄 SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning
+## 📄 SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2512.24330
 - **阅读来源**: HTML
@@ -371,7 +368,7 @@ SenseNova-MARS-8B 在多个基准测试中取得了 State-of-the-Art (SOTA) 的�
 
 ============================================================
 
-### 📄 Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization
+## 📄 Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2512.24615
 - **阅读来源**: HTML
@@ -411,4 +408,3 @@ SenseNova-MARS-8B 在多个基准测试中取得了 State-of-the-Art (SOTA) 的�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
