@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-06
 **Source URL**: https://huggingface.co/papers/date/2026-01-06
 
 ============================================================
 
-### 📄 VINO: A Unified Visual Generator with Interleaved OmniModal Context
+## 📄 VINO: A Unified Visual Generator with Interleaved OmniModal Context
 
 - **链接**: https://huggingface.co/papers/2601.02358
 - **阅读来源**: HTML
@@ -48,7 +45,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer
+## 📄 DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer
 
 - **链接**: https://huggingface.co/papers/2601.01425
 - **阅读来源**: ArXiv Abs
@@ -85,7 +82,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes
+## 📄 Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes
 
 - **链接**: https://huggingface.co/papers/2601.02356
 - **阅读来源**: HTML
@@ -123,7 +120,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents
+## 📄 Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents
 
 - **链接**: https://huggingface.co/papers/2601.02314
 - **阅读来源**: HTML
@@ -161,7 +158,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs
+## 📄 KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs
 
 - **链接**: https://huggingface.co/papers/2601.01046
 - **阅读来源**: HTML
@@ -196,7 +193,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion
+## 📄 Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion
 
 - **链接**: https://huggingface.co/papers/2512.23035
 - **阅读来源**: HTML
@@ -233,7 +230,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 K-EXAONE Technical Report
+## 📄 K-EXAONE Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.01739
 - **阅读来源**: HTML
@@ -264,7 +261,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 GARDO: Reinforcing Diffusion Models without Reward Hacking
+## 📄 GARDO: Reinforcing Diffusion Models without Reward Hacking
 
 - **链接**: https://huggingface.co/papers/2512.24138
 - **阅读来源**: HTML
@@ -308,7 +305,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 Recursive Language Models
+## 📄 Recursive Language Models
 
 - **链接**: https://huggingface.co/papers/2512.24601
 - **阅读来源**: HTML
@@ -349,7 +346,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 COMPASS: A Framework for Evaluating Organization-Specific Policy Alignment in LLMs
+## 📄 COMPASS: A Framework for Evaluating Organization-Specific Policy Alignment in LLMs
 
 - **链接**: https://huggingface.co/papers/2601.01836
 - **阅读来源**: HTML
@@ -388,7 +385,7 @@ VINO 在多个图像和视频生成及编辑基准上表现优异：
 
 ============================================================
 
-### 📄 Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling
+## 📄 Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling
 
 - **链接**: https://huggingface.co/papers/2601.02346
 - **阅读来源**: HTML
@@ -435,7 +432,7 @@ Falcon-H1R-7B 在多个核心推理基准上表现优异，经常击败参数量
 
 ============================================================
 
-### 📄 IMA++: ISIC Archive Multi-Annotator Dermoscopic Skin Lesion Segmentation Dataset
+## 📄 IMA++: ISIC Archive Multi-Annotator Dermoscopic Skin Lesion Segmentation Dataset
 
 - **链接**: https://huggingface.co/papers/2512.21472
 - **阅读来源**: HTML
@@ -467,7 +464,7 @@ Falcon-H1R-7B 在多个核心推理基准上表现优异，经常击败参数量
 
 ============================================================
 
-### 📄 OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment
+## 📄 OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment
 
 - **链接**: https://huggingface.co/papers/2601.01576
 - **阅读来源**: ArXiv Abs
@@ -502,7 +499,7 @@ Falcon-H1R-7B 在多个核心推理基准上表现优异，经常击败参数量
 
 ============================================================
 
-### 📄 VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation
+## 📄 VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation
 
 - **链接**: https://huggingface.co/papers/2601.02256
 - **阅读来源**: HTML
@@ -544,7 +541,7 @@ Falcon-H1R-7B 在多个核心推理基准上表现优异，经常击败参数量
 
 ============================================================
 
-### 📄 NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation
+## 📄 NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation
 
 - **链接**: https://huggingface.co/papers/2601.02204
 - **阅读来源**: HTML
@@ -580,7 +577,7 @@ Falcon-H1R-7B 在多个核心推理基准上表现优异，经常击败参数量
 
 ============================================================
 
-### 📄 Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits
+## 📄 Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits
 
 - **链接**: https://huggingface.co/papers/2512.20578
 - **阅读来源**: HTML
@@ -615,4 +612,3 @@ Falcon-H1R-7B 在多个核心推理基准上表现优异，经常击败参数量
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
