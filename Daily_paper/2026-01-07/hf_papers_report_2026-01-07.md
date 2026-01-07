@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-07
 **Source URL**: https://huggingface.co/papers/date/2026-01-07
 
 ============================================================
 
-### 📄 WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks
+## 📄 WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks
 
 - **链接**: https://huggingface.co/papers/2601.02439
 - **阅读来源**: HTML
@@ -40,7 +37,7 @@
 
 ============================================================
 
-### 📄 MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization
+## 📄 MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization
 
 - **链接**: https://huggingface.co/papers/2601.01554
 - **阅读来源**: ArXiv Abs
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision
+## 📄 UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision
 
 - **链接**: https://huggingface.co/papers/2601.03193
 - **阅读来源**: HTML
@@ -103,7 +100,7 @@
 
 ============================================================
 
-### 📄 DreamStyle: A Unified Framework for Video Stylization
+## 📄 DreamStyle: A Unified Framework for Video Stylization
 
 - **链接**: https://huggingface.co/papers/2601.02785
 - **阅读来源**: HTML
@@ -131,7 +128,7 @@
 
 ============================================================
 
-### 📄 SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence
+## 📄 SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence
 
 - **链接**: https://huggingface.co/papers/2512.22334
 - **阅读来源**: ArXiv Abs
@@ -163,7 +160,7 @@
 
 ============================================================
 
-### 📄 FFP-300K: Scaling First-Frame Propagation for Generalizable Video Editing
+## 📄 FFP-300K: Scaling First-Frame Propagation for Generalizable Video Editing
 
 - **链接**: https://huggingface.co/papers/2601.01720
 - **阅读来源**: HTML
@@ -206,7 +203,7 @@
 
 ============================================================
 
-### 📄 InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields
+## 📄 InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields
 
 - **链接**: https://huggingface.co/papers/2601.03252
 - **阅读来源**: HTML
@@ -245,7 +242,7 @@
 
 ============================================================
 
-### 📄 MiMo-V2-Flash Technical Report
+## 📄 MiMo-V2-Flash Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.02780
 - **阅读来源**: HTML
@@ -278,7 +275,7 @@
 
 ============================================================
 
-### 📄 SOP: A Scalable Online Post-Training System for Vision-Language-Action Models
+## 📄 SOP: A Scalable Online Post-Training System for Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2601.03044
 - **阅读来源**: HTML
@@ -317,7 +314,7 @@
 
 ============================================================
 
-### 📄 Steerability of Instrumental-Convergence Tendencies in LLMs
+## 📄 Steerability of Instrumental-Convergence Tendencies in LLMs
 
 - **链接**: https://huggingface.co/papers/2601.01584
 - **阅读来源**: HTML
@@ -352,7 +349,7 @@
 
 ============================================================
 
-### 📄 CogFlow: Bridging Perception and Reasoning through Knowledge Internalization for Visual Mathematical Problem Solving
+## 📄 CogFlow: Bridging Perception and Reasoning through Knowledge Internalization for Visual Mathematical Problem Solving
 
 - **链接**: https://huggingface.co/papers/2601.01874
 - **阅读来源**: HTML
@@ -384,7 +381,7 @@
 
 ============================================================
 
-### 📄 Parallel Latent Reasoning for Sequential Recommendation
+## 📄 Parallel Latent Reasoning for Sequential Recommendation
 
 - **链接**: https://huggingface.co/papers/2601.03153
 - **阅读来源**: HTML
@@ -421,7 +418,7 @@
 
 ============================================================
 
-### 📄 X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-consulted Explanation Framework
+## 📄 X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-consulted Explanation Framework
 
 - **链接**: https://huggingface.co/papers/2601.03194
 - **阅读来源**: HTML
@@ -462,7 +459,7 @@
 
 ============================================================
 
-### 📄 LTX-2: Efficient Joint Audio-Visual Foundation Model
+## 📄 LTX-2: Efficient Joint Audio-Visual Foundation Model
 
 - **链接**: https://huggingface.co/papers/2601.03233
 - **阅读来源**: HTML
@@ -500,7 +497,7 @@
 
 ============================================================
 
-### 📄 OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs
+## 📄 OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs
 
 - **链接**: https://huggingface.co/papers/2601.01592
 - **阅读来源**: HTML
@@ -537,7 +534,7 @@
 
 ============================================================
 
-### 📄 NitroGen: An Open Foundation Model for Generalist Gaming Agents
+## 📄 NitroGen: An Open Foundation Model for Generalist Gaming Agents
 
 - **链接**: https://huggingface.co/papers/2601.02427
 - **阅读来源**: HTML
@@ -570,7 +567,7 @@
 
 ============================================================
 
-### 📄 The Sonar Moment: Benchmarking Audio-Language Models in Audio Geo-Localization
+## 📄 The Sonar Moment: Benchmarking Audio-Language Models in Audio Geo-Localization
 
 - **链接**: https://huggingface.co/papers/2601.03227
 - **阅读来源**: HTML
@@ -604,4 +601,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
