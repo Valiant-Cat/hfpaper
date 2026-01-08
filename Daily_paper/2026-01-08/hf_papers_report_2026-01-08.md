@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-08
 **Source URL**: https://huggingface.co/papers/date/2026-01-08
 
 ============================================================
 
-### 📄 MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents
+## 📄 MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents
 
 - **链接**: https://huggingface.co/papers/2601.03236
 - **阅读来源**: HTML
@@ -44,7 +41,7 @@
 
 ============================================================
 
-### 📄 Choreographing a World of Dynamic Objects
+## 📄 Choreographing a World of Dynamic Objects
 
 - **链接**: https://huggingface.co/papers/2601.04194
 - **阅读来源**: HTML
@@ -89,7 +86,7 @@
 
 ============================================================
 
-### 📄 E-GRPO: High Entropy Steps Drive Effective Reinforcement Learning for Flow Models
+## 📄 E-GRPO: High Entropy Steps Drive Effective Reinforcement Learning for Flow Models
 
 - **链接**: https://huggingface.co/papers/2601.00423
 - **阅读来源**: HTML
@@ -124,7 +121,7 @@
 
 ============================================================
 
-### 📄 Agentic Rubrics as Contextual Verifiers for SWE Agents
+## 📄 Agentic Rubrics as Contextual Verifiers for SWE Agents
 
 - **链接**: https://huggingface.co/papers/2601.04171
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@
 
 ============================================================
 
-### 📄 Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning
+## 📄 Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.03872
 - **阅读来源**: HTML
@@ -196,7 +193,7 @@
 
 ============================================================
 
-### 📄 EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning
+## 📄 EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.03471
 - **阅读来源**: HTML
@@ -231,7 +228,7 @@
 
 ============================================================
 
-### 📄 Benchmark^2: Systematic Evaluation of LLM Benchmarks
+## 📄 Benchmark^2: Systematic Evaluation of LLM Benchmarks
 
 - **链接**: https://huggingface.co/papers/2601.03986
 - **阅读来源**: HTML
@@ -265,7 +262,7 @@
 
 ============================================================
 
-### 📄 MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics
+## 📄 MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics
 
 - **链接**: https://huggingface.co/papers/2601.02075
 - **阅读来源**: HTML
@@ -297,7 +294,7 @@
 
 ============================================================
 
-### 📄 Klear: Unified Multi-Task Audio-Video Joint Generation
+## 📄 Klear: Unified Multi-Task Audio-Video Joint Generation
 
 - **链接**: https://huggingface.co/papers/2601.04151
 - **阅读来源**: HTML
@@ -344,7 +341,7 @@
 
 ============================================================
 
-### 📄 ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing
+## 📄 ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing
 
 - **链接**: https://huggingface.co/papers/2601.03467
 - **阅读来源**: HTML
@@ -384,7 +381,7 @@
 
 ============================================================
 
-### 📄 Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting
+## 📄 Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting
 
 - **链接**: https://huggingface.co/papers/2601.02151
 - **阅读来源**: HTML
@@ -424,7 +421,7 @@
 
 ============================================================
 
-### 📄 RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models
+## 📄 RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.03699
 - **阅读来源**: HTML
@@ -460,4 +457,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
