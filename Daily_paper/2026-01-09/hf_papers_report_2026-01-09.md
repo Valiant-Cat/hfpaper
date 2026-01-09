@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-09
 **Source URL**: https://huggingface.co/papers/date/2026-01-09
 
 ============================================================
 
-### 📄 Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach
+## 📄 Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach
 
 - **链接**: https://huggingface.co/papers/2601.02016
 - **阅读来源**: HTML
@@ -46,7 +43,7 @@
 
 ============================================================
 
-### 📄 Plenoptic Video Generation
+## 📄 Plenoptic Video Generation
 
 - **链接**: https://huggingface.co/papers/2601.05239
 - **阅读来源**: HTML
@@ -81,7 +78,7 @@
 
 ============================================================
 
-### 📄 VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice
+## 📄 VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice
 
 - **链接**: https://huggingface.co/papers/2601.05175
 - **阅读来源**: HTML
@@ -125,7 +122,7 @@
 
 ============================================================
 
-### 📄 Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers
+## 📄 Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers
 
 - **链接**: https://huggingface.co/papers/2601.04890
 - **阅读来源**: HTML
@@ -163,7 +160,7 @@
 
 ============================================================
 
-### 📄 Agent-as-a-Judge
+## 📄 Agent-as-a-Judge
 
 - **链接**: https://huggingface.co/papers/2601.05111
 - **阅读来源**: HTML
@@ -203,7 +200,7 @@
 
 ============================================================
 
-### 📄 RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes
+## 📄 RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes
 
 - **链接**: https://huggingface.co/papers/2601.05249
 - **阅读来源**: HTML
@@ -236,7 +233,7 @@
 
 ============================================================
 
-### 📄 The Illusion of Specialization: Unveiling the Domain-Invariant "Standing Committee" in Mixture-of-Experts Models
+## 📄 The Illusion of Specialization: Unveiling the Domain-Invariant "Standing Committee" in Mixture-of-Experts Models
 
 - **链接**: https://huggingface.co/papers/2601.03425
 - **阅读来源**: HTML
@@ -271,7 +268,7 @@
 
 ============================================================
 
-### 📄 GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
+## 📄 GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 - **链接**: https://huggingface.co/papers/2601.05242
 - **阅读来源**: HTML
@@ -310,7 +307,7 @@ GDPO 在工具调用、数学推理和代码推理三个任务上均显著优于
 
 ============================================================
 
-### 📄 DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs
+## 📄 DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs
 
 - **链接**: https://huggingface.co/papers/2601.03559
 - **阅读来源**: HTML
@@ -346,7 +343,7 @@ GDPO 在工具调用、数学推理和代码推理三个任务上均显著优于
 
 ============================================================
 
-### 📄 DocDancer: Towards Agentic Document-Grounded Information Seeking
+## 📄 DocDancer: Towards Agentic Document-Grounded Information Seeking
 
 - **链接**: https://huggingface.co/papers/2601.05163
 - **阅读来源**: HTML
@@ -386,7 +383,7 @@ GDPO 在工具调用、数学推理和代码推理三个任务上均显著优于
 
 ============================================================
 
-### 📄 Token-Level LLM Collaboration via FusionRoute
+## 📄 Token-Level LLM Collaboration via FusionRoute
 
 - **链接**: https://huggingface.co/papers/2601.05106
 - **阅读来源**: HTML
@@ -421,7 +418,7 @@ GDPO 在工具调用、数学推理和代码推理三个任务上均显著优于
 
 ============================================================
 
-### 📄 Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views
+## 📄 Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views
 
 - **链接**: https://huggingface.co/papers/2601.03362
 - **阅读来源**: ArXiv Abs
@@ -453,7 +450,7 @@ GDPO 在工具调用、数学推理和代码推理三个任务上均显著优于
 
 ============================================================
 
-### 📄 RelayLLM: Efficient Reasoning via Collaborative Decoding
+## 📄 RelayLLM: Efficient Reasoning via Collaborative Decoding
 
 - **链接**: https://huggingface.co/papers/2601.05167
 - **阅读来源**: HTML
@@ -492,7 +489,7 @@ GDPO 在工具调用、数学推理和代码推理三个任务上均显著优于
 
 ============================================================
 
-### 📄 Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset
+## 📄 Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset
 
 - **链接**: https://huggingface.co/papers/2512.24160
 - **阅读来源**: HTML
@@ -531,7 +528,7 @@ GDPO 在工具调用、数学推理和代码推理三个任务上均显著优于
 
 ============================================================
 
-### 📄 VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control
+## 📄 VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control
 
 - **链接**: https://huggingface.co/papers/2601.05138
 - **阅读来源**: HTML
@@ -574,7 +571,7 @@ GDPO 在工具调用、数学推理和代码推理三个任务上均显著优于
 
 ============================================================
 
-### 📄 AT^2PO: Agentic Turn-based Policy Optimization via Tree Search
+## 📄 AT^2PO: Agentic Turn-based Policy Optimization via Tree Search
 
 - **链接**: https://huggingface.co/papers/2601.04767
 - **阅读来源**: HTML
@@ -610,7 +607,7 @@ GDPO 在工具调用、数学推理和代码推理三个任务上均显著优于
 
 ============================================================
 
-### 📄 Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance
+## 📄 Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance
 
 - **链接**: https://huggingface.co/papers/2601.01887
 - **阅读来源**: ArXiv Abs
@@ -642,7 +639,7 @@ NLP-大模型安全与对齐（Large Model Safety Alignment & Fine-tuning）
 
 ============================================================
 
-### 📄 Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing
+## 📄 Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing
 
 - **链接**: https://huggingface.co/papers/2601.05124
 - **阅读来源**: HTML
@@ -681,7 +678,7 @@ NLP-大模型安全与对齐（Large Model Safety Alignment & Fine-tuning）
 
 ============================================================
 
-### 📄 Memorization in 3D Shape Generation: An Empirical Study
+## 📄 Memorization in 3D Shape Generation: An Empirical Study
 
 - **链接**: https://huggingface.co/papers/2512.23628
 - **阅读来源**: HTML
@@ -715,7 +712,7 @@ NLP-大模型安全与对齐（Large Model Safety Alignment & Fine-tuning）
 
 ============================================================
 
-### 📄 RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation
+## 📄 RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation
 
 - **链接**: https://huggingface.co/papers/2601.05241
 - **阅读来源**: HTML
@@ -749,4 +746,3 @@ NLP-大模型安全与对齐（Large Model Safety Alignment & Fine-tuning）
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
