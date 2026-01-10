@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-10
 **Source URL**: https://huggingface.co/papers/date/2026-01-10
 
 ============================================================
 
-### 📄 Agent-as-a-Judge
+## 📄 Agent-as-a-Judge
 
 - **链接**: https://huggingface.co/papers/2601.05111
 - **阅读来源**: HTML
@@ -44,7 +41,7 @@
 
 ============================================================
 
-### 📄 RelayLLM: Efficient Reasoning via Collaborative Decoding
+## 📄 RelayLLM: Efficient Reasoning via Collaborative Decoding
 
 - **链接**: https://huggingface.co/papers/2601.05167
 - **阅读来源**: HTML
@@ -78,7 +75,7 @@
 
 ============================================================
 
-### 📄 Learning User Preferences Through Interaction for Long-Term Collaboration
+## 📄 Learning User Preferences Through Interaction for Long-Term Collaboration
 
 - **链接**: https://huggingface.co/papers/2601.02702
 - **阅读来源**: HTML
@@ -116,7 +113,7 @@
 
 ============================================================
 
-### 📄 VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control
+## 📄 VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control
 
 - **链接**: https://huggingface.co/papers/2601.05138
 - **阅读来源**: HTML
@@ -156,7 +153,7 @@
 
 ============================================================
 
-### 📄 CoV: Chain-of-View Prompting for Spatial Reasoning
+## 📄 CoV: Chain-of-View Prompting for Spatial Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.05172
 - **阅读来源**: HTML
@@ -196,7 +193,7 @@
 
 ============================================================
 
-### 📄 Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes
+## 📄 Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes
 
 - **链接**: https://huggingface.co/papers/2601.04300
 - **阅读来源**: HTML
@@ -235,7 +232,7 @@
 
 ============================================================
 
-### 📄 LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models
+## 📄 LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models
 
 - **链接**: https://huggingface.co/papers/2601.04233
 - **阅读来源**: HTML
@@ -268,7 +265,7 @@
 
 ============================================================
 
-### 📄 RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes
+## 📄 RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes
 
 - **链接**: https://huggingface.co/papers/2601.05249
 - **阅读来源**: HTML
@@ -306,7 +303,7 @@
 
 ============================================================
 
-### 📄 Token-Level LLM Collaboration via FusionRoute
+## 📄 Token-Level LLM Collaboration via FusionRoute
 
 - **链接**: https://huggingface.co/papers/2601.05106
 - **阅读来源**: HTML
@@ -341,7 +338,7 @@
 
 ============================================================
 
-### 📄 VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding
+## 📄 VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding
 
 - **链接**: https://huggingface.co/papers/2601.05125
 - **阅读来源**: HTML
@@ -382,7 +379,7 @@
 
 ============================================================
 
-### 📄 Memorization in 3D Shape Generation: An Empirical Study
+## 📄 Memorization in 3D Shape Generation: An Empirical Study
 
 - **链接**: https://huggingface.co/papers/2512.23628
 - **阅读来源**: HTML
@@ -416,7 +413,7 @@
 
 ============================================================
 
-### 📄 Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach
+## 📄 Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach
 
 - **链接**: https://huggingface.co/papers/2601.02016
 - **阅读来源**: HTML
@@ -456,7 +453,7 @@
 
 ============================================================
 
-### 📄 GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
+## 📄 GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
 
 - **链接**: https://huggingface.co/papers/2601.05242
 - **阅读来源**: HTML
@@ -499,7 +496,7 @@ GDPO 在工具调用、数学推理和代码生成三个不同领域的任务中
 
 ============================================================
 
-### 📄 One Sample to Rule Them All: Extreme Data Efficiency in RL Scaling
+## 📄 One Sample to Rule Them All: Extreme Data Efficiency in RL Scaling
 
 - **链接**: https://huggingface.co/papers/2601.03111
 - **阅读来源**: HTML
@@ -537,7 +534,7 @@ GDPO 在工具调用、数学推理和代码生成三个不同领域的任务中
 
 ============================================================
 
-### 📄 Multi-Scale Local Speculative Decoding for Image Generation
+## 📄 Multi-Scale Local Speculative Decoding for Image Generation
 
 - **链接**: https://huggingface.co/papers/2601.05149
 - **阅读来源**: HTML
@@ -575,7 +572,7 @@ GDPO 在工具调用、数学推理和代码生成三个不同领域的任务中
 
 ============================================================
 
-### 📄 Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers
+## 📄 Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers
 
 - **链接**: https://huggingface.co/papers/2601.04890
 - **阅读来源**: HTML
@@ -615,7 +612,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 The Illusion of Specialization: Unveiling the Domain-Invariant "Standing Committee" in Mixture-of-Experts Models
+## 📄 The Illusion of Specialization: Unveiling the Domain-Invariant "Standing Committee" in Mixture-of-Experts Models
 
 - **链接**: https://huggingface.co/papers/2601.03425
 - **阅读来源**: HTML
@@ -653,7 +650,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 DocDancer: Towards Agentic Document-Grounded Information Seeking
+## 📄 DocDancer: Towards Agentic Document-Grounded Information Seeking
 
 - **链接**: https://huggingface.co/papers/2601.05163
 - **阅读来源**: HTML
@@ -693,7 +690,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers
+## 📄 ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2601.04342
 - **阅读来源**: HTML
@@ -728,7 +725,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset
+## 📄 Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset
 
 - **链接**: https://huggingface.co/papers/2512.24160
 - **阅读来源**: HTML
@@ -766,7 +763,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice
+## 📄 VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice
 
 - **链接**: https://huggingface.co/papers/2601.05175
 - **阅读来源**: HTML
@@ -812,7 +809,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting
+## 📄 ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting
 
 - **链接**: https://huggingface.co/papers/2601.04754
 - **阅读来源**: HTML
@@ -844,7 +841,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 AT^2PO: Agentic Turn-based Policy Optimization via Tree Search
+## 📄 AT^2PO: Agentic Turn-based Policy Optimization via Tree Search
 
 - **链接**: https://huggingface.co/papers/2601.04767
 - **阅读来源**: HTML
@@ -878,7 +875,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 Plenoptic Video Generation
+## 📄 Plenoptic Video Generation
 
 - **链接**: https://huggingface.co/papers/2601.05239
 - **阅读来源**: HTML
@@ -908,7 +905,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation
+## 📄 RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation
 
 - **链接**: https://huggingface.co/papers/2601.05241
 - **阅读来源**: HTML
@@ -957,7 +954,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views
+## 📄 Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views
 
 - **链接**: https://huggingface.co/papers/2601.03362
 - **阅读来源**: ArXiv Abs
@@ -988,7 +985,7 @@ NLP - 大语言模型预训练（LLM Pretraining）与优化算法
 
 ============================================================
 
-### 📄 DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs
+## 📄 DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs
 
 - **链接**: https://huggingface.co/papers/2601.03559
 - **阅读来源**: HTML
@@ -1024,7 +1021,7 @@ DiffCoT 提出了一种基于扩散模型风格的思维链（CoT）推理框架
 
 ============================================================
 
-### 📄 Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance
+## 📄 Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance
 
 - **链接**: https://huggingface.co/papers/2601.01887
 - **阅读来源**: ArXiv Abs
@@ -1060,7 +1057,7 @@ DiffCoT 提出了一种基于扩散模型风格的思维链（CoT）推理框架
 
 ============================================================
 
-### 📄 Few Tokens Matter: Entropy Guided Attacks on Vision-Language Models
+## 📄 Few Tokens Matter: Entropy Guided Attacks on Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2512.21815
 - **阅读来源**: HTML
@@ -1096,7 +1093,7 @@ DiffCoT 提出了一种基于扩散模型风格的思维链（CoT）推理框架
 
 ============================================================
 
-### 📄 PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference
+## 📄 PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference
 
 - **链接**: https://huggingface.co/papers/2601.04792
 - **阅读来源**: HTML
@@ -1132,7 +1129,7 @@ DiffCoT 提出了一种基于扩散模型风格的思维链（CoT）推理框架
 
 ============================================================
 
-### 📄 Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing
+## 📄 Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing
 
 - **链接**: https://huggingface.co/papers/2601.05124
 - **阅读来源**: HTML
@@ -1174,7 +1171,7 @@ DiffCoT 提出了一种基于扩散模型风格的思维链（CoT）推理框架
 
 ============================================================
 
-### 📄 Scaling Behavior Cloning Improves Causal Reasoning: An Open Model for Real-Time Video Game Playing
+## 📄 Scaling Behavior Cloning Improves Causal Reasoning: An Open Model for Real-Time Video Game Playing
 
 - **链接**: https://huggingface.co/papers/2601.04575
 - **阅读来源**: HTML
@@ -1206,7 +1203,7 @@ DiffCoT 提出了一种基于扩散模型风格的思维链（CoT）推理框架
 
 ============================================================
 
-### 📄 AgentDevel: Reframing Self-Evolving LLM Agents as Release Engineering
+## 📄 AgentDevel: Reframing Self-Evolving LLM Agents as Release Engineering
 
 - **链接**: https://huggingface.co/papers/2601.04620
 - **阅读来源**: HTML
@@ -1251,4 +1248,3 @@ DiffCoT 提出了一种基于扩散模型风格的思维链（CoT）推理框架
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
