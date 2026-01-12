@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-12
 **Source URL**: https://huggingface.co/papers/date/2026-01-12
 
 ============================================================
 
-### 📄 Distilling Feedback into Memory-as-a-Tool
+## 📄 Distilling Feedback into Memory-as-a-Tool
 
 - **链接**: https://huggingface.co/papers/2601.05960
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@ NLP - 大语言模型智能体 (LLM Agents)、持续学习 (Continual Learning)�
 
 ============================================================
 
-### 📄 Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards
+## 📄 Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards
 
 - **链接**: https://huggingface.co/papers/2601.06021
 - **阅读来源**: HTML
@@ -72,7 +69,7 @@ NLP - 大语言模型智能体 (LLM Agents)、持续学习 (Continual Learning)�
 
 ============================================================
 
-### 📄 CaricatureGS: Exaggerating 3D Gaussian Splatting Faces With Gaussian Curvature
+## 📄 CaricatureGS: Exaggerating 3D Gaussian Splatting Faces With Gaussian Curvature
 
 - **链接**: https://huggingface.co/papers/2601.03319
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ NLP - 大语言模型智能体 (LLM Agents)、持续学习 (Continual Learning)�
 
 ============================================================
 
-### 📄 Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs
+## 📄 Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs
 
 - **链接**: https://huggingface.co/papers/2601.05851
 - **阅读来源**: HTML
@@ -138,7 +135,7 @@ NLP - 大语言模型智能体 (LLM Agents)、持续学习 (Continual Learning)�
 
 ============================================================
 
-### 📄 SmartSearch: Process Reward-Guided Query Refinement for Search Agents
+## 📄 SmartSearch: Process Reward-Guided Query Refinement for Search Agents
 
 - **链接**: https://huggingface.co/papers/2601.04888
 - **阅读来源**: HTML
@@ -175,7 +172,7 @@ NLP - 大语言模型智能体 (LLM Agents)、持续学习 (Continual Learning)�
 
 ============================================================
 
-### 📄 AgentOCR: Reimagining Agent History via Optical Self-Compression
+## 📄 AgentOCR: Reimagining Agent History via Optical Self-Compression
 
 - **链接**: https://huggingface.co/papers/2601.04786
 - **阅读来源**: HTML
@@ -218,7 +215,7 @@ NLP - 大语言模型智能体 (LLM Agents)、持续学习 (Continual Learning)�
 
 ============================================================
 
-### 📄 Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning
+## 📄 Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.04726
 - **阅读来源**: HTML
@@ -252,7 +249,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 GenCtrl -- A Formal Controllability Toolkit for Generative Models
+## 📄 GenCtrl -- A Formal Controllability Toolkit for Generative Models
 
 - **链接**: https://huggingface.co/papers/2601.05637
 - **阅读来源**: HTML
@@ -295,7 +292,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency
+## 📄 Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency
 
 - **链接**: https://huggingface.co/papers/2601.05905
 - **阅读来源**: HTML
@@ -332,7 +329,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 AnyDepth: Depth Estimation Made Easy
+## 📄 AnyDepth: Depth Estimation Made Easy
 
 - **链接**: https://huggingface.co/papers/2601.02760
 - **阅读来源**: HTML
@@ -364,7 +361,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction
+## 📄 VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction
 
 - **链接**: https://huggingface.co/papers/2601.05966
 - **阅读来源**: HTML
@@ -401,7 +398,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis
+## 📄 EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis
 
 - **链接**: https://huggingface.co/papers/2601.05808
 - **阅读来源**: HTML
@@ -438,7 +435,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization
+## 📄 Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization
 
 - **链接**: https://huggingface.co/papers/2601.05432
 - **阅读来源**: HTML
@@ -477,7 +474,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 Orient Anything V2: Unifying Orientation and Rotation Understanding
+## 📄 Orient Anything V2: Unifying Orientation and Rotation Understanding
 
 - **链接**: https://huggingface.co/papers/2601.05573
 - **阅读来源**: HTML
@@ -513,7 +510,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 Over-Searching in Search-Augmented Large Language Models
+## 📄 Over-Searching in Search-Augmented Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.05503
 - **阅读来源**: HTML
@@ -549,7 +546,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck
+## 📄 IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck
 
 - **链接**: https://huggingface.co/papers/2601.05870
 - **阅读来源**: HTML
@@ -589,7 +586,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 Can We Predict Before Executing Machine Learning Agents?
+## 📄 Can We Predict Before Executing Machine Learning Agents?
 
 - **链接**: https://huggingface.co/papers/2601.05930
 - **阅读来源**: HTML
@@ -623,7 +620,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning
+## 📄 The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.06002
 - **阅读来源**: HTML
@@ -658,7 +655,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals
+## 📄 Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals
 
 - **链接**: https://huggingface.co/papers/2601.05848
 - **阅读来源**: HTML
@@ -694,7 +691,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking
+## 📄 Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking
 
 - **链接**: https://huggingface.co/papers/2601.04720
 - **阅读来源**: ArXiv Abs
@@ -728,7 +725,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation
+## 📄 DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation
 
 - **链接**: https://huggingface.co/papers/2601.04823
 - **阅读来源**: HTML
@@ -765,7 +762,7 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 ============================================================
 
-### 📄 MMFormalizer: Multimodal Autoformalization in the Wild
+## 📄 MMFormalizer: Multimodal Autoformalization in the Wild
 
 - **链接**: https://huggingface.co/papers/2601.03017
 - **阅读来源**: HTML
@@ -802,4 +799,3 @@ NLP - 大语言模型智能体（LLM Agents）、长上下文记忆与推理（L
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
