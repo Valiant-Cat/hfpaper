@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-13
 **Source URL**: https://huggingface.co/papers/date/2026-01-13
 
 ============================================================
 
-### 📄 GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts
+## 📄 GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts
 
 - **链接**: https://huggingface.co/papers/2601.05110
 - **阅读来源**: HTML
@@ -43,7 +40,7 @@
 
 ============================================================
 
-### 📄 Boosting Latent Diffusion Models via Disentangled Representation Alignment
+## 📄 Boosting Latent Diffusion Models via Disentangled Representation Alignment
 
 - **链接**: https://huggingface.co/papers/2601.05823
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@
 
 ============================================================
 
-### 📄 OpenTinker: Separating Concerns in Agentic Reinforcement Learning
+## 📄 OpenTinker: Separating Concerns in Agentic Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2601.07376
 - **阅读来源**: HTML
@@ -112,7 +109,7 @@ OpenTinker 提出了一个开源的、模块化的“强化学习即服务”（
 
 ============================================================
 
-### 📄 X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests
+## 📄 X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests
 
 - **链接**: https://huggingface.co/papers/2601.06953
 - **阅读来源**: HTML
@@ -145,7 +142,7 @@ OpenTinker 提出了一个开源的、模块化的“强化学习即服务”（
 
 ============================================================
 
-### 📄 What Users Leave Unsaid: Under-Specified Queries Limit Vision-Language Models
+## 📄 What Users Leave Unsaid: Under-Specified Queries Limit Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2601.06165
 - **阅读来源**: HTML
@@ -183,7 +180,7 @@ OpenTinker 提出了一个开源的、模块化的“强化学习即服务”（
 
 ============================================================
 
-### 📄 e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings
+## 📄 e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings
 
 - **链接**: https://huggingface.co/papers/2601.03666
 - **阅读来源**: HTML
@@ -215,7 +212,7 @@ OpenTinker 提出了一个开源的、模块化的“强化学习即服务”（
 
 ============================================================
 
-### 📄 PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning
+## 📄 PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.05593
 - **阅读来源**: HTML
@@ -248,7 +245,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 Are LLM Decisions Faithful to Verbal Confidence?
+## 📄 Are LLM Decisions Faithful to Verbal Confidence?
 
 - **链接**: https://huggingface.co/papers/2601.07767
 - **阅读来源**: HTML
@@ -282,7 +279,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving
+## 📄 DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving
 
 - **链接**: https://huggingface.co/papers/2601.01528
 - **阅读来源**: HTML
@@ -317,7 +314,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 ShowUI-Aloha: Human-Taught GUI Agent
+## 📄 ShowUI-Aloha: Human-Taught GUI Agent
 
 - **链接**: https://huggingface.co/papers/2601.07181
 - **阅读来源**: HTML
@@ -356,7 +353,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 SketchJudge: A Diagnostic Benchmark for Grading Hand-drawn Diagrams with Multimodal Large Language Models
+## 📄 SketchJudge: A Diagnostic Benchmark for Grading Hand-drawn Diagrams with Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.06944
 - **阅读来源**: HTML
@@ -392,7 +389,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence
+## 📄 3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence
 
 - **链接**: https://huggingface.co/papers/2601.06496
 - **阅读来源**: HTML
@@ -440,7 +437,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 "TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt
+## 📄 "TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt
 
 - **链接**: https://huggingface.co/papers/2601.07786
 - **阅读来源**: HTML
@@ -469,7 +466,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 BabyVision: Visual Reasoning Beyond Language
+## 📄 BabyVision: Visual Reasoning Beyond Language
 
 - **链接**: https://huggingface.co/papers/2601.06521
 - **阅读来源**: HTML
@@ -506,7 +503,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 Structured Episodic Event Memory
+## 📄 Structured Episodic Event Memory
 
 - **链接**: https://huggingface.co/papers/2601.06411
 - **阅读来源**: HTML
@@ -552,7 +549,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 Codified Foreshadowing-Payoff Text Generation
+## 📄 Codified Foreshadowing-Payoff Text Generation
 
 - **链接**: https://huggingface.co/papers/2601.07033
 - **阅读来源**: HTML
@@ -598,7 +595,7 @@ PaCoRe 提出了一种并行协调推理框架，通过基于结果的强化学�
 
 ============================================================
 
-### 📄 Dr. Zero: Self-Evolving Search Agents without Training Data
+## 📄 Dr. Zero: Self-Evolving Search Agents without Training Data
 
 - **链接**: https://huggingface.co/papers/2601.07055
 - **阅读来源**: ArXiv Abs
@@ -632,7 +629,7 @@ NLP-大语言模型智能体（LLM Agents）、多步推理与搜索（Multi-ste
 
 ============================================================
 
-### 📄 TourPlanner: A Competitive Consensus Framework with Constraint-Gated Reinforcement Learning for Travel Planning
+## 📄 TourPlanner: A Competitive Consensus Framework with Constraint-Gated Reinforcement Learning for Travel Planning
 
 - **链接**: https://huggingface.co/papers/2601.04698
 - **阅读来源**: HTML
@@ -666,7 +663,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 复杂任务规划 (Complex Task P
 
 ============================================================
 
-### 📄 OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent
+## 📄 OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent
 
 - **链接**: https://huggingface.co/papers/2601.07779
 - **阅读来源**: HTML
@@ -699,7 +696,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 复杂任务规划 (Complex Task P
 
 ============================================================
 
-### 📄 On the Fallacy of Global Token Perplexity in Spoken Language Model Evaluation
+## 📄 On the Fallacy of Global Token Perplexity in Spoken Language Model Evaluation
 
 - **链接**: https://huggingface.co/papers/2601.06329
 - **阅读来源**: HTML
@@ -733,7 +730,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 复杂任务规划 (Complex Task P
 
 ============================================================
 
-### 📄 Lost in the Noise: How Reasoning Models Fail with Contextual Distractors
+## 📄 Lost in the Noise: How Reasoning Models Fail with Contextual Distractors
 
 - **链接**: https://huggingface.co/papers/2601.07226
 - **阅读来源**: HTML
@@ -767,7 +764,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 复杂任务规划 (Complex Task P
 
 ============================================================
 
-### 📄 ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration
+## 📄 ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration
 
 - **链接**: https://huggingface.co/papers/2601.06860
 - **阅读来源**: HTML
@@ -802,7 +799,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 复杂任务规划 (Complex Task P
 
 ============================================================
 
-### 📄 MegaFlow: Large-Scale Distributed Orchestration System for the Agentic Era
+## 📄 MegaFlow: Large-Scale Distributed Orchestration System for the Agentic Era
 
 - **链接**: https://huggingface.co/papers/2601.07526
 - **阅读来源**: HTML
@@ -835,7 +832,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 复杂任务规划 (Complex Task P
 
 ============================================================
 
-### 📄 Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction
+## 📄 Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction
 
 - **链接**: https://huggingface.co/papers/2601.05107
 - **阅读来源**: HTML
@@ -865,7 +862,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 复杂任务规划 (Complex Task P
 
 ============================================================
 
-### 📄 Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning
+## 📄 Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.06943
 - **阅读来源**: HTML
@@ -900,4 +897,3 @@ NLP - 大语言模型智能体 (LLM Agents) / 复杂任务规划 (Complex Task P
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
