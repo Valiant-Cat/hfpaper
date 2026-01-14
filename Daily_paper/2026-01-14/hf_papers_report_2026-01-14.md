@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-14
 **Source URL**: https://huggingface.co/papers/date/2026-01-14
 
 ============================================================
 
-### 📄 User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale
+## 📄 User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale
 
 - **链接**: https://huggingface.co/papers/2601.08225
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Ministral 3
+## 📄 Ministral 3
 
 - **链接**: https://huggingface.co/papers/2601.08584
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 The Confidence Dichotomy: Analyzing and Mitigating Miscalibration in Tool-Use Agents
+## 📄 The Confidence Dichotomy: Analyzing and Mitigating Miscalibration in Tool-Use Agents
 
 - **链接**: https://huggingface.co/papers/2601.07264
 - **阅读来源**: ArXiv Abs
@@ -103,7 +100,7 @@
 
 ============================================================
 
-### 📄 MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences
+## 📄 MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences
 
 - **链接**: https://huggingface.co/papers/2601.06789
 - **阅读来源**: HTML
@@ -140,7 +137,7 @@
 
 ============================================================
 
-### 📄 SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices
+## 📄 SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices
 
 - **链接**: https://huggingface.co/papers/2601.08303
 - **阅读来源**: HTML
@@ -175,7 +172,7 @@
 
 ============================================================
 
-### 📄 End-to-End Video Character Replacement without Structural Guidance
+## 📄 End-to-End Video Character Replacement without Structural Guidance
 
 - **链接**: https://huggingface.co/papers/2601.08587
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@
 
 ============================================================
 
-### 📄 ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands
+## 📄 ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands
 
 - **链接**: https://huggingface.co/papers/2512.24965
 - **阅读来源**: HTML
@@ -244,7 +241,7 @@
 
 ============================================================
 
-### 📄 KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
+## 📄 KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
 
 - **链接**: https://huggingface.co/papers/2601.04745
 - **阅读来源**: HTML
@@ -284,7 +281,7 @@
 
 ============================================================
 
-### 📄 Solar Open Technical Report
+## 📄 Solar Open Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.07022
 - **阅读来源**: HTML
@@ -318,7 +315,7 @@
 
 ============================================================
 
-### 📄 VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory
+## 📄 VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory
 
 - **链接**: https://huggingface.co/papers/2601.08665
 - **阅读来源**: HTML
@@ -371,7 +368,7 @@ VLingNav 在多个主流具身导航基准测试中均取得了 State-of-the-Art
 
 ============================================================
 
-### 📄 JudgeRLVR: Judge First, Generate Second for Efficient Reasoning
+## 📄 JudgeRLVR: Judge First, Generate Second for Efficient Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.08468
 - **阅读来源**: HTML
@@ -405,7 +402,7 @@ VLingNav 在多个主流具身导航基准测试中均取得了 State-of-the-Art
 
 ============================================================
 
-### 📄 ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking
+## 📄 ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking
 
 - **链接**: https://huggingface.co/papers/2601.06487
 - **阅读来源**: HTML
@@ -444,7 +441,7 @@ ArenaRL 在自建的开放式Agent基准及公开写作基准上均取得了显�
 
 ============================================================
 
-### 📄 Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization
+## 📄 Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization
 
 - **链接**: https://huggingface.co/papers/2601.04582
 - **阅读来源**: HTML
@@ -475,7 +472,7 @@ ArenaRL 在自建的开放式Agent基准及公开写作基准上均取得了显�
 
 ============================================================
 
-### 📄 Towards Comprehensive Stage-wise Benchmarking of Large Language Models in Fact-Checking
+## 📄 Towards Comprehensive Stage-wise Benchmarking of Large Language Models in Fact-Checking
 
 - **链接**: https://huggingface.co/papers/2601.02669
 - **阅读来源**: HTML
@@ -513,7 +510,7 @@ ArenaRL 在自建的开放式Agent基准及公开写作基准上均取得了显�
 
 ============================================================
 
-### 📄 Motion Attribution for Video Generation
+## 📄 Motion Attribution for Video Generation
 
 - **链接**: https://huggingface.co/papers/2601.08828
 - **阅读来源**: HTML
@@ -556,4 +553,3 @@ ArenaRL 在自建的开放式Agent基准及公开写作基准上均取得了显�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
