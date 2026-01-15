@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-15
 **Source URL**: https://huggingface.co/papers/date/2026-01-15
 
 ============================================================
 
-### 📄 MAXS: Meta-Adaptive Exploration with LLM Agents
+## 📄 MAXS: Meta-Adaptive Exploration with LLM Agents
 
 - **链接**: https://huggingface.co/papers/2601.09259
 - **阅读来源**: HTML
@@ -54,7 +51,7 @@
 
 ============================================================
 
-### 📄 ExpSeek: Self-Triggered Experience Seeking for Web Agents
+## 📄 ExpSeek: Self-Triggered Experience Seeking for Web Agents
 
 - **链接**: https://huggingface.co/papers/2601.08605
 - **阅读来源**: HTML
@@ -92,7 +89,7 @@
 
 ============================================================
 
-### 📄 EvoFSM: Controllable Self-Evolution for Deep Research with Finite State Machines
+## 📄 EvoFSM: Controllable Self-Evolution for Deep Research with Finite State Machines
 
 - **链接**: https://huggingface.co/papers/2601.09465
 - **阅读来源**: HTML
@@ -128,7 +125,7 @@
 
 ============================================================
 
-### 📄 Controlled Self-Evolution for Algorithmic Code Optimization
+## 📄 Controlled Self-Evolution for Algorithmic Code Optimization
 
 - **链接**: https://huggingface.co/papers/2601.07348
 - **阅读来源**: HTML
@@ -172,7 +169,7 @@
 
 ============================================================
 
-### 📄 Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering
+## 📄 Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering
 
 - **链接**: https://huggingface.co/papers/2601.09697
 - **阅读来源**: HTML
@@ -213,7 +210,7 @@
 
 ============================================================
 
-### 📄 OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding
+## 📄 OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding
 
 - **链接**: https://huggingface.co/papers/2601.09575
 - **阅读来源**: HTML
@@ -255,7 +252,7 @@
 
 ============================================================
 
-### 📄 Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning
+## 📄 Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning
 
 - **链接**: https://huggingface.co/papers/2601.09708
 - **阅读来源**: HTML
@@ -288,7 +285,7 @@
 
 ============================================================
 
-### 📄 FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection
+## 📄 FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection
 
 - **链接**: https://huggingface.co/papers/2601.03928
 - **阅读来源**: HTML
@@ -327,7 +324,7 @@
 
 ============================================================
 
-### 📄 Focal Guidance: Unlocking Controllability from Semantic-Weak Layers in Video Diffusion Models
+## 📄 Focal Guidance: Unlocking Controllability from Semantic-Weak Layers in Video Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2601.07287
 - **阅读来源**: HTML
@@ -363,7 +360,7 @@
 
 ============================================================
 
-### 📄 Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models
+## 📄 Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models
 
 - **链接**: https://huggingface.co/papers/2601.08955
 - **阅读来源**: HTML
@@ -402,7 +399,7 @@
 
 ============================================================
 
-### 📄 DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation
+## 📄 DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation
 
 - **链接**: https://huggingface.co/papers/2601.09688
 - **阅读来源**: HTML
@@ -436,7 +433,7 @@
 
 ============================================================
 
-### 📄 The AI Hippocampus: How Far are We From Human Memory?
+## 📄 The AI Hippocampus: How Far are We From Human Memory?
 
 - **链接**: https://huggingface.co/papers/2601.09113
 - **阅读来源**: ArXiv Abs
@@ -468,7 +465,7 @@
 
 ============================================================
 
-### 📄 Are LLMs Vulnerable to Preference-Undermining Attacks (PUA)? A Factorial Analysis Methodology for Diagnosing the Trade-off between Preference Alignment and Real-World Validity
+## 📄 Are LLMs Vulnerable to Preference-Undermining Attacks (PUA)? A Factorial Analysis Methodology for Diagnosing the Trade-off between Preference Alignment and Real-World Validity
 
 - **链接**: https://huggingface.co/papers/2601.06596
 - **阅读来源**: HTML
@@ -502,7 +499,7 @@
 
 ============================================================
 
-### 📄 TranslateGemma Technical Report
+## 📄 TranslateGemma Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.09012
 - **阅读来源**: ArXiv Abs
@@ -532,7 +529,7 @@
 
 ============================================================
 
-### 📄 A^3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation
+## 📄 A^3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation
 
 - **链接**: https://huggingface.co/papers/2601.09274
 - **阅读来源**: HTML
@@ -568,7 +565,7 @@
 
 ============================================================
 
-### 📄 SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL
+## 📄 SkinFlow: Efficient Information Transmission for Open Dermatological Diagnosis via Dynamic Visual Encoding and Staged RL
 
 - **链接**: https://huggingface.co/papers/2601.09136
 - **阅读来源**: HTML
@@ -606,4 +603,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
