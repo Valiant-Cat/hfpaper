@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-16
 **Source URL**: https://huggingface.co/papers/date/2026-01-16
 
 ============================================================
 
-### 📄 Action100M: A Large-scale Video Action Dataset
+## 📄 Action100M: A Large-scale Video Action Dataset
 
 - **链接**: https://huggingface.co/papers/2601.10592
 - **阅读来源**: HTML
@@ -42,7 +39,7 @@
 
 ============================================================
 
-### 📄 Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders
+## 📄 Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders
 
 - **链接**: https://huggingface.co/papers/2601.10332
 - **阅读来源**: HTML
@@ -76,7 +73,7 @@
 
 ============================================================
 
-### 📄 Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs
+## 📄 Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs
 
 - **链接**: https://huggingface.co/papers/2601.08763
 - **阅读来源**: ArXiv Abs
@@ -114,7 +111,7 @@
 
 ============================================================
 
-### 📄 Urban Socio-Semantic Segmentation with Vision-Language Reasoning
+## 📄 Urban Socio-Semantic Segmentation with Vision-Language Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.10477
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@
 
 ============================================================
 
-### 📄 A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5
+## 📄 A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5
 
 - **链接**: https://huggingface.co/papers/2601.10527
 - **阅读来源**: HTML
@@ -191,7 +188,7 @@
 
 ============================================================
 
-### 📄 Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding
+## 📄 Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding
 
 - **链接**: https://huggingface.co/papers/2601.10611
 - **阅读来源**: ArXiv Abs
@@ -225,7 +222,7 @@ Molmo2 在多个核心基准测试中表现出色，主要数据如下：
 
 ============================================================
 
-### 📄 Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning
+## 📄 Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.07641
 - **阅读来源**: HTML
@@ -261,7 +258,7 @@ Molmo2 在多个核心基准测试中表现出色，主要数据如下：
 
 ============================================================
 
-### 📄 DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset
+## 📄 DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset
 
 - **链接**: https://huggingface.co/papers/2601.10305
 - **阅读来源**: ArXiv Abs
@@ -293,7 +290,7 @@ Molmo2 在多个核心基准测试中表现出色，主要数据如下：
 
 ============================================================
 
-### 📄 Deriving Character Logic from Storyline as Codified Decision Trees
+## 📄 Deriving Character Logic from Storyline as Codified Decision Trees
 
 - **链接**: https://huggingface.co/papers/2601.10080
 - **阅读来源**: HTML
@@ -325,7 +322,7 @@ Molmo2 在多个核心基准测试中表现出色，主要数据如下：
 
 ============================================================
 
-### 📄 Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning
+## 📄 Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.09667
 - **阅读来源**: HTML
@@ -359,7 +356,7 @@ Molmo2 在多个核心基准测试中表现出色，主要数据如下：
 
 ============================================================
 
-### 📄 TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts
+## 📄 TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts
 
 - **链接**: https://huggingface.co/papers/2601.08881
 - **阅读来源**: HTML
@@ -404,7 +401,7 @@ Molmo2 在多个核心基准测试中表现出色，主要数据如下：
 
 ============================================================
 
-### 📄 LSRIF: Logic-Structured Reinforcement Learning for Instruction Following
+## 📄 LSRIF: Logic-Structured Reinforcement Learning for Instruction Following
 
 - **链接**: https://huggingface.co/papers/2601.06431
 - **阅读来源**: HTML
@@ -449,7 +446,7 @@ Molmo2 在多个核心基准测试中表现出色，主要数据如下：
 
 ============================================================
 
-### 📄 PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary
+## 📄 PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary
 
 - **链接**: https://huggingface.co/papers/2601.10201
 - **阅读来源**: HTML
@@ -486,7 +483,7 @@ Molmo2 在多个核心基准测试中表现出色，主要数据如下：
 
 ============================================================
 
-### 📄 ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback
+## 📄 ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback
 
 - **链接**: https://huggingface.co/papers/2601.10156
 - **阅读来源**: HTML
@@ -521,7 +518,7 @@ Molmo2 在多个核心基准测试中表现出色，主要数据如下：
 
 ============================================================
 
-### 📄 STEP3-VL-10B Technical Report
+## 📄 STEP3-VL-10B Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.09668
 - **阅读来源**: HTML
@@ -556,7 +553,7 @@ STEP3-VL-10B 在多个核心基准测试中展现了“以小博大”的 SOTA �
 
 ============================================================
 
-### 📄 CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation
+## 📄 CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation
 
 - **链接**: https://huggingface.co/papers/2601.10061
 - **阅读来源**: HTML
@@ -588,7 +585,7 @@ STEP3-VL-10B 在多个核心基准测试中展现了“以小博大”的 SOTA �
 
 ============================================================
 
-### 📄 EvasionBench: Detecting Evasive Answers in Financial Q&A via Multi-Model Consensus and LLM-as-Judge
+## 📄 EvasionBench: Detecting Evasive Answers in Financial Q&A via Multi-Model Consensus and LLM-as-Judge
 
 - **链接**: https://huggingface.co/papers/2601.09142
 - **阅读来源**: HTML
@@ -625,7 +622,7 @@ STEP3-VL-10B 在多个核心基准测试中展现了“以小博大”的 SOTA �
 
 ============================================================
 
-### 📄 Inference-time Physics Alignment of Video Generative Models with Latent World Models
+## 📄 Inference-time Physics Alignment of Video Generative Models with Latent World Models
 
 - **链接**: https://huggingface.co/papers/2601.10553
 - **阅读来源**: HTML
@@ -660,7 +657,7 @@ STEP3-VL-10B 在多个核心基准测试中展现了“以小博大”的 SOTA �
 
 ============================================================
 
-### 📄 Transition Matching Distillation for Fast Video Generation
+## 📄 Transition Matching Distillation for Fast Video Generation
 
 - **链接**: https://huggingface.co/papers/2601.09881
 - **阅读来源**: HTML
@@ -698,7 +695,7 @@ STEP3-VL-10B 在多个核心基准测试中展现了“以小博大”的 SOTA �
 
 ============================================================
 
-### 📄 WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments
+## 📄 WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments
 
 - **链接**: https://huggingface.co/papers/2601.10716
 - **阅读来源**: HTML
@@ -730,7 +727,7 @@ STEP3-VL-10B 在多个核心基准测试中展现了“以小博大”的 SOTA �
 
 ============================================================
 
-### 📄 FlowAct-R1: Towards Interactive Humanoid Video Generation
+## 📄 FlowAct-R1: Towards Interactive Humanoid Video Generation
 
 - **链接**: https://huggingface.co/papers/2601.10103
 - **阅读来源**: HTML
@@ -768,7 +765,7 @@ STEP3-VL-10B 在多个核心基准测试中展现了“以小博大”的 SOTA �
 
 ============================================================
 
-### 📄 MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching
+## 📄 MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching
 
 - **链接**: https://huggingface.co/papers/2601.10712
 - **阅读来源**: HTML
@@ -804,7 +801,7 @@ STEP3-VL-10B 在多个核心基准测试中展现了“以小博大”的 SOTA �
 
 ============================================================
 
-### 📄 LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning
+## 📄 LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.10129
 - **阅读来源**: HTML
@@ -836,4 +833,3 @@ STEP3-VL-10B 在多个核心基准测试中展现了“以小博大”的 SOTA �
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
