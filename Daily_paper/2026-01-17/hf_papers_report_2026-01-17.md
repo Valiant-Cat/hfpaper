@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-17
 **Source URL**: https://huggingface.co/papers/date/2026-01-17
 
 ============================================================
 
-### 📄 Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs
+## 📄 Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs
 
 - **链接**: https://huggingface.co/papers/2601.08763
 - **阅读来源**: ArXiv Abs
@@ -46,7 +43,7 @@
 
 ============================================================
 
-### 📄 PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary
+## 📄 PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary
 
 - **链接**: https://huggingface.co/papers/2601.10201
 - **阅读来源**: HTML
@@ -82,7 +79,7 @@
 
 ============================================================
 
-### 📄 PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution
+## 📄 PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution
 
 - **链接**: https://huggingface.co/papers/2601.10657
 - **阅读来源**: HTML
@@ -133,7 +130,7 @@
 
 ============================================================
 
-### 📄 Demystifying the Slash Pattern in Attention: The Role of RoPE
+## 📄 Demystifying the Slash Pattern in Attention: The Role of RoPE
 
 - **链接**: https://huggingface.co/papers/2601.08297
 - **阅读来源**: ArXiv Abs
@@ -165,7 +162,7 @@ NLP - 大型语言模型（LLM）理论基础与可解释性分析（Interpretab
 
 ============================================================
 
-### 📄 Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders
+## 📄 Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders
 
 - **链接**: https://huggingface.co/papers/2601.10332
 - **阅读来源**: HTML
@@ -196,7 +193,7 @@ NLP - 大型语言模型（LLM）理论基础与可解释性分析（Interpretab
 
 ============================================================
 
-### 📄 Alterbute: Editing Intrinsic Attributes of Objects in Images
+## 📄 Alterbute: Editing Intrinsic Attributes of Objects in Images
 
 - **链接**: https://huggingface.co/papers/2601.10714
 - **阅读来源**: HTML
@@ -230,7 +227,7 @@ NLP - 大型语言模型（LLM）理论基础与可解释性分析（Interpretab
 
 ============================================================
 
-### 📄 LSRIF: Logic-Structured Reinforcement Learning for Instruction Following
+## 📄 LSRIF: Logic-Structured Reinforcement Learning for Instruction Following
 
 - **链接**: https://huggingface.co/papers/2601.06431
 - **阅读来源**: HTML
@@ -267,7 +264,7 @@ NLP - 大型语言模型（LLM）理论基础与可解释性分析（Interpretab
 
 ============================================================
 
-### 📄 Urban Socio-Semantic Segmentation with Vision-Language Reasoning
+## 📄 Urban Socio-Semantic Segmentation with Vision-Language Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.10477
 - **阅读来源**: HTML
@@ -311,7 +308,7 @@ NLP - 大型语言模型（LLM）理论基础与可解释性分析（Interpretab
 
 ============================================================
 
-### 📄 WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments
+## 📄 WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments
 
 - **链接**: https://huggingface.co/papers/2601.10716
 - **阅读来源**: HTML
@@ -343,7 +340,7 @@ NLP - 大型语言模型（LLM）理论基础与可解释性分析（Interpretab
 
 ============================================================
 
-### 📄 RigMo: Unifying Rig and Motion Learning for Generative Animation
+## 📄 RigMo: Unifying Rig and Motion Learning for Generative Animation
 
 - **链接**: https://huggingface.co/papers/2601.06378
 - **阅读来源**: HTML
@@ -387,7 +384,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation
+## 📄 CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation
 
 - **链接**: https://huggingface.co/papers/2601.10061
 - **阅读来源**: HTML
@@ -420,7 +417,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 Transition Matching Distillation for Fast Video Generation
+## 📄 Transition Matching Distillation for Fast Video Generation
 
 - **链接**: https://huggingface.co/papers/2601.09881
 - **阅读来源**: HTML
@@ -457,7 +454,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning
+## 📄 Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.07641
 - **阅读来源**: HTML
@@ -500,7 +497,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning
+## 📄 LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.10129
 - **阅读来源**: HTML
@@ -536,7 +533,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 Deriving Character Logic from Storyline as Codified Decision Trees
+## 📄 Deriving Character Logic from Storyline as Codified Decision Trees
 
 - **链接**: https://huggingface.co/papers/2601.10080
 - **阅读来源**: HTML
@@ -579,7 +576,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 Inference-time Physics Alignment of Video Generative Models with Latent World Models
+## 📄 Inference-time Physics Alignment of Video Generative Models with Latent World Models
 
 - **链接**: https://huggingface.co/papers/2601.10553
 - **阅读来源**: HTML
@@ -622,7 +619,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching
+## 📄 MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching
 
 - **链接**: https://huggingface.co/papers/2601.10712
 - **阅读来源**: HTML
@@ -661,7 +658,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering
+## 📄 Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering
 
 - **链接**: https://huggingface.co/papers/2601.10402
 - **阅读来源**: HTML
@@ -691,7 +688,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 FlowAct-R1: Towards Interactive Humanoid Video Generation
+## 📄 FlowAct-R1: Towards Interactive Humanoid Video Generation
 
 - **链接**: https://huggingface.co/papers/2601.10103
 - **阅读来源**: HTML
@@ -730,7 +727,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale
+## 📄 Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale
 
 - **链接**: https://huggingface.co/papers/2601.10338
 - **阅读来源**: HTML
@@ -761,7 +758,7 @@ RigMo 提出了一种端到端的统一生成框架，能够无监督地从原�
 
 ============================================================
 
-### 📄 Enhancing Sentiment Classification and Irony Detection in Large Language Models through Advanced Prompt Engineering Techniques
+## 📄 Enhancing Sentiment Classification and Irony Detection in Large Language Models through Advanced Prompt Engineering Techniques
 
 - **链接**: https://huggingface.co/papers/2601.08302
 - **阅读来源**: HTML
@@ -801,7 +798,7 @@ NLP-情感分析与提示工程（特别是针对大语言模型的情感分类�
 
 ============================================================
 
-### 📄 DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset
+## 📄 DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset
 
 - **链接**: https://huggingface.co/papers/2601.10305
 - **阅读来源**: ArXiv Abs
@@ -831,7 +828,7 @@ NLP-情感分析与提示工程（特别是针对大语言模型的情感分类�
 
 ============================================================
 
-### 📄 TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts
+## 📄 TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts
 
 - **链接**: https://huggingface.co/papers/2601.08881
 - **阅读来源**: HTML
@@ -862,7 +859,7 @@ NLP-情感分析与提示工程（特别是针对大语言模型的情感分类�
 
 ============================================================
 
-### 📄 Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding
+## 📄 Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding
 
 - **链接**: https://huggingface.co/papers/2601.10611
 - **阅读来源**: ArXiv Abs
@@ -898,7 +895,7 @@ Molmo2 的 8B 模型在多个核心基准上表现优异，具体如下：
 
 ============================================================
 
-### 📄 M^4olGen: Multi-Agent, Multi-Stage Molecular Generation under Precise Multi-Property Constraints
+## 📄 M^4olGen: Multi-Agent, Multi-Stage Molecular Generation under Precise Multi-Property Constraints
 
 - **链接**: https://huggingface.co/papers/2601.10131
 - **阅读来源**: HTML
@@ -944,7 +941,7 @@ Molmo2 的 8B 模型在多个核心基准上表现优异，具体如下：
 
 ============================================================
 
-### 📄 STEP3-VL-10B Technical Report
+## 📄 STEP3-VL-10B Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.09668
 - **阅读来源**: HTML
@@ -984,7 +981,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 Patient-Similarity Cohort Reasoning in Clinical Text-to-SQL
+## 📄 Patient-Similarity Cohort Reasoning in Clinical Text-to-SQL
 
 - **链接**: https://huggingface.co/papers/2601.09876
 - **阅读来源**: ArXiv Abs
@@ -1017,7 +1014,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 HeartMuLa: A Family of Open Sourced Music Foundation Models
+## 📄 HeartMuLa: A Family of Open Sourced Music Foundation Models
 
 - **链接**: https://huggingface.co/papers/2601.10547
 - **阅读来源**: HTML
@@ -1049,7 +1046,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 Action100M: A Large-scale Video Action Dataset
+## 📄 Action100M: A Large-scale Video Action Dataset
 
 - **链接**: https://huggingface.co/papers/2601.10592
 - **阅读来源**: HTML
@@ -1085,7 +1082,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5
+## 📄 A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5
 
 - **链接**: https://huggingface.co/papers/2601.10527
 - **阅读来源**: HTML
@@ -1122,7 +1119,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 EvasionBench: Detecting Evasive Answers in Financial Q&A via Multi-Model Consensus and LLM-as-Judge
+## 📄 EvasionBench: Detecting Evasive Answers in Financial Q&A via Multi-Model Consensus and LLM-as-Judge
 
 - **链接**: https://huggingface.co/papers/2601.09142
 - **阅读来源**: HTML
@@ -1150,7 +1147,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation
+## 📄 VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation
 
 - **链接**: https://huggingface.co/papers/2601.10124
 - **阅读来源**: HTML
@@ -1200,7 +1197,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 Memory Bank Compression for Continual Adaptation of Large Language Models
+## 📄 Memory Bank Compression for Continual Adaptation of Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.00756
 - **阅读来源**: ArXiv Abs
@@ -1230,7 +1227,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents
+## 📄 CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents
 
 - **链接**: https://huggingface.co/papers/2601.09923
 - **阅读来源**: HTML
@@ -1266,7 +1263,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 V-DPM: 4D Video Reconstruction with Dynamic Point Maps
+## 📄 V-DPM: 4D Video Reconstruction with Dynamic Point Maps
 
 - **链接**: https://huggingface.co/papers/2601.09499
 - **阅读来源**: ArXiv Abs
@@ -1295,7 +1292,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning
+## 📄 Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.09667
 - **阅读来源**: HTML
@@ -1337,7 +1334,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback
+## 📄 ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback
 
 - **链接**: https://huggingface.co/papers/2601.10156
 - **阅读来源**: HTML
@@ -1374,7 +1371,7 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 ============================================================
 
-### 📄 VIBE: Visual Instruction Based Editor
+## 📄 VIBE: Visual Instruction Based Editor
 
 - **链接**: https://huggingface.co/papers/2601.02242
 - **阅读来源**: HTML
@@ -1405,4 +1402,3 @@ Step3-VL-10B 在超过 60 个基准测试中展现了 SOTA 性能，不仅统治
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
