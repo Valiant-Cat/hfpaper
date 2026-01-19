@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-19
 **Source URL**: https://huggingface.co/papers/date/2026-01-19
 
 ============================================================
 
-### 📄 ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models
+## 📄 ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2601.11404
 - **阅读来源**: HTML
@@ -46,7 +43,7 @@
 
 ============================================================
 
-### 📄 RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation
+## 📄 RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation
 
 - **链接**: https://huggingface.co/papers/2601.08430
 - **阅读来源**: HTML
@@ -81,7 +78,7 @@
 
 ============================================================
 
-### 📄 Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text
+## 📄 Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text
 
 - **链接**: https://huggingface.co/papers/2601.10355
 - **阅读来源**: HTML
@@ -118,7 +115,7 @@
 
 ============================================================
 
-### 📄 ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection
+## 📄 ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection
 
 - **链接**: https://huggingface.co/papers/2601.09195
 - **阅读来源**: HTML
@@ -158,7 +155,7 @@
 
 ============================================================
 
-### 📄 Building Production-Ready Probes For Gemini
+## 📄 Building Production-Ready Probes For Gemini
 
 - **链接**: https://huggingface.co/papers/2601.11516
 - **阅读来源**: HTML
@@ -198,7 +195,7 @@
 
 ============================================================
 
-### 📄 Your Group-Relative Advantage Is Biased
+## 📄 Your Group-Relative Advantage Is Biased
 
 - **链接**: https://huggingface.co/papers/2601.08521
 - **阅读来源**: HTML
@@ -245,7 +242,7 @@
 
 ============================================================
 
-### 📄 FrankenMotion: Part-level Human Motion Generation and Composition
+## 📄 FrankenMotion: Part-level Human Motion Generation and Composition
 
 - **链接**: https://huggingface.co/papers/2601.10909
 - **阅读来源**: HTML
@@ -280,7 +277,7 @@
 
 ============================================================
 
-### 📄 BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search
+## 📄 BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search
 
 - **链接**: https://huggingface.co/papers/2601.11037
 - **阅读来源**: HTML
@@ -315,7 +312,7 @@
 
 ============================================================
 
-### 📄 When Personalization Misleads: Understanding and Mitigating Hallucinations in Personalized LLMs
+## 📄 When Personalization Misleads: Understanding and Mitigating Hallucinations in Personalized LLMs
 
 - **链接**: https://huggingface.co/papers/2601.11000
 - **阅读来源**: HTML
@@ -350,7 +347,7 @@
 
 ============================================================
 
-### 📄 PhyRPR: Training-Free Physics-Constrained Video Generation
+## 📄 PhyRPR: Training-Free Physics-Constrained Video Generation
 
 - **链接**: https://huggingface.co/papers/2601.09255
 - **阅读来源**: HTML
@@ -386,7 +383,7 @@
 
 ============================================================
 
-### 📄 Reasoning Models Generate Societies of Thought
+## 📄 Reasoning Models Generate Societies of Thought
 
 - **链接**: https://huggingface.co/papers/2601.10825
 - **阅读来源**: HTML
@@ -420,7 +417,7 @@
 
 ============================================================
 
-### 📄 PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models
+## 📄 PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models
 
 - **链接**: https://huggingface.co/papers/2601.11087
 - **阅读来源**: HTML
@@ -453,7 +450,7 @@
 
 ============================================================
 
-### 📄 AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems
+## 📄 AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems
 
 - **链接**: https://huggingface.co/papers/2601.11354
 - **阅读来源**: ArXiv Abs
@@ -483,4 +480,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
