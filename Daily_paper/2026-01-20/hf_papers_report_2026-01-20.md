@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-20
 **Source URL**: https://huggingface.co/papers/date/2026-01-20
 
 ============================================================
 
-### 📄 The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models
+## 📄 The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models
 
 - **链接**: https://huggingface.co/papers/2601.10387
 - **阅读来源**: HTML
@@ -36,7 +33,7 @@
 
 ============================================================
 
-### 📄 CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation
+## 📄 CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation
 
 - **链接**: https://huggingface.co/papers/2601.11096
 - **阅读来源**: HTML
@@ -71,7 +68,7 @@
 
 ============================================================
 
-### 📄 Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge
+## 📄 Multiplex Thinking: Reasoning via Token-wise Branch-and-Merge
 
 - **链接**: https://huggingface.co/papers/2601.08808
 - **阅读来源**: ArXiv Abs
@@ -106,7 +103,7 @@
 
 ============================================================
 
-### 📄 ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development
+## 📄 ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development
 
 - **链接**: https://huggingface.co/papers/2601.11077
 - **阅读来源**: ArXiv Abs
@@ -135,4 +132,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
