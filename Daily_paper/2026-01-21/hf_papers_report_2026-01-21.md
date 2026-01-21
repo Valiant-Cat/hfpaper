@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-21
 **Source URL**: https://huggingface.co/papers/date/2026-01-21
 
 ============================================================
 
-### 📄 Beyond Cosine Similarity: Taming Semantic Drift and Antonym Intrusion in a 15-Million Node Turkish Synonym Graph
+## 📄 Beyond Cosine Similarity: Taming Semantic Drift and Antonym Intrusion in a 15-Million Node Turkish Synonym Graph
 
 - **链接**: https://huggingface.co/papers/2601.13251
 - **阅读来源**: HTML
@@ -48,7 +45,7 @@
 
 ============================================================
 
-### 📄 Toward Efficient Agents: Memory, Tool learning, and Planning
+## 📄 Toward Efficient Agents: Memory, Tool learning, and Planning
 
 - **链接**: https://huggingface.co/papers/2601.14192
 - **阅读来源**: ArXiv Abs
@@ -81,7 +78,7 @@
 
 ============================================================
 
-### 📄 A Hybrid Protocol for Large-Scale Semantic Dataset Generation in Low-Resource Languages: The Turkish Semantic Relations Corpus
+## 📄 A Hybrid Protocol for Large-Scale Semantic Dataset Generation in Low-Resource Languages: The Turkish Semantic Relations Corpus
 
 - **链接**: https://huggingface.co/papers/2601.13253
 - **阅读来源**: HTML
@@ -120,7 +117,7 @@
 
 ============================================================
 
-### 📄 OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer
+## 📄 OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer
 
 - **链接**: https://huggingface.co/papers/2601.14250
 - **阅读来源**: ArXiv Abs
@@ -152,7 +149,7 @@
 
 ============================================================
 
-### 📄 Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey
+## 📄 Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey
 
 - **链接**: https://huggingface.co/papers/2601.11655
 - **阅读来源**: HTML
@@ -184,7 +181,7 @@
 
 ============================================================
 
-### 📄 ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents
+## 📄 ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents
 
 - **链接**: https://huggingface.co/papers/2601.12294
 - **阅读来源**: HTML
@@ -216,7 +213,7 @@
 
 ============================================================
 
-### 📄 SciCoQA: Quality Assurance for Scientific Paper--Code Alignment
+## 📄 SciCoQA: Quality Assurance for Scientific Paper--Code Alignment
 
 - **链接**: https://huggingface.co/papers/2601.12910
 - **阅读来源**: HTML
@@ -249,7 +246,7 @@
 
 ============================================================
 
-### 📄 MemoryRewardBench: Benchmarking Reward Models for Long-Term Memory Management in Large Language Models
+## 📄 MemoryRewardBench: Benchmarking Reward Models for Long-Term Memory Management in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.11969
 - **阅读来源**: HTML
@@ -281,7 +278,7 @@
 
 ============================================================
 
-### 📄 Agentic-R: Learning to Retrieve for Agentic Search
+## 📄 Agentic-R: Learning to Retrieve for Agentic Search
 
 - **链接**: https://huggingface.co/papers/2601.11888
 - **阅读来源**: HTML
@@ -320,7 +317,7 @@
 
 ============================================================
 
-### 📄 Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization
+## 📄 Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization
 
 - **链接**: https://huggingface.co/papers/2601.12993
 - **阅读来源**: HTML
@@ -353,7 +350,7 @@
 
 ============================================================
 
-### 📄 FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs
+## 📄 FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs
 
 - **链接**: https://huggingface.co/papers/2601.13836
 - **阅读来源**: ArXiv Abs
@@ -385,7 +382,7 @@
 
 ============================================================
 
-### 📄 UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation
+## 📄 UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation
 
 - **链接**: https://huggingface.co/papers/2601.11522
 - **阅读来源**: HTML
@@ -423,7 +420,7 @@
 
 ============================================================
 
-### 📄 A BERTology View of LLM Orchestrations: Token- and Layer-Selective Probes for Efficient Single-Pass Classification
+## 📄 A BERTology View of LLM Orchestrations: Token- and Layer-Selective Probes for Efficient Single-Pass Classification
 
 - **链接**: https://huggingface.co/papers/2601.13288
 - **阅读来源**: HTML
@@ -467,7 +464,7 @@
 
 ============================================================
 
-### 📄 Aligning Agentic World Models via Knowledgeable Experience Learning
+## 📄 Aligning Agentic World Models via Knowledgeable Experience Learning
 
 - **链接**: https://huggingface.co/papers/2601.13247
 - **阅读来源**: HTML
@@ -504,7 +501,7 @@
 
 ============================================================
 
-### 📄 LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals
+## 📄 LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals
 
 - **链接**: https://huggingface.co/papers/2601.10700
 - **阅读来源**: ArXiv Abs
@@ -542,7 +539,7 @@
 
 ============================================================
 
-### 📄 PRiSM: Benchmarking Phone Realization in Speech Models
+## 📄 PRiSM: Benchmarking Phone Realization in Speech Models
 
 - **链接**: https://huggingface.co/papers/2601.14046
 - **阅读来源**: HTML
@@ -579,4 +576,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
