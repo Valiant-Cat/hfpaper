@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-22
 **Source URL**: https://huggingface.co/papers/date/2026-01-22
 
 ============================================================
 
-### 📄 AgentEHR: Advancing Autonomous Clinical Decision-Making via Retrospective Summarization
+## 📄 AgentEHR: Advancing Autonomous Clinical Decision-Making via Retrospective Summarization
 
 - **链接**: https://huggingface.co/papers/2601.13918
 - **阅读来源**: HTML
@@ -35,7 +32,7 @@
 
 ============================================================
 
-### 📄 Agentic Reasoning for Large Language Models
+## 📄 Agentic Reasoning for Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.12538
 - **阅读来源**: ArXiv Abs
@@ -68,7 +65,7 @@
 
 ============================================================
 
-### 📄 Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models
+## 📄 Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models
 
 - **链接**: https://huggingface.co/papers/2601.14152
 - **阅读来源**: HTML
@@ -100,7 +97,7 @@
 
 ============================================================
 
-### 📄 Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis
+## 📄 Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis
 
 - **链接**: https://huggingface.co/papers/2601.14417
 - **阅读来源**: HTML
@@ -141,7 +138,7 @@
 
 ============================================================
 
-### 📄 FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments
+## 📄 FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments
 
 - **链接**: https://huggingface.co/papers/2601.07853
 - **阅读来源**: HTML
@@ -175,7 +172,7 @@
 
 ============================================================
 
-### 📄 Typhoon ASR Real-time: FastConformer-Transducer for Thai Automatic Speech Recognition
+## 📄 Typhoon ASR Real-time: FastConformer-Transducer for Thai Automatic Speech Recognition
 
 - **链接**: https://huggingface.co/papers/2601.13044
 - **阅读来源**: HTML
@@ -203,7 +200,7 @@
 
 ============================================================
 
-### 📄 Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning
+## 📄 Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.14750
 - **阅读来源**: HTML
@@ -238,7 +235,7 @@
 
 ============================================================
 
-### 📄 The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems
+## 📄 The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems
 
 - **链接**: https://huggingface.co/papers/2601.15059
 - **阅读来源**: HTML
@@ -274,7 +271,7 @@
 
 ============================================================
 
-### 📄 Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics
+## 📄 Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics
 
 - **链接**: https://huggingface.co/papers/2601.14027
 - **阅读来源**: HTML
@@ -309,7 +306,7 @@
 
 ============================================================
 
-### 📄 MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents
+## 📄 MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents
 
 - **链接**: https://huggingface.co/papers/2601.12346
 - **阅读来源**: HTML
@@ -338,7 +335,7 @@
 
 ============================================================
 
-### 📄 Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance
+## 📄 Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance
 
 - **链接**: https://huggingface.co/papers/2601.14171
 - **阅读来源**: HTML
@@ -370,7 +367,7 @@
 
 ============================================================
 
-### 📄 Typhoon OCR: Open Vision-Language Model For Thai Document Extraction
+## 📄 Typhoon OCR: Open Vision-Language Model For Thai Document Extraction
 
 - **链接**: https://huggingface.co/papers/2601.14722
 - **阅读来源**: HTML
@@ -406,7 +403,7 @@
 
 ============================================================
 
-### 📄 RoboBrain 2.5: Depth in Sight, Time in Mind
+## 📄 RoboBrain 2.5: Depth in Sight, Time in Mind
 
 - **链接**: https://huggingface.co/papers/2601.14352
 - **阅读来源**: HTML
@@ -438,7 +435,7 @@
 
 ============================================================
 
-### 📄 FARE: Fast-Slow Agentic Robotic Exploration
+## 📄 FARE: Fast-Slow Agentic Robotic Exploration
 
 - **链接**: https://huggingface.co/papers/2601.14681
 - **阅读来源**: HTML
@@ -478,7 +475,7 @@
 
 ============================================================
 
-### 📄 Facilitating Proactive and Reactive Guidance for Decision Making on the Web: A Design Probe with WebSeek
+## 📄 Facilitating Proactive and Reactive Guidance for Decision Making on the Web: A Design Probe with WebSeek
 
 - **链接**: https://huggingface.co/papers/2601.15100
 - **阅读来源**: HTML
@@ -524,7 +521,7 @@
 
 ============================================================
 
-### 📄 sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation
+## 📄 sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation
 
 - **链接**: https://huggingface.co/papers/2601.12029
 - **阅读来源**: HTML
@@ -560,7 +557,7 @@
 
 ============================================================
 
-### 📄 Rethinking Video Generation Model for the Embodied World
+## 📄 Rethinking Video Generation Model for the Embodied World
 
 - **链接**: https://huggingface.co/papers/2601.15282
 - **阅读来源**: HTML
@@ -591,7 +588,7 @@
 
 ============================================================
 
-### 📄 XR: Cross-Modal Agents for Composed Image Retrieval
+## 📄 XR: Cross-Modal Agents for Composed Image Retrieval
 
 - **链接**: https://huggingface.co/papers/2601.14245
 - **阅读来源**: ArXiv Abs
@@ -625,4 +622,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
