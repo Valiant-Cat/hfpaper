@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-23
 **Source URL**: https://huggingface.co/papers/date/2026-01-23
 
 ============================================================
 
-### 📄 Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning
+## 📄 Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning
 
 - **链接**: https://huggingface.co/papers/2601.16163
 - **阅读来源**: HTML
@@ -46,7 +43,7 @@
 
 ============================================================
 
-### 📄 The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models
+## 📄 The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2601.15165
 - **阅读来源**: HTML
@@ -83,7 +80,7 @@
 
 ============================================================
 
-### 📄 Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders
+## 📄 Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders
 
 - **链接**: https://huggingface.co/papers/2601.16208
 - **阅读来源**: HTML
@@ -120,7 +117,7 @@
 
 ============================================================
 
-### 📄 LLM-in-Sandbox Elicits General Agentic Intelligence
+## 📄 LLM-in-Sandbox Elicits General Agentic Intelligence
 
 - **链接**: https://huggingface.co/papers/2601.16206
 - **阅读来源**: HTML
@@ -155,7 +152,7 @@
 
 ============================================================
 
-### 📄 Learning to Discover at Test Time
+## 📄 Learning to Discover at Test Time
 
 - **链接**: https://huggingface.co/papers/2601.16175
 - **阅读来源**: HTML
@@ -196,7 +193,7 @@
 
 ============================================================
 
-### 📄 Wigner's Friend as a Circuit: Inter-Branch Communication Witness Benchmarks on Superconducting Quantum Hardware
+## 📄 Wigner's Friend as a Circuit: Inter-Branch Communication Witness Benchmarks on Superconducting Quantum Hardware
 
 - **链接**: https://huggingface.co/papers/2601.16004
 - **阅读来源**: HTML
@@ -233,7 +230,7 @@
 
 ============================================================
 
-### 📄 Qwen3-TTS Technical Report
+## 📄 Qwen3-TTS Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.15621
 - **阅读来源**: HTML
@@ -275,7 +272,7 @@
 
 ============================================================
 
-### 📄 OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation
+## 📄 OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation
 
 - **链接**: https://huggingface.co/papers/2601.15369
 - **阅读来源**: HTML
@@ -313,7 +310,7 @@
 
 ============================================================
 
-### 📄 HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding
+## 📄 HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding
 
 - **链接**: https://huggingface.co/papers/2601.14724
 - **阅读来源**: ArXiv Abs
@@ -347,7 +344,7 @@
 
 ============================================================
 
-### 📄 360Anything: Geometry-Free Lifting of Images and Videos to 360°
+## 📄 360Anything: Geometry-Free Lifting of Images and Videos to 360°
 
 - **链接**: https://huggingface.co/papers/2601.16192
 - **阅读来源**: HTML
@@ -379,7 +376,7 @@
 
 ============================================================
 
-### 📄 SAMTok: Representing Any Mask with Two Words
+## 📄 SAMTok: Representing Any Mask with Two Words
 
 - **链接**: https://huggingface.co/papers/2601.16093
 - **阅读来源**: HTML
@@ -418,7 +415,7 @@
 
 ============================================================
 
-### 📄 BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries
+## 📄 BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries
 
 - **链接**: https://huggingface.co/papers/2601.15197
 - **阅读来源**: HTML
@@ -452,7 +449,7 @@
 
 ============================================================
 
-### 📄 VIOLA: Towards Video In-Context Learning with Minimal Annotations
+## 📄 VIOLA: Towards Video In-Context Learning with Minimal Annotations
 
 - **链接**: https://huggingface.co/papers/2601.15549
 - **阅读来源**: HTML
@@ -496,7 +493,7 @@
 
 ============================================================
 
-### 📄 Numba-Accelerated 2D Diffusion-Limited Aggregation: Implementation and Fractal Characterization
+## 📄 Numba-Accelerated 2D Diffusion-Limited Aggregation: Implementation and Fractal Characterization
 
 - **链接**: https://huggingface.co/papers/2601.15440
 - **阅读来源**: HTML
@@ -531,7 +528,7 @@
 
 ============================================================
 
-### 📄 Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing
+## 📄 Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing
 
 - **链接**: https://huggingface.co/papers/2601.16125
 - **阅读来源**: HTML
@@ -566,7 +563,7 @@
 
 ============================================================
 
-### 📄 Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces
+## 📄 Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces
 
 - **链接**: https://huggingface.co/papers/2601.11868
 - **阅读来源**: HTML
@@ -599,7 +596,7 @@
 
 ============================================================
 
-### 📄 Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model
+## 📄 Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model
 
 - **链接**: https://huggingface.co/papers/2601.15892
 - **阅读来源**: HTML
@@ -634,7 +631,7 @@
 
 ============================================================
 
-### 📄 VideoMaMa: Mask-Guided Video Matting via Generative Prior
+## 📄 VideoMaMa: Mask-Guided Video Matting via Generative Prior
 
 - **链接**: https://huggingface.co/papers/2601.14255
 - **阅读来源**: HTML
@@ -666,4 +663,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
