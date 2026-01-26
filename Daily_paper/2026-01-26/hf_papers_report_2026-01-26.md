@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-26
 **Source URL**: https://huggingface.co/papers/date/2026-01-26
 
 ============================================================
 
-### 📄 VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents
+## 📄 VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents
 
 - **链接**: https://huggingface.co/papers/2601.16973
 - **阅读来源**: ArXiv Abs
@@ -41,7 +38,7 @@
 
 ============================================================
 
-### 📄 Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification
+## 📄 Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification
 
 - **链接**: https://huggingface.co/papers/2601.15808
 - **阅读来源**: HTML
@@ -76,7 +73,7 @@ NLP - 智能体系统（Agent Systems）、大语言模型（LLM）推理与验�
 
 ============================================================
 
-### 📄 Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory
+## 📄 Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory
 
 - **链接**: https://huggingface.co/papers/2601.16296
 - **阅读来源**: HTML
@@ -118,7 +115,7 @@ NLP - 智能体系统（Agent Systems）、大语言模型（LLM）推理与验�
 
 ============================================================
 
-### 📄 MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences
+## 📄 MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences
 
 - **链接**: https://huggingface.co/papers/2601.07251
 - **阅读来源**: HTML
@@ -150,7 +147,7 @@ NLP-大语言模型应用、人机协作游戏设计、用户模拟（Virtual Pl
 
 ============================================================
 
-### 📄 Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow
+## 📄 Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow
 
 - **链接**: https://huggingface.co/papers/2601.14243
 - **阅读来源**: HTML
@@ -186,7 +183,7 @@ NLP-大语言模型应用、人机协作游戏设计、用户模拟（Virtual Pl
 
 ============================================================
 
-### 📄 LongCat-Flash-Thinking-2601 Technical Report
+## 📄 LongCat-Flash-Thinking-2601 Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.16725
 - **阅读来源**: HTML
@@ -220,7 +217,7 @@ NLP-大语言模型应用、人机协作游戏设计、用户模拟（Virtual Pl
 
 ============================================================
 
-### 📄 SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents
+## 📄 SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents
 
 - **链接**: https://huggingface.co/papers/2601.16746
 - **阅读来源**: HTML
@@ -267,7 +264,7 @@ NLP-大语言模型应用、人机协作游戏设计、用户模拟（Virtual Pl
 
 ============================================================
 
-### 📄 Mecellem Models: Turkish Models Trained from Scratch and Continually Pre-trained for the Legal Domain
+## 📄 Mecellem Models: Turkish Models Trained from Scratch and Continually Pre-trained for the Legal Domain
 
 - **链接**: https://huggingface.co/papers/2601.16018
 - **阅读来源**: HTML
@@ -305,7 +302,7 @@ NLP - 大语言模型（LLM）、特定领域微调（Domain Adaptation）、文
 
 ============================================================
 
-### 📄 SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer
+## 📄 SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer
 
 - **链接**: https://huggingface.co/papers/2601.16515
 - **阅读来源**: HTML
@@ -345,7 +342,7 @@ NLP - 大语言模型（LLM）、特定领域微调（Domain Adaptation）、文
 
 ============================================================
 
-### 📄 Endless Terminals: Scaling RL Environments for Terminal Agents
+## 📄 Endless Terminals: Scaling RL Environments for Terminal Agents
 
 - **链接**: https://huggingface.co/papers/2601.16443
 - **阅读来源**: HTML
@@ -393,7 +390,7 @@ NLP - 大语言模型（LLM）、特定领域微调（Domain Adaptation）、文
 
 ============================================================
 
-### 📄 DSGym: A Holistic Framework for Evaluating and Training Data Science Agents
+## 📄 DSGym: A Holistic Framework for Evaluating and Training Data Science Agents
 
 - **链接**: https://huggingface.co/papers/2601.16344
 - **阅读来源**: HTML
@@ -441,7 +438,7 @@ DSGym 提出了一个统一的、基于容器化环境的数据科学智能体�
 
 ============================================================
 
-### 📄 Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization
+## 📄 Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization
 
 - **链接**: https://huggingface.co/papers/2601.13118
 - **阅读来源**: HTML
@@ -474,7 +471,7 @@ DSGym 提出了一个统一的、基于容器化环境的数据科学智能体�
 
 ============================================================
 
-### 📄 TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers
+## 📄 TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers
 
 - **链接**: https://huggingface.co/papers/2601.14133
 - **阅读来源**: HTML
@@ -516,4 +513,3 @@ DSGym 提出了一个统一的、基于容器化环境的数据科学智能体�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
