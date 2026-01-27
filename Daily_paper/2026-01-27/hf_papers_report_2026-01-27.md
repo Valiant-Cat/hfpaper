@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-27
 **Source URL**: https://huggingface.co/papers/date/2026-01-27
 
 ============================================================
 
-### 📄 The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation
+## 📄 The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation
 
 - **链接**: https://huggingface.co/papers/2601.17737
 - **阅读来源**: HTML
@@ -36,7 +33,7 @@
 
 ============================================================
 
-### 📄 Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents
+## 📄 Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents
 
 - **链接**: https://huggingface.co/papers/2601.18217
 - **阅读来源**: HTML
@@ -75,7 +72,7 @@
 
 ============================================================
 
-### 📄 Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility
+## 📄 Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility
 
 - **链接**: https://huggingface.co/papers/2601.17027
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@
 
 ============================================================
 
-### 📄 UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing
+## 📄 UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing
 
 - **链接**: https://huggingface.co/papers/2601.18759
 - **阅读来源**: HTML
@@ -145,7 +142,7 @@
 
 ============================================================
 
-### 📄 Self-Refining Video Sampling
+## 📄 Self-Refining Video Sampling
 
 - **链接**: https://huggingface.co/papers/2601.18577
 - **阅读来源**: HTML
@@ -183,7 +180,7 @@
 
 ============================================================
 
-### 📄 RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents
+## 📄 RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents
 
 - **链接**: https://huggingface.co/papers/2601.18130
 - **阅读来源**: HTML
@@ -219,7 +216,7 @@
 
 ============================================================
 
-### 📄 iFSQ: Improving FSQ for Image Generation with 1 Line of Code
+## 📄 iFSQ: Improving FSQ for Image Generation with 1 Line of Code
 
 - **链接**: https://huggingface.co/papers/2601.17124
 - **阅读来源**: HTML
@@ -251,7 +248,7 @@
 
 ============================================================
 
-### 📄 daVinci-Dev: Agent-native Mid-training for Software Engineering
+## 📄 daVinci-Dev: Agent-native Mid-training for Software Engineering
 
 - **链接**: https://huggingface.co/papers/2601.18418
 - **阅读来源**: ArXiv Abs
@@ -287,7 +284,7 @@
 
 ============================================================
 
-### 📄 CGPT: Cluster-Guided Partial Tables with LLM-Generated Supervision for Table Retrieval
+## 📄 CGPT: Cluster-Guided Partial Tables with LLM-Generated Supervision for Table Retrieval
 
 - **链接**: https://huggingface.co/papers/2601.15849
 - **阅读来源**: HTML
@@ -321,7 +318,7 @@
 
 ============================================================
 
-### 📄 Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion
+## 📄 Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion
 
 - **链接**: https://huggingface.co/papers/2601.13599
 - **阅读来源**: HTML
@@ -356,7 +353,7 @@
 
 ============================================================
 
-### 📄 One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment
+## 📄 One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment
 
 - **链接**: https://huggingface.co/papers/2601.18731
 - **阅读来源**: HTML
@@ -394,7 +391,7 @@
 
 ============================================================
 
-### 📄 IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance
+## 📄 IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance
 
 - **链接**: https://huggingface.co/papers/2601.16207
 - **阅读来源**: HTML
@@ -430,7 +427,7 @@
 
 ============================================================
 
-### 📄 Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers
+## 📄 Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers
 
 - **链接**: https://huggingface.co/papers/2601.17367
 - **阅读来源**: HTML
@@ -463,7 +460,7 @@ NLP - 大语言模型长上下文推理加速与效率优化（Large Language Mo
 
 ============================================================
 
-### 📄 The Side Effects of Being Smart: Safety Risks in MLLMs' Multi-Image Reasoning
+## 📄 The Side Effects of Being Smart: Safety Risks in MLLMs' Multi-Image Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.14127
 - **阅读来源**: HTML
@@ -495,7 +492,7 @@ NLP - 大语言模型长上下文推理加速与效率优化（Large Language Mo
 
 ============================================================
 
-### 📄 Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs
+## 📄 Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs
 
 - **链接**: https://huggingface.co/papers/2601.17058
 - **阅读来源**: HTML
@@ -530,7 +527,7 @@ NLP - 大语言模型长上下文推理加速与效率优化（Large Language Mo
 
 ============================================================
 
-### 📄 Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts
+## 📄 Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts
 
 - **链接**: https://huggingface.co/papers/2601.17111
 - **阅读来源**: ArXiv Abs
@@ -562,7 +559,7 @@ NLP - 大规模语言模型（Mixture-of-Experts 架构）的后训练（Post-tr
 
 ============================================================
 
-### 📄 DRPG (Decompose, Retrieve, Plan, Generate): An Agentic Framework for Academic Rebuttal
+## 📄 DRPG (Decompose, Retrieve, Plan, Generate): An Agentic Framework for Academic Rebuttal
 
 - **链接**: https://huggingface.co/papers/2601.18081
 - **阅读来源**: HTML
@@ -592,7 +589,7 @@ NLP - 大规模语言模型（Mixture-of-Experts 架构）的后训练（Post-tr
 
 ============================================================
 
-### 📄 SAGE: Steerable Agentic Data Generation for Deep Search with Execution Feedback
+## 📄 SAGE: Steerable Agentic Data Generation for Deep Search with Execution Feedback
 
 - **链接**: https://huggingface.co/papers/2601.18202
 - **阅读来源**: ArXiv Abs
@@ -627,7 +624,7 @@ NLP - 大规模语言模型（Mixture-of-Experts 架构）的后训练（Post-tr
 
 ============================================================
 
-### 📄 AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation
+## 📄 AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation
 
 - **链接**: https://huggingface.co/papers/2601.17761
 - **阅读来源**: HTML
@@ -661,7 +658,7 @@ NLP - 大规模语言模型（Mixture-of-Experts 架构）的后训练（Post-tr
 
 ============================================================
 
-### 📄 Agentic Very Long Video Understanding
+## 📄 Agentic Very Long Video Understanding
 
 - **链接**: https://huggingface.co/papers/2601.18157
 - **阅读来源**: HTML
@@ -698,7 +695,7 @@ NLP - 大规模语言模型（Mixture-of-Experts 架构）的后训练（Post-tr
 
 ============================================================
 
-### 📄 Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability
+## 📄 Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability
 
 - **链接**: https://huggingface.co/papers/2601.18778
 - **阅读来源**: HTML
@@ -735,7 +732,7 @@ NLP - 大规模语言模型（Mixture-of-Experts 架构）的后训练（Post-tr
 
 ============================================================
 
-### 📄 SkyReels-V3 Technique Report
+## 📄 SkyReels-V3 Technique Report
 
 - **链接**: https://huggingface.co/papers/2601.17323
 - **阅读来源**: HTML
@@ -773,7 +770,7 @@ NLP - 大规模语言模型（Mixture-of-Experts 架构）的后训练（Post-tr
 
 ============================================================
 
-### 📄 VIBEVOICE-ASR Technical Report
+## 📄 VIBEVOICE-ASR Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.18184
 - **阅读来源**: ArXiv Abs
@@ -804,4 +801,3 @@ NLP - 大规模语言模型（Mixture-of-Experts 架构）的后训练（Post-tr
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
