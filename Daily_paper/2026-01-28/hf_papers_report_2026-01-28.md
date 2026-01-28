@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-28
 **Source URL**: https://huggingface.co/papers/date/2026-01-28
 
 ============================================================
 
-### 📄 World Craft: Agentic Framework to Create Visualizable Worlds via Text
+## 📄 World Craft: Agentic Framework to Create Visualizable Worlds via Text
 
 - **链接**: https://huggingface.co/papers/2601.09150
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection
+## 📄 Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection
 
 - **链接**: https://huggingface.co/papers/2601.19375
 - **阅读来源**: HTML
@@ -79,7 +76,7 @@
 
 ============================================================
 
-### 📄 AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking
+## 📄 AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking
 
 - **链接**: https://huggingface.co/papers/2601.17645
 - **阅读来源**: HTML
@@ -115,7 +112,7 @@
 
 ============================================================
 
-### 📄 Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models
+## 📄 Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models
 
 - **链接**: https://huggingface.co/papers/2601.19834
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@
 
 ============================================================
 
-### 📄 AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security
+## 📄 AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security
 
 - **链接**: https://huggingface.co/papers/2601.18491
 - **阅读来源**: HTML
@@ -180,7 +177,7 @@ NLP - 大语言模型安全 (LLM Safety)，具体聚焦于 **AI 智能体安全�
 
 ============================================================
 
-### 📄 AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning
+## 📄 AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.18631
 - **阅读来源**: HTML
@@ -218,7 +215,7 @@ NLP - 大语言模型安全 (LLM Safety)，具体聚焦于 **AI 智能体安全�
 
 ============================================================
 
-### 📄 GPCR-Filter: a deep learning framework for efficient and precise GPCR modulator discovery
+## 📄 GPCR-Filter: a deep learning framework for efficient and precise GPCR modulator discovery
 
 - **链接**: https://huggingface.co/papers/2601.19149
 - **阅读来源**: HTML
@@ -260,7 +257,7 @@ NLP - 大语言模型安全 (LLM Safety)，具体聚焦于 **AI 智能体安全�
 
 ============================================================
 
-### 📄 Revisiting Parameter Server in LLM Post-Training
+## 📄 Revisiting Parameter Server in LLM Post-Training
 
 - **链接**: https://huggingface.co/papers/2601.19362
 - **阅读来源**: HTML
@@ -297,7 +294,7 @@ NLP - 大语言模型安全 (LLM Safety)，具体聚焦于 **AI 智能体安全�
 
 ============================================================
 
-### 📄 A Pragmatic VLA Foundation Model
+## 📄 A Pragmatic VLA Foundation Model
 
 - **链接**: https://huggingface.co/papers/2601.18692
 - **阅读来源**: HTML
@@ -342,4 +339,3 @@ NLP - 大语言模型安全 (LLM Safety)，具体聚焦于 **AI 智能体安全�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
