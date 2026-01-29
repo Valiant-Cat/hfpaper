@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-29
 **Source URL**: https://huggingface.co/papers/date/2026-01-29
 
 ============================================================
 
-### 📄 SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation
+## 📄 SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation
 
 - **链接**: https://huggingface.co/papers/2601.20622
 - **阅读来源**: HTML
@@ -41,7 +38,7 @@
 
 ============================================================
 
-### 📄 SERA: Soft-Verified Efficient Repository Agents
+## 📄 SERA: Soft-Verified Efficient Repository Agents
 
 - **链接**: https://huggingface.co/papers/2601.20789
 - **阅读来源**: HTML
@@ -80,7 +77,7 @@
 
 ============================================================
 
-### 📄 Innovator-VL: A Multimodal Large Language Model for Scientific Discovery
+## 📄 Innovator-VL: A Multimodal Large Language Model for Scientific Discovery
 
 - **链接**: https://huggingface.co/papers/2601.19325
 - **阅读来源**: HTML
@@ -115,7 +112,7 @@
 
 ============================================================
 
-### 📄 SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper
+## 📄 SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper
 
 - **链接**: https://huggingface.co/papers/2601.19194
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@
 
 ============================================================
 
-### 📄 Linear representations in language models can change dramatically over a conversation
+## 📄 Linear representations in language models can change dramatically over a conversation
 
 - **链接**: https://huggingface.co/papers/2601.20834
 - **阅读来源**: HTML
@@ -193,7 +190,7 @@
 
 ============================================================
 
-### 📄 OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution
+## 📄 OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution
 
 - **链接**: https://huggingface.co/papers/2601.20380
 - **阅读来源**: HTML
@@ -241,7 +238,7 @@ OmegaUse 在多个核心 GUI 基准测试中均展现了极具竞争力的性能
 
 ============================================================
 
-### 📄 DeepSeek-OCR 2: Visual Causal Flow
+## 📄 DeepSeek-OCR 2: Visual Causal Flow
 
 - **链接**: https://huggingface.co/papers/2601.20552
 - **阅读来源**: HTML
@@ -284,7 +281,7 @@ OmegaUse 在多个核心 GUI 基准测试中均展现了极具竞争力的性能
 
 ============================================================
 
-### 📄 RIR-Mega-Speech: A Reverberant Speech Corpus with Comprehensive Acoustic Metadata and Reproducible Evaluation
+## 📄 RIR-Mega-Speech: A Reverberant Speech Corpus with Comprehensive Acoustic Metadata and Reproducible Evaluation
 
 - **链接**: https://huggingface.co/papers/2601.19949
 - **阅读来源**: HTML
@@ -323,7 +320,7 @@ OmegaUse 在多个核心 GUI 基准测试中均展现了极具竞争力的性能
 
 ============================================================
 
-### 📄 Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation
+## 📄 Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation
 
 - **链接**: https://huggingface.co/papers/2601.20614
 - **阅读来源**: HTML
@@ -355,7 +352,7 @@ OmegaUse 在多个核心 GUI 基准测试中均展现了极具竞争力的性能
 
 ============================================================
 
-### 📄 GDCNet: Generative Discrepancy Comparison Network for Multimodal Sarcasm Detection
+## 📄 GDCNet: Generative Discrepancy Comparison Network for Multimodal Sarcasm Detection
 
 - **链接**: https://huggingface.co/papers/2601.20618
 - **阅读来源**: HTML
@@ -393,7 +390,7 @@ OmegaUse 在多个核心 GUI 基准测试中均展现了极具竞争力的性能
 
 ============================================================
 
-### 📄 Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning
+## 📄 Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning
 
 - **链接**: https://huggingface.co/papers/2601.20209
 - **阅读来源**: HTML
@@ -429,7 +426,7 @@ OmegaUse 在多个核心 GUI 基准测试中均展现了极具竞争力的性能
 
 ============================================================
 
-### 📄 Advancing Open-source World Models
+## 📄 Advancing Open-source World Models
 
 - **链接**: https://huggingface.co/papers/2601.20540
 - **阅读来源**: HTML
@@ -468,4 +465,3 @@ OmegaUse 在多个核心 GUI 基准测试中均展现了极具竞争力的性能
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
