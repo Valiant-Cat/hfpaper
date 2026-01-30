@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-30
 **Source URL**: https://huggingface.co/papers/date/2026-01-30
 
 ============================================================
 
-### 📄 Qwen3-ASR Technical Report
+## 📄 Qwen3-ASR Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.21337
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction
+## 📄 PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction
 
 - **链接**: https://huggingface.co/papers/2601.22046
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives
+## 📄 Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives
 
 - **链接**: https://huggingface.co/papers/2601.20833
 - **阅读来源**: HTML
@@ -104,7 +101,7 @@
 
 ============================================================
 
-### 📄 Spotlighting Task-Relevant Features: Object-Centric Representations for Better Generalization in Robotic Manipulation
+## 📄 Spotlighting Task-Relevant Features: Object-Centric Representations for Better Generalization in Robotic Manipulation
 
 - **链接**: https://huggingface.co/papers/2601.21416
 - **阅读来源**: ArXiv Abs
@@ -136,7 +133,7 @@
 
 ============================================================
 
-### 📄 WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models
+## 📄 WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models
 
 - **链接**: https://huggingface.co/papers/2601.21282
 - **阅读来源**: HTML
@@ -178,7 +175,7 @@
 
 ============================================================
 
-### 📄 PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement
+## 📄 PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement
 
 - **链接**: https://huggingface.co/papers/2601.11747
 - **阅读来源**: HTML
@@ -212,7 +209,7 @@
 
 ============================================================
 
-### 📄 Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report
+## 📄 Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.21051
 - **阅读来源**: HTML
@@ -244,7 +241,7 @@
 
 ============================================================
 
-### 📄 Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models
+## 📄 Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.18129
 - **阅读来源**: HTML
@@ -287,7 +284,7 @@
 
 ============================================================
 
-### 📄 VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning
+## 📄 VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.22069
 - **阅读来源**: HTML
@@ -324,7 +321,7 @@
 
 ============================================================
 
-### 📄 Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models
+## 📄 Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models
 
 - **链接**: https://huggingface.co/papers/2601.20354
 - **阅读来源**: HTML
@@ -358,7 +355,7 @@
 
 ============================================================
 
-### 📄 ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation
+## 📄 ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation
 
 - **链接**: https://huggingface.co/papers/2601.21420
 - **阅读来源**: HTML
@@ -403,7 +400,7 @@
 
 ============================================================
 
-### 📄 One-step Latent-free Image Generation with Pixel Mean Flows
+## 📄 One-step Latent-free Image Generation with Pixel Mean Flows
 
 - **链接**: https://huggingface.co/papers/2601.22158
 - **阅读来源**: HTML
@@ -431,7 +428,7 @@
 
 ============================================================
 
-### 📄 DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation
+## 📄 DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation
 
 - **链接**: https://huggingface.co/papers/2601.22153
 - **阅读来源**: HTML
@@ -474,7 +471,7 @@ DynamicVLA 在自建的 DOM 基准测试及 16 项真实机器人任务中均取
 
 ============================================================
 
-### 📄 WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents
+## 📄 WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents
 
 - **链接**: https://huggingface.co/papers/2601.21872
 - **阅读来源**: HTML
@@ -510,7 +507,7 @@ DynamicVLA 在自建的 DOM 基准测试及 16 项真实机器人任务中均取
 
 ============================================================
 
-### 📄 MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods
+## 📄 MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods
 
 - **链接**: https://huggingface.co/papers/2601.21821
 - **阅读来源**: ArXiv Abs
@@ -543,7 +540,7 @@ DynamicVLA 在自建的 DOM 基准测试及 16 项真实机器人任务中均取
 
 ============================================================
 
-### 📄 Language-based Trial and Error Falls Behind in the Era of Experience
+## 📄 Language-based Trial and Error Falls Behind in the Era of Experience
 
 - **链接**: https://huggingface.co/papers/2601.21754
 - **阅读来源**: HTML
@@ -578,7 +575,7 @@ DynamicVLA 在自建的 DOM 基准测试及 16 项真实机器人任务中均取
 
 ============================================================
 
-### 📄 Self-Improving Pretraining: using post-trained models to pretrain better models
+## 📄 Self-Improving Pretraining: using post-trained models to pretrain better models
 
 - **链接**: https://huggingface.co/papers/2601.21343
 - **阅读来源**: HTML
@@ -619,7 +616,7 @@ DynamicVLA 在自建的 DOM 基准测试及 16 项真实机器人任务中均取
 
 ============================================================
 
-### 📄 Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts
+## 📄 Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts
 
 - **链接**: https://huggingface.co/papers/2601.22156
 - **阅读来源**: HTML
@@ -653,7 +650,7 @@ DynamicVLA 在自建的 DOM 基准测试及 16 项真实机器人任务中均取
 
 ============================================================
 
-### 📄 OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models
+## 📄 OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2601.21639
 - **阅读来源**: HTML
@@ -699,7 +696,7 @@ OCRVerse 在 4B 参数规模下，展现了甚至优于部分 72B 闭源模型�
 
 ============================================================
 
-### 📄 Scaling Embeddings Outperforms Scaling Experts in Language Models
+## 📄 Scaling Embeddings Outperforms Scaling Experts in Language Models
 
 - **链接**: https://huggingface.co/papers/2601.21204
 - **阅读来源**: HTML
@@ -741,7 +738,7 @@ OCRVerse 在 4B 参数规模下，展现了甚至优于部分 72B 闭源模型�
 
 ============================================================
 
-### 📄 Segment Length Matters: A Study of Segment Lengths on Audio Fingerprinting Performance
+## 📄 Segment Length Matters: A Study of Segment Lengths on Audio Fingerprinting Performance
 
 - **链接**: https://huggingface.co/papers/2601.17690
 - **阅读来源**: HTML
@@ -776,7 +773,7 @@ OCRVerse 在 4B 参数规模下，展现了甚至优于部分 72B 闭源模型�
 
 ============================================================
 
-### 📄 DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents
+## 📄 DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents
 
 - **链接**: https://huggingface.co/papers/2601.20975
 - **阅读来源**: HTML
@@ -807,7 +804,7 @@ NLP-大模型智能体 (LLM Agents) / 信息检索 (Information Retrieval) / 自
 
 ============================================================
 
-### 📄 Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation
+## 📄 Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation
 
 - **链接**: https://huggingface.co/papers/2601.21406
 - **阅读来源**: HTML
@@ -838,7 +835,7 @@ NLP-大模型智能体 (LLM Agents) / 信息检索 (Information Retrieval) / 自
 
 ============================================================
 
-### 📄 Exploring Reasoning Reward Model for Agents
+## 📄 Exploring Reasoning Reward Model for Agents
 
 - **链接**: https://huggingface.co/papers/2601.22154
 - **阅读来源**: HTML
@@ -877,7 +874,7 @@ NLP-大模型智能体 (LLM Agents) / 信息检索 (Information Retrieval) / 自
 
 ============================================================
 
-### 📄 MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models
+## 📄 MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.21181
 - **阅读来源**: HTML
@@ -914,7 +911,7 @@ NLP-大模型智能体 (LLM Agents) / 信息检索 (Information Retrieval) / 自
 
 ============================================================
 
-### 📄 BMAM: Brain-inspired Multi-Agent Memory Framework
+## 📄 BMAM: Brain-inspired Multi-Agent Memory Framework
 
 - **链接**: https://huggingface.co/papers/2601.20465
 - **阅读来源**: HTML
@@ -947,7 +944,7 @@ NLP - 基于大语言模型的智能体（LLM Agents）、长时记忆管理（L
 
 ============================================================
 
-### 📄 MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources
+## 📄 MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources
 
 - **链接**: https://huggingface.co/papers/2601.22054
 - **阅读来源**: HTML
@@ -982,7 +979,7 @@ NLP - 基于大语言模型的智能体（LLM Agents）、长时记忆管理（L
 
 ============================================================
 
-### 📄 STORM: Slot-based Task-aware Object-centric Representation for robotic Manipulation
+## 📄 STORM: Slot-based Task-aware Object-centric Representation for robotic Manipulation
 
 - **链接**: https://huggingface.co/papers/2601.20381
 - **阅读来源**: ArXiv Abs
@@ -1014,7 +1011,7 @@ NLP - 基于大语言模型的智能体（LLM Agents）、长时记忆管理（L
 
 ============================================================
 
-### 📄 Beyond Imitation: Reinforcement Learning for Active Latent Planning
+## 📄 Beyond Imitation: Reinforcement Learning for Active Latent Planning
 
 - **链接**: https://huggingface.co/papers/2601.21598
 - **阅读来源**: HTML
@@ -1048,4 +1045,3 @@ NLP - 基于大语言模型的智能体（LLM Agents）、长时记忆管理（L
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
