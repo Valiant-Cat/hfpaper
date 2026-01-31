@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-01-31
 **Source URL**: https://huggingface.co/papers/date/2026-01-31
 
 ============================================================
 
-### 📄 WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents
+## 📄 WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents
 
 - **链接**: https://huggingface.co/papers/2601.21872
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation
+## 📄 DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation
 
 - **链接**: https://huggingface.co/papers/2601.22153
 - **阅读来源**: HTML
@@ -72,7 +69,7 @@
 
 ============================================================
 
-### 📄 KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices
+## 📄 KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices
 
 - **链接**: https://huggingface.co/papers/2601.21579
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@ KromHC 通过将残差矩阵参数化为较小双随机矩阵的克罗内克积�
 
 ============================================================
 
-### 📄 WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models
+## 📄 WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models
 
 - **链接**: https://huggingface.co/papers/2601.21282
 - **阅读来源**: HTML
@@ -143,7 +140,7 @@ KromHC 通过将残差矩阵参数化为较小双随机矩阵的克罗内克积�
 
 ============================================================
 
-### 📄 Scaling Embeddings Outperforms Scaling Experts in Language Models
+## 📄 Scaling Embeddings Outperforms Scaling Experts in Language Models
 
 - **链接**: https://huggingface.co/papers/2601.21204
 - **阅读来源**: HTML
@@ -176,7 +173,7 @@ KromHC 通过将残差矩阵参数化为较小双随机矩阵的克罗内克积�
 
 ============================================================
 
-### 📄 Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models
+## 📄 Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.18129
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ KromHC 通过将残差矩阵参数化为较小双随机矩阵的克罗内克积�
 
 ============================================================
 
-### 📄 Reinforcement Learning from Meta-Evaluation: Aligning Language Models Without Ground-Truth Labels
+## 📄 Reinforcement Learning from Meta-Evaluation: Aligning Language Models Without Ground-Truth Labels
 
 - **链接**: https://huggingface.co/papers/2601.21268
 - **阅读来源**: ArXiv Abs
@@ -247,7 +244,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion
+## 📄 JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion
 
 - **链接**: https://huggingface.co/papers/2601.22143
 - **阅读来源**: HTML
@@ -275,7 +272,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 FROST: Filtering Reasoning Outliers with Attention for Efficient Reasoning
+## 📄 FROST: Filtering Reasoning Outliers with Attention for Efficient Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.19001
 - **阅读来源**: HTML
@@ -310,7 +307,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 Latent Adversarial Regularization for Offline Preference Optimization
+## 📄 Latent Adversarial Regularization for Offline Preference Optimization
 
 - **链接**: https://huggingface.co/papers/2601.22083
 - **阅读来源**: HTML
@@ -350,7 +347,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts
+## 📄 Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts
 
 - **链接**: https://huggingface.co/papers/2601.22156
 - **阅读来源**: HTML
@@ -385,7 +382,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis
+## 📄 Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis
 
 - **链接**: https://huggingface.co/papers/2601.20103
 - **阅读来源**: HTML
@@ -417,7 +414,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 BMAM: Brain-inspired Multi-Agent Memory Framework
+## 📄 BMAM: Brain-inspired Multi-Agent Memory Framework
 
 - **链接**: https://huggingface.co/papers/2601.20465
 - **阅读来源**: HTML
@@ -450,7 +447,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 Beyond Imitation: Reinforcement Learning for Active Latent Planning
+## 📄 Beyond Imitation: Reinforcement Learning for Active Latent Planning
 
 - **链接**: https://huggingface.co/papers/2601.21598
 - **阅读来源**: HTML
@@ -491,7 +488,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report
+## 📄 Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.21051
 - **阅读来源**: HTML
@@ -524,7 +521,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 Qwen3-ASR Technical Report
+## 📄 Qwen3-ASR Technical Report
 
 - **链接**: https://huggingface.co/papers/2601.21337
 - **阅读来源**: HTML
@@ -557,7 +554,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 Shaping capabilities with token-level data filtering
+## 📄 Shaping capabilities with token-level data filtering
 
 - **链接**: https://huggingface.co/papers/2601.21571
 - **阅读来源**: HTML
@@ -593,7 +590,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models
+## 📄 Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models
 
 - **链接**: https://huggingface.co/papers/2601.20354
 - **阅读来源**: HTML
@@ -628,7 +625,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 Flow-based Extremal Mathematical Structure Discovery
+## 📄 Flow-based Extremal Mathematical Structure Discovery
 
 - **链接**: https://huggingface.co/papers/2601.18005
 - **阅读来源**: HTML
@@ -668,7 +665,7 @@ NLP-大语言模型对齐（LLM Alignment）、强化学习（Reinforcement Lear
 
 ============================================================
 
-### 📄 AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment Rollouts
+## 📄 AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment Rollouts
 
 - **链接**: https://huggingface.co/papers/2601.20730
 - **阅读来源**: ArXiv Abs
@@ -700,7 +697,7 @@ NLP-大语言模型（LLM）、智能体（Autonomous Agents）、长上下文�
 
 ============================================================
 
-### 📄 ECO: Quantized Training without Full-Precision Master Weights
+## 📄 ECO: Quantized Training without Full-Precision Master Weights
 
 - **链接**: https://huggingface.co/papers/2601.22101
 - **阅读来源**: HTML
@@ -737,7 +734,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 LoL: Longer than Longer, Scaling Video Generation to Hour
+## 📄 LoL: Longer than Longer, Scaling Video Generation to Hour
 
 - **链接**: https://huggingface.co/papers/2601.16914
 - **阅读来源**: HTML
@@ -772,7 +769,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 Exploring Reasoning Reward Model for Agents
+## 📄 Exploring Reasoning Reward Model for Agents
 
 - **链接**: https://huggingface.co/papers/2601.22154
 - **阅读来源**: HTML
@@ -817,7 +814,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale
+## 📄 FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale
 
 - **链接**: https://huggingface.co/papers/2601.22146
 - **阅读来源**: HTML
@@ -849,7 +846,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 Self-Improving Pretraining: using post-trained models to pretrain better models
+## 📄 Self-Improving Pretraining: using post-trained models to pretrain better models
 
 - **链接**: https://huggingface.co/papers/2601.21343
 - **阅读来源**: HTML
@@ -889,7 +886,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 Discovering Hidden Gems in Model Repositories
+## 📄 Discovering Hidden Gems in Model Repositories
 
 - **链接**: https://huggingface.co/papers/2601.22157
 - **阅读来源**: HTML
@@ -936,7 +933,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 Segment Length Matters: A Study of Segment Lengths on Audio Fingerprinting Performance
+## 📄 Segment Length Matters: A Study of Segment Lengths on Audio Fingerprinting Performance
 
 - **链接**: https://huggingface.co/papers/2601.17690
 - **阅读来源**: HTML
@@ -971,7 +968,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation
+## 📄 Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation
 
 - **链接**: https://huggingface.co/papers/2601.21406
 - **阅读来源**: HTML
@@ -1007,7 +1004,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 STORM: Slot-based Task-aware Object-centric Representation for robotic Manipulation
+## 📄 STORM: Slot-based Task-aware Object-centric Representation for robotic Manipulation
 
 - **链接**: https://huggingface.co/papers/2601.20381
 - **阅读来源**: ArXiv Abs
@@ -1045,7 +1042,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models
+## 📄 MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.21181
 - **阅读来源**: HTML
@@ -1080,7 +1077,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents
+## 📄 DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents
 
 - **链接**: https://huggingface.co/papers/2601.20975
 - **阅读来源**: HTML
@@ -1114,7 +1111,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction
+## 📄 PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction
 
 - **链接**: https://huggingface.co/papers/2601.22046
 - **阅读来源**: HTML
@@ -1151,7 +1148,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 Spotlighting Task-Relevant Features: Object-Centric Representations for Better Generalization in Robotic Manipulation
+## 📄 Spotlighting Task-Relevant Features: Object-Centric Representations for Better Generalization in Robotic Manipulation
 
 - **链接**: https://huggingface.co/papers/2601.21416
 - **阅读来源**: ArXiv Abs
@@ -1183,7 +1180,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units
+## 📄 Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units
 
 - **链接**: https://huggingface.co/papers/2601.21996
 - **阅读来源**: HTML
@@ -1222,7 +1219,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives
+## 📄 Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives
 
 - **链接**: https://huggingface.co/papers/2601.20833
 - **阅读来源**: HTML
@@ -1257,7 +1254,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods
+## 📄 MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods
 
 - **链接**: https://huggingface.co/papers/2601.21821
 - **阅读来源**: ArXiv Abs
@@ -1289,7 +1286,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation
+## 📄 ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation
 
 - **链接**: https://huggingface.co/papers/2601.21420
 - **阅读来源**: HTML
@@ -1328,7 +1325,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 Scalable Power Sampling: Unlocking Efficient, Training-Free Reasoning for LLMs via Distribution Sharpening
+## 📄 Scalable Power Sampling: Unlocking Efficient, Training-Free Reasoning for LLMs via Distribution Sharpening
 
 - **链接**: https://huggingface.co/papers/2601.21590
 - **阅读来源**: HTML
@@ -1361,7 +1358,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning
+## 📄 VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.22069
 - **阅读来源**: HTML
@@ -1394,7 +1391,7 @@ NLP-大语言模型训练（LLM Pretraining & Fine-tuning），特别是针对�
 
 ============================================================
 
-### 📄 OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models
+## 📄 OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2601.21639
 - **阅读来源**: HTML
@@ -1429,7 +1426,7 @@ OCRVerse（4B 参数）在多个基准测试中展现了极高的参数效率，
 
 ============================================================
 
-### 📄 One-step Latent-free Image Generation with Pixel Mean Flows
+## 📄 One-step Latent-free Image Generation with Pixel Mean Flows
 
 - **链接**: https://huggingface.co/papers/2601.22158
 - **阅读来源**: HTML
@@ -1467,7 +1464,7 @@ OCRVerse（4B 参数）在多个基准测试中展现了极高的参数效率，
 
 ============================================================
 
-### 📄 PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement
+## 📄 PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement
 
 - **链接**: https://huggingface.co/papers/2601.11747
 - **阅读来源**: HTML
@@ -1502,7 +1499,7 @@ OCRVerse（4B 参数）在多个基准测试中展现了极高的参数效率，
 
 ============================================================
 
-### 📄 EEG Foundation Models: Progresses, Benchmarking, and Open Problems
+## 📄 EEG Foundation Models: Progresses, Benchmarking, and Open Problems
 
 - **链接**: https://huggingface.co/papers/2601.17883
 - **阅读来源**: ArXiv Abs
@@ -1535,7 +1532,7 @@ OCRVerse（4B 参数）在多个基准测试中展现了极高的参数效率，
 
 ============================================================
 
-### 📄 MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources
+## 📄 MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources
 
 - **链接**: https://huggingface.co/papers/2601.22054
 - **阅读来源**: HTML
@@ -1574,7 +1571,7 @@ OCRVerse（4B 参数）在多个基准测试中展现了极高的参数效率，
 
 ============================================================
 
-### 📄 Language-based Trial and Error Falls Behind in the Era of Experience
+## 📄 Language-based Trial and Error Falls Behind in the Era of Experience
 
 - **链接**: https://huggingface.co/papers/2601.21754
 - **阅读来源**: HTML
@@ -1607,4 +1604,3 @@ OCRVerse（4B 参数）在多个基准测试中展现了极高的参数效率，
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
