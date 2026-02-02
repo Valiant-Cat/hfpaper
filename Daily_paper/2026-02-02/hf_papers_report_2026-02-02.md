@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-02
 **Source URL**: https://huggingface.co/papers/date/2026-02-02
 
 ============================================================
 
-### 📄 Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience
+## 📄 Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience
 
 - **链接**: https://huggingface.co/papers/2601.23188
 - **阅读来源**: HTML
@@ -44,7 +41,7 @@
 
 ============================================================
 
-### 📄 TTCS: Test-Time Curriculum Synthesis for Self-Evolving
+## 📄 TTCS: Test-Time Curriculum Synthesis for Self-Evolving
 
 - **链接**: https://huggingface.co/papers/2601.22628
 - **阅读来源**: HTML
@@ -78,7 +75,7 @@
 
 ============================================================
 
-### 📄 FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation
+## 📄 FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation
 
 - **链接**: https://huggingface.co/papers/2601.23182
 - **阅读来源**: ArXiv Abs
@@ -110,7 +107,7 @@
 
 ============================================================
 
-### 📄 ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought
+## 📄 ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought
 
 - **链接**: https://huggingface.co/papers/2601.23184
 - **阅读来源**: HTML
@@ -141,7 +138,7 @@
 
 ============================================================
 
-### 📄 Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification
+## 📄 Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification
 
 - **链接**: https://huggingface.co/papers/2601.22642
 - **阅读来源**: HTML
@@ -178,7 +175,7 @@
 
 ============================================================
 
-### 📄 LMK > CLS: Landmark Pooling for Dense Embeddings
+## 📄 LMK > CLS: Landmark Pooling for Dense Embeddings
 
 - **链接**: https://huggingface.co/papers/2601.21525
 - **阅读来源**: HTML
@@ -214,7 +211,7 @@
 
 ============================================================
 
-### 📄 Robust Tool Use via Fission-GRPO: Learning to Recover from Execution Errors
+## 📄 Robust Tool Use via Fission-GRPO: Learning to Recover from Execution Errors
 
 - **链接**: https://huggingface.co/papers/2601.15625
 - **阅读来源**: HTML
@@ -250,7 +247,7 @@
 
 ============================================================
 
-### 📄 Why Attention Patterns Exist: A Unifying Temporal Perspective Analysis
+## 📄 Why Attention Patterns Exist: A Unifying Temporal Perspective Analysis
 
 - **链接**: https://huggingface.co/papers/2601.21709
 - **阅读来源**: HTML
@@ -295,7 +292,7 @@
 
 ============================================================
 
-### 📄 PaddleOCR-VL-1.5: Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing
+## 📄 PaddleOCR-VL-1.5: Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing
 
 - **链接**: https://huggingface.co/papers/2601.21957
 - **阅读来源**: HTML
@@ -331,7 +328,7 @@
 
 ============================================================
 
-### 📄 THINKSAFE: Self-Generated Safety Alignment for Reasoning Models
+## 📄 THINKSAFE: Self-Generated Safety Alignment for Reasoning Models
 
 - **链接**: https://huggingface.co/papers/2601.23143
 - **阅读来源**: HTML
@@ -371,7 +368,7 @@
 
 ============================================================
 
-### 📄 MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning
+## 📄 MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.21468
 - **阅读来源**: HTML
@@ -409,7 +406,7 @@
 
 ============================================================
 
-### 📄 NativeTok: Native Visual Tokenization for Improved Image Generation
+## 📄 NativeTok: Native Visual Tokenization for Improved Image Generation
 
 - **链接**: https://huggingface.co/papers/2601.22837
 - **阅读来源**: HTML
@@ -445,7 +442,7 @@
 
 ============================================================
 
-### 📄 Continual GUI Agents
+## 📄 Continual GUI Agents
 
 - **链接**: https://huggingface.co/papers/2601.20732
 - **阅读来源**: HTML
@@ -482,7 +479,7 @@
 
 ============================================================
 
-### 📄 Statistical Estimation of Adversarial Risk in Large Language Models under Best-of-N Sampling
+## 📄 Statistical Estimation of Adversarial Risk in Large Language Models under Best-of-N Sampling
 
 - **链接**: https://huggingface.co/papers/2601.22636
 - **阅读来源**: HTML
@@ -518,7 +515,7 @@
 
 ============================================================
 
-### 📄 ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas
+## 📄 ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas
 
 - **链接**: https://huggingface.co/papers/2601.21558
 - **阅读来源**: HTML
@@ -558,7 +555,7 @@
 
 ============================================================
 
-### 📄 DINO-SAE: DINO Spherical Autoencoder for High-Fidelity Image Reconstruction and Generation
+## 📄 DINO-SAE: DINO Spherical Autoencoder for High-Fidelity Image Reconstruction and Generation
 
 - **链接**: https://huggingface.co/papers/2601.22904
 - **阅读来源**: HTML
@@ -599,7 +596,7 @@
 
 ============================================================
 
-### 📄 Machine Learning for Energy-Performance-aware Scheduling
+## 📄 Machine Learning for Energy-Performance-aware Scheduling
 
 - **链接**: https://huggingface.co/papers/2601.23134
 - **阅读来源**: HTML
@@ -641,7 +638,7 @@
 
 ============================================================
 
-### 📄 Real-Time Aligned Reward Model beyond Semantics
+## 📄 Real-Time Aligned Reward Model beyond Semantics
 
 - **链接**: https://huggingface.co/papers/2601.22664
 - **阅读来源**: HTML
@@ -682,7 +679,7 @@
 
 ============================================================
 
-### 📄 DenseGRPO: From Sparse to Dense Reward for Flow Matching Model Alignment
+## 📄 DenseGRPO: From Sparse to Dense Reward for Flow Matching Model Alignment
 
 - **链接**: https://huggingface.co/papers/2601.20218
 - **阅读来源**: HTML
@@ -730,7 +727,7 @@
 
 ============================================================
 
-### 📄 RM -RF: Reward Model for Run-Free Unit Test Evaluation
+## 📄 RM -RF: Reward Model for Run-Free Unit Test Evaluation
 
 - **链接**: https://huggingface.co/papers/2601.13097
 - **阅读来源**: HTML
@@ -771,7 +768,7 @@
 
 ============================================================
 
-### 📄 SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization
+## 📄 SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization
 
 - **链接**: https://huggingface.co/papers/2601.22491
 - **阅读来源**: HTML
@@ -811,7 +808,7 @@
 
 ============================================================
 
-### 📄 DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning
+## 📄 DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning
 
 - **链接**: https://huggingface.co/papers/2601.21716
 - **阅读来源**: ArXiv Abs
@@ -843,7 +840,7 @@
 
 ============================================================
 
-### 📄 Routing the Lottery: Adaptive Subnetworks for Heterogeneous Data
+## 📄 Routing the Lottery: Adaptive Subnetworks for Heterogeneous Data
 
 - **链接**: https://huggingface.co/papers/2601.22141
 - **阅读来源**: HTML
@@ -883,7 +880,7 @@
 
 ============================================================
 
-### 📄 Revisiting Diffusion Model Predictions Through Dimensionality
+## 📄 Revisiting Diffusion Model Predictions Through Dimensionality
 
 - **链接**: https://huggingface.co/papers/2601.21419
 - **阅读来源**: HTML
@@ -920,7 +917,7 @@
 
 ============================================================
 
-### 📄 Latent Chain-of-Thought as Planning: Decoupling Reasoning from Verbalization
+## 📄 Latent Chain-of-Thought as Planning: Decoupling Reasoning from Verbalization
 
 - **链接**: https://huggingface.co/papers/2601.21358
 - **阅读来源**: HTML
@@ -963,7 +960,7 @@
 
 ============================================================
 
-### 📄 TAM-Eval: Evaluating LLMs for Automated Unit Test Maintenance
+## 📄 TAM-Eval: Evaluating LLMs for Automated Unit Test Maintenance
 
 - **链接**: https://huggingface.co/papers/2601.18241
 - **阅读来源**: HTML
@@ -998,7 +995,7 @@
 
 ============================================================
 
-### 📄 PaperBanana: Automating Academic Illustration for AI Scientists
+## 📄 PaperBanana: Automating Academic Illustration for AI Scientists
 
 - **链接**: https://huggingface.co/papers/2601.23265
 - **阅读来源**: ArXiv Abs
@@ -1028,7 +1025,7 @@
 
 ============================================================
 
-### 📄 DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding
+## 📄 DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding
 
 - **链接**: https://huggingface.co/papers/2601.23161
 - **阅读来源**: HTML
@@ -1063,4 +1060,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
