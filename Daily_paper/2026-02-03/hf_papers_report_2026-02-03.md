@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-03
 **Source URL**: https://huggingface.co/papers/date/2026-02-03
 
 ============================================================
 
-### 📄 SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning
+## 📄 SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning
 
 - **链接**: https://huggingface.co/papers/2602.02472
 - **阅读来源**: HTML
@@ -43,7 +40,7 @@
 
 ============================================================
 
-### 📄 AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios
+## 📄 AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios
 
 - **链接**: https://huggingface.co/papers/2601.20613
 - **阅读来源**: HTML
@@ -74,7 +71,7 @@
 
 ============================================================
 
-### 📄 An Empirical Study of World Model Quantization
+## 📄 An Empirical Study of World Model Quantization
 
 - **链接**: https://huggingface.co/papers/2602.02110
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@
 
 ============================================================
 
-### 📄 Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles
+## 📄 Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles
 
 - **链接**: https://huggingface.co/papers/2602.01590
 - **阅读来源**: HTML
@@ -141,7 +138,7 @@
 
 ============================================================
 
-### 📄 Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning
+## 📄 Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.01335
 - **阅读来源**: HTML
@@ -175,7 +172,7 @@
 
 ============================================================
 
-### 📄 Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars
+## 📄 Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars
 
 - **链接**: https://huggingface.co/papers/2602.01538
 - **阅读来源**: HTML
@@ -205,7 +202,7 @@
 
 ============================================================
 
-### 📄 SEA-Guard: Culturally Grounded Multilingual Safeguard for Southeast Asia
+## 📄 SEA-Guard: Culturally Grounded Multilingual Safeguard for Southeast Asia
 
 - **链接**: https://huggingface.co/papers/2602.01618
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@
 
 ============================================================
 
-### 📄 Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models
+## 📄 Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.02185
 - **阅读来源**: HTML
@@ -275,7 +272,7 @@
 
 ============================================================
 
-### 📄 Ebisu: Benchmarking Large Language Models in Japanese Finance
+## 📄 Ebisu: Benchmarking Large Language Models in Japanese Finance
 
 - **链接**: https://huggingface.co/papers/2602.01479
 - **阅读来源**: HTML
@@ -312,7 +309,7 @@
 
 ============================================================
 
-### 📄 UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing
+## 📄 UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing
 
 - **链接**: https://huggingface.co/papers/2602.02437
 - **阅读来源**: ArXiv Abs
@@ -343,7 +340,7 @@
 
 ============================================================
 
-### 📄 Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation
+## 📄 Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation
 
 - **链接**: https://huggingface.co/papers/2602.02214
 - **阅读来源**: HTML
@@ -377,7 +374,7 @@
 
 ============================================================
 
-### 📄 On the Limits of Layer Pruning for Generative Reasoning in LLMs
+## 📄 On the Limits of Layer Pruning for Generative Reasoning in LLMs
 
 - **链接**: https://huggingface.co/papers/2602.01997
 - **阅读来源**: HTML
@@ -413,7 +410,7 @@
 
 ============================================================
 
-### 📄 FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents
+## 📄 FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents
 
 - **链接**: https://huggingface.co/papers/2602.01566
 - **阅读来源**: HTML
@@ -443,7 +440,7 @@
 
 ============================================================
 
-### 📄 Evolving from Tool User to Creator via Training-Free Experience Reuse in Multimodal Reasoning
+## 📄 Evolving from Tool User to Creator via Training-Free Experience Reuse in Multimodal Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.01983
 - **阅读来源**: HTML
@@ -489,7 +486,7 @@
 
 ============================================================
 
-### 📄 OVD: On-policy Verbal Distillation
+## 📄 OVD: On-policy Verbal Distillation
 
 - **链接**: https://huggingface.co/papers/2601.21968
 - **阅读来源**: HTML
@@ -529,7 +526,7 @@
 
 ============================================================
 
-### 📄 PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers
+## 📄 PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2602.01077
 - **阅读来源**: HTML
@@ -559,7 +556,7 @@
 
 ============================================================
 
-### 📄 Green-VLA: Staged Vision-Language-Action Model for Generalist Robots
+## 📄 Green-VLA: Staged Vision-Language-Action Model for Generalist Robots
 
 - **链接**: https://huggingface.co/papers/2602.00919
 - **阅读来源**: HTML
@@ -603,7 +600,7 @@ Green-VLA 在模拟器和真机实验中均取得了优异成绩：
 
 ============================================================
 
-### 📄 SWE-Universe: Scale Real-World Verifiable Environments to Millions
+## 📄 SWE-Universe: Scale Real-World Verifiable Environments to Millions
 
 - **链接**: https://huggingface.co/papers/2602.02361
 - **阅读来源**: HTML
@@ -635,7 +632,7 @@ Green-VLA 在模拟器和真机实验中均取得了优异成绩：
 
 ============================================================
 
-### 📄 Kimi K2.5: Visual Agentic Intelligence
+## 📄 Kimi K2.5: Visual Agentic Intelligence
 
 - **链接**: https://huggingface.co/papers/2602.02276
 - **阅读来源**: HTML
@@ -676,7 +673,7 @@ Kimi K2.5 在多个领域的基准测试中达到了 SOTA（State-of-the-Art）�
 
 ============================================================
 
-### 📄 Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning
+## 📄 Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.01058
 - **阅读来源**: HTML
@@ -714,7 +711,7 @@ Kimi K2.5 在多个领域的基准测试中达到了 SOTA（State-of-the-Art）�
 
 ============================================================
 
-### 📄 Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training
+## 📄 Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training
 
 - **链接**: https://huggingface.co/papers/2602.01511
 - **阅读来源**: HTML
@@ -749,7 +746,7 @@ Kimi K2.5 在多个领域的基准测试中达到了 SOTA（State-of-the-Art）�
 
 ============================================================
 
-### 📄 Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry
+## 📄 Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry
 
 - **链接**: https://huggingface.co/papers/2601.22588
 - **阅读来源**: HTML
@@ -788,7 +785,7 @@ Kimi K2.5 在多个领域的基准测试中达到了 SOTA（State-of-the-Art）�
 
 ============================================================
 
-### 📄 PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss
+## 📄 PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss
 
 - **链接**: https://huggingface.co/papers/2602.02493
 - **阅读来源**: HTML
@@ -835,7 +832,7 @@ Kimi K2.5 在多个领域的基准测试中达到了 SOTA（State-of-the-Art）�
 
 ============================================================
 
-### 📄 WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora
+## 📄 WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora
 
 - **链接**: https://huggingface.co/papers/2602.02053
 - **阅读来源**: HTML
@@ -866,7 +863,7 @@ NLP - 检索增强生成 (Retrieval-Augmented Generation, RAG) / 图神经网络
 
 ============================================================
 
-### 📄 On the Relationship Between Representation Geometry and Generalization in Deep Neural Networks
+## 📄 On the Relationship Between Representation Geometry and Generalization in Deep Neural Networks
 
 - **链接**: https://huggingface.co/papers/2602.00130
 - **阅读来源**: ArXiv Abs
@@ -898,7 +895,7 @@ NLP - 检索增强生成 (Retrieval-Augmented Generation, RAG) / 图神经网络
 
 ============================================================
 
-### 📄 INDIBATOR: Diverse and Fact-Grounded Individuality for Multi-Agent Debate in Molecular Discovery
+## 📄 INDIBATOR: Diverse and Fact-Grounded Individuality for Multi-Agent Debate in Molecular Discovery
 
 - **链接**: https://huggingface.co/papers/2602.01815
 - **阅读来源**: HTML
@@ -934,7 +931,7 @@ NLP - 检索增强生成 (Retrieval-Augmented Generation, RAG) / 图神经网络
 
 ============================================================
 
-### 📄 Closing the Loop: Universal Repository Representation with RPG-Encoder
+## 📄 Closing the Loop: Universal Repository Representation with RPG-Encoder
 
 - **链接**: https://huggingface.co/papers/2602.02084
 - **阅读来源**: ArXiv Abs
@@ -970,7 +967,7 @@ NLP - 检索增强生成 (Retrieval-Augmented Generation, RAG) / 图神经网络
 
 ============================================================
 
-### 📄 RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents
+## 📄 RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents
 
 - **链接**: https://huggingface.co/papers/2602.02486
 - **阅读来源**: HTML
@@ -1007,7 +1004,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning
+## 📄 Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.00759
 - **阅读来源**: HTML
@@ -1044,7 +1041,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards
+## 📄 PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards
 
 - **链接**: https://huggingface.co/papers/2602.01624
 - **阅读来源**: HTML
@@ -1087,7 +1084,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System
+## 📄 RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System
 
 - **链接**: https://huggingface.co/papers/2602.02488
 - **阅读来源**: HTML
@@ -1129,7 +1126,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 FSVideo: Fast Speed Video Diffusion Model in a Highly-Compressed Latent Space
+## 📄 FSVideo: Fast Speed Video Diffusion Model in a Highly-Compressed Latent Space
 
 - **链接**: https://huggingface.co/papers/2602.02092
 - **阅读来源**: HTML
@@ -1165,7 +1162,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 Show, Don't Tell: Morphing Latent Reasoning into Image Generation
+## 📄 Show, Don't Tell: Morphing Latent Reasoning into Image Generation
 
 - **链接**: https://huggingface.co/papers/2602.02227
 - **阅读来源**: HTML
@@ -1197,7 +1194,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation
+## 📄 Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation
 
 - **链接**: https://huggingface.co/papers/2602.01756
 - **阅读来源**: HTML
@@ -1231,7 +1228,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 CoDiQ: Test-Time Scaling for Controllable Difficult Question Generation
+## 📄 CoDiQ: Test-Time Scaling for Controllable Difficult Question Generation
 
 - **链接**: https://huggingface.co/papers/2602.01660
 - **阅读来源**: ArXiv Abs
@@ -1262,7 +1259,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 LoopViT: Scaling Visual ARC with Looped Transformers
+## 📄 LoopViT: Scaling Visual ARC with Looped Transformers
 
 - **链接**: https://huggingface.co/papers/2602.02156
 - **阅读来源**: HTML
@@ -1298,7 +1295,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 PromptRL: Prompt Matters in RL for Flow-Based Image Generation
+## 📄 PromptRL: Prompt Matters in RL for Flow-Based Image Generation
 
 - **链接**: https://huggingface.co/papers/2602.01382
 - **阅读来源**: HTML
@@ -1333,7 +1330,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration
+## 📄 VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration
 
 - **链接**: https://huggingface.co/papers/2601.22674
 - **阅读来源**: HTML
@@ -1367,7 +1364,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 Interacted Planes Reveal 3D Line Mapping
+## 📄 Interacted Planes Reveal 3D Line Mapping
 
 - **链接**: https://huggingface.co/papers/2602.01296
 - **阅读来源**: HTML
@@ -1397,7 +1394,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models
+## 📄 Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2602.01842
 - **阅读来源**: HTML
@@ -1444,7 +1441,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 Toward Cognitive Supersensing in Multimodal Large Language Model
+## 📄 Toward Cognitive Supersensing in Multimodal Large Language Model
 
 - **链接**: https://huggingface.co/papers/2602.01541
 - **阅读来源**: HTML
@@ -1480,7 +1477,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 Influence Guided Sampling for Domain Adaptation of Text Retrievers
+## 📄 Influence Guided Sampling for Domain Adaptation of Text Retrievers
 
 - **链接**: https://huggingface.co/papers/2601.21759
 - **阅读来源**: HTML
@@ -1521,7 +1518,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing
+## 📄 How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing
 
 - **链接**: https://huggingface.co/papers/2602.01851
 - **阅读来源**: HTML
@@ -1553,7 +1550,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 ============================================================
 
-### 📄 Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models
+## 📄 Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.22060
 - **阅读来源**: HTML
@@ -1585,4 +1582,3 @@ NLP - 大语言模型智能体 (LLM Agents) / 深度搜索 (Deep Research) / 长
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
