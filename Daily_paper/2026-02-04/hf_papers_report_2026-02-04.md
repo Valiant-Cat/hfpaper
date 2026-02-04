@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-04
 **Source URL**: https://huggingface.co/papers/date/2026-02-04
 
 ============================================================
 
-### 📄 FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation
+## 📄 FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation
 
 - **链接**: https://huggingface.co/papers/2602.03798
 - **阅读来源**: HTML
@@ -41,7 +38,7 @@
 
 ============================================================
 
-### 📄 ObjEmbed: Towards Universal Multimodal Object Embeddings
+## 📄 ObjEmbed: Towards Universal Multimodal Object Embeddings
 
 - **链接**: https://huggingface.co/papers/2602.01753
 - **阅读来源**: HTML
@@ -83,7 +80,7 @@
 
 ============================================================
 
-### 📄 WorldVQA: Measuring Atomic World Knowledge in Multimodal Large Language Models
+## 📄 WorldVQA: Measuring Atomic World Knowledge in Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.02537
 - **阅读来源**: HTML
@@ -116,7 +113,7 @@
 
 ============================================================
 
-### 📄 Balancing Understanding and Generation in Discrete Diffusion Models
+## 📄 Balancing Understanding and Generation in Discrete Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2602.01362
 - **阅读来源**: HTML
@@ -148,7 +145,7 @@
 
 ============================================================
 
-### 📄 SWE-World: Building Software Engineering Agents in Docker-Free Environments
+## 📄 SWE-World: Building Software Engineering Agents in Docker-Free Environments
 
 - **链接**: https://huggingface.co/papers/2602.03419
 - **阅读来源**: HTML
@@ -183,7 +180,7 @@
 
 ============================================================
 
-### 📄 CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding
+## 📄 CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding
 
 - **链接**: https://huggingface.co/papers/2602.01785
 - **阅读来源**: HTML
@@ -216,7 +213,7 @@
 
 ============================================================
 
-### 📄 Glance and Focus Reinforcement for Pan-cancer Screening
+## 📄 Glance and Focus Reinforcement for Pan-cancer Screening
 
 - **链接**: https://huggingface.co/papers/2601.19103
 - **阅读来源**: HTML
@@ -262,7 +259,7 @@
 
 ============================================================
 
-### 📄 FaceLinkGen: Rethinking Identity Leakage in Privacy-Preserving Face Recognition with Identity Extraction
+## 📄 FaceLinkGen: Rethinking Identity Leakage in Privacy-Preserving Face Recognition with Identity Extraction
 
 - **链接**: https://huggingface.co/papers/2602.02914
 - **阅读来源**: HTML
@@ -295,7 +292,7 @@
 
 ============================================================
 
-### 📄 WideSeek: Advancing Wide Research via Multi-Agent Scaling
+## 📄 WideSeek: Advancing Wide Research via Multi-Agent Scaling
 
 - **链接**: https://huggingface.co/papers/2602.02636
 - **阅读来源**: HTML
@@ -323,7 +320,7 @@
 
 ============================================================
 
-### 📄 Less Noise, More Voice: Reinforcement Learning for Reasoning via Instruction Purification
+## 📄 Less Noise, More Voice: Reinforcement Learning for Reasoning via Instruction Purification
 
 - **链接**: https://huggingface.co/papers/2601.21244
 - **阅读来源**: HTML
@@ -362,7 +359,7 @@
 
 ============================================================
 
-### 📄 Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection
+## 📄 Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection
 
 - **链接**: https://huggingface.co/papers/2602.03216
 - **阅读来源**: HTML
@@ -402,7 +399,7 @@
 
 ============================================================
 
-### 📄 3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation
+## 📄 3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation
 
 - **链接**: https://huggingface.co/papers/2602.03796
 - **阅读来源**: HTML
@@ -450,7 +447,7 @@
 
 ============================================================
 
-### 📄 The Necessity of a Unified Framework for LLM-Based Agent Evaluation
+## 📄 The Necessity of a Unified Framework for LLM-Based Agent Evaluation
 
 - **链接**: https://huggingface.co/papers/2602.03238
 - **阅读来源**: HTML
@@ -484,7 +481,7 @@
 
 ============================================================
 
-### 📄 SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration
+## 📄 SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration
 
 - **链接**: https://huggingface.co/papers/2602.02419
 - **阅读来源**: HTML
@@ -525,7 +522,7 @@
 
 ============================================================
 
-### 📄 CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs
+## 📄 CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs
 
 - **链接**: https://huggingface.co/papers/2602.03048
 - **阅读来源**: HTML
@@ -565,7 +562,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents
+## 📄 LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents
 
 - **链接**: https://huggingface.co/papers/2602.01053
 - **阅读来源**: HTML
@@ -601,7 +598,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs
+## 📄 No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs
 
 - **链接**: https://huggingface.co/papers/2602.02103
 - **阅读来源**: HTML
@@ -638,7 +635,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 MARS: Modular Agent with Reflective Search for Automated AI Research
+## 📄 MARS: Modular Agent with Reflective Search for Automated AI Research
 
 - **链接**: https://huggingface.co/papers/2602.02660
 - **阅读来源**: ArXiv Abs
@@ -671,7 +668,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process
+## 📄 AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process
 
 - **链接**: https://huggingface.co/papers/2602.02676
 - **阅读来源**: HTML
@@ -706,7 +703,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Research on World Models Is Not Merely Injecting World Knowledge into Specific Tasks
+## 📄 Research on World Models Is Not Merely Injecting World Knowledge into Specific Tasks
 
 - **链接**: https://huggingface.co/papers/2602.01630
 - **阅读来源**: HTML
@@ -749,7 +746,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation
+## 📄 Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation
 
 - **链接**: https://huggingface.co/papers/2602.03619
 - **阅读来源**: HTML
@@ -787,7 +784,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently
+## 📄 daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently
 
 - **链接**: https://huggingface.co/papers/2602.02619
 - **阅读来源**: HTML
@@ -818,7 +815,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration
+## 📄 AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration
 
 - **链接**: https://huggingface.co/papers/2602.03786
 - **阅读来源**: HTML
@@ -858,7 +855,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training
+## 📄 SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training
 
 - **链接**: https://huggingface.co/papers/2602.03411
 - **阅读来源**: HTML
@@ -886,7 +883,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation
+## 📄 Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation
 
 - **链接**: https://huggingface.co/papers/2602.03806
 - **阅读来源**: HTML
@@ -920,7 +917,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Accelerating Scientific Research with Gemini: Case Studies and Common Techniques
+## 📄 Accelerating Scientific Research with Gemini: Case Studies and Common Techniques
 
 - **链接**: https://huggingface.co/papers/2602.03837
 - **阅读来源**: ArXiv Abs
@@ -956,7 +953,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Contextualized Visual Personalization in Vision-Language Models
+## 📄 Contextualized Visual Personalization in Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2602.03454
 - **阅读来源**: HTML
@@ -987,7 +984,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training
+## 📄 Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training
 
 - **链接**: https://huggingface.co/papers/2602.00747
 - **阅读来源**: HTML
@@ -1022,7 +1019,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing
+## 📄 Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing
 
 - **链接**: https://huggingface.co/papers/2602.03845
 - **阅读来源**: HTML
@@ -1060,7 +1057,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Unified Personalized Reward Model for Vision Generation
+## 📄 Unified Personalized Reward Model for Vision Generation
 
 - **链接**: https://huggingface.co/papers/2602.02380
 - **阅读来源**: ArXiv Abs
@@ -1095,7 +1092,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis
+## 📄 Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis
 
 - **链接**: https://huggingface.co/papers/2602.03139
 - **阅读来源**: HTML
@@ -1126,7 +1123,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion
+## 📄 Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion
 
 - **链接**: https://huggingface.co/papers/2602.03817
 - **阅读来源**: HTML
@@ -1164,7 +1161,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 SimpleGPT: Improving GPT via A Simple Normalization Strategy
+## 📄 SimpleGPT: Improving GPT via A Simple Normalization Strategy
 
 - **链接**: https://huggingface.co/papers/2602.01212
 - **阅读来源**: HTML
@@ -1199,7 +1196,7 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 ============================================================
 
-### 📄 Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration
+## 📄 Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration
 
 - **链接**: https://huggingface.co/papers/2602.03647
 - **阅读来源**: HTML
@@ -1234,4 +1231,3 @@ NLP - 大语言模型强化学习后训练（LLM Post-training / RLHF / RLVR）�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
