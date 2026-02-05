@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-05
 **Source URL**: https://huggingface.co/papers/date/2026-02-05
 
 ============================================================
 
-### 📄 HY3D-Bench: Generation of 3D Assets
+## 📄 HY3D-Bench: Generation of 3D Assets
 
 - **链接**: https://huggingface.co/papers/2602.03907
 - **阅读来源**: HTML
@@ -46,7 +43,7 @@
 
 ============================================================
 
-### 📄 Training Data Efficiency in Multimodal Process Reward Models
+## 📄 Training Data Efficiency in Multimodal Process Reward Models
 
 - **链接**: https://huggingface.co/papers/2602.04145
 - **阅读来源**: ArXiv Abs
@@ -85,7 +82,7 @@
 
 ============================================================
 
-### 📄 From Data to Behavior: Predicting Unintended Model Behaviors Before Training
+## 📄 From Data to Behavior: Predicting Unintended Model Behaviors Before Training
 
 - **链接**: https://huggingface.co/papers/2602.04735
 - **阅读来源**: HTML
@@ -132,7 +129,7 @@
 
 ============================================================
 
-### 📄 A2Eval: Agentic and Automated Evaluation for Embodied Brain
+## 📄 A2Eval: Agentic and Automated Evaluation for Embodied Brain
 
 - **链接**: https://huggingface.co/papers/2602.01640
 - **阅读来源**: HTML
@@ -169,7 +166,7 @@
 
 ============================================================
 
-### 📄 Residual Context Diffusion Language Models
+## 📄 Residual Context Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2601.22954
 - **阅读来源**: HTML
@@ -205,7 +202,7 @@
 
 ============================================================
 
-### 📄 Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging
+## 📄 Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging
 
 - **链接**: https://huggingface.co/papers/2602.04805
 - **阅读来源**: HTML
@@ -241,7 +238,7 @@
 
 ============================================================
 
-### 📄 Vibe AIGC: A New Paradigm for Content Generation via Agentic Orchestration
+## 📄 Vibe AIGC: A New Paradigm for Content Generation via Agentic Orchestration
 
 - **链接**: https://huggingface.co/papers/2602.04575
 - **阅读来源**: HTML
@@ -280,7 +277,7 @@
 
 ============================================================
 
-### 📄 SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation
+## 📄 SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation
 
 - **链接**: https://huggingface.co/papers/2602.02402
 - **阅读来源**: HTML
@@ -312,7 +309,7 @@
 
 ============================================================
 
-### 📄 ERNIE 5.0 Technical Report
+## 📄 ERNIE 5.0 Technical Report
 
 - **链接**: https://huggingface.co/papers/2602.04705
 - **阅读来源**: HTML
@@ -358,7 +355,7 @@
 
 ============================================================
 
-### 📄 TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents
+## 📄 TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents
 
 - **链接**: https://huggingface.co/papers/2602.02196
 - **阅读来源**: HTML
@@ -402,7 +399,7 @@
 
 ============================================================
 
-### 📄 Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization
+## 📄 Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization
 
 - **链接**: https://huggingface.co/papers/2602.02958
 - **阅读来源**: HTML
@@ -436,7 +433,7 @@
 
 ============================================================
 
-### 📄 RexBERT: Context Specialized Bidirectional Encoders for E-commerce
+## 📄 RexBERT: Context Specialized Bidirectional Encoders for E-commerce
 
 - **链接**: https://huggingface.co/papers/2602.04605
 - **阅读来源**: HTML
@@ -474,7 +471,7 @@
 
 ============================================================
 
-### 📄 A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces
+## 📄 A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces
 
 - **链接**: https://huggingface.co/papers/2602.03442
 - **阅读来源**: HTML
@@ -513,7 +510,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Efficient Autoregressive Video Diffusion with Dummy Head
+## 📄 Efficient Autoregressive Video Diffusion with Dummy Head
 
 - **链接**: https://huggingface.co/papers/2601.20499
 - **阅读来源**: HTML
@@ -556,7 +553,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Self-Rewarding Sequential Monte Carlo for Masked Diffusion Language Models
+## 📄 Self-Rewarding Sequential Monte Carlo for Masked Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2602.01849
 - **阅读来源**: HTML
@@ -591,7 +588,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Likelihood-Based Reward Designs for General LLM Reasoning
+## 📄 Likelihood-Based Reward Designs for General LLM Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.03979
 - **阅读来源**: HTML
@@ -627,7 +624,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Context Learning for Multi-Agent Discussion
+## 📄 Context Learning for Multi-Agent Discussion
 
 - **链接**: https://huggingface.co/papers/2602.02350
 - **阅读来源**: HTML
@@ -666,7 +663,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Rethinking the Trust Region in LLM Reinforcement Learning
+## 📄 Rethinking the Trust Region in LLM Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.04879
 - **阅读来源**: HTML
@@ -708,7 +705,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR
+## 📄 PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR
 
 - **链接**: https://huggingface.co/papers/2601.18207
 - **阅读来源**: HTML
@@ -742,7 +739,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Quantifying the Gap between Understanding and Generation within Unified Multimodal Models
+## 📄 Quantifying the Gap between Understanding and Generation within Unified Multimodal Models
 
 - **链接**: https://huggingface.co/papers/2602.02140
 - **阅读来源**: HTML
@@ -775,7 +772,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Beyond Unimodal Shortcuts: MLLMs as Cross-Modal Reasoners for Grounded Named Entity Recognition
+## 📄 Beyond Unimodal Shortcuts: MLLMs as Cross-Modal Reasoners for Grounded Named Entity Recognition
 
 - **链接**: https://huggingface.co/papers/2602.04486
 - **阅读来源**: HTML
@@ -806,7 +803,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Horizon-LM: A RAM-Centric Architecture for LLM Training
+## 📄 Horizon-LM: A RAM-Centric Architecture for LLM Training
 
 - **链接**: https://huggingface.co/papers/2602.04816
 - **阅读来源**: HTML
@@ -838,7 +835,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning
+## 📄 WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.04634
 - **阅读来源**: HTML
@@ -866,7 +863,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 LongVPO: From Anchored Cues to Self-Reasoning for Long-Form Video Preference Optimization
+## 📄 LongVPO: From Anchored Cues to Self-Reasoning for Long-Form Video Preference Optimization
 
 - **链接**: https://huggingface.co/papers/2602.02341
 - **阅读来源**: HTML
@@ -897,7 +894,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering
+## 📄 MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering
 
 - **链接**: https://huggingface.co/papers/2601.22859
 - **阅读来源**: HTML
@@ -928,7 +925,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing
+## 📄 HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing
 
 - **链接**: https://huggingface.co/papers/2602.03560
 - **阅读来源**: HTML
@@ -966,7 +963,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Protein Autoregressive Modeling via Multiscale Structure Generation
+## 📄 Protein Autoregressive Modeling via Multiscale Structure Generation
 
 - **链接**: https://huggingface.co/papers/2602.04883
 - **阅读来源**: HTML
@@ -1000,7 +997,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 EgoActor: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models
+## 📄 EgoActor: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models
 
 - **链接**: https://huggingface.co/papers/2602.04515
 - **阅读来源**: HTML
@@ -1042,7 +1039,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 Self-Hinting Language Models Enhance Reinforcement Learning
+## 📄 Self-Hinting Language Models Enhance Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.03143
 - **阅读来源**: HTML
@@ -1085,7 +1082,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 OmniRad: A Radiological Foundation Model for Multi-Task Medical Image Analysis
+## 📄 OmniRad: A Radiological Foundation Model for Multi-Task Medical Image Analysis
 
 - **链接**: https://huggingface.co/papers/2602.04547
 - **阅读来源**: HTML
@@ -1120,7 +1117,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 VLS: Steering Pretrained Robot Policies via Vision-Language Models
+## 📄 VLS: Steering Pretrained Robot Policies via Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2602.03973
 - **阅读来源**: HTML
@@ -1161,7 +1158,7 @@ NLP-检索增强生成 (RAG)、NLP-大模型智能体 (LLM Agents)、多跳问�
 
 ============================================================
 
-### 📄 BatCoder: Self-Supervised Bidirectional Code-Documentation Learning via Back-Translation
+## 📄 BatCoder: Self-Supervised Bidirectional Code-Documentation Learning via Back-Translation
 
 - **链接**: https://huggingface.co/papers/2602.02554
 - **阅读来源**: HTML
@@ -1200,7 +1197,7 @@ BatCoder 提出了一种基于**自监督回译（Back-Translation）**的强化
 
 ============================================================
 
-### 📄 OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models
+## 📄 OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.04804
 - **阅读来源**: HTML
@@ -1242,7 +1239,7 @@ BatCoder 提出了一种基于**自监督回译（Back-Translation）**的强化
 
 ============================================================
 
-### 📄 Semantic Routing: Exploring Multi-Layer LLM Feature Weighting for Diffusion Transformers
+## 📄 Semantic Routing: Exploring Multi-Layer LLM Feature Weighting for Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2602.03510
 - **阅读来源**: HTML
@@ -1278,7 +1275,7 @@ BatCoder 提出了一种基于**自监督回译（Back-Translation）**的强化
 
 ============================================================
 
-### 📄 Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning
+## 📄 Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.04284
 - **阅读来源**: HTML
@@ -1313,4 +1310,3 @@ BatCoder 提出了一种基于**自监督回译（Back-Translation）**的强化
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
