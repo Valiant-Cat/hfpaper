@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-06
 **Source URL**: https://huggingface.co/papers/date/2026-02-06
 
 ============================================================
 
-### 📄 Reinforcement World Model Learning for LLM-based Agents
+## 📄 Reinforcement World Model Learning for LLM-based Agents
 
 - **链接**: https://huggingface.co/papers/2602.05842
 - **阅读来源**: HTML
@@ -46,7 +43,7 @@
 
 ============================================================
 
-### 📄 Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations
+## 📄 Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations
 
 - **链接**: https://huggingface.co/papers/2602.05885
 - **阅读来源**: HTML
@@ -88,7 +85,7 @@
 
 ============================================================
 
-### 📄 PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling
+## 📄 PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling
 
 - **链接**: https://huggingface.co/papers/2602.06030
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@
 
 ============================================================
 
-### 📄 Semantic Search over 9 Million Mathematical Theorems
+## 📄 Semantic Search over 9 Million Mathematical Theorems
 
 - **链接**: https://huggingface.co/papers/2602.05216
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@
 
 ============================================================
 
-### 📄 Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities
+## 📄 Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities
 
 - **链接**: https://huggingface.co/papers/2601.21937
 - **阅读来源**: HTML
@@ -204,7 +201,7 @@
 
 ============================================================
 
-### 📄 V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval
+## 📄 V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval
 
 - **链接**: https://huggingface.co/papers/2602.06034
 - **阅读来源**: HTML
@@ -243,7 +240,7 @@
 
 ============================================================
 
-### 📄 RISE-Video: Can Video Generators Decode Implicit World Rules?
+## 📄 RISE-Video: Can Video Generators Decode Implicit World Rules?
 
 - **链接**: https://huggingface.co/papers/2602.05986
 - **阅读来源**: ArXiv Abs
@@ -274,7 +271,7 @@
 
 ============================================================
 
-### 📄 Late-to-Early Training: LET LLMs Learn Earlier, So Faster and Better
+## 📄 Late-to-Early Training: LET LLMs Learn Earlier, So Faster and Better
 
 - **链接**: https://huggingface.co/papers/2602.05393
 - **阅读来源**: HTML
@@ -314,7 +311,7 @@
 
 ============================================================
 
-### 📄 Context Forcing: Consistent Autoregressive Video Generation with Long Context
+## 📄 Context Forcing: Consistent Autoregressive Video Generation with Long Context
 
 - **链接**: https://huggingface.co/papers/2602.06028
 - **阅读来源**: HTML
@@ -357,7 +354,7 @@
 
 ============================================================
 
-### 📄 Pathwise Test-Time Correction for Autoregressive Long Video Generation
+## 📄 Pathwise Test-Time Correction for Autoregressive Long Video Generation
 
 - **链接**: https://huggingface.co/papers/2602.05871
 - **阅读来源**: HTML
@@ -404,7 +401,7 @@
 
 ============================================================
 
-### 📄 Steering LLMs via Scalable Interactive Oversight
+## 📄 Steering LLMs via Scalable Interactive Oversight
 
 - **链接**: https://huggingface.co/papers/2602.04210
 - **阅读来源**: ArXiv Abs
@@ -436,7 +433,7 @@
 
 ============================================================
 
-### 📄 FastVMT: Eliminating Redundancy in Video Motion Transfer
+## 📄 FastVMT: Eliminating Redundancy in Video Motion Transfer
 
 - **链接**: https://huggingface.co/papers/2602.05551
 - **阅读来源**: HTML
@@ -475,7 +472,7 @@
 
 ============================================================
 
-### 📄 Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention
+## 📄 Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention
 
 - **链接**: https://huggingface.co/papers/2602.03338
 - **阅读来源**: HTML
@@ -513,7 +510,7 @@
 
 ============================================================
 
-### 📄 Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning
+## 📄 Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning
 
 - **链接**: https://huggingface.co/papers/2602.00298
 - **阅读来源**: HTML
@@ -541,7 +538,7 @@
 
 ============================================================
 
-### 📄 Reinforced Attention Learning
+## 📄 Reinforced Attention Learning
 
 - **链接**: https://huggingface.co/papers/2602.04884
 - **阅读来源**: HTML
@@ -580,7 +577,7 @@
 
 ============================================================
 
-### 📄 SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs
+## 📄 SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs
 
 - **链接**: https://huggingface.co/papers/2602.06040
 - **阅读来源**: HTML
@@ -616,7 +613,7 @@ SwimBird 在多个核心基准测试中展现了 SOTA（State-of-the-Art）性�
 
 ============================================================
 
-### 📄 Beyond Fixed Frames: Dynamic Character-Aligned Speech Tokenization
+## 📄 Beyond Fixed Frames: Dynamic Character-Aligned Speech Tokenization
 
 - **链接**: https://huggingface.co/papers/2601.23174
 - **阅读来源**: HTML
@@ -654,7 +651,7 @@ SwimBird 在多个核心基准测试中展现了 SOTA（State-of-the-Art）性�
 
 ============================================================
 
-### 📄 Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening
+## 📄 Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening
 
 - **链接**: https://huggingface.co/papers/2602.05386
 - **阅读来源**: HTML
@@ -686,7 +683,7 @@ SwimBird 在多个核心基准测试中展现了 SOTA（State-of-the-Art）性�
 
 ============================================================
 
-### 📄 InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions
+## 📄 InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions
 
 - **链接**: https://huggingface.co/papers/2602.06035
 - **阅读来源**: HTML
@@ -727,7 +724,7 @@ SwimBird 在多个核心基准测试中展现了 SOTA（State-of-the-Art）性�
 
 ============================================================
 
-### 📄 Multi-Task GRPO: Reliable LLM Reasoning Across Tasks
+## 📄 Multi-Task GRPO: Reliable LLM Reasoning Across Tasks
 
 - **链接**: https://huggingface.co/papers/2602.05547
 - **阅读来源**: HTML
@@ -768,7 +765,7 @@ SwimBird 在多个核心基准测试中展现了 SOTA（State-of-the-Art）性�
 
 ============================================================
 
-### 📄 LatentMem: Customizing Latent Memory for Multi-Agent Systems
+## 📄 LatentMem: Customizing Latent Memory for Multi-Agent Systems
 
 - **链接**: https://huggingface.co/papers/2602.03036
 - **阅读来源**: ArXiv Abs
@@ -801,7 +798,7 @@ SwimBird 在多个核心基准测试中展现了 SOTA（State-of-the-Art）性�
 
 ============================================================
 
-### 📄 Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?
+## 📄 Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?
 
 - **链接**: https://huggingface.co/papers/2602.05023
 - **阅读来源**: ArXiv Abs
@@ -833,7 +830,7 @@ SwimBird 在多个核心基准测试中展现了 SOTA（State-of-the-Art）性�
 
 ============================================================
 
-### 📄 Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation
+## 📄 Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation
 
 - **链接**: https://huggingface.co/papers/2602.01965
 - **阅读来源**: HTML
@@ -875,7 +872,7 @@ SwimBird 在多个核心基准测试中展现了 SOTA（State-of-the-Art）性�
 
 ============================================================
 
-### 📄 Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention
+## 📄 Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention
 
 - **链接**: https://huggingface.co/papers/2602.04789
 - **阅读来源**: HTML
@@ -908,7 +905,7 @@ SwimBird 在多个核心基准测试中展现了 SOTA（State-of-the-Art）性�
 
 ============================================================
 
-### 📄 UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization
+## 📄 UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization
 
 - **链接**: https://huggingface.co/papers/2602.04683
 - **阅读来源**: HTML
@@ -962,7 +959,7 @@ UniAudio 2.0 在多个核心数据集上表现优异，验证了其全能性和�
 
 ============================================================
 
-### 📄 ProAct: Agentic Lookahead in Interactive Environments
+## 📄 ProAct: Agentic Lookahead in Interactive Environments
 
 - **链接**: https://huggingface.co/papers/2602.05327
 - **阅读来源**: HTML
@@ -998,7 +995,7 @@ UniAudio 2.0 在多个核心数据集上表现优异，验证了其全能性和�
 
 ============================================================
 
-### 📄 Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR
+## 📄 Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR
 
 - **链接**: https://huggingface.co/papers/2602.05261
 - **阅读来源**: HTML
@@ -1039,7 +1036,7 @@ UniAudio 2.0 在多个核心数据集上表现优异，验证了其全能性和�
 
 ============================================================
 
-### 📄 SAGE: Benchmarking and Improving Retrieval for Deep Research Agents
+## 📄 SAGE: Benchmarking and Improving Retrieval for Deep Research Agents
 
 - **链接**: https://huggingface.co/papers/2602.05975
 - **阅读来源**: HTML
@@ -1074,7 +1071,7 @@ UniAudio 2.0 在多个核心数据集上表现优异，验证了其全能性和�
 
 ============================================================
 
-### 📄 BABE: Biology Arena BEnchmark
+## 📄 BABE: Biology Arena BEnchmark
 
 - **链接**: https://huggingface.co/papers/2602.05857
 - **阅读来源**: HTML
@@ -1112,7 +1109,7 @@ UniAudio 2.0 在多个核心数据集上表现优异，验证了其全能性和�
 
 ============================================================
 
-### 📄 Grounding and Enhancing Informativeness and Utility in Dataset Distillation
+## 📄 Grounding and Enhancing Informativeness and Utility in Dataset Distillation
 
 - **链接**: https://huggingface.co/papers/2601.21296
 - **阅读来源**: HTML
@@ -1150,4 +1147,3 @@ UniAudio 2.0 在多个核心数据集上表现优异，验证了其全能性和�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
