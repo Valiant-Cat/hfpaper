@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-07
 **Source URL**: https://huggingface.co/papers/date/2026-02-07
 
 ============================================================
 
-### 📄 CoPE: Clipped RoPE as A Scalable Free Lunch for Long Context LLMs
+## 📄 CoPE: Clipped RoPE as A Scalable Free Lunch for Long Context LLMs
 
 - **链接**: https://huggingface.co/papers/2602.05258
 - **阅读来源**: HTML
@@ -35,7 +32,7 @@
 
 ============================================================
 
-### 📄 Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning
+## 📄 Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning
 
 - **链接**: https://huggingface.co/papers/2601.21037
 - **阅读来源**: HTML
@@ -65,7 +62,7 @@
 
 ============================================================
 
-### 📄 Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory
+## 📄 Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory
 
 - **链接**: https://huggingface.co/papers/2602.02393
 - **阅读来源**: HTML
@@ -95,7 +92,7 @@
 
 ============================================================
 
-### 📄 Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing
+## 📄 Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing
 
 - **链接**: https://huggingface.co/papers/2602.02159
 - **阅读来源**: HTML
@@ -129,7 +126,7 @@
 
 ============================================================
 
-### 📄 Steering LLMs via Scalable Interactive Oversight
+## 📄 Steering LLMs via Scalable Interactive Oversight
 
 - **链接**: https://huggingface.co/papers/2602.04210
 - **阅读来源**: ArXiv Abs
@@ -164,7 +161,7 @@
 
 ============================================================
 
-### 📄 Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention
+## 📄 Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention
 
 - **链接**: https://huggingface.co/papers/2602.03338
 - **阅读来源**: HTML
@@ -192,7 +189,7 @@
 
 ============================================================
 
-### 📄 Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents
+## 📄 Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents
 
 - **链接**: https://huggingface.co/papers/2602.05073
 - **阅读来源**: HTML
@@ -225,7 +222,7 @@
 
 ============================================================
 
-### 📄 Reinforcement World Model Learning for LLM-based Agents
+## 📄 Reinforcement World Model Learning for LLM-based Agents
 
 - **链接**: https://huggingface.co/papers/2602.05842
 - **阅读来源**: HTML
@@ -261,7 +258,7 @@
 
 ============================================================
 
-### 📄 Context Forcing: Consistent Autoregressive Video Generation with Long Context
+## 📄 Context Forcing: Consistent Autoregressive Video Generation with Long Context
 
 - **链接**: https://huggingface.co/papers/2602.06028
 - **阅读来源**: HTML
@@ -296,7 +293,7 @@
 
 ============================================================
 
-### 📄 Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening
+## 📄 Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening
 
 - **链接**: https://huggingface.co/papers/2602.05386
 - **阅读来源**: HTML
@@ -327,7 +324,7 @@
 
 ============================================================
 
-### 📄 SocialVeil: Probing Social Intelligence of Language Agents under Communication Barriers
+## 📄 SocialVeil: Probing Social Intelligence of Language Agents under Communication Barriers
 
 - **链接**: https://huggingface.co/papers/2602.05115
 - **阅读来源**: HTML
@@ -364,7 +361,7 @@
 
 ============================================================
 
-### 📄 SAGE: Benchmarking and Improving Retrieval for Deep Research Agents
+## 📄 SAGE: Benchmarking and Improving Retrieval for Deep Research Agents
 
 - **链接**: https://huggingface.co/papers/2602.05975
 - **阅读来源**: HTML
@@ -395,7 +392,7 @@
 
 ============================================================
 
-### 📄 Privileged Information Distillation for Language Models
+## 📄 Privileged Information Distillation for Language Models
 
 - **链接**: https://huggingface.co/papers/2602.04942
 - **阅读来源**: HTML
@@ -433,7 +430,7 @@
 
 ============================================================
 
-### 📄 FastVMT: Eliminating Redundancy in Video Motion Transfer
+## 📄 FastVMT: Eliminating Redundancy in Video Motion Transfer
 
 - **链接**: https://huggingface.co/papers/2602.05551
 - **阅读来源**: HTML
@@ -474,7 +471,7 @@
 
 ============================================================
 
-### 📄 BABE: Biology Arena BEnchmark
+## 📄 BABE: Biology Arena BEnchmark
 
 - **链接**: https://huggingface.co/papers/2602.05857
 - **阅读来源**: HTML
@@ -506,7 +503,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 A Unified Framework for Rethinking Policy Divergence Measures in GRPO
+## 📄 A Unified Framework for Rethinking Policy Divergence Measures in GRPO
 
 - **链接**: https://huggingface.co/papers/2602.05494
 - **阅读来源**: HTML
@@ -540,7 +537,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling
+## 📄 PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling
 
 - **链接**: https://huggingface.co/papers/2602.06030
 - **阅读来源**: HTML
@@ -577,7 +574,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations
+## 📄 Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations
 
 - **链接**: https://huggingface.co/papers/2602.05885
 - **阅读来源**: HTML
@@ -614,7 +611,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 Beyond Fixed Frames: Dynamic Character-Aligned Speech Tokenization
+## 📄 Beyond Fixed Frames: Dynamic Character-Aligned Speech Tokenization
 
 - **链接**: https://huggingface.co/papers/2601.23174
 - **阅读来源**: HTML
@@ -646,7 +643,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?
+## 📄 Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?
 
 - **链接**: https://huggingface.co/papers/2602.05023
 - **阅读来源**: ArXiv Abs
@@ -679,7 +676,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 ProAct: Agentic Lookahead in Interactive Environments
+## 📄 ProAct: Agentic Lookahead in Interactive Environments
 
 - **链接**: https://huggingface.co/papers/2602.05327
 - **阅读来源**: HTML
@@ -711,7 +708,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention
+## 📄 Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention
 
 - **链接**: https://huggingface.co/papers/2602.04789
 - **阅读来源**: HTML
@@ -758,7 +755,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 Semantic Search over 9 Million Mathematical Theorems
+## 📄 Semantic Search over 9 Million Mathematical Theorems
 
 - **链接**: https://huggingface.co/papers/2602.05216
 - **阅读来源**: HTML
@@ -789,7 +786,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 Pathwise Test-Time Correction for Autoregressive Long Video Generation
+## 📄 Pathwise Test-Time Correction for Autoregressive Long Video Generation
 
 - **链接**: https://huggingface.co/papers/2602.05871
 - **阅读来源**: HTML
@@ -824,7 +821,7 @@ NLP-大模型评测（LLM Evaluation）、AI for Science（生物学）、计算
 
 ============================================================
 
-### 📄 Grounding and Enhancing Informativeness and Utility in Dataset Distillation
+## 📄 Grounding and Enhancing Informativeness and Utility in Dataset Distillation
 
 - **链接**: https://huggingface.co/papers/2601.21296
 - **阅读来源**: HTML
@@ -865,7 +862,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 Late-to-Early Training: LET LLMs Learn Earlier, So Faster and Better
+## 📄 Late-to-Early Training: LET LLMs Learn Earlier, So Faster and Better
 
 - **链接**: https://huggingface.co/papers/2602.05393
 - **阅读来源**: HTML
@@ -901,7 +898,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 LatentMem: Customizing Latent Memory for Multi-Agent Systems
+## 📄 LatentMem: Customizing Latent Memory for Multi-Agent Systems
 
 - **链接**: https://huggingface.co/papers/2602.03036
 - **阅读来源**: ArXiv Abs
@@ -936,7 +933,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning
+## 📄 Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning
 
 - **链接**: https://huggingface.co/papers/2602.04998
 - **阅读来源**: HTML
@@ -970,7 +967,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 Fast-SAM3D: 3Dfy Anything in Images but Faster
+## 📄 Fast-SAM3D: 3Dfy Anything in Images but Faster
 
 - **链接**: https://huggingface.co/papers/2602.05293
 - **阅读来源**: HTML
@@ -1003,7 +1000,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 Reinforced Attention Learning
+## 📄 Reinforced Attention Learning
 
 - **链接**: https://huggingface.co/papers/2602.04884
 - **阅读来源**: HTML
@@ -1039,7 +1036,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities
+## 📄 Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities
 
 - **链接**: https://huggingface.co/papers/2601.21937
 - **阅读来源**: HTML
@@ -1069,7 +1066,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR
+## 📄 Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR
 
 - **链接**: https://huggingface.co/papers/2602.05261
 - **阅读来源**: HTML
@@ -1110,7 +1107,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions
+## 📄 InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions
 
 - **链接**: https://huggingface.co/papers/2602.06035
 - **阅读来源**: HTML
@@ -1142,7 +1139,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
+## 📄 MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
 
 - **链接**: https://huggingface.co/papers/2602.02474
 - **阅读来源**: HTML
@@ -1177,7 +1174,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs
+## 📄 SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs
 
 - **链接**: https://huggingface.co/papers/2602.06040
 - **阅读来源**: HTML
@@ -1211,7 +1208,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization
+## 📄 UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization
 
 - **链接**: https://huggingface.co/papers/2602.04683
 - **阅读来源**: HTML
@@ -1246,7 +1243,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 RISE-Video: Can Video Generators Decode Implicit World Rules?
+## 📄 RISE-Video: Can Video Generators Decode Implicit World Rules?
 
 - **链接**: https://huggingface.co/papers/2602.05986
 - **阅读来源**: ArXiv Abs
@@ -1279,7 +1276,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty
+## 📄 CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty
 
 - **链接**: https://huggingface.co/papers/2601.22027
 - **阅读来源**: HTML
@@ -1307,7 +1304,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning
+## 📄 Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning
 
 - **链接**: https://huggingface.co/papers/2602.00298
 - **阅读来源**: HTML
@@ -1335,7 +1332,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval
+## 📄 V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval
 
 - **链接**: https://huggingface.co/papers/2602.06034
 - **阅读来源**: HTML
@@ -1369,7 +1366,7 @@ InfoUtil 在多个标准数据集和架构上均超越了现有的 SOTA 方法�
 
 ============================================================
 
-### 📄 Multi-Task GRPO: Reliable LLM Reasoning Across Tasks
+## 📄 Multi-Task GRPO: Reliable LLM Reasoning Across Tasks
 
 - **链接**: https://huggingface.co/papers/2602.05547
 - **阅读来源**: HTML
@@ -1410,7 +1407,7 @@ NLP - 大模型强化学习后训练 (RL Post-training for LLMs) / 多任务推�
 
 ============================================================
 
-### 📄 Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation
+## 📄 Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation
 
 - **链接**: https://huggingface.co/papers/2602.01965
 - **阅读来源**: HTML
@@ -1444,7 +1441,7 @@ NLP - 大模型强化学习后训练 (RL Post-training for LLMs) / 多任务推�
 
 ============================================================
 
-### 📄 Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training
+## 📄 Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training
 
 - **链接**: https://huggingface.co/papers/2602.05933
 - **阅读来源**: HTML
@@ -1482,7 +1479,7 @@ NLP-大模型后训练（LLM Post-Training）、强化学习（Reinforcement Lea
 
 ============================================================
 
-### 📄 Adaptive 1D Video Diffusion Autoencoder
+## 📄 Adaptive 1D Video Diffusion Autoencoder
 
 - **链接**: https://huggingface.co/papers/2602.04220
 - **阅读来源**: HTML
@@ -1517,7 +1514,7 @@ NLP-大模型后训练（LLM Post-Training）、强化学习（Reinforcement Lea
 
 ============================================================
 
-### 📄 Failing to Explore: Language Models on Interactive Tasks
+## 📄 Failing to Explore: Language Models on Interactive Tasks
 
 - **链接**: https://huggingface.co/papers/2601.22345
 - **阅读来源**: HTML
@@ -1551,7 +1548,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 交互式决策与探索 (Interact
 
 ============================================================
 
-### 📄 DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers
+## 📄 DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers
 
 - **链接**: https://huggingface.co/papers/2602.02016
 - **阅读来源**: HTML
@@ -1582,7 +1579,7 @@ NLP - 大语言模型智能体 (LLM Agents) / 交互式决策与探索 (Interact
 
 ============================================================
 
-### 📄 DFlash: Block Diffusion for Flash Speculative Decoding
+## 📄 DFlash: Block Diffusion for Flash Speculative Decoding
 
 - **链接**: https://huggingface.co/papers/2602.06036
 - **阅读来源**: HTML
@@ -1620,4 +1617,3 @@ DFlash 提出了一种利用轻量级**块扩散模型（Block Diffusion）**进
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
