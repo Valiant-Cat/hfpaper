@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-09
 **Source URL**: https://huggingface.co/papers/date/2026-02-09
 
 ============================================================
 
-### 📄 AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders
+## 📄 AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders
 
 - **链接**: https://huggingface.co/papers/2602.05027
 - **阅读来源**: HTML
@@ -42,7 +39,7 @@
 
 ============================================================
 
-### 📄 OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale
+## 📄 OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale
 
 - **链接**: https://huggingface.co/papers/2602.05711
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models
+## 📄 On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.03392
 - **阅读来源**: HTML
@@ -109,7 +106,7 @@
 
 ============================================================
 
-### 📄 MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments
+## 📄 MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments
 
 - **链接**: https://huggingface.co/papers/2602.06075
 - **阅读来源**: HTML
@@ -142,7 +139,7 @@
 
 ============================================================
 
-### 📄 MSign: An Optimizer Preventing Training Instability in Large Language Models via Stable Rank Restoration
+## 📄 MSign: An Optimizer Preventing Training Instability in Large Language Models via Stable Rank Restoration
 
 - **链接**: https://huggingface.co/papers/2602.01734
 - **阅读来源**: HTML
@@ -174,7 +171,7 @@ NLP-大语言模型预训练（Large Language Model Pretraining），特别是�
 
 ============================================================
 
-### 📄 Canzona: A Unified, Asynchronous, and Load-Balanced Framework for Distributed Matrix-based Optimizers
+## 📄 Canzona: A Unified, Asynchronous, and Load-Balanced Framework for Distributed Matrix-based Optimizers
 
 - **链接**: https://huggingface.co/papers/2602.06079
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ NLP-大语言模型（LLM）分布式训练、深度学习系统优化（特别�
 
 ============================================================
 
-### 📄 Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing
+## 📄 Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing
 
 - **链接**: https://huggingface.co/papers/2602.04837
 - **阅读来源**: HTML
@@ -242,7 +239,7 @@ NLP-大语言模型（LLM）分布式训练、深度学习系统优化（特别�
 
 ============================================================
 
-### 📄 QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals
+## 📄 QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals
 
 - **链接**: https://huggingface.co/papers/2602.02581
 - **阅读来源**: HTML
@@ -282,7 +279,7 @@ NLP-大模型量化与压缩 (Large Model Quantization and Compression)，专注
 
 ============================================================
 
-### 📄 EgoAVU: Egocentric Audio-Visual Understanding
+## 📄 EgoAVU: Egocentric Audio-Visual Understanding
 
 - **链接**: https://huggingface.co/papers/2602.06139
 - **阅读来源**: HTML
@@ -316,7 +313,7 @@ NLP-大模型量化与压缩 (Large Model Quantization and Compression)，专注
 
 ============================================================
 
-### 📄 DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos
+## 📄 DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos
 
 - **链接**: https://huggingface.co/papers/2602.06949
 - **阅读来源**: HTML
@@ -351,7 +348,7 @@ NLP-大模型量化与压缩 (Large Model Quantization and Compression)，专注
 
 ============================================================
 
-### 📄 Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search
+## 📄 Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search
 
 - **链接**: https://huggingface.co/papers/2602.04454
 - **阅读来源**: HTML
@@ -385,7 +382,7 @@ NLP-大模型量化与压缩 (Large Model Quantization and Compression)，专注
 
 ============================================================
 
-### 📄 PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks
+## 📄 PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks
 
 - **链接**: https://huggingface.co/papers/2602.06663
 - **阅读来源**: HTML
@@ -416,7 +413,7 @@ NLP-大模型量化与压缩 (Large Model Quantization and Compression)，专注
 
 ============================================================
 
-### 📄 POINTS-GUI-G: GUI-Grounding Journey
+## 📄 POINTS-GUI-G: GUI-Grounding Journey
 
 - **链接**: https://huggingface.co/papers/2602.06391
 - **阅读来源**: HTML
@@ -458,7 +455,7 @@ POINTS-GUI-G 在多个主流 GUI 定位基准测试中取得了 SOTA (State-of-t
 
 ============================================================
 
-### 📄 Urban Spatio-Temporal Foundation Models for Climate-Resilient Housing: Scaling Diffusion Transformers for Disaster Risk Prediction
+## 📄 Urban Spatio-Temporal Foundation Models for Climate-Resilient Housing: Scaling Diffusion Transformers for Disaster Risk Prediction
 
 - **链接**: https://huggingface.co/papers/2602.06129
 - **阅读来源**: HTML
@@ -487,7 +484,7 @@ POINTS-GUI-G 在多个主流 GUI 定位基准测试中取得了 SOTA (State-of-t
 
 ============================================================
 
-### 📄 SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks
+## 📄 SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks
 
 - **链接**: https://huggingface.co/papers/2602.06854
 - **阅读来源**: ArXiv Abs
@@ -519,7 +516,7 @@ POINTS-GUI-G 在多个主流 GUI 定位基准测试中取得了 SOTA (State-of-t
 
 ============================================================
 
-### 📄 Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math
+## 📄 Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math
 
 - **链接**: https://huggingface.co/papers/2602.06291
 - **阅读来源**: HTML
@@ -547,7 +544,7 @@ POINTS-GUI-G 在多个主流 GUI 定位基准测试中取得了 SOTA (State-of-t
 
 ============================================================
 
-### 📄 InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning
+## 📄 InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.06960
 - **阅读来源**: ArXiv Abs
@@ -581,7 +578,7 @@ POINTS-GUI-G 在多个主流 GUI 定位基准测试中取得了 SOTA (State-of-t
 
 ============================================================
 
-### 📄 Vision Transformer Finetuning Benefits from Non-Smooth Components
+## 📄 Vision Transformer Finetuning Benefits from Non-Smooth Components
 
 - **链接**: https://huggingface.co/papers/2602.06883
 - **阅读来源**: ArXiv Abs
@@ -614,7 +611,7 @@ POINTS-GUI-G 在多个主流 GUI 定位基准测试中取得了 SOTA (State-of-t
 
 ============================================================
 
-### 📄 Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making
+## 📄 Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making
 
 - **链接**: https://huggingface.co/papers/2602.06570
 - **阅读来源**: HTML
@@ -644,7 +641,7 @@ POINTS-GUI-G 在多个主流 GUI 定位基准测试中取得了 SOTA (State-of-t
 
 ============================================================
 
-### 📄 SeeUPO: Sequence-Level Agentic-RL with Convergence Guarantees
+## 📄 SeeUPO: Sequence-Level Agentic-RL with Convergence Guarantees
 
 - **链接**: https://huggingface.co/papers/2602.06554
 - **阅读来源**: HTML
@@ -678,7 +675,7 @@ NLP-大模型强化学习（LLM Agentic RL），具体针对多轮对话与工�
 
 ============================================================
 
-### 📄 Self-Improving Multilingual Long Reasoning via Translation-Reasoning Integrated Training
+## 📄 Self-Improving Multilingual Long Reasoning via Translation-Reasoning Integrated Training
 
 - **链接**: https://huggingface.co/papers/2602.05940
 - **阅读来源**: HTML
@@ -712,7 +709,7 @@ NLP-大模型强化学习（LLM Agentic RL），具体针对多轮对话与工�
 
 ============================================================
 
-### 📄 Revisiting the Shape Convention of Transformer Language Models
+## 📄 Revisiting the Shape Convention of Transformer Language Models
 
 - **链接**: https://huggingface.co/papers/2602.06471
 - **阅读来源**: HTML
@@ -744,7 +741,7 @@ NLP-大模型强化学习（LLM Agentic RL），具体针对多轮对话与工�
 
 ============================================================
 
-### 📄 Avoiding Premature Collapse: Adaptive Annealing for Entropy-Regularized Structural Inference
+## 📄 Avoiding Premature Collapse: Adaptive Annealing for Entropy-Regularized Structural Inference
 
 - **链接**: https://huggingface.co/papers/2601.23039
 - **阅读来源**: HTML
@@ -786,7 +783,7 @@ NLP-大模型强化学习（LLM Agentic RL），具体针对多轮对话与工�
 
 ============================================================
 
-### 📄 Exploring Knowledge Purification in Multi-Teacher Knowledge Distillation for LLMs
+## 📄 Exploring Knowledge Purification in Multi-Teacher Knowledge Distillation for LLMs
 
 - **链接**: https://huggingface.co/papers/2602.01064
 - **阅读来源**: HTML
@@ -832,7 +829,7 @@ NLP-大模型强化学习（LLM Agentic RL），具体针对多轮对话与工�
 
 ============================================================
 
-### 📄 RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs
+## 📄 RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs
 
 - **链接**: https://huggingface.co/papers/2602.05367
 - **阅读来源**: HTML
@@ -869,7 +866,7 @@ RaBiT 提出了一种基于单一共享权重的“在线残差耦合”训练�
 
 ============================================================
 
-### 📄 F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare
+## 📄 F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare
 
 - **链接**: https://huggingface.co/papers/2602.06717
 - **阅读来源**: HTML
@@ -905,7 +902,7 @@ RaBiT 提出了一种基于单一共享权重的“在线残差耦合”训练�
 
 ============================================================
 
-### 📄 OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions
+## 📄 OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions
 
 - **链接**: https://huggingface.co/papers/2602.05843
 - **阅读来源**: HTML
@@ -946,7 +943,7 @@ RaBiT 提出了一种基于单一共享权重的“在线残差耦合”训练�
 
 ============================================================
 
-### 📄 Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities
+## 📄 Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities
 
 - **链接**: https://huggingface.co/papers/2602.05281
 - **阅读来源**: HTML
@@ -979,4 +976,3 @@ RaBiT 提出了一种基于单一共享权重的“在线残差耦合”训练�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
