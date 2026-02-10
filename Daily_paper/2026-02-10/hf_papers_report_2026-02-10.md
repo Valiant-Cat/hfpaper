@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-10
 **Source URL**: https://huggingface.co/papers/date/2026-02-10
 
 ============================================================
 
-### 📄 Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods
+## 📄 Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods
 
 - **链接**: https://huggingface.co/papers/2602.07040
 - **阅读来源**: ArXiv Abs
@@ -45,7 +42,7 @@
 
 ============================================================
 
-### 📄 MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE
+## 📄 MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE
 
 - **链接**: https://huggingface.co/papers/2602.08961
 - **阅读来源**: HTML
@@ -78,7 +75,7 @@
 
 ============================================================
 
-### 📄 Thinking Makes LLM Agents Introverted: How Mandatory Thinking Can Backfire in User-Engaged Agents
+## 📄 Thinking Makes LLM Agents Introverted: How Mandatory Thinking Can Backfire in User-Engaged Agents
 
 - **链接**: https://huggingface.co/papers/2602.07796
 - **阅读来源**: HTML
@@ -112,7 +109,7 @@
 
 ============================================================
 
-### 📄 MOVA: Towards Scalable and Synchronized Video-Audio Generation
+## 📄 MOVA: Towards Scalable and Synchronized Video-Audio Generation
 
 - **链接**: https://huggingface.co/papers/2602.08794
 - **阅读来源**: ArXiv Abs
@@ -147,7 +144,7 @@
 
 ============================================================
 
-### 📄 Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion
+## 📄 Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion
 
 - **链接**: https://huggingface.co/papers/2602.07775
 - **阅读来源**: ArXiv Abs
@@ -180,7 +177,7 @@
 
 ============================================================
 
-### 📄 How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs
+## 📄 How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs
 
 - **链接**: https://huggingface.co/papers/2602.08808
 - **阅读来源**: HTML
@@ -212,7 +209,7 @@
 
 ============================================================
 
-### 📄 Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models
+## 📄 Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.07026
 - **阅读来源**: HTML
@@ -246,7 +243,7 @@
 
 ============================================================
 
-### 📄 GISA: A Benchmark for General Information-Seeking Assistant
+## 📄 GISA: A Benchmark for General Information-Seeking Assistant
 
 - **链接**: https://huggingface.co/papers/2602.08543
 - **阅读来源**: HTML
@@ -277,7 +274,7 @@
 
 ============================================================
 
-### 📄 SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis
+## 📄 SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis
 
 - **链接**: https://huggingface.co/papers/2602.07803
 - **阅读来源**: HTML
@@ -313,7 +310,7 @@
 
 ============================================================
 
-### 📄 AgentCPM-Report: Interleaving Drafting and Deepening for Open-Ended Deep Research
+## 📄 AgentCPM-Report: Interleaving Drafting and Deepening for Open-Ended Deep Research
 
 - **链接**: https://huggingface.co/papers/2602.06540
 - **阅读来源**: HTML
@@ -341,7 +338,7 @@
 
 ============================================================
 
-### 📄 WorldCompass: Reinforcement Learning for Long-Horizon World Models
+## 📄 WorldCompass: Reinforcement Learning for Long-Horizon World Models
 
 - **链接**: https://huggingface.co/papers/2602.09022
 - **阅读来源**: HTML
@@ -373,7 +370,7 @@
 
 ============================================================
 
-### 📄 LatentChem: From Textual CoT to Latent Thinking in Chemical Reasoning
+## 📄 LatentChem: From Textual CoT to Latent Thinking in Chemical Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.07075
 - **阅读来源**: ArXiv Abs
@@ -405,7 +402,7 @@
 
 ============================================================
 
-### 📄 Concept-Aware Privacy Mechanisms for Defending Embedding Inversion Attacks
+## 📄 Concept-Aware Privacy Mechanisms for Defending Embedding Inversion Attacks
 
 - **链接**: https://huggingface.co/papers/2602.07090
 - **阅读来源**: HTML
@@ -441,7 +438,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 FlexMoRE: A Flexible Mixture of Rank-heterogeneous Experts for Efficient Federatedly-trained Large Language Models
+## 📄 FlexMoRE: A Flexible Mixture of Rank-heterogeneous Experts for Efficient Federatedly-trained Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.08818
 - **阅读来源**: HTML
@@ -478,7 +475,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 Weak-Driven Learning: How Weak Agents make Strong Agents Stronger
+## 📄 Weak-Driven Learning: How Weak Agents make Strong Agents Stronger
 
 - **链接**: https://huggingface.co/papers/2602.08222
 - **阅读来源**: HTML
@@ -518,7 +515,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 AVERE: Improving Audiovisual Emotion Reasoning with Preference Optimization
+## 📄 AVERE: Improving Audiovisual Emotion Reasoning with Preference Optimization
 
 - **链接**: https://huggingface.co/papers/2602.07054
 - **阅读来源**: ArXiv Abs
@@ -551,7 +548,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning
+## 📄 When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.08236
 - **阅读来源**: HTML
@@ -586,7 +583,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 GEBench: Benchmarking Image Generation Models as GUI Environments
+## 📄 GEBench: Benchmarking Image Generation Models as GUI Environments
 
 - **链接**: https://huggingface.co/papers/2602.09007
 - **阅读来源**: HTML
@@ -614,7 +611,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 Demo-ICL: In-Context Learning for Procedural Video Knowledge Acquisition
+## 📄 Demo-ICL: In-Context Learning for Procedural Video Knowledge Acquisition
 
 - **链接**: https://huggingface.co/papers/2602.08439
 - **阅读来源**: HTML
@@ -650,7 +647,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models
+## 📄 NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.06694
 - **阅读来源**: HTML
@@ -681,7 +678,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining
+## 📄 QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining
 
 - **链接**: https://huggingface.co/papers/2602.07085
 - **阅读来源**: HTML
@@ -718,7 +715,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision-Language-Action Models via Latent Iterative Reasoning
+## 📄 Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision-Language-Action Models via Latent Iterative Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.07845
 - **阅读来源**: HTML
@@ -758,7 +755,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 WildReward: Learning Reward Models from In-the-Wild Human Interactions
+## 📄 WildReward: Learning Reward Models from In-the-Wild Human Interactions
 
 - **链接**: https://huggingface.co/papers/2602.08829
 - **阅读来源**: HTML
@@ -788,7 +785,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO
+## 📄 Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO
 
 - **链接**: https://huggingface.co/papers/2602.06422
 - **阅读来源**: HTML
@@ -829,7 +826,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?
+## 📄 Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?
 
 - **链接**: https://huggingface.co/papers/2602.07055
 - **阅读来源**: HTML
@@ -868,7 +865,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth
+## 📄 LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth
 
 - **链接**: https://huggingface.co/papers/2602.07962
 - **阅读来源**: HTML
@@ -897,7 +894,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 Learning-guided Kansa collocation for forward and inverse PDEs beyond linearity
+## 📄 Learning-guided Kansa collocation for forward and inverse PDEs beyond linearity
 
 - **链接**: https://huggingface.co/papers/2602.07970
 - **阅读来源**: HTML
@@ -926,7 +923,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory
+## 📄 Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory
 
 - **链接**: https://huggingface.co/papers/2602.06025
 - **阅读来源**: ArXiv Abs
@@ -963,7 +960,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 Reliable and Responsible Foundation Models: A Comprehensive Survey
+## 📄 Reliable and Responsible Foundation Models: A Comprehensive Survey
 
 - **链接**: https://huggingface.co/papers/2602.08145
 - **阅读来源**: HTML
@@ -996,7 +993,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking
+## 📄 ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking
 
 - **链接**: https://huggingface.co/papers/2602.06445
 - **阅读来源**: HTML
@@ -1027,7 +1024,7 @@ SPARSE 在六个基准数据集（包括 STS12, FIQA）和两个真实世界数�
 
 ============================================================
 
-### 📄 RelayGen: Intra-Generation Model Switching for Efficient Reasoning
+## 📄 RelayGen: Intra-Generation Model Switching for Efficient Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.06454
 - **阅读来源**: HTML
@@ -1067,7 +1064,7 @@ NLP - 大模型推理加速（Large Model Inference Acceleration）/ 长思维�
 
 ============================================================
 
-### 📄 InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery
+## 📄 InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery
 
 - **链接**: https://huggingface.co/papers/2602.08990
 - **阅读来源**: ArXiv Abs
@@ -1099,7 +1096,7 @@ NLP - 大模型推理加速（Large Model Inference Acceleration）/ 长思维�
 
 ============================================================
 
-### 📄 Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control
+## 📄 Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control
 
 - **链接**: https://huggingface.co/papers/2601.21363
 - **阅读来源**: HTML
@@ -1133,7 +1130,7 @@ NLP - 大模型推理加速（Large Model Inference Acceleration）/ 长思维�
 
 ============================================================
 
-### 📄 LLaDA2.1: Speeding Up Text Diffusion via Token Editing
+## 📄 LLaDA2.1: Speeding Up Text Diffusion via Token Editing
 
 - **链接**: https://huggingface.co/papers/2602.08676
 - **阅读来源**: ArXiv Abs
@@ -1169,4 +1166,3 @@ LLaDA2.1 在 **33 个严格的基准测试**中均表现出强大的任务处理
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
