@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-11
 **Source URL**: https://huggingface.co/papers/date/2026-02-11
 
 ============================================================
 
-### 📄 DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents
+## 📄 DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents
 
 - **链接**: https://huggingface.co/papers/2602.07035
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@ NLP-扩散大语言模型 (Diffusion LLMs)、搜索智能体 (Search Agents)、�
 
 ============================================================
 
-### 📄 Chain of Mindset: Reasoning with Adaptive Cognitive Modes
+## 📄 Chain of Mindset: Reasoning with Adaptive Cognitive Modes
 
 - **链接**: https://huggingface.co/papers/2602.10063
 - **阅读来源**: HTML
@@ -71,7 +68,7 @@ NLP-扩散大语言模型 (Diffusion LLMs)、搜索智能体 (Search Agents)、�
 
 ============================================================
 
-### 📄 SAGE: Scalable Agentic 3D Scene Generation for Embodied AI
+## 📄 SAGE: Scalable Agentic 3D Scene Generation for Embodied AI
 
 - **链接**: https://huggingface.co/papers/2602.10116
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@ SAGE 是一个基于代理（Agent）的框架，通过编排生成工具与物�
 
 ============================================================
 
-### 📄 Autoregressive Image Generation with Masked Bit Modeling
+## 📄 Autoregressive Image Generation with Masked Bit Modeling
 
 - **链接**: https://huggingface.co/papers/2602.09024
 - **阅读来源**: HTML
@@ -148,7 +145,7 @@ SAGE 是一个基于代理（Agent）的框架，通过编排生成工具与物�
 
 ============================================================
 
-### 📄 Fine-T2I: An Open, Large-Scale, and Diverse Dataset for High-Quality T2I Fine-Tuning
+## 📄 Fine-T2I: An Open, Large-Scale, and Diverse Dataset for High-Quality T2I Fine-Tuning
 
 - **链接**: https://huggingface.co/papers/2602.09439
 - **阅读来源**: HTML
@@ -183,7 +180,7 @@ AIGC - 文本生成图像 (Text-to-Image Generation)、生成式模型微调 (Mo
 
 ============================================================
 
-### 📄 Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems
+## 📄 Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems
 
 - **链接**: https://huggingface.co/papers/2602.08847
 - **阅读来源**: HTML
@@ -213,7 +210,7 @@ AIGC - 文本生成图像 (Text-to-Image Generation)、生成式模型微调 (Mo
 
 ============================================================
 
-### 📄 Dynamic Long Context Reasoning over Compressed Memory via End-to-End Reinforcement Learning
+## 📄 Dynamic Long Context Reasoning over Compressed Memory via End-to-End Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.08382
 - **阅读来源**: ArXiv Abs
@@ -249,7 +246,7 @@ NLP - 大语言模型长文本处理 / 高效推理架构（结合强化学习�
 
 ============================================================
 
-### 📄 SafePred: A Predictive Guardrail for Computer-Using Agents via World Models
+## 📄 SafePred: A Predictive Guardrail for Computer-Using Agents via World Models
 
 - **链接**: https://huggingface.co/papers/2602.01725
 - **阅读来源**: HTML
@@ -281,7 +278,7 @@ NLP - 大语言模型长文本处理 / 高效推理架构（结合强化学习�
 
 ============================================================
 
-### 📄 P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads
+## 📄 P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads
 
 - **链接**: https://huggingface.co/papers/2602.09443
 - **阅读来源**: HTML
@@ -311,7 +308,7 @@ NLP - 大语言模型长文本处理 / 高效推理架构（结合强化学习�
 
 ============================================================
 
-### 📄 SHARP: Social Harm Analysis via Risk Profiles for Measuring Inequities in Large Language Models
+## 📄 SHARP: Social Harm Analysis via Risk Profiles for Measuring Inequities in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2601.21235
 - **阅读来源**: HTML
@@ -344,7 +341,7 @@ NLP - 大语言模型长文本处理 / 高效推理架构（结合强化学习�
 
 ============================================================
 
-### 📄 Learning Self-Correction in Vision-Language Models via Rollout Augmentation
+## 📄 Learning Self-Correction in Vision-Language Models via Rollout Augmentation
 
 - **链接**: https://huggingface.co/papers/2602.08503
 - **阅读来源**: HTML
@@ -376,7 +373,7 @@ NLP - 大语言模型长文本处理 / 高效推理架构（结合强化学习�
 
 ============================================================
 
-### 📄 ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training
+## 📄 ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training
 
 - **链接**: https://huggingface.co/papers/2602.06820
 - **阅读来源**: HTML
@@ -405,7 +402,7 @@ NLP - 大语言模型长文本处理 / 高效推理架构（结合强化学习�
 
 ============================================================
 
-### 📄 VideoWorld 2: Learning Transferable Knowledge from Real-world Videos
+## 📄 VideoWorld 2: Learning Transferable Knowledge from Real-world Videos
 
 - **链接**: https://huggingface.co/papers/2602.10102
 - **阅读来源**: HTML
@@ -445,7 +442,7 @@ NLP - 大语言模型长文本处理 / 高效推理架构（结合强化学习�
 
 ============================================================
 
-### 📄 From Directions to Regions: Decomposing Activations in Language Models via Local Geometry
+## 📄 From Directions to Regions: Decomposing Activations in Language Models via Local Geometry
 
 - **链接**: https://huggingface.co/papers/2602.02464
 - **阅读来源**: HTML
@@ -481,7 +478,7 @@ NLP - 大语言模型长文本处理 / 高效推理架构（结合强化学习�
 
 ============================================================
 
-### 📄 VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model
+## 📄 VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model
 
 - **链接**: https://huggingface.co/papers/2602.10098
 - **阅读来源**: HTML
@@ -528,7 +525,7 @@ VLA-JEPA 提出了一种基于联合嵌入预测架构（JEPA）的预训练框�
 
 ============================================================
 
-### 📄 OPE: Overcoming Information Saturation in Parallel Thinking via Outline-Guided Path Exploration
+## 📄 OPE: Overcoming Information Saturation in Parallel Thinking via Outline-Guided Path Exploration
 
 - **链接**: https://huggingface.co/papers/2602.08344
 - **阅读来源**: HTML
@@ -562,7 +559,7 @@ VLA-JEPA 提出了一种基于联合嵌入预测架构（JEPA）的预训练框�
 
 ============================================================
 
-### 📄 Stable Velocity: A Variance Perspective on Flow Matching
+## 📄 Stable Velocity: A Variance Perspective on Flow Matching
 
 - **链接**: https://huggingface.co/papers/2602.05435
 - **阅读来源**: HTML
@@ -596,7 +593,7 @@ VLA-JEPA 提出了一种基于联合嵌入预测架构（JEPA）的预训练框�
 
 ============================================================
 
-### 📄 Olaf-World: Orienting Latent Actions for Video World Modeling
+## 📄 Olaf-World: Orienting Latent Actions for Video World Modeling
 
 - **链接**: https://huggingface.co/papers/2602.10104
 - **阅读来源**: ArXiv Abs
@@ -631,7 +628,7 @@ VLA-JEPA 提出了一种基于联合嵌入预测架构（JEPA）的预训练框�
 
 ============================================================
 
-### 📄 Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning
+## 📄 Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.10090
 - **阅读来源**: HTML
@@ -663,7 +660,7 @@ VLA-JEPA 提出了一种基于联合嵌入预测架构（JEPA）的预训练框�
 
 ============================================================
 
-### 📄 Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling
+## 📄 Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling
 
 - **链接**: https://huggingface.co/papers/2602.09084
 - **阅读来源**: HTML
@@ -697,7 +694,7 @@ VLA-JEPA 提出了一种基于联合嵌入预测架构（JEPA）的预训练框�
 
 ============================================================
 
-### 📄 Prism: Spectral-Aware Block-Sparse Attention
+## 📄 Prism: Spectral-Aware Block-Sparse Attention
 
 - **链接**: https://huggingface.co/papers/2602.08426
 - **阅读来源**: ArXiv Abs
@@ -728,7 +725,7 @@ NLP - 大语言模型长上下文推理加速（特别是针对 Pre-filling 阶�
 
 ============================================================
 
-### 📄 Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs
+## 📄 Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs
 
 - **链接**: https://huggingface.co/papers/2602.07276
 - **阅读来源**: HTML
@@ -763,7 +760,7 @@ NLP-大模型推理时适配与控制 (Inference-time Adaptation & Control of LL
 
 ============================================================
 
-### 📄 ANCHOR: Branch-Point Data Generation for GUI Agents
+## 📄 ANCHOR: Branch-Point Data Generation for GUI Agents
 
 - **链接**: https://huggingface.co/papers/2602.07153
 - **阅读来源**: HTML
@@ -798,7 +795,7 @@ NLP-大模型推理时适配与控制 (Inference-time Adaptation & Control of LL
 
 ============================================================
 
-### 📄 OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration
+## 📄 OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration
 
 - **链接**: https://huggingface.co/papers/2602.05400
 - **阅读来源**: HTML
@@ -837,7 +834,7 @@ NLP - 大语言模型预训练（Pre-training）与持续预训练（Continued P
 
 ============================================================
 
-### 📄 Code2World: A GUI World Model via Renderable Code Generation
+## 📄 Code2World: A GUI World Model via Renderable Code Generation
 
 - **链接**: https://huggingface.co/papers/2602.09856
 - **阅读来源**: HTML
@@ -871,7 +868,7 @@ NLP - 大语言模型预训练（Pre-training）与持续预训练（Continued P
 
 ============================================================
 
-### 📄 SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models
+## 📄 SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2602.04208
 - **阅读来源**: ArXiv Abs
@@ -903,7 +900,7 @@ NLP - 大语言模型预训练（Pre-training）与持续预训练（Continued P
 
 ============================================================
 
-### 📄 Covo-Audio Technical Report
+## 📄 Covo-Audio Technical Report
 
 - **链接**: https://huggingface.co/papers/2602.09823
 - **阅读来源**: HTML
@@ -935,7 +932,7 @@ NLP - 大语言模型预训练（Pre-training）与持续预训练（Continued P
 
 ============================================================
 
-### 📄 Temporal Pair Consistency for Variance-Reduced Flow Matching
+## 📄 Temporal Pair Consistency for Variance-Reduced Flow Matching
 
 - **链接**: https://huggingface.co/papers/2602.04908
 - **阅读来源**: HTML
@@ -970,7 +967,7 @@ NLP - 大语言模型预训练（Pre-training）与持续预训练（Continued P
 
 ============================================================
 
-### 📄 Condition Errors Refinement in Autoregressive Image Generation with Diffusion Loss
+## 📄 Condition Errors Refinement in Autoregressive Image Generation with Diffusion Loss
 
 - **链接**: https://huggingface.co/papers/2602.07022
 - **阅读来源**: HTML
@@ -1006,7 +1003,7 @@ NLP - 大语言模型预训练（Pre-training）与持续预训练（Continued P
 
 ============================================================
 
-### 📄 UI-Venus-1.5 Technical Report
+## 📄 UI-Venus-1.5 Technical Report
 
 - **链接**: https://huggingface.co/papers/2602.09082
 - **阅读来源**: HTML
@@ -1042,7 +1039,7 @@ NLP - 大语言模型预训练（Pre-training）与持续预训练（Continued P
 
 ============================================================
 
-### 📄 SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning
+## 📄 SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.08234
 - **阅读来源**: HTML
@@ -1080,7 +1077,7 @@ NLP - 大语言模型预训练（Pre-training）与持续预训练（Continued P
 
 ============================================================
 
-### 📄 BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation
+## 📄 BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation
 
 - **链接**: https://huggingface.co/papers/2602.09849
 - **阅读来源**: ArXiv Abs
@@ -1112,7 +1109,7 @@ NLP - 大语言模型预训练（Pre-training）与持续预训练（Continued P
 
 ============================================================
 
-### 📄 TodoEvolve: Learning to Architect Agent Planning Systems
+## 📄 TodoEvolve: Learning to Architect Agent Planning Systems
 
 - **链接**: https://huggingface.co/papers/2602.07839
 - **阅读来源**: HTML
@@ -1144,4 +1141,3 @@ NLP-大模型智能体（LLM Agents）、自动化系统设计、复杂任务规
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
