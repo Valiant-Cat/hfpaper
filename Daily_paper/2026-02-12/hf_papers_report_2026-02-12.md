@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-12
 **Source URL**: https://huggingface.co/papers/date/2026-02-12
 
 ============================================================
 
-### 📄 GENIUS: Generative Fluid Intelligence Evaluation Suite
+## 📄 GENIUS: Generative Fluid Intelligence Evaluation Suite
 
 - **链接**: https://huggingface.co/papers/2602.11144
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions
+## 📄 AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions
 
 - **链接**: https://huggingface.co/papers/2602.06008
 - **阅读来源**: HTML
@@ -66,7 +63,7 @@
 
 ============================================================
 
-### 📄 Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models
+## 📄 Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.10224
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@
 
 ============================================================
 
-### 📄 Online Causal Kalman Filtering for Stable and Effective Policy Optimization
+## 📄 Online Causal Kalman Filtering for Stable and Effective Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2602.10609
 - **阅读来源**: HTML
@@ -144,7 +141,7 @@
 
 ============================================================
 
-### 📄 FeatureBench: Benchmarking Agentic Coding for Complex Feature Development
+## 📄 FeatureBench: Benchmarking Agentic Coding for Complex Feature Development
 
 - **链接**: https://huggingface.co/papers/2602.10975
 - **阅读来源**: HTML
@@ -172,7 +169,7 @@
 
 ============================================================
 
-### 📄 PhyCritic: Multimodal Critic Models for Physical AI
+## 📄 PhyCritic: Multimodal Critic Models for Physical AI
 
 - **链接**: https://huggingface.co/papers/2602.11124
 - **阅读来源**: HTML
@@ -216,7 +213,7 @@
 
 ============================================================
 
-### 📄 Weight Decay Improves Language Model Plasticity
+## 📄 Weight Decay Improves Language Model Plasticity
 
 - **链接**: https://huggingface.co/papers/2602.11137
 - **阅读来源**: HTML
@@ -250,7 +247,7 @@ NLP-大语言模型预训练与微调（Large Language Model Pretraining & Fine-
 
 ============================================================
 
-### 📄 UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory
+## 📄 UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory
 
 - **链接**: https://huggingface.co/papers/2602.10652
 - **阅读来源**: HTML
@@ -282,7 +279,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 Beyond Correctness: Learning Robust Reasoning via Transfer
+## 📄 Beyond Correctness: Learning Robust Reasoning via Transfer
 
 - **链接**: https://huggingface.co/papers/2602.08489
 - **阅读来源**: HTML
@@ -321,7 +318,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design
+## 📄 G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design
 
 - **链接**: https://huggingface.co/papers/2602.08253
 - **阅读来源**: HTML
@@ -361,7 +358,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation
+## 📄 Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation
 
 - **链接**: https://huggingface.co/papers/2602.10699
 - **阅读来源**: HTML
@@ -395,7 +392,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 ASA: Training-Free Representation Engineering for Tool-Calling Agents
+## 📄 ASA: Training-Free Representation Engineering for Tool-Calling Agents
 
 - **链接**: https://huggingface.co/papers/2602.04935
 - **阅读来源**: HTML
@@ -434,7 +431,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models
+## 📄 When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models
 
 - **链接**: https://huggingface.co/papers/2602.10179
 - **阅读来源**: HTML
@@ -464,7 +461,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning
+## 📄 DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.11089
 - **阅读来源**: HTML
@@ -492,7 +489,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents
+## 📄 When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents
 
 - **链接**: https://huggingface.co/papers/2602.08995
 - **阅读来源**: HTML
@@ -523,7 +520,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions
+## 📄 TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions
 
 - **链接**: https://huggingface.co/papers/2602.08711
 - **阅读来源**: HTML
@@ -550,7 +547,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning
+## 📄 Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning
 
 - **链接**: https://huggingface.co/papers/2602.11149
 - **阅读来源**: HTML
@@ -581,7 +578,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 Benchmarking Large Language Models for Knowledge Graph Validation
+## 📄 Benchmarking Large Language Models for Knowledge Graph Validation
 
 - **链接**: https://huggingface.co/papers/2602.10748
 - **阅读来源**: HTML
@@ -612,7 +609,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 QP-OneModel: A Unified Generative LLM for Multi-Task Query Understanding in Xiaohongshu Search
+## 📄 QP-OneModel: A Unified Generative LLM for Multi-Task Query Understanding in Xiaohongshu Search
 
 - **链接**: https://huggingface.co/papers/2602.09901
 - **阅读来源**: HTML
@@ -640,7 +637,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 Free(): Learning to Forget in Malloc-Only Reasoning Models
+## 📄 Free(): Learning to Forget in Malloc-Only Reasoning Models
 
 - **链接**: https://huggingface.co/papers/2602.08030
 - **阅读来源**: HTML
@@ -671,7 +668,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models
+## 📄 Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models
 
 - **链接**: https://huggingface.co/papers/2602.09713
 - **阅读来源**: HTML
@@ -704,7 +701,7 @@ NLP-大模型智能体 (LLM Agents)、终身学习 (Lifelong Learning)、自进�
 
 ============================================================
 
-### 📄 ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression
+## 📄 ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression
 
 - **链接**: https://huggingface.co/papers/2602.11008
 - **阅读来源**: HTML
@@ -746,7 +743,7 @@ ROCKET 提出了一种免训练的模型压缩框架，通过结合基于校准�
 
 ============================================================
 
-### 📄 Towards Autonomous Mathematics Research
+## 📄 Towards Autonomous Mathematics Research
 
 - **链接**: https://huggingface.co/papers/2602.10177
 - **阅读来源**: HTML
@@ -778,7 +775,7 @@ ROCKET 提出了一种免训练的模型压缩框架，通过结合基于校准�
 
 ============================================================
 
-### 📄 Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models
+## 📄 Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.07106
 - **阅读来源**: HTML
@@ -811,7 +808,7 @@ ROCKET 提出了一种免训练的模型压缩框架，通过结合基于校准�
 
 ============================================================
 
-### 📄 Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation
+## 📄 Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation
 
 - **链接**: https://huggingface.co/papers/2602.07954
 - **阅读来源**: ArXiv Abs
@@ -843,7 +840,7 @@ NLP-大语言模型内容安全与审核（Content Moderation for LLMs）
 
 ============================================================
 
-### 📄 Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters
+## 📄 Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters
 
 - **链接**: https://huggingface.co/papers/2602.10604
 - **阅读来源**: HTML
@@ -875,7 +872,7 @@ NLP-大语言模型内容安全与审核（Content Moderation for LLMs）
 
 ============================================================
 
-### 📄 CLI-Gym: Scalable CLI Task Generation via Agentic Environment Inversion
+## 📄 CLI-Gym: Scalable CLI Task Generation via Agentic Environment Inversion
 
 - **链接**: https://huggingface.co/papers/2602.10999
 - **阅读来源**: HTML
@@ -907,7 +904,7 @@ NLP-大语言模型内容安全与审核（Content Moderation for LLMs）
 
 ============================================================
 
-### 📄 EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economies
+## 📄 EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economies
 
 - **链接**: https://huggingface.co/papers/2602.09514
 - **阅读来源**: HTML
@@ -940,7 +937,7 @@ NLP-大语言模型智能体 (LLM Agents)、长程规划 (Long-Horizon Planning)
 
 ============================================================
 
-### 📄 ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation
+## 📄 ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation
 
 - **链接**: https://huggingface.co/papers/2602.09014
 - **阅读来源**: ArXiv Abs
@@ -971,7 +968,7 @@ NLP-大语言模型智能体 (LLM Agents)、长程规划 (Long-Horizon Planning)
 
 ============================================================
 
-### 📄 When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning
+## 📄 When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.10560
 - **阅读来源**: ArXiv Abs
@@ -1007,4 +1004,3 @@ NLP-大语言模型智能体 (LLM Agents)、长程规划 (Long-Horizon Planning)
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
