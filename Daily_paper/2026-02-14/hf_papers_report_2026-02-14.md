@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-14
 **Source URL**: https://huggingface.co/papers/date/2026-02-14
 
 ============================================================
 
-### 📄 Adapting Vision-Language Models for E-commerce Understanding at Scale
+## 📄 Adapting Vision-Language Models for E-commerce Understanding at Scale
 
 - **链接**: https://huggingface.co/papers/2602.11733
 - **阅读来源**: HTML
@@ -40,7 +37,7 @@
 
 ============================================================
 
-### 📄 NarraScore: Bridging Visual Narrative and Musical Dynamics via Hierarchical Affective Control
+## 📄 NarraScore: Bridging Visual Narrative and Musical Dynamics via Hierarchical Affective Control
 
 - **链接**: https://huggingface.co/papers/2602.09070
 - **阅读来源**: HTML
@@ -76,7 +73,7 @@
 
 ============================================================
 
-### 📄 MetaphorStar: Image Metaphor Understanding and Reasoning with End-to-End Visual Reinforcement Learning
+## 📄 MetaphorStar: Image Metaphor Understanding and Reasoning with End-to-End Visual Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.10575
 - **阅读来源**: HTML
@@ -106,7 +103,7 @@
 
 ============================================================
 
-### 📄 Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments
+## 📄 Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments
 
 - **链接**: https://huggingface.co/papers/2602.11964
 - **阅读来源**: ArXiv Abs
@@ -141,7 +138,7 @@
 
 ============================================================
 
-### 📄 LawThinker: A Deep Research Legal Agent in Dynamic Environments
+## 📄 LawThinker: A Deep Research Legal Agent in Dynamic Environments
 
 - **链接**: https://huggingface.co/papers/2602.12056
 - **阅读来源**: HTML
@@ -171,7 +168,7 @@
 
 ============================================================
 
-### 📄 DeepSight: An All-in-One LM Safety Toolkit
+## 📄 DeepSight: An All-in-One LM Safety Toolkit
 
 - **链接**: https://huggingface.co/papers/2602.12092
 - **阅读来源**: HTML
@@ -208,7 +205,7 @@
 
 ============================================================
 
-### 📄 GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning
+## 📄 GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.12099
 - **阅读来源**: HTML
@@ -236,7 +233,7 @@
 
 ============================================================
 
-### 📄 PISCO: Precise Video Instance Insertion with Sparse Control
+## 📄 PISCO: Precise Video Instance Insertion with Sparse Control
 
 - **链接**: https://huggingface.co/papers/2602.08277
 - **阅读来源**: HTML
@@ -267,7 +264,7 @@
 
 ============================================================
 
-### 📄 Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use
+## 📄 Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use
 
 - **链接**: https://huggingface.co/papers/2602.11541
 - **阅读来源**: ArXiv Abs
@@ -301,7 +298,7 @@
 
 ============================================================
 
-### 📄 Voxtral Realtime
+## 📄 Voxtral Realtime
 
 - **链接**: https://huggingface.co/papers/2602.11298
 - **阅读来源**: HTML
@@ -340,7 +337,7 @@
 
 ============================================================
 
-### 📄 Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized Reinforcement Learning
+## 📄 Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.11748
 - **阅读来源**: HTML
@@ -374,7 +371,7 @@
 
 ============================================================
 
-### 📄 MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling
+## 📄 MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling
 
 - **链接**: https://huggingface.co/papers/2602.11761
 - **阅读来源**: HTML
@@ -404,7 +401,7 @@ MiniCPM-SALA 提出了一种结合稀疏注意力和线性注意力的混合架�
 
 ============================================================
 
-### 📄 EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration
+## 📄 EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration
 
 - **链接**: https://huggingface.co/papers/2602.10106
 - **阅读来源**: HTML
@@ -443,7 +440,7 @@ MiniCPM-SALA 提出了一种结合稀疏注意力和线性注意力的混合架�
 
 ============================================================
 
-### 📄 ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces
+## 📄 ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces
 
 - **链接**: https://huggingface.co/papers/2602.11683
 - **阅读来源**: HTML
@@ -482,7 +479,7 @@ MiniCPM-SALA 提出了一种结合稀疏注意力和线性注意力的混合架�
 
 ============================================================
 
-### 📄 ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning
+## 📄 ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning
 
 - **链接**: https://huggingface.co/papers/2602.11636
 - **阅读来源**: HTML
@@ -517,7 +514,7 @@ MiniCPM-SALA 提出了一种结合稀疏注意力和线性注意力的混合架�
 
 ============================================================
 
-### 📄 MemFly: On-the-Fly Memory Optimization via Information Bottleneck
+## 📄 MemFly: On-the-Fly Memory Optimization via Information Bottleneck
 
 - **链接**: https://huggingface.co/papers/2602.07885
 - **阅读来源**: HTML
@@ -559,7 +556,7 @@ MiniCPM-SALA 提出了一种结合稀疏注意力和线性注意力的混合架�
 
 ============================================================
 
-### 📄 χ_{0}: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies
+## 📄 χ_{0}: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies
 
 - **链接**: https://huggingface.co/papers/2602.09021
 - **阅读来源**: HTML
@@ -592,7 +589,7 @@ MiniCPM-SALA 提出了一种结合稀疏注意力和线性注意力的混合架�
 
 ============================================================
 
-### 📄 T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization
+## 📄 T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization
 
 - **链接**: https://huggingface.co/papers/2602.12262
 - **阅读来源**: ArXiv Abs
@@ -623,7 +620,7 @@ MiniCPM-SALA 提出了一种结合稀疏注意力和线性注意力的混合架�
 
 ============================================================
 
-### 📄 MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models
+## 📄 MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models
 
 - **链接**: https://huggingface.co/papers/2602.10934
 - **阅读来源**: ArXiv Abs
@@ -656,7 +653,7 @@ MiniCPM-SALA 提出了一种结合稀疏注意力和线性注意力的混合架�
 
 ============================================================
 
-### 📄 Sci-CoE: Co-evolving Scientific Reasoning LLMs via Geometric Consensus with Sparse Supervision
+## 📄 Sci-CoE: Co-evolving Scientific Reasoning LLMs via Geometric Consensus with Sparse Supervision
 
 - **链接**: https://huggingface.co/papers/2602.12164
 - **阅读来源**: ArXiv Abs
@@ -691,7 +688,7 @@ NLP-大模型推理（LLM Reasoning）、科学推理（Scientific Reasoning）�
 
 ============================================================
 
-### 📄 Thinking with Drafting: Optical Decompression via Logical Reconstruction
+## 📄 Thinking with Drafting: Optical Decompression via Logical Reconstruction
 
 - **链接**: https://huggingface.co/papers/2602.11731
 - **阅读来源**: HTML
@@ -725,7 +722,7 @@ NLP-大模型推理（LLM Reasoning）、科学推理（Scientific Reasoning）�
 
 ============================================================
 
-### 📄 Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching
+## 📄 Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching
 
 - **链接**: https://huggingface.co/papers/2602.12280
 - **阅读来源**: HTML
@@ -755,7 +752,7 @@ NLP-大模型推理（LLM Reasoning）、科学推理（Scientific Reasoning）�
 
 ============================================================
 
-### 📄 Detecting RLVR Training Data via Structural Convergence of Reasoning
+## 📄 Detecting RLVR Training Data via Structural Convergence of Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.11792
 - **阅读来源**: HTML
@@ -793,7 +790,7 @@ NLP-大模型推理（LLM Reasoning）、科学推理（Scientific Reasoning）�
 
 ============================================================
 
-### 📄 Pretraining A Large Language Model using Distributed GPUs: A Memory-Efficient Decentralized Paradigm
+## 📄 Pretraining A Large Language Model using Distributed GPUs: A Memory-Efficient Decentralized Paradigm
 
 - **链接**: https://huggingface.co/papers/2602.11543
 - **阅读来源**: HTML
@@ -823,7 +820,7 @@ NLP-大模型预训练（Large Language Model Pretraining）、分布式深度�
 
 ============================================================
 
-### 📄 Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation
+## 📄 Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation
 
 - **链接**: https://huggingface.co/papers/2602.12125
 - **阅读来源**: HTML
@@ -858,7 +855,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 Dreaming in Code for Curriculum Learning in Open-Ended Worlds
+## 📄 Dreaming in Code for Curriculum Learning in Open-Ended Worlds
 
 - **链接**: https://huggingface.co/papers/2602.08194
 - **阅读来源**: ArXiv Abs
@@ -895,7 +892,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models
+## 📄 Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.12036
 - **阅读来源**: HTML
@@ -929,7 +926,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 Single-minus gluon tree amplitudes are nonzero
+## 📄 Single-minus gluon tree amplitudes are nonzero
 
 - **链接**: https://huggingface.co/papers/2602.12176
 - **阅读来源**: HTML
@@ -957,7 +954,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 RISE: Self-Improving Robot Policy with Compositional World Model
+## 📄 RISE: Self-Improving Robot Policy with Compositional World Model
 
 - **链接**: https://huggingface.co/papers/2602.11075
 - **阅读来源**: HTML
@@ -995,7 +992,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 Neural Additive Experts: Context-Gated Experts for Controllable Model Additivity
+## 📄 Neural Additive Experts: Context-Gated Experts for Controllable Model Additivity
 
 - **链接**: https://huggingface.co/papers/2602.10585
 - **阅读来源**: HTML
@@ -1023,7 +1020,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling
+## 📄 P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling
 
 - **链接**: https://huggingface.co/papers/2602.12116
 - **阅读来源**: HTML
@@ -1051,7 +1048,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 dVoting: Fast Voting for dLLMs
+## 📄 dVoting: Fast Voting for dLLMs
 
 - **链接**: https://huggingface.co/papers/2602.12153
 - **阅读来源**: HTML
@@ -1086,7 +1083,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 Stemphonic: All-at-once Flexible Multi-stem Music Generation
+## 📄 Stemphonic: All-at-once Flexible Multi-stem Music Generation
 
 - **链接**: https://huggingface.co/papers/2602.09891
 - **阅读来源**: HTML
@@ -1122,7 +1119,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies
+## 📄 The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies
 
 - **链接**: https://huggingface.co/papers/2602.09877
 - **阅读来源**: HTML
@@ -1157,7 +1154,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation
+## 📄 Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation
 
 - **链接**: https://huggingface.co/papers/2602.05827
 - **阅读来源**: HTML
@@ -1189,7 +1186,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing
+## 📄 DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing
 
 - **链接**: https://huggingface.co/papers/2602.12205
 - **阅读来源**: ArXiv Abs
@@ -1221,7 +1218,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation
+## 📄 MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation
 
 - **链接**: https://huggingface.co/papers/2602.11337
 - **阅读来源**: HTML
@@ -1256,7 +1253,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images
+## 📄 ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images
 
 - **链接**: https://huggingface.co/papers/2602.12203
 - **阅读来源**: HTML
@@ -1286,7 +1283,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 Multimodal Fact-Level Attribution for Verifiable Reasoning
+## 📄 Multimodal Fact-Level Attribution for Verifiable Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.11509
 - **阅读来源**: ArXiv Abs
@@ -1319,7 +1316,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation
+## 📄 Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation
 
 - **链接**: https://huggingface.co/papers/2602.05548
 - **阅读来源**: HTML
@@ -1356,7 +1353,7 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 ============================================================
 
-### 📄 ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation
+## 📄 ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation
 
 - **链接**: https://huggingface.co/papers/2602.11598
 - **阅读来源**: ArXiv Abs
@@ -1390,4 +1387,3 @@ NLP-大模型后训练（Post-training）、知识蒸馏（Knowledge Distillatio
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
