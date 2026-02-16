@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-16
 **Source URL**: https://huggingface.co/papers/date/2026-02-16
 
 ============================================================
 
-### 📄 GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics
+## 📄 GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics
 
 - **链接**: https://huggingface.co/papers/2602.12617
 - **阅读来源**: HTML
@@ -36,7 +33,7 @@
 
 ============================================================
 
-### 📄 DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels
+## 📄 DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels
 
 - **链接**: https://huggingface.co/papers/2602.11715
 - **阅读来源**: HTML
@@ -65,7 +62,7 @@
 
 ============================================================
 
-### 📄 Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost
+## 📄 Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost
 
 - **链接**: https://huggingface.co/papers/2602.03120
 - **阅读来源**: HTML
@@ -102,7 +99,7 @@ NLP - 大语言模型微调 / 边缘端模型部署与训练 / 高效机器学�
 
 ============================================================
 
-### 📄 ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning
+## 📄 ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning
 
 - **链接**: https://huggingface.co/papers/2602.11236
 - **阅读来源**: HTML
@@ -144,7 +141,7 @@ NLP - 大语言模型微调 / 边缘端模型部署与训练 / 高效机器学�
 
 ============================================================
 
-### 📄 SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents
+## 📄 SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents
 
 - **链接**: https://huggingface.co/papers/2602.12984
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI for Science (科学智能)、LLM Agent (大模型智能体)、Tool Learning (
 
 ============================================================
 
-### 📄 What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis
+## 📄 What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis
 
 - **链接**: https://huggingface.co/papers/2602.12395
 - **阅读来源**: HTML
@@ -212,7 +209,7 @@ AI for Science (科学智能)、LLM Agent (大模型智能体)、Tool Learning (
 
 ============================================================
 
-### 📄 Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback
+## 📄 Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback
 
 - **链接**: https://huggingface.co/papers/2602.12612
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI for Science (科学智能)、LLM Agent (大模型智能体)、Tool Learning (
 
 ============================================================
 
-### 📄 TADA! Tuning Audio Diffusion Models through Activation Steering
+## 📄 TADA! Tuning Audio Diffusion Models through Activation Steering
 
 - **链接**: https://huggingface.co/papers/2602.11910
 - **阅读来源**: HTML
@@ -286,7 +283,7 @@ AI for Science (科学智能)、LLM Agent (大模型智能体)、Tool Learning (
 
 ============================================================
 
-### 📄 Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs
+## 📄 Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs
 
 - **链接**: https://huggingface.co/papers/2602.10388
 - **阅读来源**: HTML
@@ -319,7 +316,7 @@ AI for Science (科学智能)、LLM Agent (大模型智能体)、Tool Learning (
 
 ============================================================
 
-### 📄 Intelligent AI Delegation
+## 📄 Intelligent AI Delegation
 
 - **链接**: https://huggingface.co/papers/2602.11865
 - **阅读来源**: HTML
@@ -351,7 +348,7 @@ AI for Science (科学智能)、LLM Agent (大模型智能体)、Tool Learning (
 
 ============================================================
 
-### 📄 Light4D: Training-Free Extreme Viewpoint 4D Video Relighting
+## 📄 Light4D: Training-Free Extreme Viewpoint 4D Video Relighting
 
 - **链接**: https://huggingface.co/papers/2602.11769
 - **阅读来源**: HTML
@@ -390,7 +387,7 @@ AI for Science (科学智能)、LLM Agent (大模型智能体)、Tool Learning (
 
 ============================================================
 
-### 📄 CoPE-VideoLM: Codec Primitives For Efficient Video Language Models
+## 📄 CoPE-VideoLM: Codec Primitives For Efficient Video Language Models
 
 - **链接**: https://huggingface.co/papers/2602.13191
 - **阅读来源**: HTML
@@ -424,7 +421,7 @@ AI for Science (科学智能)、LLM Agent (大模型智能体)、Tool Learning (
 
 ============================================================
 
-### 📄 FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching
+## 📄 FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching
 
 - **链接**: https://huggingface.co/papers/2602.12829
 - **阅读来源**: ArXiv Abs
@@ -461,7 +458,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs
+## 📄 MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs
 
 - **链接**: https://huggingface.co/papers/2602.12705
 - **阅读来源**: HTML
@@ -489,7 +486,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 Towards Universal Video MLLMs with Attribute-Structured and Quality-Verified Instructions
+## 📄 Towards Universal Video MLLMs with Attribute-Structured and Quality-Verified Instructions
 
 - **链接**: https://huggingface.co/papers/2602.13013
 - **阅读来源**: HTML
@@ -521,7 +518,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception
+## 📄 Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception
 
 - **链接**: https://huggingface.co/papers/2602.11858
 - **阅读来源**: HTML
@@ -552,7 +549,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 Code2Worlds: Empowering Coding LLMs for 4D World Generation
+## 📄 Code2Worlds: Empowering Coding LLMs for 4D World Generation
 
 - **链接**: https://huggingface.co/papers/2602.11757
 - **阅读来源**: HTML
@@ -589,7 +586,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution
+## 📄 Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution
 
 - **链接**: https://huggingface.co/papers/2602.12684
 - **阅读来源**: HTML
@@ -627,7 +624,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning
+## 📄 GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning
 
 - **链接**: https://huggingface.co/papers/2602.04315
 - **阅读来源**: HTML
@@ -660,7 +657,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence
+## 📄 OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence
 
 - **链接**: https://huggingface.co/papers/2602.08683
 - **阅读来源**: HTML
@@ -693,7 +690,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models
+## 📄 BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.04163
 - **阅读来源**: HTML
@@ -731,7 +728,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 RLinf-Co: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models
+## 📄 RLinf-Co: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models
 
 - **链接**: https://huggingface.co/papers/2602.12628
 - **阅读来源**: HTML
@@ -766,7 +763,7 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 ============================================================
 
-### 📄 On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs
+## 📄 On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs
 
 - **链接**: https://huggingface.co/papers/2602.12506
 - **阅读来源**: HTML
@@ -794,4 +791,3 @@ FLAC 提出了一种基于广义薛定谔桥 (Generalized Schrödinger Bridge) �
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
