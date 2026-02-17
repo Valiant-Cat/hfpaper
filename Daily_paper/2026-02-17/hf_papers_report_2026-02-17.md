@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-17
 **Source URL**: https://huggingface.co/papers/date/2026-02-17
 
 ============================================================
 
-### 📄 FireRed-Image-Edit-1.0 Techinical Report
+## 📄 FireRed-Image-Edit-1.0 Techinical Report
 
 - **链接**: https://huggingface.co/papers/2602.13344
 - **阅读来源**: ArXiv Abs
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents
+## 📄 REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents
 
 - **链接**: https://huggingface.co/papers/2602.14234
 - **阅读来源**: HTML
@@ -66,7 +63,7 @@
 
 ============================================================
 
-### 📄 WebWorld: A Large-Scale World Model for Web Agent Training
+## 📄 WebWorld: A Large-Scale World Model for Web Agent Training
 
 - **链接**: https://huggingface.co/papers/2602.14721
 - **阅读来源**: HTML
@@ -101,7 +98,7 @@
 
 ============================================================
 
-### 📄 Experiential Reinforcement Learning
+## 📄 Experiential Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.13949
 - **阅读来源**: HTML
@@ -150,7 +147,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 Query as Anchor: Scenario-Adaptive User Representation via Large Language Model
+## 📄 Query as Anchor: Scenario-Adaptive User Representation via Large Language Model
 
 - **链接**: https://huggingface.co/papers/2602.14492
 - **阅读来源**: HTML
@@ -185,7 +182,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 Qute: Towards Quantum-Native Database
+## 📄 Qute: Towards Quantum-Native Database
 
 - **链接**: https://huggingface.co/papers/2602.14699
 - **阅读来源**: ArXiv Abs
@@ -217,7 +214,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 BitDance: Scaling Autoregressive Generative Models with Binary Tokens
+## 📄 BitDance: Scaling Autoregressive Generative Models with Binary Tokens
 
 - **链接**: https://huggingface.co/papers/2602.14041
 - **阅读来源**: ArXiv Abs
@@ -249,7 +246,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 UniWeTok: An Unified Binary Tokenizer with Codebook Size 2^{128} for Unified Multimodal Large Language Model
+## 📄 UniWeTok: An Unified Binary Tokenizer with Codebook Size 2^{128} for Unified Multimodal Large Language Model
 
 - **链接**: https://huggingface.co/papers/2602.14178
 - **阅读来源**: HTML
@@ -282,7 +279,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models
+## 📄 LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2602.14147
 - **阅读来源**: ArXiv Abs
@@ -315,7 +312,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn't)
+## 📄 A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn't)
 
 - **链接**: https://huggingface.co/papers/2602.14696
 - **阅读来源**: HTML
@@ -349,7 +346,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem
+## 📄 InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem
 
 - **链接**: https://huggingface.co/papers/2602.14367
 - **阅读来源**: HTML
@@ -377,7 +374,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings
+## 📄 Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings
 
 - **链接**: https://huggingface.co/papers/2602.13823
 - **阅读来源**: HTML
@@ -410,7 +407,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks
+## 📄 Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks
 
 - **链接**: https://huggingface.co/papers/2602.14689
 - **阅读来源**: ArXiv Abs
@@ -441,7 +438,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 BrowseComp-V^3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents
+## 📄 BrowseComp-V^3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents
 
 - **链接**: https://huggingface.co/papers/2602.12876
 - **阅读来源**: HTML
@@ -476,7 +473,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 Acoustivision Pro: An Open-Source Interactive Platform for Room Impulse Response Analysis and Acoustic Characterization
+## 📄 Acoustivision Pro: An Open-Source Interactive Platform for Room Impulse Response Analysis and Acoustic Characterization
 
 - **链接**: https://huggingface.co/papers/2602.12299
 - **阅读来源**: HTML
@@ -509,7 +506,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 Preliminary sonification of ENSO using traditional Javanese gamelan scales
+## 📄 Preliminary sonification of ENSO using traditional Javanese gamelan scales
 
 - **链接**: https://huggingface.co/papers/2602.14560
 - **阅读来源**: HTML
@@ -546,7 +543,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation
+## 📄 MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation
 
 - **链接**: https://huggingface.co/papers/2602.14534
 - **阅读来源**: HTML
@@ -585,7 +582,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 AIDev: Studying AI Coding Agents on GitHub
+## 📄 AIDev: Studying AI Coding Agents on GitHub
 
 - **链接**: https://huggingface.co/papers/2602.09185
 - **阅读来源**: HTML
@@ -612,7 +609,7 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 ============================================================
 
-### 📄 Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision
+## 📄 Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision
 
 - **链接**: https://huggingface.co/papers/2602.13195
 - **阅读来源**: HTML
@@ -641,4 +638,3 @@ ERL 在两个模型规模（Qwen3-4B-Instruct 和 Olmo-3-7B-Instruct）以及三
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
