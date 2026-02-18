@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-18
 **Source URL**: https://huggingface.co/papers/date/2026-02-18
 
 ============================================================
 
-### 📄 GLM-5: from Vibe Coding to Agentic Engineering
+## 📄 GLM-5: from Vibe Coding to Agentic Engineering
 
 - **链接**: https://huggingface.co/papers/2602.15763
 - **阅读来源**: HTML
@@ -35,7 +32,7 @@
 
 ============================================================
 
-### 📄 ResearchGym: Evaluating Language Model Agents on Real-World AI Research
+## 📄 ResearchGym: Evaluating Language Model Agents on Real-World AI Research
 
 - **链接**: https://huggingface.co/papers/2602.15112
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression
+## 📄 COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression
 
 - **链接**: https://huggingface.co/papers/2602.15200
 - **阅读来源**: HTML
@@ -110,7 +107,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens
+## 📄 STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens
 
 - **链接**: https://huggingface.co/papers/2602.15620
 - **阅读来源**: HTML
@@ -148,7 +145,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 On Surprising Effectiveness of Masking Updates in Adaptive Optimizers
+## 📄 On Surprising Effectiveness of Masking Updates in Adaptive Optimizers
 
 - **链接**: https://huggingface.co/papers/2602.15322
 - **阅读来源**: HTML
@@ -178,7 +175,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 Visual Persuasion: What Influences Decisions of Vision-Language Models?
+## 📄 Visual Persuasion: What Influences Decisions of Vision-Language Models?
 
 - **链接**: https://huggingface.co/papers/2602.15278
 - **阅读来源**: HTML
@@ -213,7 +210,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 Learning Native Continuation for Action Chunking Flow Policies
+## 📄 Learning Native Continuation for Action Chunking Flow Policies
 
 - **链接**: https://huggingface.co/papers/2602.12978
 - **阅读来源**: HTML
@@ -249,7 +246,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 Prescriptive Scaling Reveals the Evolution of Language Model Capabilities
+## 📄 Prescriptive Scaling Reveals the Evolution of Language Model Capabilities
 
 - **链接**: https://huggingface.co/papers/2602.15327
 - **阅读来源**: HTML
@@ -277,7 +274,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 ClinAlign: Scaling Healthcare Alignment from Clinician Preference
+## 📄 ClinAlign: Scaling Healthcare Alignment from Clinician Preference
 
 - **链接**: https://huggingface.co/papers/2602.09653
 - **阅读来源**: HTML
@@ -309,7 +306,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 Geometry-Aware Rotary Position Embedding for Consistent Video World Model
+## 📄 Geometry-Aware Rotary Position Embedding for Consistent Video World Model
 
 - **链接**: https://huggingface.co/papers/2602.07854
 - **阅读来源**: HTML
@@ -338,7 +335,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 Revisiting the Platonic Representation Hypothesis: An Aristotelian View
+## 📄 Revisiting the Platonic Representation Hypothesis: An Aristotelian View
 
 - **链接**: https://huggingface.co/papers/2602.14486
 - **阅读来源**: HTML
@@ -376,7 +373,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models
+## 📄 Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models
 
 - **链接**: https://huggingface.co/papers/2602.15772
 - **阅读来源**: HTML
@@ -409,7 +406,7 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 ============================================================
 
-### 📄 Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook
+## 📄 Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook
 
 - **链接**: https://huggingface.co/papers/2602.14299
 - **阅读来源**: HTML
@@ -440,4 +437,3 @@ AI 智能体评估 (AI Agent Evaluation)、自动化科学发现 (Automated Scie
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
