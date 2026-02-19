@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-19
 **Source URL**: https://huggingface.co/papers/date/2026-02-19
 
 ============================================================
 
-### 📄 Visual Memory Injection Attacks for Multi-Turn Conversations
+## 📄 Visual Memory Injection Attacks for Multi-Turn Conversations
 
 - **链接**: https://huggingface.co/papers/2602.15927
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 Learning Situated Awareness in the Real World
+## 📄 Learning Situated Awareness in the Real World
 
 - **链接**: https://huggingface.co/papers/2602.16682
 - **阅读来源**: ArXiv Abs
@@ -68,7 +65,7 @@
 
 ============================================================
 
-### 📄 RynnBrain: Open Embodied Foundation Models
+## 📄 RynnBrain: Open Embodied Foundation Models
 
 - **链接**: https://huggingface.co/papers/2602.14979
 - **阅读来源**: HTML
@@ -101,7 +98,7 @@
 
 ============================================================
 
-### 📄 Multi-agent cooperation through in-context co-player inference
+## 📄 Multi-agent cooperation through in-context co-player inference
 
 - **链接**: https://huggingface.co/papers/2602.16301
 - **阅读来源**: HTML
@@ -134,7 +131,7 @@
 
 ============================================================
 
-### 📄 SAM 3D Body: Robust Full-Body Human Mesh Recovery
+## 📄 SAM 3D Body: Robust Full-Body Human Mesh Recovery
 
 - **链接**: https://huggingface.co/papers/2602.15989
 - **阅读来源**: ArXiv Abs
@@ -166,7 +163,7 @@
 
 ============================================================
 
-### 📄 Towards a Science of AI Agent Reliability
+## 📄 Towards a Science of AI Agent Reliability
 
 - **链接**: https://huggingface.co/papers/2602.16666
 - **阅读来源**: HTML
@@ -176,7 +173,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 MMA: Multimodal Memory Agent
+## 📄 MMA: Multimodal Memory Agent
 
 - **链接**: https://huggingface.co/papers/2602.16493
 - **阅读来源**: HTML
@@ -213,7 +210,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Optimizing Few-Step Generation with Adaptive Matching Distillation
+## 📄 Optimizing Few-Step Generation with Adaptive Matching Distillation
 
 - **链接**: https://huggingface.co/papers/2602.07345
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation
+## 📄 Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation
 
 - **链接**: https://huggingface.co/papers/2602.16705
 - **阅读来源**: ArXiv Abs
@@ -281,7 +278,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality
+## 📄 Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality
 
 - **链接**: https://huggingface.co/papers/2602.14080
 - **阅读来源**: ArXiv Abs
@@ -314,7 +311,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 SLA2: Sparse-Linear Attention with Learnable Routing and QAT
+## 📄 SLA2: Sparse-Linear Attention with Learnable Routing and QAT
 
 - **链接**: https://huggingface.co/papers/2602.12675
 - **阅读来源**: HTML
@@ -342,7 +339,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 BiManiBench: A Hierarchical Benchmark for Evaluating Bimanual Coordination of Multimodal Large Language Models
+## 📄 BiManiBench: A Hierarchical Benchmark for Evaluating Bimanual Coordination of Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.08392
 - **阅读来源**: HTML
@@ -376,7 +373,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 World Action Models are Zero-shot Policies
+## 📄 World Action Models are Zero-shot Policies
 
 - **链接**: https://huggingface.co/papers/2602.15922
 - **阅读来源**: HTML
@@ -407,4 +404,3 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
