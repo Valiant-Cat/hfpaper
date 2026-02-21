@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-21
 **Source URL**: https://huggingface.co/papers/date/2026-02-21
 
 ============================================================
 
-### 📄 Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
+## 📄 Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
 
 - **链接**: https://huggingface.co/papers/2602.16855
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@ GUI-Owl-1.5 在超过 20 个 GUI 基准测试中取得了开源模型中的 SOTA
 
 ============================================================
 
-### 📄 Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents
+## 📄 Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents
 
 - **链接**: https://huggingface.co/papers/2602.16699
 - **阅读来源**: HTML
@@ -75,7 +72,7 @@ GUI-Owl-1.5 在超过 20 个 GUI 基准测试中取得了开源模型中的 SOTA
 
 ============================================================
 
-### 📄 DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers
+## 📄 DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2602.16968
 - **阅读来源**: HTML
@@ -110,7 +107,7 @@ GUI-Owl-1.5 在超过 20 个 GUI 基准测试中取得了开源模型中的 SOTA
 
 ============================================================
 
-### 📄 2Mamba2Furious: Linear in Complexity, Competitive in Accuracy
+## 📄 2Mamba2Furious: Linear in Complexity, Competitive in Accuracy
 
 - **链接**: https://huggingface.co/papers/2602.17363
 - **阅读来源**: HTML
@@ -138,7 +135,7 @@ GUI-Owl-1.5 在超过 20 个 GUI 基准测试中取得了开源模型中的 SOTA
 
 ============================================================
 
-### 📄 References Improve LLM Alignment in Non-Verifiable Domains
+## 📄 References Improve LLM Alignment in Non-Verifiable Domains
 
 - **链接**: https://huggingface.co/papers/2602.16802
 - **阅读来源**: HTML
@@ -180,7 +177,7 @@ NLP-大模型对齐（LLM Alignment）、大模型后训练（Post-training）�
 
 ============================================================
 
-### 📄 StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation
+## 📄 StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation
 
 - **链接**: https://huggingface.co/papers/2602.16915
 - **阅读来源**: HTML
@@ -219,7 +216,7 @@ NLP-大模型对齐（LLM Alignment）、大模型后训练（Post-training）�
 
 ============================================================
 
-### 📄 FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
+## 📄 FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
 
 - **链接**: https://huggingface.co/papers/2602.17259
 - **阅读来源**: HTML
@@ -254,7 +251,7 @@ NLP-大模型对齐（LLM Alignment）、大模型后训练（Post-training）�
 
 ============================================================
 
-### 📄 Computer-Using World Model
+## 📄 Computer-Using World Model
 
 - **链接**: https://huggingface.co/papers/2602.17365
 - **阅读来源**: HTML
@@ -284,7 +281,7 @@ NLP-大模型对齐（LLM Alignment）、大模型后训练（Post-training）�
 
 ============================================================
 
-### 📄 ArXiv-to-Model: A Practical Study of Scientific LM Training
+## 📄 ArXiv-to-Model: A Practical Study of Scientific LM Training
 
 - **链接**: https://huggingface.co/papers/2602.17288
 - **阅读来源**: HTML
@@ -320,7 +317,7 @@ NLP-大模型对齐（LLM Alignment）、大模型后训练（Post-training）�
 
 ============================================================
 
-### 📄 Arcee Trinity Large Technical Report
+## 📄 Arcee Trinity Large Technical Report
 
 - **链接**: https://huggingface.co/papers/2602.17004
 - **阅读来源**: HTML
@@ -350,7 +347,7 @@ NLP-大型语言模型（LLM）预训练与推理、稀疏混合专家模型（S
 
 ============================================================
 
-### 📄 CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing
+## 📄 CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing
 
 - **链接**: https://huggingface.co/papers/2602.15823
 - **阅读来源**: ArXiv Abs
@@ -386,7 +383,7 @@ NLP-大型语言模型（LLM）预训练与推理、稀疏混合专家模型（S
 
 ============================================================
 
-### 📄 "What Are You Doing?": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing
+## 📄 "What Are You Doing?": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing
 
 - **链接**: https://huggingface.co/papers/2602.15569
 - **阅读来源**: ArXiv Abs
@@ -422,7 +419,7 @@ NLP-大型语言模型（LLM）预训练与推理、稀疏混合专家模型（S
 
 ============================================================
 
-### 📄 On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking
+## 📄 On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking
 
 - **链接**: https://huggingface.co/papers/2602.16849
 - **阅读来源**: ArXiv Abs
@@ -458,7 +455,7 @@ NLP-大型语言模型（LLM）预训练与推理、稀疏混合专家模型（S
 
 ============================================================
 
-### 📄 Discovering Multiagent Learning Algorithms with Large Language Models
+## 📄 Discovering Multiagent Learning Algorithms with Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.16928
 - **阅读来源**: HTML
@@ -505,7 +502,7 @@ NLP-大型语言模型（LLM）预训练与推理、稀疏混合专家模型（S
 
 ============================================================
 
-### 📄 TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment
+## 📄 TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment
 
 - **链接**: https://huggingface.co/papers/2602.13579
 - **阅读来源**: HTML
@@ -542,7 +539,7 @@ NLP-大型语言模型（LLM）预训练与推理、稀疏混合专家模型（S
 
 ============================================================
 
-### 📄 Modeling Distinct Human Interaction in Web Agents
+## 📄 Modeling Distinct Human Interaction in Web Agents
 
 - **链接**: https://huggingface.co/papers/2602.17588
 - **阅读来源**: HTML
@@ -574,7 +571,7 @@ NLP - 大模型智能体 (LLM Agents) / 人机协作 (Human-AI Collaboration) / 
 
 ============================================================
 
-### 📄 Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5
+## 📄 Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5
 
 - **链接**: https://huggingface.co/papers/2602.14457
 - **阅读来源**: HTML
@@ -608,7 +605,7 @@ NLP - 大模型智能体 (LLM Agents) / 人机协作 (Human-AI Collaboration) / 
 
 ============================================================
 
-### 📄 SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning
+## 📄 SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning
 
 - **链接**: https://huggingface.co/papers/2602.13515
 - **阅读来源**: HTML
@@ -636,7 +633,7 @@ NLP - 大模型智能体 (LLM Agents) / 人机协作 (Human-AI Collaboration) / 
 
 ============================================================
 
-### 📄 NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist
+## 📄 NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist
 
 - **链接**: https://huggingface.co/papers/2602.16756
 - **阅读来源**: HTML
@@ -664,7 +661,7 @@ NLP - 大模型智能体 (LLM Agents) / 人机协作 (Human-AI Collaboration) / 
 
 ============================================================
 
-### 📄 NeST: Neuron Selective Tuning for LLM Safety
+## 📄 NeST: Neuron Selective Tuning for LLM Safety
 
 - **链接**: https://huggingface.co/papers/2602.16835
 - **阅读来源**: HTML
@@ -699,7 +696,7 @@ NLP-大语言模型安全对齐（LLM Safety Alignment）、参数高效微调�
 
 ============================================================
 
-### 📄 Unified Latents (UL): How to train your latents
+## 📄 Unified Latents (UL): How to train your latents
 
 - **链接**: https://huggingface.co/papers/2602.17270
 - **阅读来源**: ArXiv Abs
@@ -734,7 +731,7 @@ NLP-大语言模型安全对齐（LLM Safety Alignment）、参数高效微调�
 
 ============================================================
 
-### 📄 Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs
+## 📄 Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs
 
 - **链接**: https://huggingface.co/papers/2602.10377
 - **阅读来源**: HTML
@@ -764,7 +761,7 @@ NLP-大语言模型安全对齐（LLM Safety Alignment）、参数高效微调�
 
 ============================================================
 
-### 📄 World Models for Policy Refinement in StarCraft II
+## 📄 World Models for Policy Refinement in StarCraft II
 
 - **链接**: https://huggingface.co/papers/2602.14857
 - **阅读来源**: HTML
@@ -792,4 +789,3 @@ NLP-大语言模型安全对齐（LLM Safety Alignment）、参数高效微调�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
