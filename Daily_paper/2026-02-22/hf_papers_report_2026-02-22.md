@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-22
 **Source URL**: https://huggingface.co/papers/date/2026-02-22
 
 ============================================================
 
-### 📄 On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking
+## 📄 On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking
 
 - **链接**: https://huggingface.co/papers/2602.16849
 - **阅读来源**: ArXiv Abs
@@ -42,7 +39,7 @@
 
 ============================================================
 
-### 📄 CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing
+## 📄 CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing
 
 - **链接**: https://huggingface.co/papers/2602.15823
 - **阅读来源**: ArXiv Abs
@@ -78,7 +75,7 @@
 
 ============================================================
 
-### 📄 Modeling Distinct Human Interaction in Web Agents
+## 📄 Modeling Distinct Human Interaction in Web Agents
 
 - **链接**: https://huggingface.co/papers/2602.17588
 - **阅读来源**: HTML
@@ -111,7 +108,7 @@
 
 ============================================================
 
-### 📄 StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation
+## 📄 StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation
 
 - **链接**: https://huggingface.co/papers/2602.16915
 - **阅读来源**: HTML
@@ -146,7 +143,7 @@
 
 ============================================================
 
-### 📄 Computer-Using World Model
+## 📄 Computer-Using World Model
 
 - **链接**: https://huggingface.co/papers/2602.17365
 - **阅读来源**: HTML
@@ -190,7 +187,7 @@
 
 ============================================================
 
-### 📄 NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist
+## 📄 NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist
 
 - **链接**: https://huggingface.co/papers/2602.16756
 - **阅读来源**: HTML
@@ -225,7 +222,7 @@ NLP-大语言模型安全评估 (LLM Safety Evaluation) / 智能体系统鲁棒�
 
 ============================================================
 
-### 📄 Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents
+## 📄 Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents
 
 - **链接**: https://huggingface.co/papers/2602.16699
 - **阅读来源**: HTML
@@ -261,7 +258,7 @@ NLP-大语言模型安全评估 (LLM Safety Evaluation) / 智能体系统鲁棒�
 
 ============================================================
 
-### 📄 TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment
+## 📄 TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment
 
 - **链接**: https://huggingface.co/papers/2602.13579
 - **阅读来源**: HTML
@@ -299,7 +296,7 @@ NLP-大语言模型安全评估 (LLM Safety Evaluation) / 智能体系统鲁棒�
 
 ============================================================
 
-### 📄 References Improve LLM Alignment in Non-Verifiable Domains
+## 📄 References Improve LLM Alignment in Non-Verifiable Domains
 
 - **链接**: https://huggingface.co/papers/2602.16802
 - **阅读来源**: HTML
@@ -338,7 +335,7 @@ NLP-大模型对齐（LLM Alignment）、大模型评估（LLM-as-a-Judge）、R
 
 ============================================================
 
-### 📄 ArXiv-to-Model: A Practical Study of Scientific LM Training
+## 📄 ArXiv-to-Model: A Practical Study of Scientific LM Training
 
 - **链接**: https://huggingface.co/papers/2602.17288
 - **阅读来源**: HTML
@@ -370,7 +367,7 @@ NLP-大模型对齐（LLM Alignment）、大模型评估（LLM-as-a-Judge）、R
 
 ============================================================
 
-### 📄 Discovering Multiagent Learning Algorithms with Large Language Models
+## 📄 Discovering Multiagent Learning Algorithms with Large Language Models
 
 - **链接**: https://huggingface.co/papers/2602.16928
 - **阅读来源**: HTML
@@ -412,7 +409,7 @@ NLP-大模型对齐（LLM Alignment）、大模型评估（LLM-as-a-Judge）、R
 
 ============================================================
 
-### 📄 Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5
+## 📄 Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5
 
 - **链接**: https://huggingface.co/papers/2602.14457
 - **阅读来源**: HTML
@@ -449,7 +446,7 @@ AI 安全与风险管理 (AI Safety & Risk Management)、大语言模型评估 (
 
 ============================================================
 
-### 📄 DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers
+## 📄 DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2602.16968
 - **阅读来源**: HTML
@@ -480,7 +477,7 @@ AI 安全与风险管理 (AI Safety & Risk Management)、大语言模型评估 (
 
 ============================================================
 
-### 📄 Arcee Trinity Large Technical Report
+## 📄 Arcee Trinity Large Technical Report
 
 - **链接**: https://huggingface.co/papers/2602.17004
 - **阅读来源**: HTML
@@ -512,7 +509,7 @@ NLP-大语言模型预训练与推理（涵盖通用文本生成、代码生成�
 
 ============================================================
 
-### 📄 Unified Latents (UL): How to train your latents
+## 📄 Unified Latents (UL): How to train your latents
 
 - **链接**: https://huggingface.co/papers/2602.17270
 - **阅读来源**: ArXiv Abs
@@ -547,7 +544,7 @@ NLP-大语言模型预训练与推理（涵盖通用文本生成、代码生成�
 
 ============================================================
 
-### 📄 Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs
+## 📄 Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs
 
 - **链接**: https://huggingface.co/papers/2602.10377
 - **阅读来源**: HTML
@@ -581,7 +578,7 @@ NLP-大语言模型预训练与推理（涵盖通用文本生成、代码生成�
 
 ============================================================
 
-### 📄 Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
+## 📄 Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
 
 - **链接**: https://huggingface.co/papers/2602.16855
 - **阅读来源**: HTML
@@ -615,7 +612,7 @@ NLP-大语言模型预训练与推理（涵盖通用文本生成、代码生成�
 
 ============================================================
 
-### 📄 World Models for Policy Refinement in StarCraft II
+## 📄 World Models for Policy Refinement in StarCraft II
 
 - **链接**: https://huggingface.co/papers/2602.14857
 - **阅读来源**: HTML
@@ -645,7 +642,7 @@ NLP-大语言模型预训练与推理（涵盖通用文本生成、代码生成�
 
 ============================================================
 
-### 📄 "What Are You Doing?": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing
+## 📄 "What Are You Doing?": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing
 
 - **链接**: https://huggingface.co/papers/2602.15569
 - **阅读来源**: ArXiv Abs
@@ -680,7 +677,7 @@ NLP-大语言模型预训练与推理（涵盖通用文本生成、代码生成�
 
 ============================================================
 
-### 📄 2Mamba2Furious: Linear in Complexity, Competitive in Accuracy
+## 📄 2Mamba2Furious: Linear in Complexity, Competitive in Accuracy
 
 - **链接**: https://huggingface.co/papers/2602.17363
 - **阅读来源**: HTML
@@ -707,7 +704,7 @@ NLP-大语言模型预训练与推理（涵盖通用文本生成、代码生成�
 
 ============================================================
 
-### 📄 FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
+## 📄 FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
 
 - **链接**: https://huggingface.co/papers/2602.17259
 - **阅读来源**: HTML
@@ -747,7 +744,7 @@ NLP-大语言模型预训练与推理（涵盖通用文本生成、代码生成�
 
 ============================================================
 
-### 📄 SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning
+## 📄 SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning
 
 - **链接**: https://huggingface.co/papers/2602.13515
 - **阅读来源**: HTML
@@ -781,7 +778,7 @@ NLP-大语言模型预训练与推理（涵盖通用文本生成、代码生成�
 
 ============================================================
 
-### 📄 NeST: Neuron Selective Tuning for LLM Safety
+## 📄 NeST: Neuron Selective Tuning for LLM Safety
 
 - **链接**: https://huggingface.co/papers/2602.16835
 - **阅读来源**: HTML
@@ -815,4 +812,3 @@ NLP-大模型安全对齐与微调（Large Language Model Safety Alignment & Fin
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
