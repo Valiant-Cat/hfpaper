@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-23
 **Source URL**: https://huggingface.co/papers/date/2026-02-23
 
 ============================================================
 
-### 📄 SARAH: Spatially Aware Real-time Agentic Humans
+## 📄 SARAH: Spatially Aware Real-time Agentic Humans
 
 - **链接**: https://huggingface.co/papers/2602.18432
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@
 
 ============================================================
 
-### 📄 Selective Training for Large Vision Language Models via Visual Information Gain
+## 📄 Selective Training for Large Vision Language Models via Visual Information Gain
 
 - **链接**: https://huggingface.co/papers/2602.17186
 - **阅读来源**: HTML
@@ -84,7 +81,7 @@
 
 ============================================================
 
-### 📄 Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty
+## 📄 Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty
 
 - **链接**: https://huggingface.co/papers/2602.18312
 - **阅读来源**: HTML
@@ -115,7 +112,7 @@
 
 ============================================================
 
-### 📄 EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots
+## 📄 EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots
 
 - **链接**: https://huggingface.co/papers/2602.18071
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@
 
 ============================================================
 
-### 📄 Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control
+## 📄 Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control
 
 - **链接**: https://huggingface.co/papers/2602.18422
 - **阅读来源**: HTML
@@ -174,7 +171,7 @@
 
 ============================================================
 
-### 📄 Does Your Reasoning Model Implicitly Know When to Stop Thinking?
+## 📄 Does Your Reasoning Model Implicitly Know When to Stop Thinking?
 
 - **链接**: https://huggingface.co/papers/2602.08354
 - **阅读来源**: HTML
@@ -211,7 +208,7 @@
 
 ============================================================
 
-### 📄 VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training
+## 📄 VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training
 
 - **链接**: https://huggingface.co/papers/2602.10693
 - **阅读来源**: HTML
@@ -253,4 +250,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
