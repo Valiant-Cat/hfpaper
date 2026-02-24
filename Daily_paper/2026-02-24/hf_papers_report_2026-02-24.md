@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-24
 **Source URL**: https://huggingface.co/papers/date/2026-02-24
 
 ============================================================
 
-### 📄 A Very Big Video Reasoning Suite
+## 📄 A Very Big Video Reasoning Suite
 
 - **链接**: https://huggingface.co/papers/2602.20159
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 SkillOrchestra: Learning to Route Agents via Skill Transfer
+## 📄 SkillOrchestra: Learning to Route Agents via Skill Transfer
 
 - **链接**: https://huggingface.co/papers/2602.19672
 - **阅读来源**: ArXiv Abs
@@ -72,7 +69,7 @@
 
 ============================================================
 
-### 📄 tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction
+## 📄 tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction
 
 - **链接**: https://huggingface.co/papers/2602.20160
 - **阅读来源**: HTML
@@ -112,7 +109,7 @@
 
 ============================================================
 
-### 📄 AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting
+## 📄 AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting
 
 - **链接**: https://huggingface.co/papers/2602.18915
 - **阅读来源**: HTML
@@ -142,7 +139,7 @@ AI for Science - 蛋白质工程 (Protein Engineering)、生成式 AI (Generativ
 
 ============================================================
 
-### 📄 AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer
+## 📄 AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer
 
 - **链接**: https://huggingface.co/papers/2602.12100
 - **阅读来源**: HTML
@@ -172,7 +169,7 @@ AI for Science - 蛋白质工程 (Protein Engineering)、生成式 AI (Generativ
 
 ============================================================
 
-### 📄 SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning
+## 📄 SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.19455
 - **阅读来源**: HTML
@@ -209,7 +206,7 @@ AI for Science - 蛋白质工程 (Protein Engineering)、生成式 AI (Generativ
 
 ============================================================
 
-### 📄 ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation
+## 📄 ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation
 
 - **链接**: https://huggingface.co/papers/2602.20093
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI for Science - 蛋白质工程 (Protein Engineering)、生成式 AI (Generativ
 
 ============================================================
 
-### 📄 TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics
+## 📄 TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics
 
 - **链接**: https://huggingface.co/papers/2602.19313
 - **阅读来源**: HTML
@@ -281,7 +278,7 @@ AI for Science - 蛋白质工程 (Protein Engineering)、生成式 AI (Generativ
 
 ============================================================
 
-### 📄 DSDR: Dual-Scale Diversity Regularization for Exploration in LLM Reasoning
+## 📄 DSDR: Dual-Scale Diversity Regularization for Exploration in LLM Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.19895
 - **阅读来源**: HTML
@@ -322,7 +319,7 @@ AI for Science - 蛋白质工程 (Protein Engineering)、生成式 AI (Generativ
 
 ============================================================
 
-### 📄 Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device
+## 📄 Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device
 
 - **链接**: https://huggingface.co/papers/2602.20161
 - **阅读来源**: HTML
@@ -354,7 +351,7 @@ AI for Science - 蛋白质工程 (Protein Engineering)、生成式 AI (Generativ
 
 ============================================================
 
-### 📄 K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model
+## 📄 K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model
 
 - **链接**: https://huggingface.co/papers/2602.19128
 - **阅读来源**: HTML
@@ -394,7 +391,7 @@ AI for Science - 蛋白质工程 (Protein Engineering)、生成式 AI (Generativ
 
 ============================================================
 
-### 📄 Agents of Chaos
+## 📄 Agents of Chaos
 
 - **链接**: https://huggingface.co/papers/2602.20021
 - **阅读来源**: ArXiv Abs
@@ -427,4 +424,3 @@ AI for Science - 蛋白质工程 (Protein Engineering)、生成式 AI (Generativ
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
