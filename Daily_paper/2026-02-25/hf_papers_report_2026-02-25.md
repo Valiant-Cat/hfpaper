@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-25
 **Source URL**: https://huggingface.co/papers/date/2026-02-25
 
 ============================================================
 
-### 📄 Implicit Intelligence -- Evaluating Agents on What Users Don't Say
+## 📄 Implicit Intelligence -- Evaluating Agents on What Users Don't Say
 
 - **链接**: https://huggingface.co/papers/2602.20424
 - **阅读来源**: HTML
@@ -36,7 +33,7 @@
 
 ============================================================
 
-### 📄 LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces
+## 📄 LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces
 
 - **链接**: https://huggingface.co/papers/2602.14337
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@
 
 ============================================================
 
-### 📄 Aletheia tackles FirstProof autonomously
+## 📄 Aletheia tackles FirstProof autonomously
 
 - **链接**: https://huggingface.co/papers/2602.21201
 - **阅读来源**: HTML
@@ -103,7 +100,7 @@
 
 ============================================================
 
-### 📄 On Data Engineering for Scaling LLM Terminal Capabilities
+## 📄 On Data Engineering for Scaling LLM Terminal Capabilities
 
 - **链接**: https://huggingface.co/papers/2602.21193
 - **阅读来源**: HTML
@@ -149,7 +146,7 @@ NLP - 大模型微调 / 智能体（Agent）- 终端与命令行交互
 
 ============================================================
 
-### 📄 One-step Language Modeling via Continuous Denoising
+## 📄 One-step Language Modeling via Continuous Denoising
 
 - **链接**: https://huggingface.co/papers/2602.16813
 - **阅读来源**: HTML
@@ -185,7 +182,7 @@ NLP - 大模型微调 / 智能体（Agent）- 终端与命令行交互
 
 ============================================================
 
-### 📄 TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering
+## 📄 TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering
 
 - **链接**: https://huggingface.co/papers/2602.20903
 - **阅读来源**: HTML
@@ -219,7 +216,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 PyVision-RL: Forging Open Agentic Vision Models via RL
+## 📄 PyVision-RL: Forging Open Agentic Vision Models via RL
 
 - **链接**: https://huggingface.co/papers/2602.20739
 - **阅读来源**: ArXiv Abs
@@ -251,7 +248,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving
+## 📄 FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving
 
 - **链接**: https://huggingface.co/papers/2602.16603
 - **阅读来源**: HTML
@@ -280,7 +277,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 The Diffusion Duality, Chapter II: Ψ-Samplers and Efficient Curriculum
+## 📄 The Diffusion Duality, Chapter II: Ψ-Samplers and Efficient Curriculum
 
 - **链接**: https://huggingface.co/papers/2602.21185
 - **阅读来源**: HTML
@@ -314,7 +311,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs
+## 📄 Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs
 
 - **链接**: https://huggingface.co/papers/2602.21198
 - **阅读来源**: HTML
@@ -352,7 +349,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 Test-Time Training with KV Binding Is Secretly Linear Attention
+## 📄 Test-Time Training with KV Binding Is Secretly Linear Attention
 
 - **链接**: https://huggingface.co/papers/2602.21204
 - **阅读来源**: HTML
@@ -392,7 +389,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency
+## 📄 LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency
 
 - **链接**: https://huggingface.co/papers/2602.18735
 - **阅读来源**: HTML
@@ -421,7 +418,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking
+## 📄 Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking
 
 - **链接**: https://huggingface.co/papers/2602.21196
 - **阅读来源**: HTML
@@ -455,7 +452,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation
+## 📄 Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation
 
 - **链接**: https://huggingface.co/papers/2602.16990
 - **阅读来源**: HTML
@@ -486,7 +483,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization
+## 📄 Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization
 
 - **链接**: https://huggingface.co/papers/2602.20540
 - **阅读来源**: ArXiv Abs
@@ -523,7 +520,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 From Perception to Action: An Interactive Benchmark for Vision Reasoning
+## 📄 From Perception to Action: An Interactive Benchmark for Vision Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.21015
 - **阅读来源**: HTML
@@ -561,7 +558,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 Adaptive Text Anonymization: Learning Privacy-Utility Trade-offs via Prompt Optimization
+## 📄 Adaptive Text Anonymization: Learning Privacy-Utility Trade-offs via Prompt Optimization
 
 - **链接**: https://huggingface.co/papers/2602.20743
 - **阅读来源**: HTML
@@ -589,7 +586,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 DREAM: Deep Research Evaluation with Agentic Metrics
+## 📄 DREAM: Deep Research Evaluation with Agentic Metrics
 
 - **链接**: https://huggingface.co/papers/2602.18940
 - **阅读来源**: HTML
@@ -618,7 +615,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 OmniOCR: Generalist OCR for Ethnic Minority Languages
+## 📄 OmniOCR: Generalist OCR for Ethnic Minority Languages
 
 - **链接**: https://huggingface.co/papers/2602.21042
 - **阅读来源**: HTML
@@ -660,7 +657,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 OCR-Agent: Agentic OCR with Capability and Memory Reflection
+## 📄 OCR-Agent: Agentic OCR with Capability and Memory Reflection
 
 - **链接**: https://huggingface.co/papers/2602.21053
 - **阅读来源**: HTML
@@ -698,7 +695,7 @@ AIGC（人工智能生成内容）、视觉文本渲染（Visual Text Rendering,
 
 ============================================================
 
-### 📄 The Art of Efficient Reasoning: Data, Reward, and Optimization
+## 📄 The Art of Efficient Reasoning: Data, Reward, and Optimization
 
 - **链接**: https://huggingface.co/papers/2602.20945
 - **阅读来源**: HTML
@@ -731,4 +728,3 @@ NLP - 大语言模型推理优化（Efficient Reasoning）、思维链（CoT）�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
