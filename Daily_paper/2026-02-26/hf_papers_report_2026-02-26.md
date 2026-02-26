@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-26
 **Source URL**: https://huggingface.co/papers/date/2026-02-26
 
 ============================================================
 
-### 📄 Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions
+## 📄 Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions
 
 - **链接**: https://huggingface.co/papers/2602.14878
 - **阅读来源**: HTML
@@ -41,7 +38,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 Image Generation with a Sphere Encoder
+## 📄 Image Generation with a Sphere Encoder
 
 - **链接**: https://huggingface.co/papers/2602.15030
 - **阅读来源**: HTML
@@ -81,7 +78,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation
+## 📄 DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation
 
 - **链接**: https://huggingface.co/papers/2602.12160
 - **阅读来源**: HTML
@@ -113,7 +110,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation
+## 📄 JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation
 
 - **链接**: https://huggingface.co/papers/2602.19163
 - **阅读来源**: HTML
@@ -144,7 +141,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 Solaris: Building a Multiplayer Video World Model in Minecraft
+## 📄 Solaris: Building a Multiplayer Video World Model in Minecraft
 
 - **链接**: https://huggingface.co/papers/2602.22208
 - **阅读来源**: HTML
@@ -179,7 +176,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors
+## 📄 NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors
 
 - **链接**: https://huggingface.co/papers/2602.22144
 - **阅读来源**: HTML
@@ -213,7 +210,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 UniVBench: Towards Unified Evaluation for Video Foundation Models
+## 📄 UniVBench: Towards Unified Evaluation for Video Foundation Models
 
 - **链接**: https://huggingface.co/papers/2602.21835
 - **阅读来源**: HTML
@@ -241,7 +238,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 World Guidance: World Modeling in Condition Space for Action Generation
+## 📄 World Guidance: World Modeling in Condition Space for Action Generation
 
 - **链接**: https://huggingface.co/papers/2602.22010
 - **阅读来源**: HTML
@@ -282,7 +279,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 VecGlypher: Unified Vector Glyph Generation with Language Models
+## 📄 VecGlypher: Unified Vector Glyph Generation with Language Models
 
 - **链接**: https://huggingface.co/papers/2602.21461
 - **阅读来源**: HTML
@@ -313,7 +310,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation
+## 📄 HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation
 
 - **链接**: https://huggingface.co/papers/2602.18283
 - **阅读来源**: HTML
@@ -350,7 +347,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model
+## 📄 SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model
 
 - **链接**: https://huggingface.co/papers/2602.21818
 - **阅读来源**: HTML
@@ -383,7 +380,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models
+## 📄 SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2602.18993
 - **阅读来源**: HTML
@@ -420,7 +417,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments
+## 📄 JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments
 
 - **链接**: https://huggingface.co/papers/2602.18527
 - **阅读来源**: HTML
@@ -451,7 +448,7 @@ NLP-大模型智能体（LLM Agents）、软件工程（MCP协议工具调用与
 
 ============================================================
 
-### 📄 NanoKnow: How to Know What Your Language Model Knows
+## 📄 NanoKnow: How to Know What Your Language Model Knows
 
 - **链接**: https://huggingface.co/papers/2602.20122
 - **阅读来源**: HTML
@@ -481,7 +478,7 @@ NLP-大语言模型可解释性与评估（LLM Interpretability）、预训练�
 
 ============================================================
 
-### 📄 MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment
+## 📄 MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment
 
 - **链接**: https://huggingface.co/papers/2602.19004
 - **阅读来源**: HTML
@@ -514,7 +511,7 @@ NLP-大语言模型可解释性与评估（LLM Interpretability）、预训练�
 
 ============================================================
 
-### 📄 GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL
+## 📄 GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL
 
 - **链接**: https://huggingface.co/papers/2602.22190
 - **阅读来源**: HTML
@@ -548,7 +545,7 @@ NLP-大语言模型可解释性与评估（LLM Interpretability）、预训练�
 
 ============================================================
 
-### 📄 ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning
+## 📄 ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.21534
 - **阅读来源**: ArXiv Abs
@@ -578,7 +575,7 @@ NLP-大语言模型可解释性与评估（LLM Interpretability）、预训练�
 
 ============================================================
 
-### 📄 The Design Space of Tri-Modal Masked Diffusion Models
+## 📄 The Design Space of Tri-Modal Masked Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2602.21472
 - **阅读来源**: HTML
@@ -614,4 +611,3 @@ NLP-大语言模型可解释性与评估（LLM Interpretability）、预训练�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
