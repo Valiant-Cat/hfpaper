@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-27
 **Source URL**: https://huggingface.co/papers/date/2026-02-27
 
 ============================================================
 
-### 📄 Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling
+## 📄 Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling
 
 - **链接**: https://huggingface.co/papers/2602.21760
 - **阅读来源**: HTML
@@ -49,7 +46,7 @@
 
 ============================================================
 
-### 📄 DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation
+## 📄 DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation
 
 - **链接**: https://huggingface.co/papers/2602.23165
 - **阅读来源**: HTML
@@ -82,7 +79,7 @@
 
 ============================================================
 
-### 📄 AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning
+## 📄 AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning
 
 - **链接**: https://huggingface.co/papers/2602.23258
 - **阅读来源**: HTML
@@ -116,7 +113,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 MediX-R1: Open Ended Medical Reinforcement Learning
+## 📄 MediX-R1: Open Ended Medical Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.23363
 - **阅读来源**: HTML
@@ -149,7 +146,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 Causal Motion Diffusion Models for Autoregressive Motion Generation
+## 📄 Causal Motion Diffusion Models for Autoregressive Motion Generation
 
 - **链接**: https://huggingface.co/papers/2602.22594
 - **阅读来源**: HTML
@@ -183,7 +180,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 Efficient Continual Learning in Language Models via Thalamically Routed Cortical Columns
+## 📄 Efficient Continual Learning in Language Models via Thalamically Routed Cortical Columns
 
 - **链接**: https://huggingface.co/papers/2602.22479
 - **阅读来源**: HTML
@@ -219,7 +216,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving
+## 📄 Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving
 
 - **链接**: https://huggingface.co/papers/2602.23259
 - **阅读来源**: ArXiv Abs
@@ -253,7 +250,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models
+## 📄 From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models
 
 - **链接**: https://huggingface.co/papers/2602.22859
 - **阅读来源**: HTML
@@ -293,7 +290,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 GeoWorld: Geometric World Models
+## 📄 GeoWorld: Geometric World Models
 
 - **链接**: https://huggingface.co/papers/2602.23058
 - **阅读来源**: HTML
@@ -325,7 +322,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 The Trinity of Consistency as a Defining Principle for General World Models
+## 📄 The Trinity of Consistency as a Defining Principle for General World Models
 
 - **链接**: https://huggingface.co/papers/2602.23152
 - **阅读来源**: ArXiv Abs
@@ -362,7 +359,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 veScale-FSDP: Flexible and High-Performance FSDP at Scale
+## 📄 veScale-FSDP: Flexible and High-Performance FSDP at Scale
 
 - **链接**: https://huggingface.co/papers/2602.22437
 - **阅读来源**: HTML
@@ -404,7 +401,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 OmniGAIA: Towards Native Omni-Modal AI Agents
+## 📄 OmniGAIA: Towards Native Omni-Modal AI Agents
 
 - **链接**: https://huggingface.co/papers/2602.22897
 - **阅读来源**: ArXiv Abs
@@ -434,7 +431,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games
+## 📄 AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games
 
 - **链接**: https://huggingface.co/papers/2602.17594
 - **阅读来源**: ArXiv Abs
@@ -470,7 +467,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 Imagination Helps Visual Reasoning, But Not Yet in Latent Space
+## 📄 Imagination Helps Visual Reasoning, But Not Yet in Latent Space
 
 - **链接**: https://huggingface.co/papers/2602.22766
 - **阅读来源**: HTML
@@ -499,7 +496,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization
+## 📄 Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization
 
 - **链接**: https://huggingface.co/papers/2602.22675
 - **阅读来源**: ArXiv Abs
@@ -535,7 +532,7 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 ============================================================
 
-### 📄 Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization
+## 📄 Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2602.23008
 - **阅读来源**: HTML
@@ -567,4 +564,3 @@ NLP - 基于大语言模型的多智能体系统 (LLM-based Multi-Agent Systems)
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
