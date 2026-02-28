@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-02-28
 **Source URL**: https://huggingface.co/papers/date/2026-02-28
 
 ============================================================
 
-### 📄 No One Size Fits All: QueryBandits for Hallucination Mitigation
+## 📄 No One Size Fits All: QueryBandits for Hallucination Mitigation
 
 - **链接**: https://huggingface.co/papers/2602.20332
 - **阅读来源**: ArXiv Abs
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 OmniGAIA: Towards Native Omni-Modal AI Agents
+## 📄 OmniGAIA: Towards Native Omni-Modal AI Agents
 
 - **链接**: https://huggingface.co/papers/2602.22897
 - **阅读来源**: ArXiv Abs
@@ -69,7 +66,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data
+## 📄 MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data
 
 - **链接**: https://huggingface.co/papers/2602.18253
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization
+## 📄 Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization
 
 - **链接**: https://huggingface.co/papers/2602.22675
 - **阅读来源**: ArXiv Abs
@@ -140,7 +137,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 The Trinity of Consistency as a Defining Principle for General World Models
+## 📄 The Trinity of Consistency as a Defining Principle for General World Models
 
 - **链接**: https://huggingface.co/papers/2602.23152
 - **阅读来源**: ArXiv Abs
@@ -175,7 +172,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling
+## 📄 Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling
 
 - **链接**: https://huggingface.co/papers/2602.21760
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning
+## 📄 AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning
 
 - **链接**: https://huggingface.co/papers/2602.23258
 - **阅读来源**: HTML
@@ -238,7 +235,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 veScale-FSDP: Flexible and High-Performance FSDP at Scale
+## 📄 veScale-FSDP: Flexible and High-Performance FSDP at Scale
 
 - **链接**: https://huggingface.co/papers/2602.22437
 - **阅读来源**: HTML
@@ -275,7 +272,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Efficient Continual Learning in Language Models via Thalamically Routed Cortical Columns
+## 📄 Efficient Continual Learning in Language Models via Thalamically Routed Cortical Columns
 
 - **链接**: https://huggingface.co/papers/2602.22479
 - **阅读来源**: HTML
@@ -312,7 +309,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models
+## 📄 From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models
 
 - **链接**: https://huggingface.co/papers/2602.22859
 - **阅读来源**: HTML
@@ -349,7 +346,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 VGG-T^3: Offline Feed-Forward 3D Reconstruction at Scale
+## 📄 VGG-T^3: Offline Feed-Forward 3D Reconstruction at Scale
 
 - **链接**: https://huggingface.co/papers/2602.23361
 - **阅读来源**: HTML
@@ -382,7 +379,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Causal Motion Diffusion Models for Autoregressive Motion Generation
+## 📄 Causal Motion Diffusion Models for Autoregressive Motion Generation
 
 - **链接**: https://huggingface.co/papers/2602.22594
 - **阅读来源**: HTML
@@ -418,7 +415,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents
+## 📄 EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents
 
 - **链接**: https://huggingface.co/papers/2602.23205
 - **阅读来源**: HTML
@@ -455,7 +452,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization
+## 📄 Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2602.23008
 - **阅读来源**: HTML
@@ -487,7 +484,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 GeoWorld: Geometric World Models
+## 📄 GeoWorld: Geometric World Models
 
 - **链接**: https://huggingface.co/papers/2602.23058
 - **阅读来源**: HTML
@@ -518,7 +515,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on LLM Performance
+## 📄 What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on LLM Performance
 
 - **链接**: https://huggingface.co/papers/2602.20300
 - **阅读来源**: HTML
@@ -554,7 +551,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models
+## 📄 Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models
 
 - **链接**: https://huggingface.co/papers/2602.20981
 - **阅读来源**: HTML
@@ -596,7 +593,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Imagination Helps Visual Reasoning, But Not Yet in Latent Space
+## 📄 Imagination Helps Visual Reasoning, But Not Yet in Latent Space
 
 - **链接**: https://huggingface.co/papers/2602.22766
 - **阅读来源**: HTML
@@ -633,7 +630,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving
+## 📄 Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving
 
 - **链接**: https://huggingface.co/papers/2602.23259
 - **阅读来源**: ArXiv Abs
@@ -667,7 +664,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 General Agent Evaluation
+## 📄 General Agent Evaluation
 
 - **链接**: https://huggingface.co/papers/2602.22953
 - **阅读来源**: HTML
@@ -696,7 +693,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
+## 📄 MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
 
 - **链接**: https://huggingface.co/papers/2602.20423
 - **阅读来源**: ArXiv Abs
@@ -725,7 +722,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation
+## 📄 DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation
 
 - **链接**: https://huggingface.co/papers/2602.23165
 - **阅读来源**: HTML
@@ -757,7 +754,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games
+## 📄 AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games
 
 - **链接**: https://huggingface.co/papers/2602.17594
 - **阅读来源**: ArXiv Abs
@@ -791,7 +788,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 DLT-Corpus: A Large-Scale Text Collection for the Distributed Ledger Technology Domain
+## 📄 DLT-Corpus: A Large-Scale Text Collection for the Distributed Ledger Technology Domain
 
 - **链接**: https://huggingface.co/papers/2602.22045
 - **阅读来源**: HTML
@@ -819,7 +816,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 MediX-R1: Open Ended Medical Reinforcement Learning
+## 📄 MediX-R1: Open Ended Medical Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.23363
 - **阅读来源**: HTML
@@ -852,7 +849,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?
+## 📄 Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?
 
 - **链接**: https://huggingface.co/papers/2602.23339
 - **阅读来源**: ArXiv Abs
@@ -890,7 +887,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios
+## 📄 MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios
 
 - **链接**: https://huggingface.co/papers/2602.22638
 - **阅读来源**: HTML
@@ -918,7 +915,7 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 ============================================================
 
-### 📄 Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning
+## 📄 Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2602.21420
 - **阅读来源**: HTML
@@ -948,4 +945,3 @@ OmniAtlas 智能体在 OmniGAIA 基准测试中表现出色，有效增强了现
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
