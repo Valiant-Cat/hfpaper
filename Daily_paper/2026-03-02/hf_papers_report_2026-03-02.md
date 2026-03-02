@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-02
 **Source URL**: https://huggingface.co/papers/date/2026-03-02
 
 ============================================================
 
-### 📄 dLLM: Simple Diffusion Language Modeling
+## 📄 dLLM: Simple Diffusion Language Modeling
 
 - **链接**: https://huggingface.co/papers/2602.22661
 - **阅读来源**: HTML
@@ -41,7 +38,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 Enhancing Spatial Understanding in Image Generation via Reward Modeling
+## 📄 Enhancing Spatial Understanding in Image Generation via Reward Modeling
 
 - **链接**: https://huggingface.co/papers/2602.24233
 - **阅读来源**: HTML
@@ -74,7 +71,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 Memory Caching: RNNs with Growing Memory
+## 📄 Memory Caching: RNNs with Growing Memory
 
 - **链接**: https://huggingface.co/papers/2602.24281
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 Accelerating Masked Image Generation by Learning Latent Controlled Dynamics
+## 📄 Accelerating Masked Image Generation by Learning Latent Controlled Dynamics
 
 - **链接**: https://huggingface.co/papers/2602.23996
 - **阅读来源**: HTML
@@ -138,7 +135,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators
+## 📄 Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators
 
 - **链接**: https://huggingface.co/papers/2602.22647
 - **阅读来源**: HTML
@@ -174,7 +171,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching
+## 📄 SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching
 
 - **链接**: https://huggingface.co/papers/2602.24208
 - **阅读来源**: HTML
@@ -202,7 +199,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding
+## 📄 LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding
 
 - **链接**: https://huggingface.co/papers/2602.20913
 - **阅读来源**: HTML
@@ -235,7 +232,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 InfoNCE Induces Gaussian Distribution
+## 📄 InfoNCE Induces Gaussian Distribution
 
 - **链接**: https://huggingface.co/papers/2602.24012
 - **阅读来源**: HTML
@@ -269,7 +266,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets
+## 📄 Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets
 
 - **链接**: https://huggingface.co/papers/2602.22207
 - **阅读来源**: HTML
@@ -297,7 +294,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 CiteAudit: You Cited It, But Did You Read It? A Benchmark for Verifying Scientific References in the LLM Era
+## 📄 CiteAudit: You Cited It, But Did You Read It? A Benchmark for Verifying Scientific References in the LLM Era
 
 - **链接**: https://huggingface.co/papers/2602.23452
 - **阅读来源**: HTML
@@ -327,7 +324,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks
+## 📄 Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks
 
 - **链接**: https://huggingface.co/papers/2602.23898
 - **阅读来源**: HTML
@@ -359,7 +356,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 Mode Seeking meets Mean Seeking for Fast Long Video Generation
+## 📄 Mode Seeking meets Mean Seeking for Fast Long Video Generation
 
 - **链接**: https://huggingface.co/papers/2602.24289
 - **阅读来源**: HTML
@@ -391,7 +388,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation
+## 📄 CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation
 
 - **链接**: https://huggingface.co/papers/2602.24286
 - **阅读来源**: HTML
@@ -431,7 +428,7 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 ============================================================
 
-### 📄 DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model
+## 📄 DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model
 
 - **链接**: https://huggingface.co/papers/2602.23622
 - **阅读来源**: ArXiv Abs
@@ -461,4 +458,3 @@ NLP-扩散语言模型 (Diffusion Language Models, DLMs)、大模型训练与微
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
