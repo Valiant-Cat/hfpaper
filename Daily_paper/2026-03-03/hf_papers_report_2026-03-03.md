@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-03
 **Source URL**: https://huggingface.co/papers/date/2026-03-03
 
 ============================================================
 
-### 📄 CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification
+## 📄 CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification
 
 - **链接**: https://huggingface.co/papers/2603.01940
 - **阅读来源**: HTML
@@ -45,7 +42,7 @@
 
 ============================================================
 
-### 📄 FireRed-OCR Technical Report
+## 📄 FireRed-OCR Technical Report
 
 - **链接**: https://huggingface.co/papers/2603.01840
 - **阅读来源**: HTML
@@ -72,7 +69,7 @@
 
 ============================================================
 
-### 📄 Tool Verification for Test-Time Reinforcement Learning
+## 📄 Tool Verification for Test-Time Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.02203
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@
 
 ============================================================
 
-### 📄 VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection
+## 📄 VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection
 
 - **链接**: https://huggingface.co/papers/2603.00912
 - **阅读来源**: HTML
@@ -133,7 +130,7 @@
 
 ============================================================
 
-### 📄 When Does RL Help Medical VLMs? Disentangling Vision, SFT, and RL Gains
+## 📄 When Does RL Help Medical VLMs? Disentangling Vision, SFT, and RL Gains
 
 - **链接**: https://huggingface.co/papers/2603.01301
 - **阅读来源**: HTML
@@ -143,7 +140,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval
+## 📄 LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval
 
 - **链接**: https://huggingface.co/papers/2603.01425
 - **阅读来源**: HTML
@@ -171,7 +168,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 RubricBench: Aligning Model-Generated Rubrics with Human Standards
+## 📄 RubricBench: Aligning Model-Generated Rubrics with Human Standards
 
 - **链接**: https://huggingface.co/papers/2603.01562
 - **阅读来源**: HTML
@@ -181,7 +178,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Half-Truths Break Similarity-Based Retrieval
+## 📄 Half-Truths Break Similarity-Based Retrieval
 
 - **链接**: https://huggingface.co/papers/2602.23906
 - **阅读来源**: HTML
@@ -215,7 +212,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 ArtLLM: Generating Articulated Assets via 3D LLM
+## 📄 ArtLLM: Generating Articulated Assets via 3D LLM
 
 - **链接**: https://huggingface.co/papers/2603.01142
 - **阅读来源**: HTML
@@ -250,7 +247,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data
+## 📄 Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data
 
 - **链接**: https://huggingface.co/papers/2602.21320
 - **阅读来源**: HTML
@@ -260,7 +257,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 From Scale to Speed: Adaptive Test-Time Scaling for Image Editing
+## 📄 From Scale to Speed: Adaptive Test-Time Scaling for Image Editing
 
 - **链接**: https://huggingface.co/papers/2603.00141
 - **阅读来源**: HTML
@@ -291,7 +288,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Learn Hard Problems During RL with Reference Guided Fine-tuning
+## 📄 Learn Hard Problems During RL with Reference Guided Fine-tuning
 
 - **链接**: https://huggingface.co/papers/2603.01223
 - **阅读来源**: HTML
@@ -331,7 +328,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering
+## 📄 CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering
 
 - **链接**: https://huggingface.co/papers/2602.23952
 - **阅读来源**: HTML
@@ -366,7 +363,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 CHIMERA: Compact Synthetic Data for Generalizable LLM Reasoning
+## 📄 CHIMERA: Compact Synthetic Data for Generalizable LLM Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.00889
 - **阅读来源**: HTML
@@ -376,7 +373,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Agentic Code Reasoning
+## 📄 Agentic Code Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.01896
 - **阅读来源**: HTML
@@ -386,7 +383,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment
+## 📄 RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment
 
 - **链接**: https://huggingface.co/papers/2603.00483
 - **阅读来源**: HTML
@@ -414,7 +411,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Legal RAG Bench: an end-to-end benchmark for legal RAG
+## 📄 Legal RAG Bench: an end-to-end benchmark for legal RAG
 
 - **链接**: https://huggingface.co/papers/2603.01710
 - **阅读来源**: ArXiv Abs
@@ -448,7 +445,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 LLaDA-o: An Effective and Length-Adaptive Omni Diffusion Model
+## 📄 LLaDA-o: An Effective and Length-Adaptive Omni Diffusion Model
 
 - **链接**: https://huggingface.co/papers/2603.01068
 - **阅读来源**: HTML
@@ -479,7 +476,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation
+## 📄 SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation
 
 - **链接**: https://huggingface.co/papers/2602.23359
 - **阅读来源**: HTML
@@ -489,7 +486,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Recursive Think-Answer Process for LLMs and VLMs
+## 📄 Recursive Think-Answer Process for LLMs and VLMs
 
 - **链接**: https://huggingface.co/papers/2603.02099
 - **阅读来源**: ArXiv Abs
@@ -523,7 +520,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation
+## 📄 MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation
 
 - **链接**: https://huggingface.co/papers/2603.00585
 - **阅读来源**: HTML
@@ -533,7 +530,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Spectral Condition for μP under Width-Depth Scaling
+## 📄 Spectral Condition for μP under Width-Depth Scaling
 
 - **链接**: https://huggingface.co/papers/2603.00541
 - **阅读来源**: HTML
@@ -561,7 +558,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 MMR-Life: Piecing Together Real-life Scenes for Multimodal Multi-image Reasoning
+## 📄 MMR-Life: Piecing Together Real-life Scenes for Multimodal Multi-image Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.02024
 - **阅读来源**: HTML
@@ -592,7 +589,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 CharacterFlywheel: Scaling Iterative Improvement of Engaging and Steerable LLMs in Production
+## 📄 CharacterFlywheel: Scaling Iterative Improvement of Engaging and Steerable LLMs in Production
 
 - **链接**: https://huggingface.co/papers/2603.01973
 - **阅读来源**: HTML
@@ -628,7 +625,7 @@ NLP - 大语言模型对齐 / 社交对话系统 (Social Conversational AI) / �
 
 ============================================================
 
-### 📄 OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens
+## 📄 OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens
 
 - **链接**: https://huggingface.co/papers/2603.02138
 - **阅读来源**: ArXiv Abs
@@ -637,4 +634,3 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
