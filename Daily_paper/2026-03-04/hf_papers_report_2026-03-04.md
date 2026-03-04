@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-04
 **Source URL**: https://huggingface.co/papers/date/2026-03-04
 
 ============================================================
 
-### 📄 SGDC: Structurally-Guided Dynamic Convolution for Medical Image Segmentation
+## 📄 SGDC: Structurally-Guided Dynamic Convolution for Medical Image Segmentation
 
 - **链接**: https://huggingface.co/papers/2602.23496
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models
+## 📄 Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.01400
 - **阅读来源**: HTML
@@ -72,7 +69,7 @@
 
 ============================================================
 
-### 📄 HateMirage: An Explainable Multi-Dimensional Dataset for Decoding Faux Hate and Subtle Online Abuse
+## 📄 HateMirage: An Explainable Multi-Dimensional Dataset for Decoding Faux Hate and Subtle Online Abuse
 
 - **链接**: https://huggingface.co/papers/2603.02684
 - **阅读来源**: HTML
@@ -114,7 +111,7 @@
 
 ============================================================
 
-### 📄 DREAM: Where Visual Understanding Meets Text-to-Image Generation
+## 📄 DREAM: Where Visual Understanding Meets Text-to-Image Generation
 
 - **链接**: https://huggingface.co/papers/2603.02667
 - **阅读来源**: HTML
@@ -149,7 +146,7 @@
 
 ============================================================
 
-### 📄 Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use
+## 📄 Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use
 
 - **链接**: https://huggingface.co/papers/2603.03205
 - **阅读来源**: HTML
@@ -179,7 +176,7 @@
 
 ============================================================
 
-### 📄 Beyond Language Modeling: An Exploration of Multimodal Pretraining
+## 📄 Beyond Language Modeling: An Exploration of Multimodal Pretraining
 
 - **链接**: https://huggingface.co/papers/2603.03276
 - **阅读来源**: HTML
@@ -225,7 +222,7 @@
 
 ============================================================
 
-### 📄 Surgical Post-Training: Cutting Errors, Keeping Knowledge
+## 📄 Surgical Post-Training: Cutting Errors, Keeping Knowledge
 
 - **链接**: https://huggingface.co/papers/2603.01683
 - **阅读来源**: HTML
@@ -254,7 +251,7 @@
 
 ============================================================
 
-### 📄 Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance
+## 📄 Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance
 
 - **链接**: https://huggingface.co/papers/2603.02175
 - **阅读来源**: HTML
@@ -286,7 +283,7 @@
 
 ============================================================
 
-### 📄 BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?
+## 📄 BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?
 
 - **链接**: https://huggingface.co/papers/2603.03194
 - **阅读来源**: ArXiv Abs
@@ -318,7 +315,7 @@
 
 ============================================================
 
-### 📄 InfoPO: Information-Driven Policy Optimization for User-Centric Agents
+## 📄 InfoPO: Information-Driven Policy Optimization for User-Centric Agents
 
 - **链接**: https://huggingface.co/papers/2603.00656
 - **阅读来源**: HTML
@@ -357,7 +354,7 @@
 
 ============================================================
 
-### 📄 Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels
+## 📄 Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels
 
 - **链接**: https://huggingface.co/papers/2603.02573
 - **阅读来源**: HTML
@@ -394,7 +391,7 @@
 
 ============================================================
 
-### 📄 PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference
+## 📄 PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference
 
 - **链接**: https://huggingface.co/papers/2603.02479
 - **阅读来源**: HTML
@@ -404,7 +401,7 @@ AI 分析出错: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You
 
 ============================================================
 
-### 📄 How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities
+## 📄 How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities
 
 - **链接**: https://huggingface.co/papers/2603.02578
 - **阅读来源**: HTML
@@ -439,7 +436,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment）、大模型可控性评
 
 ============================================================
 
-### 📄 UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?
+## 📄 UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?
 
 - **链接**: https://huggingface.co/papers/2603.03241
 - **阅读来源**: HTML
@@ -473,7 +470,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment）、大模型可控性评
 
 ============================================================
 
-### 📄 Qwen3-Coder-Next Technical Report
+## 📄 Qwen3-Coder-Next Technical Report
 
 - **链接**: https://huggingface.co/papers/2603.00729
 - **阅读来源**: HTML
@@ -502,7 +499,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment）、大模型可控性评
 
 ============================================================
 
-### 📄 Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?
+## 📄 Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?
 
 - **链接**: https://huggingface.co/papers/2603.03202
 - **阅读来源**: HTML
@@ -533,7 +530,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment）、大模型可控性评
 
 ============================================================
 
-### 📄 Fast Matrix Multiplication in Small Formats: Discovering New Schemes with an Open-Source Flip Graph Framework
+## 📄 Fast Matrix Multiplication in Small Formats: Discovering New Schemes with an Open-Source Flip Graph Framework
 
 - **链接**: https://huggingface.co/papers/2603.02398
 - **阅读来源**: HTML
@@ -565,7 +562,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment）、大模型可控性评
 
 ============================================================
 
-### 📄 Whisper-RIR-Mega: A Paired Clean-Reverberant Speech Benchmark for ASR Robustness to Room Acoustics
+## 📄 Whisper-RIR-Mega: A Paired Clean-Reverberant Speech Benchmark for ASR Robustness to Room Acoustics
 
 - **链接**: https://huggingface.co/papers/2603.02252
 - **阅读来源**: HTML
@@ -599,7 +596,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment）、大模型可控性评
 
 ============================================================
 
-### 📄 Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models
+## 📄 Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models
 
 - **链接**: https://huggingface.co/papers/2603.01571
 - **阅读来源**: HTML
@@ -630,7 +627,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment）、大模型可控性评
 
 ============================================================
 
-### 📄 Chain of World: World Model Thinking in Latent Motion
+## 📄 Chain of World: World Model Thinking in Latent Motion
 
 - **链接**: https://huggingface.co/papers/2603.03195
 - **阅读来源**: HTML
@@ -665,7 +662,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment）、大模型可控性评
 
 ============================================================
 
-### 📄 Utonia: Toward One Encoder for All Point Clouds
+## 📄 Utonia: Toward One Encoder for All Point Clouds
 
 - **链接**: https://huggingface.co/papers/2603.03283
 - **阅读来源**: HTML
@@ -703,7 +700,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment）、大模型可控性评
 
 ============================================================
 
-### 📄 APRES: An Agentic Paper Revision and Evaluation System
+## 📄 APRES: An Agentic Paper Revision and Evaluation System
 
 - **链接**: https://huggingface.co/papers/2603.03142
 - **阅读来源**: HTML
@@ -737,7 +734,7 @@ NLP-科学写作辅助与自动同行评审 (Scientific Writing Assistance & Aut
 
 ============================================================
 
-### 📄 AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation
+## 📄 AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation
 
 - **链接**: https://huggingface.co/papers/2602.17100
 - **阅读来源**: HTML
@@ -774,7 +771,7 @@ NLP-科学写作辅助与自动同行评审 (Scientific Writing Assistance & Aut
 
 ============================================================
 
-### 📄 Kling-MotionControl Technical Report
+## 📄 Kling-MotionControl Technical Report
 
 - **链接**: https://huggingface.co/papers/2603.03160
 - **阅读来源**: HTML
@@ -806,7 +803,7 @@ NLP-科学写作辅助与自动同行评审 (Scientific Writing Assistance & Aut
 
 ============================================================
 
-### 📄 NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing
+## 📄 NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing
 
 - **链接**: https://huggingface.co/papers/2603.02802
 - **阅读来源**: HTML
@@ -843,4 +840,3 @@ NLP-科学写作辅助与自动同行评审 (Scientific Writing Assistance & Aut
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
