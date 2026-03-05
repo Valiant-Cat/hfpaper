@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-05
 **Source URL**: https://huggingface.co/papers/date/2026-03-05
 
 ============================================================
 
-### 📄 ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors
+## 📄 ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors
 
 - **链接**: https://huggingface.co/papers/2603.04338
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video
+## 📄 CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video
 
 - **链接**: https://huggingface.co/papers/2603.04291
 - **阅读来源**: HTML
@@ -73,7 +70,7 @@
 
 ============================================================
 
-### 📄 MemSifter: Offloading LLM Memory Retrieval via Outcome-Driven Proxy Reasoning
+## 📄 MemSifter: Offloading LLM Memory Retrieval via Outcome-Driven Proxy Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.03379
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@
 
 ============================================================
 
-### 📄 T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning
+## 📄 T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.03790
 - **阅读来源**: HTML
@@ -135,7 +132,7 @@
 
 ============================================================
 
-### 📄 SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration
+## 📄 SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration
 
 - **链接**: https://huggingface.co/papers/2603.03823
 - **阅读来源**: HTML
@@ -163,7 +160,7 @@
 
 ============================================================
 
-### 📄 Helios: Real Real-Time Long Video Generation Model
+## 📄 Helios: Real Real-Time Long Video Generation Model
 
 - **链接**: https://huggingface.co/papers/2603.04379
 - **阅读来源**: ArXiv Abs
@@ -194,7 +191,7 @@
 
 ============================================================
 
-### 📄 Heterogeneous Agent Collaborative Reinforcement Learning
+## 📄 Heterogeneous Agent Collaborative Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.02604
 - **阅读来源**: HTML
@@ -225,7 +222,7 @@
 
 ============================================================
 
-### 📄 RIVER: A Real-Time Interaction Benchmark for Video LLMs
+## 📄 RIVER: A Real-Time Interaction Benchmark for Video LLMs
 
 - **链接**: https://huggingface.co/papers/2603.03985
 - **阅读来源**: HTML
@@ -255,7 +252,7 @@
 
 ============================================================
 
-### 📄 Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory
+## 📄 Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory
 
 - **链接**: https://huggingface.co/papers/2603.04257
 - **阅读来源**: HTML
@@ -293,7 +290,7 @@
 
 ============================================================
 
-### 📄 EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding
+## 📄 EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding
 
 - **链接**: https://huggingface.co/papers/2603.04254
 - **阅读来源**: HTML
@@ -322,7 +319,7 @@
 
 ============================================================
 
-### 📄 Phi-4-reasoning-vision-15B Technical Report
+## 📄 Phi-4-reasoning-vision-15B Technical Report
 
 - **链接**: https://huggingface.co/papers/2603.03975
 - **阅读来源**: HTML
@@ -355,7 +352,7 @@
 
 ============================================================
 
-### 📄 Proact-VL: A Proactive VideoLLM for Real-Time AI Companions
+## 📄 Proact-VL: A Proactive VideoLLM for Real-Time AI Companions
 
 - **链接**: https://huggingface.co/papers/2603.03447
 - **阅读来源**: HTML
@@ -389,7 +386,7 @@
 
 ============================================================
 
-### 📄 MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models
+## 📄 MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.02482
 - **阅读来源**: HTML
@@ -416,4 +413,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
