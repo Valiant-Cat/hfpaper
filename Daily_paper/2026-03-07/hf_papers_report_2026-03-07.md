@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-07
 **Source URL**: https://huggingface.co/papers/date/2026-03-07
 
 ============================================================
 
-### 📄 RoboPocket: Improve Robot Policies Instantly with Your Phone
+## 📄 RoboPocket: Improve Robot Policies Instantly with Your Phone
 
 - **链接**: https://huggingface.co/papers/2603.05504
 - **阅读来源**: HTML
@@ -40,7 +37,7 @@
 
 ============================================================
 
-### 📄 On-Policy Self-Distillation for Reasoning Compression
+## 📄 On-Policy Self-Distillation for Reasoning Compression
 
 - **链接**: https://huggingface.co/papers/2603.05433
 - **阅读来源**: HTML
@@ -78,7 +75,7 @@
 
 ============================================================
 
-### 📄 Locality-Attending Vision Transformer
+## 📄 Locality-Attending Vision Transformer
 
 - **链接**: https://huggingface.co/papers/2603.04892
 - **阅读来源**: HTML
@@ -108,7 +105,7 @@
 
 ============================================================
 
-### 📄 Lightweight Visual Reasoning for Socially-Aware Robots
+## 📄 Lightweight Visual Reasoning for Socially-Aware Robots
 
 - **链接**: https://huggingface.co/papers/2603.03942
 - **阅读来源**: HTML
@@ -143,7 +140,7 @@
 
 ============================================================
 
-### 📄 Interactive Benchmarks
+## 📄 Interactive Benchmarks
 
 - **链接**: https://huggingface.co/papers/2603.04737
 - **阅读来源**: ArXiv Abs
@@ -176,7 +173,7 @@
 
 ============================================================
 
-### 📄 Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling
+## 📄 Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling
 
 - **链接**: https://huggingface.co/papers/2603.04791
 - **阅读来源**: HTML
@@ -204,7 +201,7 @@
 
 ============================================================
 
-### 📄 Distribution-Conditioned Transport
+## 📄 Distribution-Conditioned Transport
 
 - **链接**: https://huggingface.co/papers/2603.04736
 - **阅读来源**: HTML
@@ -239,7 +236,7 @@
 
 ============================================================
 
-### 📄 HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images
+## 📄 HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images
 
 - **链接**: https://huggingface.co/papers/2603.02210
 - **阅读来源**: HTML
@@ -272,7 +269,7 @@
 
 ============================================================
 
-### 📄 DreamWorld: Unified World Modeling in Video Generation
+## 📄 DreamWorld: Unified World Modeling in Video Generation
 
 - **链接**: https://huggingface.co/papers/2603.00466
 - **阅读来源**: HTML
@@ -309,7 +306,7 @@ DreamWorld 在多个核心基准测试中优于基线模型（Wan2.1）和竞争
 
 ============================================================
 
-### 📄 DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval
+## 📄 DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval
 
 - **链接**: https://huggingface.co/papers/2603.04743
 - **阅读来源**: HTML
@@ -342,7 +339,7 @@ NLP-大模型智能体 (LLM Agents) / 数据科学与统计分析 (R语言生态
 
 ============================================================
 
-### 📄 RealWonder: Real-Time Physical Action-Conditioned Video Generation
+## 📄 RealWonder: Real-Time Physical Action-Conditioned Video Generation
 
 - **链接**: https://huggingface.co/papers/2603.05449
 - **阅读来源**: HTML
@@ -377,7 +374,7 @@ RealWonder 提出了首个实时物理动作条件视频生成系统，通过将
 
 ============================================================
 
-### 📄 Mozi: Governed Autonomy for Drug Discovery LLM Agents
+## 📄 Mozi: Governed Autonomy for Drug Discovery LLM Agents
 
 - **链接**: https://huggingface.co/papers/2603.03655
 - **阅读来源**: HTML
@@ -409,7 +406,7 @@ AI for Science (生物医药/药物发现) - 大语言模型智能体 (LLM Agent
 
 ============================================================
 
-### 📄 UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data
+## 📄 UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data
 
 - **链接**: https://huggingface.co/papers/2603.05312
 - **阅读来源**: HTML
@@ -441,7 +438,7 @@ AI for Science (生物医药/药物发现) - 大语言模型智能体 (LLM Agent
 
 ============================================================
 
-### 📄 SkillNet: Create, Evaluate, and Connect AI Skills
+## 📄 SkillNet: Create, Evaluate, and Connect AI Skills
 
 - **链接**: https://huggingface.co/papers/2603.04448
 - **阅读来源**: HTML
@@ -477,7 +474,7 @@ AI for Science (生物医药/药物发现) - 大语言模型智能体 (LLM Agent
 
 ============================================================
 
-### 📄 KARL: Knowledge Agents via Reinforcement Learning
+## 📄 KARL: Knowledge Agents via Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.05218
 - **阅读来源**: HTML
@@ -514,7 +511,7 @@ AI for Science (生物医药/药物发现) - 大语言模型智能体 (LLM Agent
 
 ============================================================
 
-### 📄 Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling
+## 📄 Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling
 
 - **链接**: https://huggingface.co/papers/2603.04553
 - **阅读来源**: HTML
@@ -546,7 +543,7 @@ AI for Science (生物医药/药物发现) - 大语言模型智能体 (LLM Agent
 
 ============================================================
 
-### 📄 Large Multimodal Models as General In-Context Classifiers
+## 📄 Large Multimodal Models as General In-Context Classifiers
 
 - **链接**: https://huggingface.co/papers/2602.23229
 - **阅读来源**: ArXiv Abs
@@ -577,7 +574,7 @@ AI for Science (生物医药/药物发现) - 大语言模型智能体 (LLM Agent
 
 ============================================================
 
-### 📄 Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning
+## 📄 Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.23440
 - **阅读来源**: HTML
@@ -612,7 +609,7 @@ NLP-大模型推理 (Reasoning)、检索增强生成 (RAG)、强化学习 (RL/RL
 
 ============================================================
 
-### 📄 AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios
+## 📄 AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios
 
 - **链接**: https://huggingface.co/papers/2602.23166
 - **阅读来源**: HTML
@@ -640,7 +637,7 @@ NLP-大模型推理 (Reasoning)、检索增强生成 (RAG)、强化学习 (RL/RL
 
 ============================================================
 
-### 📄 MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models
+## 📄 MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.04800
 - **阅读来源**: HTML
@@ -673,7 +670,7 @@ NLP-大模型推理 (Reasoning)、检索增强生成 (RAG)、强化学习 (RL/RL
 
 ============================================================
 
-### 📄 STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification
+## 📄 STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification
 
 - **链接**: https://huggingface.co/papers/2603.00695
 - **阅读来源**: ArXiv Abs
@@ -702,7 +699,7 @@ NLP-大模型推理 (Reasoning)、检索增强生成 (RAG)、强化学习 (RL/RL
 
 ============================================================
 
-### 📄 SageBwd: A Trainable Low-bit Attention
+## 📄 SageBwd: A Trainable Low-bit Attention
 
 - **链接**: https://huggingface.co/papers/2603.02170
 - **阅读来源**: HTML
@@ -736,7 +733,7 @@ NLP-大模型推理 (Reasoning)、检索增强生成 (RAG)、强化学习 (RL/RL
 
 ============================================================
 
-### 📄 Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline
+## 📄 Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline
 
 - **链接**: https://huggingface.co/papers/2603.05484
 - **阅读来源**: HTML
@@ -769,7 +766,7 @@ NLP-大模型推理 (Reasoning)、检索增强生成 (RAG)、强化学习 (RL/RL
 
 ============================================================
 
-### 📄 MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier
+## 📄 MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier
 
 - **链接**: https://huggingface.co/papers/2603.03756
 - **阅读来源**: HTML
@@ -805,4 +802,3 @@ NLP-大模型推理 (Reasoning)、检索增强生成 (RAG)、强化学习 (RL/RL
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
