@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-08
 **Source URL**: https://huggingface.co/papers/date/2026-03-08
 
 ============================================================
 
-### 📄 RealWonder: Real-Time Physical Action-Conditioned Video Generation
+## 📄 RealWonder: Real-Time Physical Action-Conditioned Video Generation
 
 - **链接**: https://huggingface.co/papers/2603.05449
 - **阅读来源**: HTML
@@ -35,7 +32,7 @@
 
 ============================================================
 
-### 📄 KARL: Knowledge Agents via Reinforcement Learning
+## 📄 KARL: Knowledge Agents via Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.05218
 - **阅读来源**: HTML
@@ -68,7 +65,7 @@
 
 ============================================================
 
-### 📄 SageBwd: A Trainable Low-bit Attention
+## 📄 SageBwd: A Trainable Low-bit Attention
 
 - **链接**: https://huggingface.co/papers/2603.02170
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@
 
 ============================================================
 
-### 📄 DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval
+## 📄 DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval
 
 - **链接**: https://huggingface.co/papers/2603.04743
 - **阅读来源**: HTML
@@ -141,7 +138,7 @@
 
 ============================================================
 
-### 📄 Lightweight Visual Reasoning for Socially-Aware Robots
+## 📄 Lightweight Visual Reasoning for Socially-Aware Robots
 
 - **链接**: https://huggingface.co/papers/2603.03942
 - **阅读来源**: HTML
@@ -176,7 +173,7 @@
 
 ============================================================
 
-### 📄 Locality-Attending Vision Transformer
+## 📄 Locality-Attending Vision Transformer
 
 - **链接**: https://huggingface.co/papers/2603.04892
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@
 
 ============================================================
 
-### 📄 MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier
+## 📄 MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier
 
 - **链接**: https://huggingface.co/papers/2603.03756
 - **阅读来源**: HTML
@@ -235,7 +232,7 @@
 
 ============================================================
 
-### 📄 Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning
+## 📄 Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning
 
 - **链接**: https://huggingface.co/papers/2602.23440
 - **阅读来源**: HTML
@@ -270,7 +267,7 @@
 
 ============================================================
 
-### 📄 Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling
+## 📄 Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling
 
 - **链接**: https://huggingface.co/papers/2603.04553
 - **阅读来源**: HTML
@@ -297,7 +294,7 @@
 
 ============================================================
 
-### 📄 Large Multimodal Models as General In-Context Classifiers
+## 📄 Large Multimodal Models as General In-Context Classifiers
 
 - **链接**: https://huggingface.co/papers/2602.23229
 - **阅读来源**: ArXiv Abs
@@ -331,7 +328,7 @@
 
 ============================================================
 
-### 📄 DreamWorld: Unified World Modeling in Video Generation
+## 📄 DreamWorld: Unified World Modeling in Video Generation
 
 - **链接**: https://huggingface.co/papers/2603.00466
 - **阅读来源**: HTML
@@ -362,7 +359,7 @@
 
 ============================================================
 
-### 📄 STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification
+## 📄 STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification
 
 - **链接**: https://huggingface.co/papers/2603.00695
 - **阅读来源**: ArXiv Abs
@@ -393,7 +390,7 @@
 
 ============================================================
 
-### 📄 MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models
+## 📄 MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.04800
 - **阅读来源**: HTML
@@ -428,7 +425,7 @@
 
 ============================================================
 
-### 📄 Interactive Benchmarks
+## 📄 Interactive Benchmarks
 
 - **链接**: https://huggingface.co/papers/2603.04737
 - **阅读来源**: ArXiv Abs
@@ -464,7 +461,7 @@
 
 ============================================================
 
-### 📄 SkillNet: Create, Evaluate, and Connect AI Skills
+## 📄 SkillNet: Create, Evaluate, and Connect AI Skills
 
 - **链接**: https://huggingface.co/papers/2603.04448
 - **阅读来源**: HTML
@@ -498,7 +495,7 @@
 
 ============================================================
 
-### 📄 Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline
+## 📄 Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline
 
 - **链接**: https://huggingface.co/papers/2603.05484
 - **阅读来源**: HTML
@@ -539,7 +536,7 @@
 
 ============================================================
 
-### 📄 Mozi: Governed Autonomy for Drug Discovery LLM Agents
+## 📄 Mozi: Governed Autonomy for Drug Discovery LLM Agents
 
 - **链接**: https://huggingface.co/papers/2603.03655
 - **阅读来源**: HTML
@@ -569,7 +566,7 @@ AI for Science - 药物发现（AI for Drug Discovery）、NLP - 智能体（LLM
 
 ============================================================
 
-### 📄 Distribution-Conditioned Transport
+## 📄 Distribution-Conditioned Transport
 
 - **链接**: https://huggingface.co/papers/2603.04736
 - **阅读来源**: HTML
@@ -602,7 +599,7 @@ AI for Science - 药物发现（AI for Drug Discovery）、NLP - 智能体（LLM
 
 ============================================================
 
-### 📄 On-Policy Self-Distillation for Reasoning Compression
+## 📄 On-Policy Self-Distillation for Reasoning Compression
 
 - **链接**: https://huggingface.co/papers/2603.05433
 - **阅读来源**: HTML
@@ -644,7 +641,7 @@ AI for Science - 药物发现（AI for Drug Discovery）、NLP - 智能体（LLM
 
 ============================================================
 
-### 📄 RoboPocket: Improve Robot Policies Instantly with Your Phone
+## 📄 RoboPocket: Improve Robot Policies Instantly with Your Phone
 
 - **链接**: https://huggingface.co/papers/2603.05504
 - **阅读来源**: HTML
@@ -677,7 +674,7 @@ AI for Science - 药物发现（AI for Drug Discovery）、NLP - 智能体（LLM
 
 ============================================================
 
-### 📄 HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images
+## 📄 HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images
 
 - **链接**: https://huggingface.co/papers/2603.02210
 - **阅读来源**: HTML
@@ -710,7 +707,7 @@ AI for Science - 药物发现（AI for Drug Discovery）、NLP - 智能体（LLM
 
 ============================================================
 
-### 📄 UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data
+## 📄 UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data
 
 - **链接**: https://huggingface.co/papers/2603.05312
 - **阅读来源**: HTML
@@ -738,7 +735,7 @@ AI for Science - 药物发现（AI for Drug Discovery）、NLP - 智能体（LLM
 
 ============================================================
 
-### 📄 AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios
+## 📄 AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios
 
 - **链接**: https://huggingface.co/papers/2602.23166
 - **阅读来源**: HTML
@@ -768,7 +765,7 @@ AI for Science - 药物发现（AI for Drug Discovery）、NLP - 智能体（LLM
 
 ============================================================
 
-### 📄 Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling
+## 📄 Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling
 
 - **链接**: https://huggingface.co/papers/2603.04791
 - **阅读来源**: HTML
@@ -797,4 +794,3 @@ AI for Science - 药物发现（AI for Drug Discovery）、NLP - 智能体（LLM
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
