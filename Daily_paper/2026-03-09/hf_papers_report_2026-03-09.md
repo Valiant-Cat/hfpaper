@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-09
 **Source URL**: https://huggingface.co/papers/date/2026-03-09
 
 ============================================================
 
-### 📄 Reasoning Models Struggle to Control their Chains of Thought
+## 📄 Reasoning Models Struggle to Control their Chains of Thought
 
 - **链接**: https://huggingface.co/papers/2603.05706
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs
+## 📄 π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs
 
 - **链接**: https://huggingface.co/papers/2603.02083
 - **阅读来源**: HTML
@@ -68,7 +65,7 @@
 
 ============================================================
 
-### 📄 RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
+## 📄 RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
 
 - **链接**: https://huggingface.co/papers/2603.04639
 - **阅读来源**: HTML
@@ -98,7 +95,7 @@
 
 ============================================================
 
-### 📄 SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration
+## 📄 SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration
 
 - **链接**: https://huggingface.co/papers/2603.05940
 - **阅读来源**: HTML
@@ -129,7 +126,7 @@
 
 ============================================================
 
-### 📄 Making Reconstruction FID Predictive of Diffusion Generation FID
+## 📄 Making Reconstruction FID Predictive of Diffusion Generation FID
 
 - **链接**: https://huggingface.co/papers/2603.05630
 - **阅读来源**: HTML
@@ -164,7 +161,7 @@
 
 ============================================================
 
-### 📄 Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders
+## 📄 Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders
 
 - **链接**: https://huggingface.co/papers/2603.06569
 - **阅读来源**: ArXiv Abs
@@ -196,7 +193,7 @@
 
 ============================================================
 
-### 📄 BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning
+## 📄 BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.04918
 - **阅读来源**: ArXiv Abs
@@ -225,7 +222,7 @@ NLP-大模型微调（强化学习人类反馈对齐 RLHF） / 强化学习
 
 ============================================================
 
-### 📄 HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel
+## 📄 HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel
 
 - **链接**: https://huggingface.co/papers/2603.04750
 - **阅读来源**: HTML
@@ -254,7 +251,7 @@ NLP-大模型微调（强化学习人类反馈对齐 RLHF） / 强化学习
 
 ============================================================
 
-### 📄 Dynamic Chunking Diffusion Transformer
+## 📄 Dynamic Chunking Diffusion Transformer
 
 - **链接**: https://huggingface.co/papers/2603.06351
 - **阅读来源**: HTML
@@ -287,7 +284,7 @@ NLP-大模型微调（强化学习人类反馈对齐 RLHF） / 强化学习
 
 ============================================================
 
-### 📄 FlashPrefill: Instantaneous Pattern Discovery and Thresholding for Ultra-Fast Long-Context Prefilling
+## 📄 FlashPrefill: Instantaneous Pattern Discovery and Thresholding for Ultra-Fast Long-Context Prefilling
 
 - **链接**: https://huggingface.co/papers/2603.06199
 - **阅读来源**: HTML
@@ -320,7 +317,7 @@ NLP-大模型微调（强化学习人类反馈对齐 RLHF） / 强化学习
 
 ============================================================
 
-### 📄 PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction
+## 📄 PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction
 
 - **链接**: https://huggingface.co/papers/2603.05888
 - **阅读来源**: HTML
@@ -350,7 +347,7 @@ NLP-大模型微调（强化学习人类反馈对齐 RLHF） / 强化学习
 
 ============================================================
 
-### 📄 Physical Simulator In-the-Loop Video Generation
+## 📄 Physical Simulator In-the-Loop Video Generation
 
 - **链接**: https://huggingface.co/papers/2603.06408
 - **阅读来源**: HTML
@@ -385,7 +382,7 @@ NLP-大模型微调（强化学习人类反馈对齐 RLHF） / 强化学习
 
 ============================================================
 
-### 📄 Progressive Residual Warmup for Language Model Pretraining
+## 📄 Progressive Residual Warmup for Language Model Pretraining
 
 - **链接**: https://huggingface.co/papers/2603.05369
 - **阅读来源**: HTML
@@ -414,4 +411,3 @@ NLP - 大语言模型预训练（Transformer架构优化、大模型训练稳定
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
