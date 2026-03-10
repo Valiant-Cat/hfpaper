@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-10
 **Source URL**: https://huggingface.co/papers/date/2026-03-10
 
 ============================================================
 
-### 📄 LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory
+## 📄 LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory
 
 - **链接**: https://huggingface.co/papers/2603.03269
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation
+## 📄 CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation
 
 - **链接**: https://huggingface.co/papers/2603.08652
 - **阅读来源**: HTML
@@ -74,7 +71,7 @@
 
 ============================================================
 
-### 📄 HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising
+## 📄 HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising
 
 - **链接**: https://huggingface.co/papers/2603.08703
 - **阅读来源**: HTML
@@ -106,7 +103,7 @@
 
 ============================================================
 
-### 📄 Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs
+## 📄 Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs
 
 - **链接**: https://huggingface.co/papers/2603.07475
 - **阅读来源**: HTML
@@ -139,7 +136,7 @@
 
 ============================================================
 
-### 📄 Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation
+## 📄 Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation
 
 - **链接**: https://huggingface.co/papers/2603.02554
 - **阅读来源**: HTML
@@ -169,7 +166,7 @@
 
 ============================================================
 
-### 📄 Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned
+## 📄 Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned
 
 - **链接**: https://huggingface.co/papers/2603.05344
 - **阅读来源**: HTML
@@ -201,7 +198,7 @@
 
 ============================================================
 
-### 📄 CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization
+## 📄 CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization
 
 - **链接**: https://huggingface.co/papers/2603.06449
 - **阅读来源**: ArXiv Abs
@@ -233,7 +230,7 @@
 
 ============================================================
 
-### 📄 SlowBA: An efficiency backdoor attack towards VLM-based GUI agents
+## 📄 SlowBA: An efficiency backdoor attack towards VLM-based GUI agents
 
 - **链接**: https://huggingface.co/papers/2603.08316
 - **阅读来源**: HTML
@@ -264,7 +261,7 @@
 
 ============================================================
 
-### 📄 Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility
+## 📄 Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility
 
 - **链接**: https://huggingface.co/papers/2603.05581
 - **阅读来源**: HTML
@@ -293,7 +290,7 @@
 
 ============================================================
 
-### 📄 PureCC: Pure Learning for Text-to-Image Concept Customization
+## 📄 PureCC: Pure Learning for Text-to-Image Concept Customization
 
 - **链接**: https://huggingface.co/papers/2603.07561
 - **阅读来源**: HTML
@@ -324,7 +321,7 @@
 
 ============================================================
 
-### 📄 \$OneMillion-Bench: How Far are Language Agents from Human Experts?
+## 📄 \$OneMillion-Bench: How Far are Language Agents from Human Experts?
 
 - **链接**: https://huggingface.co/papers/2603.07980
 - **阅读来源**: HTML
@@ -356,7 +353,7 @@
 
 ============================================================
 
-### 📄 Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence
+## 📄 Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence
 
 - **链接**: https://huggingface.co/papers/2603.07660
 - **阅读来源**: HTML
@@ -385,7 +382,7 @@
 
 ============================================================
 
-### 📄 Scale Space Diffusion
+## 📄 Scale Space Diffusion
 
 - **链接**: https://huggingface.co/papers/2603.08709
 - **阅读来源**: ArXiv Abs
@@ -413,7 +410,7 @@
 
 ============================================================
 
-### 📄 Believe Your Model: Distribution-Guided Confidence Calibration
+## 📄 Believe Your Model: Distribution-Guided Confidence Calibration
 
 - **链接**: https://huggingface.co/papers/2603.03872
 - **阅读来源**: HTML
@@ -443,7 +440,7 @@
 
 ============================================================
 
-### 📄 From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning
+## 📄 From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.03825
 - **阅读来源**: HTML
@@ -475,7 +472,7 @@
 
 ============================================================
 
-### 📄 Agentic Critical Training
+## 📄 Agentic Critical Training
 
 - **链接**: https://huggingface.co/papers/2603.08706
 - **阅读来源**: HTML
@@ -507,7 +504,7 @@
 
 ============================================================
 
-### 📄 Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness
+## 📄 Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness
 
 - **链接**: https://huggingface.co/papers/2603.08309
 - **阅读来源**: HTML
@@ -543,7 +540,7 @@
 
 ============================================================
 
-### 📄 TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward
+## 📄 TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward
 
 - **链接**: https://huggingface.co/papers/2603.07700
 - **阅读来源**: HTML
@@ -575,7 +572,7 @@
 
 ============================================================
 
-### 📄 PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents
+## 📄 PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents
 
 - **链接**: https://huggingface.co/papers/2603.08013
 - **阅读来源**: HTML
@@ -606,7 +603,7 @@
 
 ============================================================
 
-### 📄 OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning
+## 📄 OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.08655
 - **阅读来源**: HTML
@@ -637,7 +634,7 @@
 
 ============================================================
 
-### 📄 Autophoresis of a Janus particle near a planar wall: a lubrication limit
+## 📄 Autophoresis of a Janus particle near a planar wall: a lubrication limit
 
 - **链接**: https://huggingface.co/papers/2603.00791
 - **阅读来源**: HTML
@@ -666,7 +663,7 @@
 
 ============================================================
 
-### 📄 SeedPolicy: Horizon Scaling via Self-Evolving Diffusion Policy for Robot Manipulation
+## 📄 SeedPolicy: Horizon Scaling via Self-Evolving Diffusion Policy for Robot Manipulation
 
 - **链接**: https://huggingface.co/papers/2603.05117
 - **阅读来源**: HTML
@@ -697,7 +694,7 @@
 
 ============================================================
 
-### 📄 AutoResearch-RL: Perpetual Self-Evaluating Reinforcement Learning Agents for Autonomous Neural Architecture Discovery
+## 📄 AutoResearch-RL: Perpetual Self-Evaluating Reinforcement Learning Agents for Autonomous Neural Architecture Discovery
 
 - **链接**: https://huggingface.co/papers/2603.07300
 - **阅读来源**: HTML
@@ -727,7 +724,7 @@
 
 ============================================================
 
-### 📄 FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models
+## 📄 FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.08708
 - **阅读来源**: HTML
@@ -758,7 +755,7 @@
 
 ============================================================
 
-### 📄 CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing
+## 📄 CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing
 
 - **链接**: https://huggingface.co/papers/2603.08589
 - **阅读来源**: HTML
@@ -787,7 +784,7 @@
 
 ============================================================
 
-### 📄 NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving
+## 📄 NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving
 
 - **链接**: https://huggingface.co/papers/2603.07901
 - **阅读来源**: HTML
@@ -820,7 +817,7 @@
 
 ============================================================
 
-### 📄 How Far Can Unsupervised RLVR Scale LLM Training?
+## 📄 How Far Can Unsupervised RLVR Scale LLM Training?
 
 - **链接**: https://huggingface.co/papers/2603.08660
 - **阅读来源**: ArXiv Abs
@@ -851,7 +848,7 @@ NLP-大模型训练与微调、强化学习（无监督强化学习与可验证�
 
 ============================================================
 
-### 📄 Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces
+## 📄 Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces
 
 - **链接**: https://huggingface.co/papers/2603.06713
 - **阅读来源**: HTML
@@ -886,7 +883,7 @@ NLP-大模型训练与微调、强化学习（无监督强化学习与可验证�
 
 ============================================================
 
-### 📄 Lost in Stories: Consistency Bugs in Long Story Generation by LLMs
+## 📄 Lost in Stories: Consistency Bugs in Long Story Generation by LLMs
 
 - **链接**: https://huggingface.co/papers/2603.05890
 - **阅读来源**: HTML
@@ -915,4 +912,3 @@ NLP-大模型训练与微调、强化学习（无监督强化学习与可验证�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
