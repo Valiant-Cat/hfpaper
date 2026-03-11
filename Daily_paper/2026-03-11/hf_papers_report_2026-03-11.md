@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-11
 **Source URL**: https://huggingface.co/papers/date/2026-03-11
 
 ============================================================
 
-### 📄 Towards a Neural Debugger for Python
+## 📄 Towards a Neural Debugger for Python
 
 - **链接**: https://huggingface.co/papers/2603.09951
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing
+## 📄 InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing
 
 - **链接**: https://huggingface.co/papers/2603.09877
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs
+## 📄 Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs
 
 - **链接**: https://huggingface.co/papers/2603.09906
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@
 
 ============================================================
 
-### 📄 Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion
+## 📄 Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion
 
 - **链接**: https://huggingface.co/papers/2603.06577
 - **阅读来源**: HTML
@@ -135,7 +132,7 @@
 
 ============================================================
 
-### 📄 BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation
+## 📄 BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation
 
 - **链接**: https://huggingface.co/papers/2603.02816
 - **阅读来源**: HTML
@@ -169,7 +166,7 @@
 
 ============================================================
 
-### 📄 Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards
+## 📄 Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards
 
 - **链接**: https://huggingface.co/papers/2603.09117
 - **阅读来源**: HTML
@@ -201,7 +198,7 @@
 
 ============================================================
 
-### 📄 SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement
+## 📄 SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement
 
 - **链接**: https://huggingface.co/papers/2603.06333
 - **阅读来源**: HTML
@@ -235,7 +232,7 @@ NLP-大模型对齐（LLM Alignment）、大语言模型递归自我提升（Rec
 
 ============================================================
 
-### 📄 Streaming Autoregressive Video Generation via Diagonal Distillation
+## 📄 Streaming Autoregressive Video Generation via Diagonal Distillation
 
 - **链接**: https://huggingface.co/papers/2603.09488
 - **阅读来源**: HTML
@@ -265,7 +262,7 @@ NLP-大模型对齐（LLM Alignment）、大语言模型递归自我提升（Rec
 
 ============================================================
 
-### 📄 Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing
+## 📄 Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing
 
 - **链接**: https://huggingface.co/papers/2603.03143
 - **阅读来源**: HTML
@@ -296,7 +293,7 @@ NLP-大模型对齐（LLM Alignment）、大语言模型递归自我提升（Rec
 
 ============================================================
 
-### 📄 Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs
+## 📄 Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs
 
 - **链接**: https://huggingface.co/papers/2603.09095
 - **阅读来源**: HTML
@@ -329,7 +326,7 @@ NLP-大模型对齐（LLM Alignment）、大语言模型递归自我提升（Rec
 
 ============================================================
 
-### 📄 The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness
+## 📄 The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness
 
 - **链接**: https://huggingface.co/papers/2603.09200
 - **阅读来源**: HTML
@@ -359,7 +356,7 @@ NLP-大模型对齐（LLM Alignment）、大语言模型递归自我提升（Rec
 
 ============================================================
 
-### 📄 MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data
+## 📄 MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data
 
 - **链接**: https://huggingface.co/papers/2603.09206
 - **阅读来源**: HTML
@@ -393,7 +390,7 @@ NLP-大模型对齐（LLM Alignment）、大语言模型递归自我提升（Rec
 
 ============================================================
 
-### 📄 Fish Audio S2 Technical Report
+## 📄 Fish Audio S2 Technical Report
 
 - **链接**: https://huggingface.co/papers/2603.08823
 - **阅读来源**: HTML
@@ -423,7 +420,7 @@ NLP-大模型对齐（LLM Alignment）、大语言模型递归自我提升（Rec
 
 ============================================================
 
-### 📄 ConFu: Contemplate the Future for Better Speculative Sampling
+## 📄 ConFu: Contemplate the Future for Better Speculative Sampling
 
 - **链接**: https://huggingface.co/papers/2603.08899
 - **阅读来源**: HTML
@@ -454,7 +451,7 @@ NLP - 大模型推理加速（推测解码 / Speculative Decoding）
 
 ============================================================
 
-### 📄 A Text-Native Interface for Generative Video Authoring
+## 📄 A Text-Native Interface for Generative Video Authoring
 
 - **链接**: https://huggingface.co/papers/2603.09072
 - **阅读来源**: HTML
@@ -484,7 +481,7 @@ NLP - 大模型推理加速（推测解码 / Speculative Decoding）
 
 ============================================================
 
-### 📄 VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning?
+## 📄 VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning?
 
 - **链接**: https://huggingface.co/papers/2603.07888
 - **阅读来源**: HTML
@@ -514,7 +511,7 @@ NLP - 大模型推理加速（推测解码 / Speculative Decoding）
 
 ============================================================
 
-### 📄 Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports
+## 📄 Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports
 
 - **链接**: https://huggingface.co/papers/2603.09896
 - **阅读来源**: ArXiv Abs
@@ -544,7 +541,7 @@ NLP - 大模型推理加速（推测解码 / Speculative Decoding）
 
 ============================================================
 
-### 📄 MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants
+## 📄 MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants
 
 - **链接**: https://huggingface.co/papers/2603.09652
 - **阅读来源**: HTML
@@ -573,4 +570,3 @@ NLP - 大语言模型（LLMs）、代码生成与智能体评估（Agent Evaluat
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
