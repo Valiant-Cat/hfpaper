@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-12
 **Source URL**: https://huggingface.co/papers/date/2026-03-12
 
 ============================================================
 
-### 📄 MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents
+## 📄 MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents
 
 - **链接**: https://huggingface.co/papers/2603.09827
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models
+## 📄 Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.10098
 - **阅读来源**: HTML
@@ -71,7 +68,7 @@
 
 ============================================================
 
-### 📄 Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams
+## 📄 Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams
 
 - **链接**: https://huggingface.co/papers/2603.07392
 - **阅读来源**: HTML
@@ -106,7 +103,7 @@
 
 ============================================================
 
-### 📄 CodePercept: Code-Grounded Visual STEM Perception for MLLMs
+## 📄 CodePercept: Code-Grounded Visual STEM Perception for MLLMs
 
 - **链接**: https://huggingface.co/papers/2603.10757
 - **阅读来源**: HTML
@@ -135,7 +132,7 @@
 
 ============================================================
 
-### 📄 V_{0.5}: Generalist Value Model as a Prior for Sparse RL Rollouts
+## 📄 V_{0.5}: Generalist Value Model as a Prior for Sparse RL Rollouts
 
 - **链接**: https://huggingface.co/papers/2603.10848
 - **阅读来源**: HTML
@@ -165,7 +162,7 @@
 
 ============================================================
 
-### 📄 EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation
+## 📄 EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation
 
 - **链接**: https://huggingface.co/papers/2603.05757
 - **阅读来源**: HTML
@@ -201,7 +198,7 @@
 
 ============================================================
 
-### 📄 LLM2Vec-Gen: Generative Embeddings from Large Language Models
+## 📄 LLM2Vec-Gen: Generative Embeddings from Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.10913
 - **阅读来源**: HTML
@@ -233,7 +230,7 @@
 
 ============================================================
 
-### 📄 V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation
+## 📄 V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation
 
 - **链接**: https://huggingface.co/papers/2603.11042
 - **阅读来源**: HTML
@@ -268,7 +265,7 @@
 
 ============================================================
 
-### 📄 Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers
+## 📄 Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2603.10744
 - **阅读来源**: HTML
@@ -299,7 +296,7 @@
 
 ============================================================
 
-### 📄 Any to Full: Prompting Depth Anything for Depth Completion in One Stage
+## 📄 Any to Full: Prompting Depth Anything for Depth Completion in One Stage
 
 - **链接**: https://huggingface.co/papers/2603.05711
 - **阅读来源**: HTML
@@ -329,7 +326,7 @@
 
 ============================================================
 
-### 📄 CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR
+## 📄 CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR
 
 - **链接**: https://huggingface.co/papers/2603.10101
 - **阅读来源**: HTML
@@ -364,7 +361,7 @@
 
 ============================================================
 
-### 📄 Bootstrapping Exploration with Group-Level Natural Language Feedback in Reinforcement Learning
+## 📄 Bootstrapping Exploration with Group-Level Natural Language Feedback in Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.04597
 - **阅读来源**: ArXiv Abs
@@ -392,7 +389,7 @@
 
 ============================================================
 
-### 📄 ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning
+## 📄 ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning
 
 - **链接**: https://huggingface.co/papers/2603.10160
 - **阅读来源**: HTML
@@ -424,7 +421,7 @@ NLP-大模型微调（具体为：参数高效微调 Parameter-Efficient Fine-Tu
 
 ============================================================
 
-### 📄 OpenClaw-RL: Train Any Agent Simply by Talking
+## 📄 OpenClaw-RL: Train Any Agent Simply by Talking
 
 - **链接**: https://huggingface.co/papers/2603.10165
 - **阅读来源**: HTML
@@ -456,7 +453,7 @@ NLP-大模型微调（具体为：参数高效微调 Parameter-Efficient Fine-Tu
 
 ============================================================
 
-### 📄 RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation
+## 📄 RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation
 
 - **链接**: https://huggingface.co/papers/2603.09723
 - **阅读来源**: HTML
@@ -487,7 +484,7 @@ NLP-大模型微调（具体为：参数高效微调 Parameter-Efficient Fine-Tu
 
 ============================================================
 
-### 📄 In-Context Reinforcement Learning for Tool Use in Large Language Models
+## 📄 In-Context Reinforcement Learning for Tool Use in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.08068
 - **阅读来源**: ArXiv Abs
@@ -516,7 +513,7 @@ NLP-大模型微调（具体为：参数高效微调 Parameter-Efficient Fine-Tu
 
 ============================================================
 
-### 📄 Flash-KMeans: Fast and Memory-Efficient Exact K-Means
+## 📄 Flash-KMeans: Fast and Memory-Efficient Exact K-Means
 
 - **链接**: https://huggingface.co/papers/2603.09229
 - **阅读来源**: HTML
@@ -547,7 +544,7 @@ NLP-大模型微调（具体为：参数高效微调 Parameter-Efficient Fine-Tu
 
 ============================================================
 
-### 📄 Prism-Δ: Differential Subspace Steering for Prompt Highlighting in Large Language Models
+## 📄 Prism-Δ: Differential Subspace Steering for Prompt Highlighting in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.10705
 - **阅读来源**: HTML
@@ -579,7 +576,7 @@ NLP - 大语言模型 (LLMs) 推理控制 / 提示词高亮 (Prompt Highlighting
 
 ============================================================
 
-### 📄 RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback
+## 📄 RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback
 
 - **链接**: https://huggingface.co/papers/2603.08561
 - **阅读来源**: HTML
@@ -612,4 +609,3 @@ NLP - 大语言模型 (LLMs) 推理控制 / 提示词高亮 (Prompt Highlighting
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
