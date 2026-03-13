@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-13
 **Source URL**: https://huggingface.co/papers/date/2026-03-13
 
 ============================================================
 
-### 📄 WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing
+## 📄 WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing
 
 - **链接**: https://huggingface.co/papers/2603.11593
 - **阅读来源**: ArXiv Abs
@@ -35,7 +32,7 @@
 
 ============================================================
 
-### 📄 EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation
+## 📄 EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation
 
 - **链接**: https://huggingface.co/papers/2603.12267
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 Are Video Reasoning Models Ready to Go Outside?
+## 📄 Are Video Reasoning Models Ready to Go Outside?
 
 - **链接**: https://huggingface.co/papers/2603.10652
 - **阅读来源**: HTML
@@ -103,7 +100,7 @@
 
 ============================================================
 
-### 📄 OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams
+## 📄 OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams
 
 - **链接**: https://huggingface.co/papers/2603.12265
 - **阅读来源**: HTML
@@ -135,7 +132,7 @@
 
 ============================================================
 
-### 📄 EmbTracker: Traceable Black-box Watermarking for Federated Language Models
+## 📄 EmbTracker: Traceable Black-box Watermarking for Federated Language Models
 
 - **链接**: https://huggingface.co/papers/2603.12089
 - **阅读来源**: HTML
@@ -170,7 +167,7 @@
 
 ============================================================
 
-### 📄 Video-Based Reward Modeling for Computer-Use Agents
+## 📄 Video-Based Reward Modeling for Computer-Use Agents
 
 - **链接**: https://huggingface.co/papers/2603.10178
 - **阅读来源**: HTML
@@ -201,7 +198,7 @@
 
 ============================================================
 
-### 📄 Training Language Models via Neural Cellular Automata
+## 📄 Training Language Models via Neural Cellular Automata
 
 - **链接**: https://huggingface.co/papers/2603.10055
 - **阅读来源**: HTML
@@ -235,7 +232,7 @@
 
 ============================================================
 
-### 📄 SoundWeaver: Semantic Warm-Starting for Text-to-Audio Diffusion Serving
+## 📄 SoundWeaver: Semantic Warm-Starting for Text-to-Audio Diffusion Serving
 
 - **链接**: https://huggingface.co/papers/2603.07865
 - **阅读来源**: HTML
@@ -269,7 +266,7 @@
 
 ============================================================
 
-### 📄 Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation
+## 📄 Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation
 
 - **链接**: https://huggingface.co/papers/2603.12247
 - **阅读来源**: HTML
@@ -299,7 +296,7 @@
 
 ============================================================
 
-### 📄 One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers
+## 📄 One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2603.12245
 - **阅读来源**: HTML
@@ -331,7 +328,7 @@
 
 ============================================================
 
-### 📄 Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks
+## 📄 Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks
 
 - **链接**: https://huggingface.co/papers/2603.11487
 - **阅读来源**: HTML
@@ -362,7 +359,7 @@
 
 ============================================================
 
-### 📄 Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation
+## 📄 Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation
 
 - **链接**: https://huggingface.co/papers/2603.11045
 - **阅读来源**: HTML
@@ -397,7 +394,7 @@
 
 ============================================================
 
-### 📄 Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections
+## 📄 Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections
 
 - **链接**: https://huggingface.co/papers/2603.12180
 - **阅读来源**: ArXiv Abs
@@ -425,7 +422,7 @@
 
 ============================================================
 
-### 📄 Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training
+## 📄 Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training
 
 - **链接**: https://huggingface.co/papers/2603.12255
 - **阅读来源**: ArXiv Abs
@@ -453,7 +450,7 @@
 
 ============================================================
 
-### 📄 DVD: Deterministic Video Depth Estimation with Generative Priors
+## 📄 DVD: Deterministic Video Depth Estimation with Generative Priors
 
 - **链接**: https://huggingface.co/papers/2603.12250
 - **阅读来源**: ArXiv Abs
@@ -482,7 +479,7 @@
 
 ============================================================
 
-### 📄 Geometric Autoencoder for Diffusion Models
+## 📄 Geometric Autoencoder for Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2603.10365
 - **阅读来源**: HTML
@@ -512,7 +509,7 @@
 
 ============================================================
 
-### 📄 DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use
+## 📄 DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use
 
 - **链接**: https://huggingface.co/papers/2603.11076
 - **阅读来源**: HTML
@@ -550,7 +547,7 @@
 
 ============================================================
 
-### 📄 XSkill: Continual Learning from Experience and Skills in Multimodal Agents
+## 📄 XSkill: Continual Learning from Experience and Skills in Multimodal Agents
 
 - **链接**: https://huggingface.co/papers/2603.12056
 - **阅读来源**: HTML
@@ -584,7 +581,7 @@
 
 ============================================================
 
-### 📄 Mobile-GS: Real-time Gaussian Splatting for Mobile Devices
+## 📄 Mobile-GS: Real-time Gaussian Splatting for Mobile Devices
 
 - **链接**: https://huggingface.co/papers/2603.11531
 - **阅读来源**: HTML
@@ -620,7 +617,7 @@
 
 ============================================================
 
-### 📄 ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation
+## 📄 ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation
 
 - **链接**: https://huggingface.co/papers/2603.11421
 - **阅读来源**: HTML
@@ -654,7 +651,7 @@
 
 ============================================================
 
-### 📄 Tiny Aya: Bridging Scale and Multilingual Depth
+## 📄 Tiny Aya: Bridging Scale and Multilingual Depth
 
 - **链接**: https://huggingface.co/papers/2603.11510
 - **阅读来源**: HTML
@@ -684,7 +681,7 @@ Tiny Aya (3.35B) 在综合表现上匹敌甚至超越了同级别的顶尖模型
 
 ============================================================
 
-### 📄 The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training
+## 📄 The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training
 
 - **链接**: https://huggingface.co/papers/2603.10444
 - **阅读来源**: HTML
@@ -715,7 +712,7 @@ NLP-大模型训练与极低比特量化（特别是预训练阶段的 FP4/W4A4G
 
 ============================================================
 
-### 📄 Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data
+## 📄 Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data
 
 - **链接**: https://huggingface.co/papers/2603.07534
 - **阅读来源**: HTML
@@ -748,7 +745,7 @@ NLP-大模型训练与极低比特量化（特别是预训练阶段的 FP4/W4A4G
 
 ============================================================
 
-### 📄 Multi-Task Reinforcement Learning for Enhanced Multimodal LLM-as-a-Judge
+## 📄 Multi-Task Reinforcement Learning for Enhanced Multimodal LLM-as-a-Judge
 
 - **链接**: https://huggingface.co/papers/2603.11665
 - **阅读来源**: HTML
@@ -779,7 +776,7 @@ NLP-大模型训练与极低比特量化（特别是预训练阶段的 FP4/W4A4G
 
 ============================================================
 
-### 📄 Coarse-Guided Visual Generation via Weighted h-Transform Sampling
+## 📄 Coarse-Guided Visual Generation via Weighted h-Transform Sampling
 
 - **链接**: https://huggingface.co/papers/2603.12057
 - **阅读来源**: HTML
@@ -810,7 +807,7 @@ NLP-大模型训练与极低比特量化（特别是预训练阶段的 FP4/W4A4G
 
 ============================================================
 
-### 📄 IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse
+## 📄 IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse
 
 - **链接**: https://huggingface.co/papers/2603.12201
 - **阅读来源**: HTML
@@ -843,7 +840,7 @@ NLP - 大语言模型推理加速 / 长上下文处理 / 稀疏注意力机制�
 
 ============================================================
 
-### 📄 GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing
+## 📄 GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing
 
 - **链接**: https://huggingface.co/papers/2603.12264
 - **阅读来源**: ArXiv Abs
@@ -872,7 +869,7 @@ NLP - 大语言模型推理加速 / 长上下文处理 / 稀疏注意力机制�
 
 ============================================================
 
-### 📄 EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models
+## 📄 EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2603.12252
 - **阅读来源**: HTML
@@ -903,7 +900,7 @@ NLP - 大语言模型推理加速 / 长上下文处理 / 稀疏注意力机制�
 
 ============================================================
 
-### 📄 DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning
+## 📄 DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.12257
 - **阅读来源**: HTML
@@ -933,7 +930,7 @@ NLP - 大语言模型推理加速 / 长上下文处理 / 稀疏注意力机制�
 
 ============================================================
 
-### 📄 Automatic Generation of High-Performance RL Environments
+## 📄 Automatic Generation of High-Performance RL Environments
 
 - **链接**: https://huggingface.co/papers/2603.12145
 - **阅读来源**: HTML
@@ -966,7 +963,7 @@ NLP - 大语言模型推理加速 / 长上下文处理 / 稀疏注意力机制�
 
 ============================================================
 
-### 📄 Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining
+## 📄 Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining
 
 - **链接**: https://huggingface.co/papers/2603.11103
 - **阅读来源**: HTML
@@ -1000,7 +997,7 @@ NLP-大模型预训练、代码大模型（Code LLMs）、AI 智能体（AI Agen
 
 ============================================================
 
-### 📄 FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System
+## 📄 FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System
 
 - **链接**: https://huggingface.co/papers/2603.10420
 - **阅读来源**: HTML
@@ -1034,7 +1031,7 @@ NLP-大模型预训练、代码大模型（Code LLMs）、AI 智能体（AI Agen
 
 ============================================================
 
-### 📄 4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video
+## 📄 4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video
 
 - **链接**: https://huggingface.co/papers/2603.10125
 - **阅读来源**: HTML
@@ -1068,7 +1065,7 @@ NLP-大模型预训练、代码大模型（Code LLMs）、AI 智能体（AI Agen
 
 ============================================================
 
-### 📄 NerVE: Nonlinear Eigenspectrum Dynamics in LLM Feed-Forward Networks
+## 📄 NerVE: Nonlinear Eigenspectrum Dynamics in LLM Feed-Forward Networks
 
 - **链接**: https://huggingface.co/papers/2603.06922
 - **阅读来源**: HTML
@@ -1103,7 +1100,7 @@ NLP-大模型预训练、代码大模型（Code LLMs）、AI 智能体（AI Agen
 
 ============================================================
 
-### 📄 Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training
+## 📄 Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training
 
 - **链接**: https://huggingface.co/papers/2603.12246
 - **阅读来源**: HTML
@@ -1136,7 +1133,7 @@ NLP-大模型预训练、代码大模型（Code LLMs）、AI 智能体（AI Agen
 
 ============================================================
 
-### 📄 TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size
+## 📄 TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size
 
 - **链接**: https://huggingface.co/papers/2603.07988
 - **阅读来源**: HTML
@@ -1166,4 +1163,3 @@ NLP-大模型预训练、代码大模型（Code LLMs）、AI 智能体（AI Agen
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
