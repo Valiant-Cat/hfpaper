@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-16
 **Source URL**: https://huggingface.co/papers/date/2026-03-16
 
 ============================================================
 
-### 📄 V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration
+## 📄 V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration
 
 - **链接**: https://huggingface.co/papers/2603.13089
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning
+## 📄 MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.12266
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 Can Vision-Language Models Solve the Shell Game?
+## 📄 Can Vision-Language Models Solve the Shell Game?
 
 - **链接**: https://huggingface.co/papers/2603.08436
 - **阅读来源**: ArXiv Abs
@@ -98,7 +95,7 @@
 
 ============================================================
 
-### 📄 LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation
+## 📄 LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation
 
 - **链接**: https://huggingface.co/papers/2603.10899
 - **阅读来源**: HTML
@@ -132,7 +129,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation
+## 📄 Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation
 
 - **链接**: https://huggingface.co/papers/2603.12793
 - **阅读来源**: HTML
@@ -162,7 +159,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space
+## 📄 From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space
 
 - **链接**: https://huggingface.co/papers/2603.12648
 - **阅读来源**: HTML
@@ -193,7 +190,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 VQQA: An Agentic Approach for Video Evaluation and Quality Improvement
+## 📄 VQQA: An Agentic Approach for Video Evaluation and Quality Improvement
 
 - **链接**: https://huggingface.co/papers/2603.12310
 - **阅读来源**: HTML
@@ -223,7 +220,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 LMEB: Long-horizon Memory Embedding Benchmark
+## 📄 LMEB: Long-horizon Memory Embedding Benchmark
 
 - **链接**: https://huggingface.co/papers/2603.12572
 - **阅读来源**: HTML
@@ -255,7 +252,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 NanoVDR: Distilling a 2B Vision-Language Retriever into a 70M Text-Only Encoder for Visual Document Retrieval
+## 📄 NanoVDR: Distilling a 2B Vision-Language Retriever into a 70M Text-Only Encoder for Visual Document Retrieval
 
 - **链接**: https://huggingface.co/papers/2603.12824
 - **阅读来源**: HTML
@@ -290,7 +287,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 Multimodal OCR: Parse Anything from Documents
+## 📄 Multimodal OCR: Parse Anything from Documents
 
 - **链接**: https://huggingface.co/papers/2603.13032
 - **阅读来源**: HTML
@@ -321,7 +318,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 HybridStitch: Pixel and Timestep Level Model Stitching for Diffusion Acceleration
+## 📄 HybridStitch: Pixel and Timestep Level Model Stitching for Diffusion Acceleration
 
 - **链接**: https://huggingface.co/papers/2603.07815
 - **阅读来源**: HTML
@@ -351,7 +348,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 OmniForcing: Unleashing Real-time Joint Audio-Visual Generation
+## 📄 OmniForcing: Unleashing Real-time Joint Audio-Visual Generation
 
 - **链接**: https://huggingface.co/papers/2603.11647
 - **阅读来源**: HTML
@@ -383,7 +380,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 Detecting Intrinsic and Instrumental Self-Preservation in Autonomous Agents: The Unified Continuation-Interest Protocol
+## 📄 Detecting Intrinsic and Instrumental Self-Preservation in Autonomous Agents: The Unified Continuation-Interest Protocol
 
 - **链接**: https://huggingface.co/papers/2603.11382
 - **阅读来源**: HTML
@@ -414,7 +411,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios
+## 📄 HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios
 
 - **链接**: https://huggingface.co/papers/2603.11975
 - **阅读来源**: ArXiv Abs
@@ -442,7 +439,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 SimRecon: SimReady Compositional Scene Reconstruction from Real Videos
+## 📄 SimRecon: SimReady Compositional Scene Reconstruction from Real Videos
 
 - **链接**: https://huggingface.co/papers/2603.02133
 - **阅读来源**: HTML
@@ -472,7 +469,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 Visual-ERM: Reward Modeling for Visual Equivalence
+## 📄 Visual-ERM: Reward Modeling for Visual Equivalence
 
 - **链接**: https://huggingface.co/papers/2603.13224
 - **阅读来源**: HTML
@@ -506,7 +503,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 daVinci-Env: Open SWE Environment Synthesis at Scale
+## 📄 daVinci-Env: Open SWE Environment Synthesis at Scale
 
 - **链接**: https://huggingface.co/papers/2603.13023
 - **阅读来源**: HTML
@@ -537,7 +534,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction
+## 📄 Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction
 
 - **链接**: https://huggingface.co/papers/2603.09930
 - **阅读来源**: HTML
@@ -568,7 +565,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation
+## 📄 Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation
 
 - **链接**: https://huggingface.co/papers/2603.13131
 - **阅读来源**: HTML
@@ -604,7 +601,7 @@ NLP - 大语言模型推理加速 / 长上下文处理（LLM Inference Accelerat
 
 ============================================================
 
-### 📄 Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents
+## 📄 Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents
 
 - **链接**: https://huggingface.co/papers/2603.12634
 - **阅读来源**: HTML
@@ -635,4 +632,3 @@ NLP-大模型智能体 (LLM Agents)、复杂推理与规划、测试时计算扩
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
