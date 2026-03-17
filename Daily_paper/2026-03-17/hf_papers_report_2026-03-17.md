@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-17
 **Source URL**: https://huggingface.co/papers/date/2026-03-17
 
 ============================================================
 
-### 📄 ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer
+## 📄 ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer
 
 - **链接**: https://huggingface.co/papers/2603.15478
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 Panoramic Affordance Prediction
+## 📄 Panoramic Affordance Prediction
 
 - **链接**: https://huggingface.co/papers/2603.15558
 - **阅读来源**: ArXiv Abs
@@ -66,7 +63,7 @@
 
 ============================================================
 
-### 📄 MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos
+## 📄 MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos
 
 - **链接**: https://huggingface.co/papers/2603.14145
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@
 
 ============================================================
 
-### 📄 HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions
+## 📄 HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions
 
 - **链接**: https://huggingface.co/papers/2603.15612
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@
 
 ============================================================
 
-### 📄 Attention Residuals
+## 📄 Attention Residuals
 
 - **链接**: https://huggingface.co/papers/2603.15031
 - **阅读来源**: ArXiv Abs
@@ -158,7 +155,7 @@
 
 ============================================================
 
-### 📄 WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics
+## 📄 WebVR: Benchmarking Multimodal LLMs for WebPage Recreation from Videos via Human-Aligned Visual Rubrics
 
 - **链接**: https://huggingface.co/papers/2603.13391
 - **阅读来源**: HTML
@@ -190,7 +187,7 @@
 
 ============================================================
 
-### 📄 OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data
+## 📄 OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data
 
 - **链接**: https://huggingface.co/papers/2603.15594
 - **阅读来源**: HTML
@@ -221,7 +218,7 @@ OpenSeeker 在四个主流搜索基准测试（BrowseComp、BrowseComp-ZH、xben
 
 ============================================================
 
-### 📄 SCoCCA: Multi-modal Sparse Concept Decomposition via Canonical Correlation Analysis
+## 📄 SCoCCA: Multi-modal Sparse Concept Decomposition via Canonical Correlation Analysis
 
 - **链接**: https://huggingface.co/papers/2603.13884
 - **阅读来源**: HTML
@@ -255,7 +252,7 @@ OpenSeeker 在四个主流搜索基准测试（BrowseComp、BrowseComp-ZH、xben
 
 ============================================================
 
-### 📄 TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning
+## 📄 TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.12529
 - **阅读来源**: ArXiv Abs
@@ -284,7 +281,7 @@ NLP - 大模型推理加速 / 思维链（CoT）优化
 
 ============================================================
 
-### 📄 Efficient Document Parsing via Parallel Token Prediction
+## 📄 Efficient Document Parsing via Parallel Token Prediction
 
 - **链接**: https://huggingface.co/papers/2603.15206
 - **阅读来源**: HTML
@@ -318,7 +315,7 @@ NLP - 大模型推理加速 / 思维链（CoT）优化
 
 ============================================================
 
-### 📄 FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance
+## 📄 FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance
 
 - **链接**: https://huggingface.co/papers/2603.12146
 - **阅读来源**: ArXiv Abs
@@ -346,7 +343,7 @@ NLP - 大模型推理加速 / 思维链（CoT）优化
 
 ============================================================
 
-### 📄 Safe and Scalable Web Agent Learning via Recreated Websites
+## 📄 Safe and Scalable Web Agent Learning via Recreated Websites
 
 - **链接**: https://huggingface.co/papers/2603.10505
 - **阅读来源**: HTML
@@ -382,7 +379,7 @@ NLP - 大模型推理加速 / 思维链（CoT）优化
 
 ============================================================
 
-### 📄 GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering
+## 📄 GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering
 
 - **链接**: https://huggingface.co/papers/2603.15616
 - **阅读来源**: ArXiv Abs
@@ -411,7 +408,7 @@ NLP - 大模型推理加速 / 思维链（CoT）优化
 
 ============================================================
 
-### 📄 Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods
+## 📄 Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods
 
 - **链接**: https://huggingface.co/papers/2603.15026
 - **阅读来源**: HTML
@@ -441,7 +438,7 @@ NLP - 大模型推理加速 / 思维链（CoT）优化
 
 ============================================================
 
-### 📄 FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach
+## 📄 FineRMoE: Dimension Expansion for Finer-Grained Expert with Its Upcycling Approach
 
 - **链接**: https://huggingface.co/papers/2603.13364
 - **阅读来源**: HTML
@@ -471,7 +468,7 @@ NLP - 大模型推理加速 / 思维链（CoT）优化
 
 ============================================================
 
-### 📄 Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models
+## 📄 Supervised Fine-Tuning versus Reinforcement Learning: A Study of Post-Training Methods for Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.13985
 - **阅读来源**: HTML
@@ -506,7 +503,7 @@ NLP - 大模型推理加速 / 思维链（CoT）优化
 
 ============================================================
 
-### 📄 Understanding Reasoning in LLMs through Strategic Information Allocation under Uncertainty
+## 📄 Understanding Reasoning in LLMs through Strategic Information Allocation under Uncertainty
 
 - **链接**: https://huggingface.co/papers/2603.15500
 - **阅读来源**: HTML
@@ -537,7 +534,7 @@ NLP - 大语言模型推理 (LLM Reasoning) / 模型可解释性与后训练 (Po
 
 ============================================================
 
-### 📄 AI Can Learn Scientific Taste
+## 📄 AI Can Learn Scientific Taste
 
 - **链接**: https://huggingface.co/papers/2603.14473
 - **阅读来源**: HTML
@@ -571,7 +568,7 @@ AI for Science（AI驱动的科学研究） / NLP-大模型微调 / 强化学习
 
 ============================================================
 
-### 📄 Learning Latent Proxies for Controllable Single-Image Relighting
+## 📄 Learning Latent Proxies for Controllable Single-Image Relighting
 
 - **链接**: https://huggingface.co/papers/2603.15555
 - **阅读来源**: HTML
@@ -606,7 +603,7 @@ AI for Science（AI驱动的科学研究） / NLP-大模型微调 / 强化学习
 
 ============================================================
 
-### 📄 MoKus: Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization
+## 📄 MoKus: Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization
 
 - **链接**: https://huggingface.co/papers/2603.12743
 - **阅读来源**: HTML
@@ -639,7 +636,7 @@ AI for Science（AI驱动的科学研究） / NLP-大模型微调 / 强化学习
 
 ============================================================
 
-### 📄 EvoClaw: Evaluating AI Agents on Continuous Software Evolution
+## 📄 EvoClaw: Evaluating AI Agents on Continuous Software Evolution
 
 - **链接**: https://huggingface.co/papers/2603.13428
 - **阅读来源**: HTML
@@ -674,7 +671,7 @@ AI for Science（AI驱动的科学研究） / NLP-大模型微调 / 强化学习
 
 ============================================================
 
-### 📄 Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching
+## 📄 Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching
 
 - **链接**: https://huggingface.co/papers/2603.15016
 - **阅读来源**: HTML
@@ -703,7 +700,7 @@ AI for Science（AI驱动的科学研究） / NLP-大模型微调 / 强化学习
 
 ============================================================
 
-### 📄 Mind the Shift: Decoding Monetary Policy Stance from FOMC Statements with Large Language Models
+## 📄 Mind the Shift: Decoding Monetary Policy Stance from FOMC Statements with Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.14313
 - **阅读来源**: HTML
@@ -740,7 +737,7 @@ AI for Science（AI驱动的科学研究） / NLP-大模型微调 / 强化学习
 
 ============================================================
 
-### 📄 Mixture-of-Depths Attention
+## 📄 Mixture-of-Depths Attention
 
 - **链接**: https://huggingface.co/papers/2603.15619
 - **阅读来源**: HTML
@@ -771,7 +768,7 @@ NLP - 大语言模型架构设计与预训练
 
 ============================================================
 
-### 📄 Grounding World Simulation Models in a Real-World Metropolis
+## 📄 Grounding World Simulation Models in a Real-World Metropolis
 
 - **链接**: https://huggingface.co/papers/2603.15583
 - **阅读来源**: HTML
@@ -801,7 +798,7 @@ NLP - 大语言模型架构设计与预训练
 
 ============================================================
 
-### 📄 SNCE: Geometry-Aware Supervision for Scalable Discrete Image Generation
+## 📄 SNCE: Geometry-Aware Supervision for Scalable Discrete Image Generation
 
 - **链接**: https://huggingface.co/papers/2603.15150
 - **阅读来源**: HTML
@@ -830,7 +827,7 @@ NLP - 大语言模型架构设计与预训练
 
 ============================================================
 
-### 📄 Motivation in Large Language Models
+## 📄 Motivation in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.14347
 - **阅读来源**: HTML
@@ -864,7 +861,7 @@ NLP - 大语言模型架构设计与预训练
 
 ============================================================
 
-### 📄 Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning
+## 📄 Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.15611
 - **阅读来源**: HTML
@@ -894,4 +891,3 @@ NLP - 大语言模型架构设计与预训练
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
