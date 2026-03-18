@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-18
 **Source URL**: https://huggingface.co/papers/date/2026-03-18
 
 ============================================================
 
-### 📄 MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification
+## 📄 MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification
 
 - **链接**: https://huggingface.co/papers/2603.15726
 - **阅读来源**: ArXiv Abs
@@ -35,7 +32,7 @@
 
 ============================================================
 
-### 📄 Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds
+## 📄 Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds
 
 - **链接**: https://huggingface.co/papers/2603.16343
 - **阅读来源**: HTML
@@ -65,7 +62,7 @@
 
 ============================================================
 
-### 📄 MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation
+## 📄 MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation
 
 - **链接**: https://huggingface.co/papers/2603.16861
 - **阅读来源**: HTML
@@ -95,7 +92,7 @@
 
 ============================================================
 
-### 📄 AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents
+## 📄 AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents
 
 - **链接**: https://huggingface.co/papers/2603.14465
 - **阅读来源**: HTML
@@ -126,7 +123,7 @@ NLP-大模型智能体（LLM Agents）、强化学习-过程奖励模型（Proce
 
 ============================================================
 
-### 📄 Test-Time Strategies for More Efficient and Accurate Agentic RAG
+## 📄 Test-Time Strategies for More Efficient and Accurate Agentic RAG
 
 - **链接**: https://huggingface.co/papers/2603.12396
 - **阅读来源**: HTML
@@ -158,7 +155,7 @@ NLP - 检索增强生成 (RAG) / 大模型智能体 (Agentic LLMs) / 复杂多�
 
 ============================================================
 
-### 📄 Efficient Reasoning on the Edge
+## 📄 Efficient Reasoning on the Edge
 
 - **链接**: https://huggingface.co/papers/2603.16867
 - **阅读来源**: ArXiv Abs
@@ -186,7 +183,7 @@ NLP - 大模型边缘部署 / 大模型推理加速与优化
 
 ============================================================
 
-### 📄 Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium
+## 📄 Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium
 
 - **链接**: https://huggingface.co/papers/2603.15929
 - **阅读来源**: HTML
@@ -220,7 +217,7 @@ NLP - 大模型边缘部署 / 大模型推理加速与优化
 
 ============================================================
 
-### 📄 Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training
+## 📄 Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training
 
 - **链接**: https://huggingface.co/papers/2603.16139
 - **阅读来源**: HTML
@@ -253,7 +250,7 @@ NLP - 大模型边缘部署 / 大模型推理加速与优化
 
 ============================================================
 
-### 📄 SegviGen: Repurposing 3D Generative Model for Part Segmentation
+## 📄 SegviGen: Repurposing 3D Generative Model for Part Segmentation
 
 - **链接**: https://huggingface.co/papers/2603.16869
 - **阅读来源**: HTML
@@ -284,7 +281,7 @@ NLP - 大模型边缘部署 / 大模型推理加速与优化
 
 ============================================================
 
-### 📄 FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use
+## 📄 FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use
 
 - **链接**: https://huggingface.co/papers/2603.08262
 - **阅读来源**: HTML
@@ -314,7 +311,7 @@ NLP-大模型智能体 (LLM Agents) / 金融人工智能 (AI for Finance) / 工�
 
 ============================================================
 
-### 📄 InCoder-32B: Code Foundation Model for Industrial Scenarios
+## 📄 InCoder-32B: Code Foundation Model for Industrial Scenarios
 
 - **链接**: https://huggingface.co/papers/2603.16790
 - **阅读来源**: HTML
@@ -344,7 +341,7 @@ NLP-大语言模型、代码智能（工业级代码生成与优化）
 
 ============================================================
 
-### 📄 OneWorld: Taming Scene Generation with 3D Unified Representation Autoencoder
+## 📄 OneWorld: Taming Scene Generation with 3D Unified Representation Autoencoder
 
 - **链接**: https://huggingface.co/papers/2603.16099
 - **阅读来源**: HTML
@@ -374,7 +371,7 @@ NLP-大语言模型、代码智能（工业级代码生成与优化）
 
 ============================================================
 
-### 📄 Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding
+## 📄 Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding
 
 - **链接**: https://huggingface.co/papers/2603.13366
 - **阅读来源**: HTML
@@ -405,7 +402,7 @@ NLP-大语言模型、代码智能（工业级代码生成与优化）
 
 ============================================================
 
-### 📄 Online Experiential Learning for Language Models
+## 📄 Online Experiential Learning for Language Models
 
 - **链接**: https://huggingface.co/papers/2603.16856
 - **阅读来源**: HTML
@@ -439,7 +436,7 @@ NLP-大语言模型、代码智能（工业级代码生成与优化）
 
 ============================================================
 
-### 📄 SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?
+## 📄 SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?
 
 - **链接**: https://huggingface.co/papers/2603.15401
 - **阅读来源**: HTML
@@ -470,7 +467,7 @@ NLP-大语言模型、代码智能（工业级代码生成与优化）
 
 ============================================================
 
-### 📄 Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context
+## 📄 Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context
 
 - **链接**: https://huggingface.co/papers/2603.15653
 - **阅读来源**: HTML
@@ -506,7 +503,7 @@ NLP - 大语言模型（LLM）长文本处理与智能体推理
 
 ============================================================
 
-### 📄 Qianfan-OCR: A Unified End-to-End Model for Document Intelligence
+## 📄 Qianfan-OCR: A Unified End-to-End Model for Document Intelligence
 
 - **链接**: https://huggingface.co/papers/2603.13398
 - **阅读来源**: HTML
@@ -538,7 +535,7 @@ NLP - 大语言模型（LLM）长文本处理与智能体推理
 
 ============================================================
 
-### 📄 SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models
+## 📄 SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models
 
 - **链接**: https://huggingface.co/papers/2603.16859
 - **阅读来源**: HTML
@@ -569,7 +566,7 @@ NLP - 大语言模型（LLM）长文本处理与智能体推理
 
 ============================================================
 
-### 📄 From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation
+## 📄 From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation
 
 - **链接**: https://huggingface.co/papers/2603.15600
 - **阅读来源**: ArXiv Abs
@@ -599,7 +596,7 @@ NLP - 大语言模型（LLM）长文本处理与智能体推理
 
 ============================================================
 
-### 📄 Anticipatory Planning for Multimodal AI Agents
+## 📄 Anticipatory Planning for Multimodal AI Agents
 
 - **链接**: https://huggingface.co/papers/2603.16777
 - **阅读来源**: HTML
@@ -632,7 +629,7 @@ NLP - 大语言模型（LLM）长文本处理与智能体推理
 
 ============================================================
 
-### 📄 SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation
+## 📄 SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation
 
 - **链接**: https://huggingface.co/papers/2603.14152
 - **阅读来源**: HTML
@@ -664,7 +661,7 @@ NLP - 大语言模型（LLM）长文本处理与智能体推理
 
 ============================================================
 
-### 📄 FlashSampling: Fast and Memory-Efficient Exact Sampling
+## 📄 FlashSampling: Fast and Memory-Efficient Exact Sampling
 
 - **链接**: https://huggingface.co/papers/2603.15854
 - **阅读来源**: HTML
@@ -695,7 +692,7 @@ NLP - 大语言模型推理（LLM Inference）与文本生成（Autoregressive D
 
 ============================================================
 
-### 📄 GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent
+## 📄 GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent
 
 - **链接**: https://huggingface.co/papers/2603.13875
 - **阅读来源**: HTML
@@ -728,7 +725,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation
+## 📄 Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation
 
 - **链接**: https://huggingface.co/papers/2603.16669
 - **阅读来源**: HTML
@@ -757,7 +754,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 Polyglot-Lion: Efficient Multilingual ASR for Singapore via Balanced Fine-Tuning of Qwen3-ASR
+## 📄 Polyglot-Lion: Efficient Multilingual ASR for Singapore via Balanced Fine-Tuning of Qwen3-ASR
 
 - **链接**: https://huggingface.co/papers/2603.16184
 - **阅读来源**: HTML
@@ -788,7 +785,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 CCTU: A Benchmark for Tool Use under Complex Constraints
+## 📄 CCTU: A Benchmark for Tool Use under Complex Constraints
 
 - **链接**: https://huggingface.co/papers/2603.15309
 - **阅读来源**: HTML
@@ -819,7 +816,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning
+## 📄 Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.16189
 - **阅读来源**: HTML
@@ -848,7 +845,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 ViT-AdaLA: Adapting Vision Transformers with Linear Attention
+## 📄 ViT-AdaLA: Adapting Vision Transformers with Linear Attention
 
 - **链接**: https://huggingface.co/papers/2603.16063
 - **阅读来源**: HTML
@@ -878,7 +875,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 VAREX: A Benchmark for Multi-Modal Structured Extraction from Documents
+## 📄 VAREX: A Benchmark for Multi-Modal Structured Extraction from Documents
 
 - **链接**: https://huggingface.co/papers/2603.15118
 - **阅读来源**: HTML
@@ -910,7 +907,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 Demystifing Video Reasoning
+## 📄 Demystifing Video Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.16870
 - **阅读来源**: ArXiv Abs
@@ -938,7 +935,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 One-Eval: An Agentic System for Automated and Traceable LLM Evaluation
+## 📄 One-Eval: An Agentic System for Automated and Traceable LLM Evaluation
 
 - **链接**: https://huggingface.co/papers/2603.09821
 - **阅读来源**: HTML
@@ -975,7 +972,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 Measuring Primitive Accumulation: An Information-Theoretic Approach to Capitalist Enclosure in PIK2, Indonesia
+## 📄 Measuring Primitive Accumulation: An Information-Theoretic Approach to Capitalist Enclosure in PIK2, Indonesia
 
 - **链接**: https://huggingface.co/papers/2603.13715
 - **阅读来源**: HTML
@@ -1006,7 +1003,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas
+## 📄 TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas
 
 - **链接**: https://huggingface.co/papers/2603.16448
 - **阅读来源**: HTML
@@ -1037,7 +1034,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM
+## 📄 M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM
 
 - **链接**: https://huggingface.co/papers/2603.16844
 - **阅读来源**: HTML
@@ -1068,7 +1065,7 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 ============================================================
 
-### 📄 WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation
+## 📄 WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation
 
 - **链接**: https://huggingface.co/papers/2603.16871
 - **阅读来源**: HTML
@@ -1098,4 +1095,3 @@ NLP - 大语言模型推理优化、长上下文建模 (Long Context Modeling)�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
