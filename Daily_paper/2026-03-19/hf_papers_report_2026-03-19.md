@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-19
 **Source URL**: https://huggingface.co/papers/date/2026-03-19
 
 ============================================================
 
-### 📄 Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models
+## 📄 Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2603.15618
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents
+## 📄 AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents
 
 - **链接**: https://huggingface.co/papers/2603.16496
 - **阅读来源**: HTML
@@ -68,7 +65,7 @@ NLP-大模型智能体 (LLM Agents) / 长期对话记忆系统 (Long-Horizon Dia
 
 ============================================================
 
-### 📄 PRISM: Demystifying Retention and Interaction in Mid-Training
+## 📄 PRISM: Demystifying Retention and Interaction in Mid-Training
 
 - **链接**: https://huggingface.co/papers/2603.17074
 - **阅读来源**: ArXiv Abs
@@ -100,7 +97,7 @@ NLP - 大模型中间阶段训练（Mid-Training）与强化学习（RL）微调
 
 ============================================================
 
-### 📄 LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition
+## 📄 LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition
 
 - **链接**: https://huggingface.co/papers/2603.17965
 - **阅读来源**: HTML
@@ -134,7 +131,7 @@ NLP - 大模型中间阶段训练（Mid-Training）与强化学习（RL）微调
 
 ============================================================
 
-### 📄 BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs
+## 📄 BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs
 
 - **链接**: https://huggingface.co/papers/2603.16557
 - **阅读来源**: HTML
@@ -165,7 +162,7 @@ NLP-大模型评测与个性化（Large Language Model Personalization & Evaluat
 
 ============================================================
 
-### 📄 Efficient Exploration at Scale
+## 📄 Efficient Exploration at Scale
 
 - **链接**: https://huggingface.co/papers/2603.17378
 - **阅读来源**: HTML
@@ -200,7 +197,7 @@ NLP-大模型评测与个性化（Large Language Model Personalization & Evaluat
 
 ============================================================
 
-### 📄 Stereo World Model: Camera-Guided Stereo Video Generation
+## 📄 Stereo World Model: Camera-Guided Stereo Video Generation
 
 - **链接**: https://huggingface.co/papers/2603.17375
 - **阅读来源**: HTML
@@ -231,7 +228,7 @@ NLP-大模型评测与个性化（Large Language Model Personalization & Evaluat
 
 ============================================================
 
-### 📄 RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference
+## 📄 RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference
 
 - **链接**: https://huggingface.co/papers/2603.17891
 - **阅读来源**: HTML
@@ -266,7 +263,7 @@ NLP-大模型评测与个性化（Large Language Model Personalization & Evaluat
 
 ============================================================
 
-### 📄 Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models
+## 📄 Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.17541
 - **阅读来源**: HTML
@@ -301,7 +298,7 @@ NLP-大模型评测与个性化（Large Language Model Personalization & Evaluat
 
 ============================================================
 
-### 📄 Complementary Reinforcement Learning
+## 📄 Complementary Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.17621
 - **阅读来源**: HTML
@@ -330,7 +327,7 @@ NLP-大模型评测与个性化（Large Language Model Personalization & Evaluat
 
 ============================================================
 
-### 📄 MosaicMem: Hybrid Spatial Memory for Controllable Video World Models
+## 📄 MosaicMem: Hybrid Spatial Memory for Controllable Video World Models
 
 - **链接**: https://huggingface.co/papers/2603.17117
 - **阅读来源**: HTML
@@ -363,7 +360,7 @@ NLP-大模型评测与个性化（Large Language Model Personalization & Evaluat
 
 ============================================================
 
-### 📄 Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing
+## 📄 Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing
 
 - **链接**: https://huggingface.co/papers/2603.17942
 - **阅读来源**: HTML
@@ -394,7 +391,7 @@ NLP - 大语言模型推理加速 / 推测解码（LLM Inference Acceleration / 
 
 ============================================================
 
-### 📄 When AI Navigates the Fog of War
+## 📄 When AI Navigates the Fog of War
 
 - **链接**: https://huggingface.co/papers/2603.16642
 - **阅读来源**: HTML
@@ -424,7 +421,7 @@ NLP - 大语言模型推理加速 / 推测解码（LLM Inference Acceleration / 
 
 ============================================================
 
-### 📄 Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting
+## 📄 Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting
 
 - **链接**: https://huggingface.co/papers/2603.16542
 - **阅读来源**: HTML
@@ -458,7 +455,7 @@ NLP - 大语言模型推理加速 / 推测解码（LLM Inference Acceleration / 
 
 ============================================================
 
-### 📄 ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models
+## 📄 ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.13033
 - **阅读来源**: HTML
@@ -492,7 +489,7 @@ NLP - 大语言模型推理加速 / 推测解码（LLM Inference Acceleration / 
 
 ============================================================
 
-### 📄 LoST: Level of Semantics Tokenization for 3D Shapes
+## 📄 LoST: Level of Semantics Tokenization for 3D Shapes
 
 - **链接**: https://huggingface.co/papers/2603.17995
 - **阅读来源**: HTML
@@ -524,7 +521,7 @@ NLP - 大语言模型推理加速 / 推测解码（LLM Inference Acceleration / 
 
 ============================================================
 
-### 📄 Unified Spatio-Temporal Token Scoring for Efficient Video VLMs
+## 📄 Unified Spatio-Temporal Token Scoring for Efficient Video VLMs
 
 - **链接**: https://huggingface.co/papers/2603.18004
 - **阅读来源**: ArXiv Abs
@@ -555,7 +552,7 @@ NLP - 大语言模型推理加速 / 推测解码（LLM Inference Acceleration / 
 
 ============================================================
 
-### 📄 VideoAtlas: Navigating Long-Form Video in Logarithmic Compute
+## 📄 VideoAtlas: Navigating Long-Form Video in Logarithmic Compute
 
 - **链接**: https://huggingface.co/papers/2603.17948
 - **阅读来源**: HTML
@@ -585,7 +582,7 @@ NLP - 大语言模型推理加速 / 推测解码（LLM Inference Acceleration / 
 
 ============================================================
 
-### 📄 MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild
+## 📄 MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild
 
 - **链接**: https://huggingface.co/papers/2603.17187
 - **阅读来源**: HTML
@@ -618,7 +615,7 @@ NLP - 大语言模型推理加速 / 推测解码（LLM Inference Acceleration / 
 
 ============================================================
 
-### 📄 AI Scientist via Synthetic Task Scaling
+## 📄 AI Scientist via Synthetic Task Scaling
 
 - **链接**: https://huggingface.co/papers/2603.17216
 - **阅读来源**: HTML
@@ -647,4 +644,3 @@ NLP - 大语言模型推理加速 / 推测解码（LLM Inference Acceleration / 
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
