@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-21
 **Source URL**: https://huggingface.co/papers/date/2026-03-21
 
 ============================================================
 
-### 📄 Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer
+## 📄 Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer
 
 - **链接**: https://huggingface.co/papers/2603.19227
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding
+## 📄 Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding
 
 - **链接**: https://huggingface.co/papers/2603.19235
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 Prompt-Free Universal Region Proposal Network
+## 📄 Prompt-Free Universal Region Proposal Network
 
 - **链接**: https://huggingface.co/papers/2603.17554
 - **阅读来源**: HTML
@@ -101,7 +98,7 @@
 
 ============================================================
 
-### 📄 MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning
+## 📄 MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.16929
 - **阅读来源**: HTML
@@ -135,7 +132,7 @@
 
 ============================================================
 
-### 📄 SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing
+## 📄 SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing
 
 - **链接**: https://huggingface.co/papers/2603.19228
 - **阅读来源**: HTML
@@ -166,7 +163,7 @@
 
 ============================================================
 
-### 📄 What Really Controls Temporal Reasoning in Large Language Models: Tokenisation or Representation of Time?
+## 📄 What Really Controls Temporal Reasoning in Large Language Models: Tokenisation or Representation of Time?
 
 - **链接**: https://huggingface.co/papers/2603.19017
 - **阅读来源**: ArXiv Abs
@@ -194,7 +191,7 @@
 
 ============================================================
 
-### 📄 ReactMotion: Generating Reactive Listener Motions from Speaker Utterance
+## 📄 ReactMotion: Generating Reactive Listener Motions from Speaker Utterance
 
 - **链接**: https://huggingface.co/papers/2603.15083
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@
 
 ============================================================
 
-### 📄 VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining
+## 📄 VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining
 
 - **链接**: https://huggingface.co/papers/2603.15030
 - **阅读来源**: HTML
@@ -258,7 +255,7 @@
 
 ============================================================
 
-### 📄 LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs
+## 📄 LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs
 
 - **链接**: https://huggingface.co/papers/2603.19217
 - **阅读来源**: HTML
@@ -289,7 +286,7 @@
 
 ============================================================
 
-### 📄 PARSA-Bench: A Comprehensive Persian Audio-Language Model Benchmark
+## 📄 PARSA-Bench: A Comprehensive Persian Audio-Language Model Benchmark
 
 - **链接**: https://huggingface.co/papers/2603.14456
 - **阅读来源**: HTML
@@ -321,7 +318,7 @@
 
 ============================================================
 
-### 📄 FASTER: Rethinking Real-Time Flow VLAs
+## 📄 FASTER: Rethinking Real-Time Flow VLAs
 
 - **链接**: https://huggingface.co/papers/2603.19199
 - **阅读来源**: HTML
@@ -349,7 +346,7 @@
 
 ============================================================
 
-### 📄 AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents
+## 📄 AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents
 
 - **链接**: https://huggingface.co/papers/2603.18429
 - **阅读来源**: HTML
@@ -381,7 +378,7 @@
 
 ============================================================
 
-### 📄 Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation
+## 📄 Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2603.19220
 - **阅读来源**: ArXiv Abs
@@ -411,7 +408,7 @@
 
 ============================================================
 
-### 📄 Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding
+## 📄 Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding
 
 - **链接**: https://huggingface.co/papers/2603.18472
 - **阅读来源**: HTML
@@ -441,7 +438,7 @@
 
 ============================================================
 
-### 📄 EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing
+## 📄 EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing
 
 - **链接**: https://huggingface.co/papers/2603.19224
 - **阅读来源**: HTML
@@ -475,7 +472,7 @@
 
 ============================================================
 
-### 📄 3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model
+## 📄 3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model
 
 - **链接**: https://huggingface.co/papers/2603.18524
 - **阅读来源**: HTML
@@ -505,7 +502,7 @@
 
 ============================================================
 
-### 📄 Memento-Skills: Let Agents Design Agents
+## 📄 Memento-Skills: Let Agents Design Agents
 
 - **链接**: https://huggingface.co/papers/2603.18743
 - **阅读来源**: ArXiv Abs
@@ -533,7 +530,7 @@
 
 ============================================================
 
-### 📄 Tinted Frames: Question Framing Blinds Vision-Language Models
+## 📄 Tinted Frames: Question Framing Blinds Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.19203
 - **阅读来源**: HTML
@@ -564,7 +561,7 @@
 
 ============================================================
 
-### 📄 Mending the Holes: Mitigating Reward Hacking in Reinforcement Learning for Multilingual Translation
+## 📄 Mending the Holes: Mitigating Reward Hacking in Reinforcement Learning for Multilingual Translation
 
 - **链接**: https://huggingface.co/papers/2603.13045
 - **阅读来源**: HTML
@@ -595,7 +592,7 @@
 
 ============================================================
 
-### 📄 Reasoning over mathematical objects: on-policy reward modeling and test time aggregation
+## 📄 Reasoning over mathematical objects: on-policy reward modeling and test time aggregation
 
 - **链接**: https://huggingface.co/papers/2603.18886
 - **阅读来源**: ArXiv Abs
@@ -625,7 +622,7 @@
 
 ============================================================
 
-### 📄 OSM-based Domain Adaptation for Remote Sensing VLMs
+## 📄 OSM-based Domain Adaptation for Remote Sensing VLMs
 
 - **链接**: https://huggingface.co/papers/2603.11804
 - **阅读来源**: HTML
@@ -655,7 +652,7 @@
 
 ============================================================
 
-### 📄 F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World
+## 📄 F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World
 
 - **链接**: https://huggingface.co/papers/2603.19223
 - **阅读来源**: HTML
@@ -683,7 +680,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 Matryoshka Gaussian Splatting
+## 📄 Matryoshka Gaussian Splatting
 
 - **链接**: https://huggingface.co/papers/2603.19234
 - **阅读来源**: HTML
@@ -715,7 +712,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction
+## 📄 VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction
 
 - **链接**: https://huggingface.co/papers/2603.13964
 - **阅读来源**: HTML
@@ -748,7 +745,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 COT-FM: Cluster-wise Optimal Transport Flow Matching
+## 📄 COT-FM: Cluster-wise Optimal Transport Flow Matching
 
 - **链接**: https://huggingface.co/papers/2603.13395
 - **阅读来源**: HTML
@@ -781,7 +778,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens
+## 📄 Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens
 
 - **链接**: https://huggingface.co/papers/2603.19232
 - **阅读来源**: HTML
@@ -814,7 +811,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction
+## 📄 MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction
 
 - **链接**: https://huggingface.co/papers/2603.19231
 - **阅读来源**: HTML
@@ -845,7 +842,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 MOSS-TTS Technical Report
+## 📄 MOSS-TTS Technical Report
 
 - **链接**: https://huggingface.co/papers/2603.18090
 - **阅读来源**: ArXiv Abs
@@ -873,7 +870,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents
+## 📄 ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents
 
 - **链接**: https://huggingface.co/papers/2603.18815
 - **阅读来源**: HTML
@@ -903,7 +900,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 SimulU: Training-free Policy for Long-form Simultaneous Speech-to-Speech Translation
+## 📄 SimulU: Training-free Policy for Long-form Simultaneous Speech-to-Speech Translation
 
 - **链接**: https://huggingface.co/papers/2603.16924
 - **阅读来源**: ArXiv Abs
@@ -932,7 +929,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising
+## 📄 DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising
 
 - **链接**: https://huggingface.co/papers/2603.19216
 - **阅读来源**: ArXiv Abs
@@ -960,7 +957,7 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 ============================================================
 
-### 📄 Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models
+## 📄 Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.18002
 - **阅读来源**: HTML
@@ -988,4 +985,3 @@ F2LLM-v2 家族在多语言文本嵌入评估上表现卓越：其最大规模�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
