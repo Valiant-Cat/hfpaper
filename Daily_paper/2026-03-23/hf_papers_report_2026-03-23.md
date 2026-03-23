@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-23
 **Source URL**: https://huggingface.co/papers/date/2026-03-23
 
 ============================================================
 
-### 📄 Hyperagents
+## 📄 Hyperagents
 
 - **链接**: https://huggingface.co/papers/2603.19461
 - **阅读来源**: ArXiv Abs
@@ -36,7 +33,7 @@
 
 ============================================================
 
-### 📄 How Well Does Generative Recommendation Generalize?
+## 📄 How Well Does Generative Recommendation Generalize?
 
 - **链接**: https://huggingface.co/papers/2603.19809
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation
+## 📄 LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation
 
 - **链接**: https://huggingface.co/papers/2603.20192
 - **阅读来源**: HTML
@@ -102,7 +99,7 @@
 
 ============================================================
 
-### 📄 FlowScene: Style-Consistent Indoor Scene Generation with Multimodal Graph Rectified Flow
+## 📄 FlowScene: Style-Consistent Indoor Scene Generation with Multimodal Graph Rectified Flow
 
 - **链接**: https://huggingface.co/papers/2603.19598
 - **阅读来源**: HTML
@@ -134,7 +131,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning
+## 📄 HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.17024
 - **阅读来源**: HTML
@@ -169,7 +166,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD
+## 📄 Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD
 
 - **链接**: https://huggingface.co/papers/2603.20155
 - **阅读来源**: ArXiv Abs
@@ -197,7 +194,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 A Subgoal-driven Framework for Improving Long-Horizon LLM Agents
+## 📄 A Subgoal-driven Framework for Improving Long-Horizon LLM Agents
 
 - **链接**: https://huggingface.co/papers/2603.19685
 - **阅读来源**: HTML
@@ -233,7 +230,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation
+## 📄 TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation
 
 - **链接**: https://huggingface.co/papers/2603.19039
 - **阅读来源**: ArXiv Abs
@@ -261,7 +258,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 LoopRPT: Reinforcement Pre-Training for Looped Language Models
+## 📄 LoopRPT: Reinforcement Pre-Training for Looped Language Models
 
 - **链接**: https://huggingface.co/papers/2603.19714
 - **阅读来源**: ArXiv Abs
@@ -290,7 +287,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 The Y-Combinator for LLMs: Solving Long-Context Rot with λ-Calculus
+## 📄 The Y-Combinator for LLMs: Solving Long-Context Rot with λ-Calculus
 
 - **链接**: https://huggingface.co/papers/2603.20105
 - **阅读来源**: HTML
@@ -322,7 +319,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models
+## 📄 Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models
 
 - **链接**: https://huggingface.co/papers/2603.17051
 - **阅读来源**: ArXiv Abs
@@ -351,7 +348,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 WorldAgents: Can Foundation Image Models be Agents for 3D World Models?
+## 📄 WorldAgents: Can Foundation Image Models be Agents for 3D World Models?
 
 - **链接**: https://huggingface.co/papers/2603.19708
 - **阅读来源**: HTML
@@ -382,7 +379,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models
+## 📄 ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.19466
 - **阅读来源**: HTML
@@ -412,7 +409,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection
+## 📄 BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection
 
 - **链接**: https://huggingface.co/papers/2603.19635
 - **阅读来源**: HTML
@@ -444,7 +441,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 EgoForge: Goal-Directed Egocentric World Simulator
+## 📄 EgoForge: Goal-Directed Egocentric World Simulator
 
 - **链接**: https://huggingface.co/papers/2603.20169
 - **阅读来源**: ArXiv Abs
@@ -472,7 +469,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas
+## 📄 Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas
 
 - **链接**: https://huggingface.co/papers/2603.19453
 - **阅读来源**: HTML
@@ -503,7 +500,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality
+## 📄 Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality
 
 - **链接**: https://huggingface.co/papers/2603.17512
 - **阅读来源**: HTML
@@ -535,7 +532,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science
+## 📄 AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science
 
 - **链接**: https://huggingface.co/papers/2603.19005
 - **阅读来源**: HTML
@@ -565,7 +562,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 Teaching an Agent to Sketch One Part at a Time
+## 📄 Teaching an Agent to Sketch One Part at a Time
 
 - **链接**: https://huggingface.co/papers/2603.19500
 - **阅读来源**: HTML
@@ -595,7 +592,7 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 ============================================================
 
-### 📄 HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering
+## 📄 HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering
 
 - **链接**: https://huggingface.co/papers/2603.18558
 - **阅读来源**: HTML
@@ -626,4 +623,3 @@ FlowScene 在公开的大型数据集 **SG-FRONT**（包含卧室、餐厅、客
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
