@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-24
 **Source URL**: https://huggingface.co/papers/date/2026-03-24
 
 ============================================================
 
-### 📄 Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model
+## 📄 Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model
 
 - **链接**: https://huggingface.co/papers/2603.21986
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 The Universal Normal Embedding
+## 📄 The Universal Normal Embedding
 
 - **链接**: https://huggingface.co/papers/2603.21786
 - **阅读来源**: HTML
@@ -72,7 +69,7 @@
 
 ============================================================
 
-### 📄 Understanding Behavior Cloning with Action Quantization
+## 📄 Understanding Behavior Cloning with Action Quantization
 
 - **链接**: https://huggingface.co/papers/2603.20538
 - **阅读来源**: HTML
@@ -103,7 +100,7 @@
 
 ============================================================
 
-### 📄 PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost
+## 📄 PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost
 
 - **链接**: https://huggingface.co/papers/2603.21383
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@
 
 ============================================================
 
-### 📄 In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing
+## 📄 In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing
 
 - **链接**: https://huggingface.co/papers/2603.19456
 - **阅读来源**: HTML
@@ -172,7 +169,7 @@
 
 ============================================================
 
-### 📄 Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
+## 📄 Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
 
 - **链接**: https://huggingface.co/papers/2603.21944
 - **阅读来源**: HTML
@@ -206,7 +203,7 @@
 
 ============================================================
 
-### 📄 Generalized Discrete Diffusion from Snapshots
+## 📄 Generalized Discrete Diffusion from Snapshots
 
 - **链接**: https://huggingface.co/papers/2603.21342
 - **阅读来源**: HTML
@@ -239,7 +236,7 @@
 
 ============================================================
 
-### 📄 Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation
+## 📄 Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation
 
 - **链接**: https://huggingface.co/papers/2603.18795
 - **阅读来源**: HTML
@@ -272,7 +269,7 @@
 
 ============================================================
 
-### 📄 Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models
+## 📄 Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.18118
 - **阅读来源**: HTML
@@ -302,7 +299,7 @@
 
 ============================================================
 
-### 📄 RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models
+## 📄 RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2603.21341
 - **阅读来源**: HTML
@@ -332,7 +329,7 @@
 
 ============================================================
 
-### 📄 Semantic Audio-Visual Navigation in Continuous Environments
+## 📄 Semantic Audio-Visual Navigation in Continuous Environments
 
 - **链接**: https://huggingface.co/papers/2603.19660
 - **阅读来源**: HTML
@@ -361,7 +358,7 @@
 
 ============================================================
 
-### 📄 mSFT: Addressing Dataset Mixtures Overfiting Heterogeneously in Multi-task SFT
+## 📄 mSFT: Addressing Dataset Mixtures Overfiting Heterogeneously in Multi-task SFT
 
 - **链接**: https://huggingface.co/papers/2603.21606
 - **阅读来源**: HTML
@@ -392,7 +389,7 @@
 
 ============================================================
 
-### 📄 On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation
+## 📄 On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation
 
 - **链接**: https://huggingface.co/papers/2603.22117
 - **阅读来源**: HTML
@@ -421,7 +418,7 @@ NLP-大模型微调、强化学习（RLHF/RLVR）、大模型复杂逻辑推理�
 
 ============================================================
 
-### 📄 Agentic AI and the next intelligence explosion
+## 📄 Agentic AI and the next intelligence explosion
 
 - **链接**: https://huggingface.co/papers/2603.20639
 - **阅读来源**: HTML
@@ -452,7 +449,7 @@ NLP-大模型微调、强化学习（RLHF/RLVR）、大模型复杂逻辑推理�
 
 ============================================================
 
-### 📄 Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe
+## 📄 Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe
 
 - **链接**: https://huggingface.co/papers/2603.21972
 - **阅读来源**: HTML
@@ -482,7 +479,7 @@ NLP-大模型微调、强化学习（RLHF/RLVR）、大模型复杂逻辑推理�
 
 ============================================================
 
-### 📄 ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization
+## 📄 ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization
 
 - **链接**: https://huggingface.co/papers/2603.09290
 - **阅读来源**: HTML
@@ -516,7 +513,7 @@ NLP-大模型微调、强化学习（RLHF/RLVR）、大模型复杂逻辑推理�
 
 ============================================================
 
-### 📄 MemDLM: Memory-Enhanced DLM Training
+## 📄 MemDLM: Memory-Enhanced DLM Training
 
 - **链接**: https://huggingface.co/papers/2603.22241
 - **阅读来源**: HTML
@@ -549,7 +546,7 @@ NLP-大模型微调、强化学习（RLHF/RLVR）、大模型复杂逻辑推理�
 
 ============================================================
 
-### 📄 Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models
+## 📄 Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models
 
 - **链接**: https://huggingface.co/papers/2603.22212
 - **阅读来源**: HTML
@@ -580,7 +577,7 @@ NLP-大模型微调、强化学习（RLHF/RLVR）、大模型复杂逻辑推理�
 
 ============================================================
 
-### 📄 VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding
+## 📄 VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding
 
 - **链接**: https://huggingface.co/papers/2603.22285
 - **阅读来源**: HTML
@@ -614,7 +611,7 @@ NLP-大模型微调、强化学习（RLHF/RLVR）、大模型复杂逻辑推理�
 
 ============================================================
 
-### 📄 WorldCache: Content-Aware Caching for Accelerated Video World Models
+## 📄 WorldCache: Content-Aware Caching for Accelerated Video World Models
 
 - **链接**: https://huggingface.co/papers/2603.22286
 - **阅读来源**: HTML
@@ -651,7 +648,7 @@ NLP-大模型微调、强化学习（RLHF/RLVR）、大模型复杂逻辑推理�
 
 ============================================================
 
-### 📄 LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning
+## 📄 LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2603.21065
 - **阅读来源**: HTML
@@ -683,7 +680,7 @@ NLP-大模型微调、强化学习（RLHF/RLVR）、大模型复杂逻辑推理�
 
 ============================================================
 
-### 📄 SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning
+## 📄 SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.22057
 - **阅读来源**: HTML
@@ -720,7 +717,7 @@ SpatialBoost 在需要 3D 感知和通用视觉能力的广泛基准测试中均
 
 ============================================================
 
-### 📄 Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels
+## 📄 Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels
 
 - **链接**: https://huggingface.co/papers/2603.22276
 - **阅读来源**: HTML
@@ -750,7 +747,7 @@ NLP与多模态大模型微调（大模型参数高效微调 / PEFT / DoRA机制
 
 ============================================================
 
-### 📄 Manifold-Aware Exploration for Reinforcement Learning in Video Generation
+## 📄 Manifold-Aware Exploration for Reinforcement Learning in Video Generation
 
 - **链接**: https://huggingface.co/papers/2603.21872
 - **阅读来源**: HTML
@@ -784,7 +781,7 @@ NLP与多模态大模型微调（大模型参数高效微调 / PEFT / DoRA机制
 
 ============================================================
 
-### 📄 AnimalCLAP: Taxonomy-Aware Language-Audio Pretraining for Species Recognition and Trait Inference
+## 📄 AnimalCLAP: Taxonomy-Aware Language-Audio Pretraining for Species Recognition and Trait Inference
 
 - **链接**: https://huggingface.co/papers/2603.22053
 - **阅读来源**: HTML
@@ -816,7 +813,7 @@ NLP与多模态大模型微调（大模型参数高效微调 / PEFT / DoRA机制
 
 ============================================================
 
-### 📄 Effective Strategies for Asynchronous Software Engineering Agents
+## 📄 Effective Strategies for Asynchronous Software Engineering Agents
 
 - **链接**: https://huggingface.co/papers/2603.21489
 - **阅读来源**: HTML
@@ -848,4 +845,3 @@ NLP与多模态大模型微调（大模型参数高效微调 / PEFT / DoRA机制
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
