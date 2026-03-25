@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-25
 **Source URL**: https://huggingface.co/papers/date/2026-03-25
 
 ============================================================
 
-### 📄 Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing
+## 📄 Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing
 
 - **链接**: https://huggingface.co/papers/2603.12254
 - **阅读来源**: HTML
@@ -42,7 +39,7 @@
 
 ============================================================
 
-### 📄 SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning
+## 📄 SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning
 
 - **链接**: https://huggingface.co/papers/2603.23483
 - **阅读来源**: HTML
@@ -76,7 +73,7 @@
 
 ============================================================
 
-### 📄 PEARL: Personalized Streaming Video Understanding Model
+## 📄 PEARL: Personalized Streaming Video Understanding Model
 
 - **链接**: https://huggingface.co/papers/2603.20422
 - **阅读来源**: HTML
@@ -108,7 +105,7 @@
 
 ============================================================
 
-### 📄 ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model
+## 📄 ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model
 
 - **链接**: https://huggingface.co/papers/2603.22281
 - **阅读来源**: HTML
@@ -139,7 +136,7 @@
 
 ============================================================
 
-### 📄 UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation
+## 📄 UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation
 
 - **链接**: https://huggingface.co/papers/2603.23500
 - **阅读来源**: HTML
@@ -170,7 +167,7 @@
 
 ============================================================
 
-### 📄 SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM
+## 📄 SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM
 
 - **链接**: https://huggingface.co/papers/2603.23386
 - **阅读来源**: ArXiv Abs
@@ -198,7 +195,7 @@
 
 ============================================================
 
-### 📄 DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models
+## 📄 DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2603.23499
 - **阅读来源**: HTML
@@ -228,7 +225,7 @@
 
 ============================================================
 
-### 📄 VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models
+## 📄 VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2603.22003
 - **阅读来源**: HTML
@@ -262,7 +259,7 @@
 
 ============================================================
 
-### 📄 TrajLoom: Dense Future Trajectory Generation from Video
+## 📄 TrajLoom: Dense Future Trajectory Generation from Video
 
 - **链接**: https://huggingface.co/papers/2603.22606
 - **阅读来源**: HTML
@@ -293,7 +290,7 @@
 
 ============================================================
 
-### 📄 Regulating AI Agents
+## 📄 Regulating AI Agents
 
 - **链接**: https://huggingface.co/papers/2603.23471
 - **阅读来源**: ArXiv Abs
@@ -320,7 +317,7 @@
 
 ============================================================
 
-### 📄 VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs
+## 📄 VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs
 
 - **链接**: https://huggingface.co/papers/2603.23481
 - **阅读来源**: ArXiv Abs
@@ -350,7 +347,7 @@
 
 ============================================================
 
-### 📄 Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought
+## 📄 Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought
 
 - **链接**: https://huggingface.co/papers/2603.22847
 - **阅读来源**: HTML
@@ -383,7 +380,7 @@
 
 ============================================================
 
-### 📄 RealMaster: Lifting Rendered Scenes into Photorealistic Video
+## 📄 RealMaster: Lifting Rendered Scenes into Photorealistic Video
 
 - **链接**: https://huggingface.co/papers/2603.23462
 - **阅读来源**: HTML
@@ -417,7 +414,7 @@
 
 ============================================================
 
-### 📄 Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models
+## 📄 Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.22042
 - **阅读来源**: HTML
@@ -448,7 +445,7 @@
 
 ============================================================
 
-### 📄 AgentSLR: Automating Systematic Literature Reviews in Epidemiology with Agentic AI
+## 📄 AgentSLR: Automating Systematic Literature Reviews in Epidemiology with Agentic AI
 
 - **链接**: https://huggingface.co/papers/2603.22327
 - **阅读来源**: ArXiv Abs
@@ -476,7 +473,7 @@
 
 ============================================================
 
-### 📄 ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment
+## 📄 ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment
 
 - **链接**: https://huggingface.co/papers/2603.23376
 - **阅读来源**: ArXiv Abs
@@ -504,7 +501,7 @@
 
 ============================================================
 
-### 📄 Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates
+## 📄 Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates
 
 - **链接**: https://huggingface.co/papers/2603.22350
 - **阅读来源**: ArXiv Abs
@@ -533,7 +530,7 @@
 
 ============================================================
 
-### 📄 Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs
+## 📄 Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs
 
 - **链接**: https://huggingface.co/papers/2603.22446
 - **阅读来源**: HTML
@@ -567,7 +564,7 @@
 
 ============================================================
 
-### 📄 WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG
+## 📄 WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG
 
 - **链接**: https://huggingface.co/papers/2603.23497
 - **阅读来源**: HTML
@@ -597,7 +594,7 @@
 
 ============================================================
 
-### 📄 Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos
+## 📄 Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos
 
 - **链接**: https://huggingface.co/papers/2603.22529
 - **阅读来源**: ArXiv Abs
@@ -627,7 +624,7 @@
 
 ============================================================
 
-### 📄 Reasoning or Rhetoric? An Empirical Analysis of Moral Reasoning Explanations in Large Language Models
+## 📄 Reasoning or Rhetoric? An Empirical Analysis of Moral Reasoning Explanations in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.21854
 - **阅读来源**: HTML
@@ -658,7 +655,7 @@
 
 ============================================================
 
-### 📄 From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents
+## 📄 From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents
 
 - **链接**: https://huggingface.co/papers/2603.22386
 - **阅读来源**: HTML
@@ -692,7 +689,7 @@
 
 ============================================================
 
-### 📄 MultiBind: A Benchmark for Attribute Misbinding in Multi-Subject Generation
+## 📄 MultiBind: A Benchmark for Attribute Misbinding in Multi-Subject Generation
 
 - **链接**: https://huggingface.co/papers/2603.21937
 - **阅读来源**: HTML
@@ -724,7 +721,7 @@
 
 ============================================================
 
-### 📄 MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding
+## 📄 MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding
 
 - **链接**: https://huggingface.co/papers/2603.22458
 - **阅读来源**: HTML
@@ -755,7 +752,7 @@
 
 ============================================================
 
-### 📄 2Xplat: Two Experts Are Better Than One Generalist
+## 📄 2Xplat: Two Experts Are Better Than One Generalist
 
 - **链接**: https://huggingface.co/papers/2603.21064
 - **阅读来源**: HTML
@@ -788,7 +785,7 @@
 
 ============================================================
 
-### 📄 VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions
+## 📄 VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions
 
 - **链接**: https://huggingface.co/papers/2603.23495
 - **阅读来源**: HTML
@@ -818,4 +815,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
