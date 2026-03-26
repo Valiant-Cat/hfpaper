@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-26
 **Source URL**: https://huggingface.co/papers/date/2026-03-26
 
 ============================================================
 
-### 📄 EVA: Efficient Reinforcement Learning for End-to-End Video Agent
+## 📄 EVA: Efficient Reinforcement Learning for End-to-End Video Agent
 
 - **链接**: https://huggingface.co/papers/2603.22918
 - **阅读来源**: HTML
@@ -41,7 +38,7 @@
 
 ============================================================
 
-### 📄 4DGS360: 360° Gaussian Reconstruction of Dynamic Objects from a Single Video
+## 📄 4DGS360: 360° Gaussian Reconstruction of Dynamic Objects from a Single Video
 
 - **链接**: https://huggingface.co/papers/2603.21618
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare
+## 📄 CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare
 
 - **链接**: https://huggingface.co/papers/2603.24157
 - **阅读来源**: HTML
@@ -101,7 +98,7 @@
 
 ============================================================
 
-### 📄 Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?
+## 📄 Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?
 
 - **链接**: https://huggingface.co/papers/2603.24472
 - **阅读来源**: HTML
@@ -129,7 +126,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning
+## 📄 OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.24458
 - **阅读来源**: HTML
@@ -158,7 +155,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search
+## 📄 T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search
 
 - **链接**: https://huggingface.co/papers/2603.22341
 - **阅读来源**: HTML
@@ -188,7 +185,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning
+## 📄 When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.21289
 - **阅读来源**: HTML
@@ -221,7 +218,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 Toward Physically Consistent Driving Video World Models under Challenging Trajectories
+## 📄 Toward Physically Consistent Driving Video World Models under Challenging Trajectories
 
 - **链接**: https://huggingface.co/papers/2603.24506
 - **阅读来源**: HTML
@@ -252,7 +249,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments
+## 📄 Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments
 
 - **链接**: https://huggingface.co/papers/2603.23638
 - **阅读来源**: HTML
@@ -283,7 +280,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation
+## 📄 UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation
 
 - **链接**: https://huggingface.co/papers/2603.23478
 - **阅读来源**: HTML
@@ -316,7 +313,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 PLDR-LLMs Reason At Self-Organized Criticality
+## 📄 PLDR-LLMs Reason At Self-Organized Criticality
 
 - **链接**: https://huggingface.co/papers/2603.23539
 - **阅读来源**: HTML
@@ -346,7 +343,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents
+## 📄 GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents
 
 - **链接**: https://huggingface.co/papers/2603.24329
 - **阅读来源**: HTML
@@ -376,7 +373,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience
+## 📄 UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience
 
 - **链接**: https://huggingface.co/papers/2603.24533
 - **阅读来源**: HTML
@@ -406,7 +403,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents
+## 📄 CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents
 
 - **链接**: https://huggingface.co/papers/2603.24440
 - **阅读来源**: HTML
@@ -436,7 +433,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning
+## 📄 Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.23404
 - **阅读来源**: HTML
@@ -468,7 +465,7 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 ============================================================
 
-### 📄 StreamingClaw Technical Report
+## 📄 StreamingClaw Technical Report
 
 - **链接**: https://huggingface.co/papers/2603.22120
 - **阅读来源**: HTML
@@ -501,4 +498,3 @@ NLP-大模型微调（LLM Post-training）、强化学习（RLHF / RLVR）、自
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
