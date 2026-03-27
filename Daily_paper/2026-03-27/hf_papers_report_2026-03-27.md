@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-27
 **Source URL**: https://huggingface.co/papers/date/2026-03-27
 
 ============================================================
 
-### 📄 Representation Alignment for Just Image Transformers is not Easier than You Think
+## 📄 Representation Alignment for Just Image Transformers is not Easier than You Think
 
 - **链接**: https://huggingface.co/papers/2603.14366
 - **阅读来源**: HTML
@@ -40,7 +37,7 @@
 
 ============================================================
 
-### 📄 FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol
+## 📄 FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol
 
 - **链接**: https://huggingface.co/papers/2603.24943
 - **阅读来源**: HTML
@@ -73,7 +70,7 @@
 
 ============================================================
 
-### 📄 S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation
+## 📄 S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation
 
 - **链接**: https://huggingface.co/papers/2603.25702
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@
 
 ============================================================
 
-### 📄 Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale
+## 📄 Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale
 
 - **链接**: https://huggingface.co/papers/2603.25040
 - **阅读来源**: HTML
@@ -135,7 +132,7 @@
 
 ============================================================
 
-### 📄 Voxtral TTS
+## 📄 Voxtral TTS
 
 - **链接**: https://huggingface.co/papers/2603.25551
 - **阅读来源**: HTML
@@ -165,7 +162,7 @@
 
 ============================================================
 
-### 📄 MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data
+## 📄 MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data
 
 - **链接**: https://huggingface.co/papers/2603.25319
 - **阅读来源**: ArXiv Abs
@@ -194,7 +191,7 @@
 
 ============================================================
 
-### 📄 Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors
+## 📄 Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors
 
 - **链接**: https://huggingface.co/papers/2603.25718
 - **阅读来源**: ArXiv Abs
@@ -222,7 +219,7 @@
 
 ============================================================
 
-### 📄 Vega: Learning to Drive with Natural Language Instructions
+## 📄 Vega: Learning to Drive with Natural Language Instructions
 
 - **链接**: https://huggingface.co/papers/2603.25741
 - **阅读来源**: HTML
@@ -251,7 +248,7 @@
 
 ============================================================
 
-### 📄 Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors
+## 📄 Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors
 
 - **链接**: https://huggingface.co/papers/2603.21768
 - **阅读来源**: HTML
@@ -281,7 +278,7 @@
 
 ============================================================
 
-### 📄 BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment
+## 📄 BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment
 
 - **链接**: https://huggingface.co/papers/2603.23883
 - **阅读来源**: HTML
@@ -312,7 +309,7 @@
 
 ============================================================
 
-### 📄 PixelSmile: Toward Fine-Grained Facial Expression Editing
+## 📄 PixelSmile: Toward Fine-Grained Facial Expression Editing
 
 - **链接**: https://huggingface.co/papers/2603.25728
 - **阅读来源**: HTML
@@ -344,7 +341,7 @@
 
 ============================================================
 
-### 📄 MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models
+## 📄 MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models
 
 - **链接**: https://huggingface.co/papers/2603.25744
 - **阅读来源**: ArXiv Abs
@@ -374,7 +371,7 @@
 
 ============================================================
 
-### 📄 MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens
+## 📄 MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens
 
 - **链接**: https://huggingface.co/papers/2603.23516
 - **阅读来源**: HTML
@@ -408,7 +405,7 @@
 
 ============================================================
 
-### 📄 SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks
+## 📄 SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks
 
 - **链接**: https://huggingface.co/papers/2603.24755
 - **阅读来源**: HTML
@@ -443,7 +440,7 @@
 
 ============================================================
 
-### 📄 Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting
+## 📄 Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting
 
 - **链接**: https://huggingface.co/papers/2603.25745
 - **阅读来源**: HTML
@@ -473,7 +470,7 @@
 
 ============================================================
 
-### 📄 RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models
+## 📄 RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models
 
 - **链接**: https://huggingface.co/papers/2603.25502
 - **阅读来源**: HTML
@@ -502,4 +499,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
