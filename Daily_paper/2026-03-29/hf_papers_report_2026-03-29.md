@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-29
 **Source URL**: https://huggingface.co/papers/date/2026-03-29
 
 ============================================================
 
-### 📄 Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models
+## 📄 Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.14636
 - **阅读来源**: HTML
@@ -40,7 +37,7 @@
 
 ============================================================
 
-### 📄 Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration
+## 📄 Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration
 
 - **链接**: https://huggingface.co/papers/2603.24800
 - **阅读来源**: HTML
@@ -72,7 +69,7 @@
 
 ============================================================
 
-### 📄 Representation Alignment for Just Image Transformers is not Easier than You Think
+## 📄 Representation Alignment for Just Image Transformers is not Easier than You Think
 
 - **链接**: https://huggingface.co/papers/2603.14366
 - **阅读来源**: HTML
@@ -103,7 +100,7 @@
 
 ============================================================
 
-### 📄 BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment
+## 📄 BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment
 
 - **链接**: https://huggingface.co/papers/2603.23883
 - **阅读来源**: HTML
@@ -133,7 +130,7 @@
 
 ============================================================
 
-### 📄 MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data
+## 📄 MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data
 
 - **链接**: https://huggingface.co/papers/2603.25319
 - **阅读来源**: ArXiv Abs
@@ -162,7 +159,7 @@
 
 ============================================================
 
-### 📄 Vega: Learning to Drive with Natural Language Instructions
+## 📄 Vega: Learning to Drive with Natural Language Instructions
 
 - **链接**: https://huggingface.co/papers/2603.25741
 - **阅读来源**: HTML
@@ -192,7 +189,7 @@
 
 ============================================================
 
-### 📄 SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks
+## 📄 SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks
 
 - **链接**: https://huggingface.co/papers/2603.24755
 - **阅读来源**: HTML
@@ -224,7 +221,7 @@
 
 ============================================================
 
-### 📄 AVO: Agentic Variation Operators for Autonomous Evolutionary Search
+## 📄 AVO: Agentic Variation Operators for Autonomous Evolutionary Search
 
 - **链接**: https://huggingface.co/papers/2603.24517
 - **阅读来源**: HTML
@@ -254,7 +251,7 @@
 
 ============================================================
 
-### 📄 Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models
+## 📄 Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models
 
 - **链接**: https://huggingface.co/papers/2603.24844
 - **阅读来源**: HTML
@@ -286,7 +283,7 @@ NLP-大模型后训练（LLM Post-training）、强化学习（Reinforcement Lea
 
 ============================================================
 
-### 📄 PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders
+## 📄 PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders
 
 - **链接**: https://huggingface.co/papers/2603.25398
 - **阅读来源**: HTML
@@ -315,7 +312,7 @@ NLP-大模型后训练（LLM Post-training）、强化学习（Reinforcement Lea
 
 ============================================================
 
-### 📄 Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting
+## 📄 Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting
 
 - **链接**: https://huggingface.co/papers/2603.25745
 - **阅读来源**: HTML
@@ -347,7 +344,7 @@ NLP-大模型后训练（LLM Post-training）、强化学习（Reinforcement Lea
 
 ============================================================
 
-### 📄 RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models
+## 📄 RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models
 
 - **链接**: https://huggingface.co/papers/2603.25502
 - **阅读来源**: HTML
@@ -377,7 +374,7 @@ NLP-大模型后训练（LLM Post-training）、强化学习（Reinforcement Lea
 
 ============================================================
 
-### 📄 PixelSmile: Toward Fine-Grained Facial Expression Editing
+## 📄 PixelSmile: Toward Fine-Grained Facial Expression Editing
 
 - **链接**: https://huggingface.co/papers/2603.25728
 - **阅读来源**: HTML
@@ -408,7 +405,7 @@ NLP-大模型后训练（LLM Post-training）、强化学习（Reinforcement Lea
 
 ============================================================
 
-### 📄 S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation
+## 📄 S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation
 
 - **链接**: https://huggingface.co/papers/2603.25702
 - **阅读来源**: HTML
@@ -439,7 +436,7 @@ S2D2 在三个主流块扩散家族（SDAR、LLaDA、Fast-dLLM v2）共 5 个模
 
 ============================================================
 
-### 📄 Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math
+## 📄 Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math
 
 - **链接**: https://huggingface.co/papers/2603.24961
 - **阅读来源**: HTML
@@ -471,7 +468,7 @@ S2D2 在三个主流块扩散家族（SDAR、LLaDA、Fast-dLLM v2）共 5 个模
 
 ============================================================
 
-### 📄 Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors
+## 📄 Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors
 
 - **链接**: https://huggingface.co/papers/2603.25718
 - **阅读来源**: ArXiv Abs
@@ -499,7 +496,7 @@ S2D2 在三个主流块扩散家族（SDAR、LLaDA、Fast-dLLM v2）共 5 个模
 
 ============================================================
 
-### 📄 FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol
+## 📄 FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol
 
 - **链接**: https://huggingface.co/papers/2603.24943
 - **阅读来源**: HTML
@@ -530,7 +527,7 @@ S2D2 在三个主流块扩散家族（SDAR、LLaDA、Fast-dLLM v2）共 5 个模
 
 ============================================================
 
-### 📄 Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition
+## 📄 Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition
 
 - **链接**: https://huggingface.co/papers/2603.13904
 - **阅读来源**: HTML
@@ -560,7 +557,7 @@ S2D2 在三个主流块扩散家族（SDAR、LLaDA、Fast-dLLM v2）共 5 个模
 
 ============================================================
 
-### 📄 MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens
+## 📄 MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens
 
 - **链接**: https://huggingface.co/papers/2603.23516
 - **阅读来源**: HTML
@@ -594,7 +591,7 @@ S2D2 在三个主流块扩散家族（SDAR、LLaDA、Fast-dLLM v2）共 5 个模
 
 ============================================================
 
-### 📄 MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models
+## 📄 MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models
 
 - **链接**: https://huggingface.co/papers/2603.25744
 - **阅读来源**: ArXiv Abs
@@ -623,7 +620,7 @@ S2D2 在三个主流块扩散家族（SDAR、LLaDA、Fast-dLLM v2）共 5 个模
 
 ============================================================
 
-### 📄 Voxtral TTS
+## 📄 Voxtral TTS
 
 - **链接**: https://huggingface.co/papers/2603.25551
 - **阅读来源**: HTML
@@ -655,7 +652,7 @@ S2D2 在三个主流块扩散家族（SDAR、LLaDA、Fast-dLLM v2）共 5 个模
 
 ============================================================
 
-### 📄 Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes
+## 📄 Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes
 
 - **链接**: https://huggingface.co/papers/2603.25562
 - **阅读来源**: HTML
@@ -688,7 +685,7 @@ NLP-大模型微调（LLM Post-training）、知识蒸馏（Knowledge Distillati
 
 ============================================================
 
-### 📄 Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors
+## 📄 Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors
 
 - **链接**: https://huggingface.co/papers/2603.21768
 - **阅读来源**: HTML
@@ -718,7 +715,7 @@ NLP-大模型微调（LLM Post-training）、知识蒸馏（Knowledge Distillati
 
 ============================================================
 
-### 📄 IQuest-Coder-V1 Technical Report
+## 📄 IQuest-Coder-V1 Technical Report
 
 - **链接**: https://huggingface.co/papers/2603.16733
 - **阅读来源**: HTML
@@ -749,7 +746,7 @@ NLP-大模型微调（LLM Post-training）、知识蒸馏（Knowledge Distillati
 
 ============================================================
 
-### 📄 MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution
+## 📄 MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution
 
 - **链接**: https://huggingface.co/papers/2603.18718
 - **阅读来源**: HTML
@@ -780,7 +777,7 @@ NLP-大模型微调（LLM Post-training）、知识蒸馏（Knowledge Distillati
 
 ============================================================
 
-### 📄 WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching
+## 📄 WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching
 
 - **链接**: https://huggingface.co/papers/2603.24836
 - **阅读来源**: HTML
@@ -812,7 +809,7 @@ WAFT-Stereo 在三大核心公开数据集的排行榜上均位列第一，且�
 
 ============================================================
 
-### 📄 VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models
+## 📄 VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.24575
 - **阅读来源**: HTML
@@ -842,7 +839,7 @@ WAFT-Stereo 在三大核心公开数据集的排行榜上均位列第一，且�
 
 ============================================================
 
-### 📄 Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale
+## 📄 Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale
 
 - **链接**: https://huggingface.co/papers/2603.25040
 - **阅读来源**: HTML
@@ -873,7 +870,7 @@ AI for Science (人工智能驱动的科学研究) / 多模态大语言模型 (M
 
 ============================================================
 
-### 📄 AVControl: Efficient Framework for Training Audio-Visual Controls
+## 📄 AVControl: Efficient Framework for Training Audio-Visual Controls
 
 - **链接**: https://huggingface.co/papers/2603.24793
 - **阅读来源**: HTML
@@ -905,4 +902,3 @@ AI for Science (人工智能驱动的科学研究) / 多模态大语言模型 (M
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
