@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-30
 **Source URL**: https://huggingface.co/papers/date/2026-03-30
 
 ============================================================
 
-### 📄 ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling
+## 📄 ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling
 
 - **链接**: https://huggingface.co/papers/2603.25746
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models
+## 📄 Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models
 
 - **链接**: https://huggingface.co/papers/2603.25716
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@
 
 ============================================================
 
-### 📄 Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models
+## 📄 Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.22782
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@
 
 ============================================================
 
-### 📄 Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models
+## 📄 Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models
 
 - **链接**: https://huggingface.co/papers/2603.25750
 - **阅读来源**: ArXiv Abs
@@ -126,7 +123,7 @@
 
 ============================================================
 
-### 📄 Diffutron: A Masked Diffusion Language Model for Turkish Language
+## 📄 Diffutron: A Masked Diffusion Language Model for Turkish Language
 
 - **链接**: https://huggingface.co/papers/2603.20466
 - **阅读来源**: HTML
@@ -155,7 +152,7 @@
 
 ============================================================
 
-### 📄 MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies
+## 📄 MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies
 
 - **链接**: https://huggingface.co/papers/2603.24649
 - **阅读来源**: HTML
@@ -186,7 +183,7 @@
 
 ============================================================
 
-### 📄 PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference
+## 📄 PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference
 
 - **链接**: https://huggingface.co/papers/2603.25730
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@
 
 ============================================================
 
-### 📄 Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills
+## 📄 Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills
 
 - **链接**: https://huggingface.co/papers/2603.25158
 - **阅读来源**: HTML
@@ -246,4 +243,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
