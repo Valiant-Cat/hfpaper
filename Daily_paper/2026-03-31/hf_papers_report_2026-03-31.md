@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-03-31
 **Source URL**: https://huggingface.co/papers/date/2026-03-31
 
 ============================================================
 
-### 📄 On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models
+## 📄 On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models
 
 - **链接**: https://huggingface.co/papers/2603.27481
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning
+## 📄 ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.28610
 - **阅读来源**: ArXiv Abs
@@ -66,7 +63,7 @@
 
 ============================================================
 
-### 📄 Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio
+## 📄 Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio
 
 - **链接**: https://huggingface.co/papers/2603.25926
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@
 
 ============================================================
 
-### 📄 Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design
+## 📄 Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design
 
 - **链接**: https://huggingface.co/papers/2603.28376
 - **阅读来源**: HTML
@@ -128,7 +125,7 @@
 
 ============================================================
 
-### 📄 On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers
+## 📄 On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2603.28762
 - **阅读来源**: HTML
@@ -160,7 +157,7 @@
 
 ============================================================
 
-### 📄 Gen-Searcher: Reinforcing Agentic Search for Image Generation
+## 📄 Gen-Searcher: Reinforcing Agentic Search for Image Generation
 
 - **链接**: https://huggingface.co/papers/2603.28767
 - **阅读来源**: ArXiv Abs
@@ -189,7 +186,7 @@
 
 ============================================================
 
-### 📄 Emergent Social Intelligence Risks in Generative Multi-Agent Systems
+## 📄 Emergent Social Intelligence Risks in Generative Multi-Agent Systems
 
 - **链接**: https://huggingface.co/papers/2603.27771
 - **阅读来源**: HTML
@@ -220,7 +217,7 @@
 
 ============================================================
 
-### 📄 Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization
+## 📄 Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization
 
 - **链接**: https://huggingface.co/papers/2603.28342
 - **阅读来源**: HTML
@@ -253,7 +250,7 @@
 
 ============================================================
 
-### 📄 Superintelligence and Law
+## 📄 Superintelligence and Law
 
 - **链接**: https://huggingface.co/papers/2603.28669
 - **阅读来源**: ArXiv Abs
@@ -282,7 +279,7 @@
 
 ============================================================
 
-### 📄 Towards a Medical AI Scientist
+## 📄 Towards a Medical AI Scientist
 
 - **链接**: https://huggingface.co/papers/2603.28589
 - **阅读来源**: HTML
@@ -313,7 +310,7 @@
 
 ============================================================
 
-### 📄 GEditBench v2: A Human-Aligned Benchmark for General Image Editing
+## 📄 GEditBench v2: A Human-Aligned Benchmark for General Image Editing
 
 - **链接**: https://huggingface.co/papers/2603.28547
 - **阅读来源**: HTML
@@ -342,7 +339,7 @@
 
 ============================================================
 
-### 📄 HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention
+## 📄 HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention
 
 - **链接**: https://huggingface.co/papers/2603.28458
 - **阅读来源**: HTML
@@ -371,7 +368,7 @@
 
 ============================================================
 
-### 📄 MOOZY: A Patient-First Foundation Model for Computational Pathology
+## 📄 MOOZY: A Patient-First Foundation Model for Computational Pathology
 
 - **链接**: https://huggingface.co/papers/2603.27048
 - **阅读来源**: HTML
@@ -401,7 +398,7 @@
 
 ============================================================
 
-### 📄 ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks
+## 📄 ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks
 
 - **链接**: https://huggingface.co/papers/2603.27862
 - **阅读来源**: HTML
@@ -432,7 +429,7 @@
 
 ============================================================
 
-### 📄 Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling
+## 📄 Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling
 
 - **链接**: https://huggingface.co/papers/2603.26610
 - **阅读来源**: HTML
@@ -462,7 +459,7 @@
 
 ============================================================
 
-### 📄 Story2Proposal: A Scaffold for Structured Scientific Paper Writing
+## 📄 Story2Proposal: A Scaffold for Structured Scientific Paper Writing
 
 - **链接**: https://huggingface.co/papers/2603.27065
 - **阅读来源**: HTML
@@ -493,7 +490,7 @@
 
 ============================================================
 
-### 📄 MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences
+## 📄 MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences
 
 - **链接**: https://huggingface.co/papers/2603.27813
 - **阅读来源**: HTML
@@ -526,7 +523,7 @@
 
 ============================================================
 
-### 📄 DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing
+## 📄 DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing
 
 - **链接**: https://huggingface.co/papers/2603.28713
 - **阅读来源**: HTML
@@ -559,7 +556,7 @@
 
 ============================================================
 
-### 📄 Make Geometry Matter for Spatial Reasoning
+## 📄 Make Geometry Matter for Spatial Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.26639
 - **阅读来源**: HTML
@@ -590,7 +587,7 @@
 
 ============================================================
 
-### 📄 EpochX: Building the Infrastructure for an Emergent Agent Civilization
+## 📄 EpochX: Building the Infrastructure for an Emergent Agent Civilization
 
 - **链接**: https://huggingface.co/papers/2603.27304
 - **阅读来源**: HTML
@@ -625,7 +622,7 @@
 
 ============================================================
 
-### 📄 PRBench: End-to-end Paper Reproduction in Physics Research
+## 📄 PRBench: End-to-end Paper Reproduction in Physics Research
 
 - **链接**: https://huggingface.co/papers/2603.27646
 - **阅读来源**: HTML
@@ -656,7 +653,7 @@
 
 ============================================================
 
-### 📄 MolmoPoint: Better Pointing for VLMs with Grounding Tokens
+## 📄 MolmoPoint: Better Pointing for VLMs with Grounding Tokens
 
 - **链接**: https://huggingface.co/papers/2603.28069
 - **阅读来源**: HTML
@@ -686,4 +683,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
