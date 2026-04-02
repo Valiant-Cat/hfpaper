@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-02
 **Source URL**: https://huggingface.co/papers/date/2026-04-02
 
 ============================================================
 
-### 📄 QuitoBench: A High-Quality Open Time Series Forecasting Benchmark
+## 📄 QuitoBench: A High-Quality Open Time Series Forecasting Benchmark
 
 - **链接**: https://huggingface.co/papers/2603.26017
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 Reasoning Shift: How Context Silently Shortens LLM Reasoning
+## 📄 Reasoning Shift: How Context Silently Shortens LLM Reasoning
 
 - **链接**: https://huggingface.co/papers/2604.01161
 - **阅读来源**: ArXiv Abs
@@ -67,7 +64,7 @@ NLP - 大语言模型推理、模型鲁棒性评估与上下文管理
 
 ============================================================
 
-### 📄 MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome
+## 📄 MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome
 
 - **链接**: https://huggingface.co/papers/2603.28407
 - **阅读来源**: HTML
@@ -101,7 +98,7 @@ NLP - 大语言模型推理、模型鲁棒性评估与上下文管理
 
 ============================================================
 
-### 📄 ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers
+## 📄 ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers
 
 - **链接**: https://huggingface.co/papers/2603.24414
 - **阅读来源**: ArXiv Abs
@@ -129,7 +126,7 @@ NLP - 大语言模型推理、模型鲁棒性评估与上下文管理
 
 ============================================================
 
-### 📄 Universal YOCO for Efficient Depth Scaling
+## 📄 Universal YOCO for Efficient Depth Scaling
 
 - **链接**: https://huggingface.co/papers/2604.01220
 - **阅读来源**: HTML
@@ -158,7 +155,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 AI Generalisation Gap In Comorbid Sleep Disorder Staging
+## 📄 AI Generalisation Gap In Comorbid Sleep Disorder Staging
 
 - **链接**: https://huggingface.co/papers/2603.23582
 - **阅读来源**: HTML
@@ -188,7 +185,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference
+## 📄 Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference
 
 - **链接**: https://huggingface.co/papers/2603.29002
 - **阅读来源**: HTML
@@ -219,7 +216,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 HippoCamp: Benchmarking Contextual Agents on Personal Computers
+## 📄 HippoCamp: Benchmarking Contextual Agents on Personal Computers
 
 - **链接**: https://huggingface.co/papers/2604.01221
 - **阅读来源**: ArXiv Abs
@@ -247,7 +244,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification
+## 📄 Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification
 
 - **链接**: https://huggingface.co/papers/2603.26648
 - **阅读来源**: HTML
@@ -278,7 +275,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning
+## 📄 PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning
 
 - **链接**: https://huggingface.co/papers/2603.26653
 - **阅读来源**: HTML
@@ -308,7 +305,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants
+## 📄 Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants
 
 - **链接**: https://huggingface.co/papers/2604.00842
 - **阅读来源**: HTML
@@ -338,7 +335,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 A Survey of On-Policy Distillation for Large Language Models
+## 📄 A Survey of On-Policy Distillation for Large Language Models
 
 - **链接**: https://huggingface.co/papers/2604.00626
 - **阅读来源**: HTML
@@ -374,7 +371,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems
+## 📄 UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems
 
 - **链接**: https://huggingface.co/papers/2604.00590
 - **阅读来源**: HTML
@@ -403,7 +400,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 MemRerank: Preference Memory for Personalized Product Reranking
+## 📄 MemRerank: Preference Memory for Personalized Product Reranking
 
 - **链接**: https://huggingface.co/papers/2603.29247
 - **阅读来源**: HTML
@@ -433,7 +430,7 @@ NLP - 大语言模型 (LLMs) 基础架构设计与推理期计算扩展 (Inferen
 
 ============================================================
 
-### 📄 Terminal Agents Suffice for Enterprise Automation
+## 📄 Terminal Agents Suffice for Enterprise Automation
 
 - **链接**: https://huggingface.co/papers/2604.00073
 - **阅读来源**: HTML
@@ -463,7 +460,7 @@ NLP-大模型智能体 (LLM Agents) / 企业自动化 (Enterprise Automation)
 
 ============================================================
 
-### 📄 Embarrassingly Simple Self-Distillation Improves Code Generation
+## 📄 Embarrassingly Simple Self-Distillation Improves Code Generation
 
 - **链接**: https://huggingface.co/papers/2604.01193
 - **阅读来源**: HTML
@@ -497,7 +494,7 @@ NLP - 大模型微调（代码生成 / 大模型后训练）
 
 ============================================================
 
-### 📄 GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation
+## 📄 GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation
 
 - **链接**: https://huggingface.co/papers/2603.26661
 - **阅读来源**: HTML
@@ -526,7 +523,7 @@ NLP - 大模型微调（代码生成 / 大模型后训练）
 
 ============================================================
 
-### 📄 Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding
+## 📄 Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding
 
 - **链接**: https://huggingface.co/papers/2604.00528
 - **阅读来源**: HTML
@@ -557,7 +554,7 @@ NLP - 大模型微调（代码生成 / 大模型后训练）
 
 ============================================================
 
-### 📄 Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines
+## 📄 Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines
 
 - **链接**: https://huggingface.co/papers/2604.01029
 - **阅读来源**: HTML
@@ -590,7 +587,7 @@ NLP - 大模型微调（代码生成 / 大模型后训练）
 
 ============================================================
 
-### 📄 Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment
+## 📄 Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment
 
 - **链接**: https://huggingface.co/papers/2604.00913
 - **阅读来源**: HTML
@@ -622,7 +619,7 @@ NLP - 大模型微调（代码生成 / 大模型后训练）
 
 ============================================================
 
-### 📄 ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?
+## 📄 ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?
 
 - **链接**: https://huggingface.co/papers/2603.25823
 - **阅读来源**: HTML
@@ -654,7 +651,7 @@ NLP - 大模型微调（代码生成 / 大模型后训练）
 
 ============================================================
 
-### 📄 Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers
+## 📄 Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers
 
 - **链接**: https://huggingface.co/papers/2604.01128
 - **阅读来源**: ArXiv Abs
@@ -685,7 +682,7 @@ NLP - 大模型微调（代码生成 / 大模型后训练）
 
 ============================================================
 
-### 📄 MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation
+## 📄 MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation
 
 - **链接**: https://huggingface.co/papers/2603.25406
 - **阅读来源**: ArXiv Abs
@@ -714,4 +711,3 @@ NLP - 大模型微调（代码生成 / 大模型后训练）
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
