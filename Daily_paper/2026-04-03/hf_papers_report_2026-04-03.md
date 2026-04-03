@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-03
 **Source URL**: https://huggingface.co/papers/date/2026-04-03
 
 ============================================================
 
-### 📄 Woosh: A Sound Effects Foundation Model
+## 📄 Woosh: A Sound Effects Foundation Model
 
 - **链接**: https://huggingface.co/papers/2604.01929
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 GPA: Learning GUI Process Automation from Demonstrations
+## 📄 GPA: Learning GUI Process Automation from Demonstrations
 
 - **链接**: https://huggingface.co/papers/2604.01676
 - **阅读来源**: ArXiv Abs
@@ -66,7 +63,7 @@
 
 ============================================================
 
-### 📄 LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model
+## 📄 LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model
 
 - **链接**: https://huggingface.co/papers/2604.02097
 - **阅读来源**: HTML
@@ -100,7 +97,7 @@
 
 ============================================================
 
-### 📄 Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time
+## 📄 Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time
 
 - **链接**: https://huggingface.co/papers/2604.00917
 - **阅读来源**: HTML
@@ -129,7 +126,7 @@
 
 ============================================================
 
-### 📄 VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification
+## 📄 VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification
 
 - **链接**: https://huggingface.co/papers/2604.01569
 - **阅读来源**: HTML
@@ -159,7 +156,7 @@
 
 ============================================================
 
-### 📄 UniRecGen: Unifying Multi-View 3D Reconstruction and Generation
+## 📄 UniRecGen: Unifying Multi-View 3D Reconstruction and Generation
 
 - **链接**: https://huggingface.co/papers/2604.01479
 - **阅读来源**: HTML
@@ -189,7 +186,7 @@
 
 ============================================================
 
-### 📄 DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models
+## 📄 DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.26164
 - **阅读来源**: HTML
@@ -220,7 +217,7 @@
 
 ============================================================
 
-### 📄 Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory
+## 📄 Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory
 
 - **链接**: https://huggingface.co/papers/2604.01007
 - **阅读来源**: HTML
@@ -251,7 +248,7 @@
 
 ============================================================
 
-### 📄 Executing as You Generate: Hiding Execution Latency in LLM Code Generation
+## 📄 Executing as You Generate: Hiding Execution Latency in LLM Code Generation
 
 - **链接**: https://huggingface.co/papers/2604.00491
 - **阅读来源**: ArXiv Abs
@@ -282,7 +279,7 @@
 
 ============================================================
 
-### 📄 T5Gemma-TTS Technical Report
+## 📄 T5Gemma-TTS Technical Report
 
 - **链接**: https://huggingface.co/papers/2604.01760
 - **阅读来源**: HTML
@@ -313,7 +310,7 @@
 
 ============================================================
 
-### 📄 EgoSim: Egocentric World Simulator for Embodied Interaction Generation
+## 📄 EgoSim: Egocentric World Simulator for Embodied Interaction Generation
 
 - **链接**: https://huggingface.co/papers/2604.01001
 - **阅读来源**: HTML
@@ -343,7 +340,7 @@
 
 ============================================================
 
-### 📄 Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation
+## 📄 Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation
 
 - **链接**: https://huggingface.co/papers/2604.02289
 - **阅读来源**: HTML
@@ -373,7 +370,7 @@
 
 ============================================================
 
-### 📄 The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook
+## 📄 The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook
 
 - **链接**: https://huggingface.co/papers/2604.02029
 - **阅读来源**: HTML
@@ -403,7 +400,7 @@
 
 ============================================================
 
-### 📄 FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition
+## 📄 FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition
 
 - **链接**: https://huggingface.co/papers/2604.02088
 - **阅读来源**: HTML
@@ -433,7 +430,7 @@
 
 ============================================================
 
-### 📄 VOID: Video Object and Interaction Deletion
+## 📄 VOID: Video Object and Interaction Deletion
 
 - **链接**: https://huggingface.co/papers/2604.02296
 - **阅读来源**: ArXiv Abs
@@ -462,7 +459,7 @@
 
 ============================================================
 
-### 📄 Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models
+## 📄 Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models
 
 - **链接**: https://huggingface.co/papers/2604.01404
 - **阅读来源**: HTML
@@ -496,7 +493,7 @@
 
 ============================================================
 
-### 📄 Generative World Renderer
+## 📄 Generative World Renderer
 
 - **链接**: https://huggingface.co/papers/2604.02329
 - **阅读来源**: HTML
@@ -530,7 +527,7 @@
 
 ============================================================
 
-### 📄 UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving
+## 📄 UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving
 
 - **链接**: https://huggingface.co/papers/2604.02190
 - **阅读来源**: HTML
@@ -560,7 +557,7 @@
 
 ============================================================
 
-### 📄 LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation
+## 📄 LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation
 
 - **链接**: https://huggingface.co/papers/2604.00829
 - **阅读来源**: HTML
@@ -593,7 +590,7 @@
 
 ============================================================
 
-### 📄 DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data
+## 📄 DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data
 
 - **链接**: https://huggingface.co/papers/2604.01666
 - **阅读来源**: HTML
@@ -627,7 +624,7 @@
 
 ============================================================
 
-### 📄 SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization
+## 📄 SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization
 
 - **链接**: https://huggingface.co/papers/2604.02268
 - **阅读来源**: HTML
@@ -660,7 +657,7 @@ Skill0 在 ALFWorld（基于文本的具身智能游戏）和 Search-QA（增强
 
 ============================================================
 
-### 📄 Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers
+## 📄 Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers
 
 - **链接**: https://huggingface.co/papers/2603.27666
 - **阅读来源**: HTML
@@ -691,7 +688,7 @@ Skill0 在 ALFWorld（基于文本的具身智能游戏）和 Search-QA（增强
 
 ============================================================
 
-### 📄 Automatic Image-Level Morphological Trait Annotation for Organismal Images
+## 📄 Automatic Image-Level Morphological Trait Annotation for Organismal Images
 
 - **链接**: https://huggingface.co/papers/2604.01619
 - **阅读来源**: HTML
@@ -726,7 +723,7 @@ Skill0 在 ALFWorld（基于文本的具身智能游戏）和 Search-QA（增强
 
 ============================================================
 
-### 📄 Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning
+## 📄 Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning
 
 - **链接**: https://huggingface.co/papers/2604.02007
 - **阅读来源**: ArXiv Abs
@@ -755,4 +752,3 @@ Skill0 在 ALFWorld（基于文本的具身智能游戏）和 Search-QA（增强
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
