@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-04
 **Source URL**: https://huggingface.co/papers/date/2026-04-04
 
 ============================================================
 
-### 📄 Executing as You Generate: Hiding Execution Latency in LLM Code Generation
+## 📄 Executing as You Generate: Hiding Execution Latency in LLM Code Generation
 
 - **链接**: https://huggingface.co/papers/2604.00491
 - **阅读来源**: ArXiv Abs
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Automatic Image-Level Morphological Trait Annotation for Organismal Images
+## 📄 Automatic Image-Level Morphological Trait Annotation for Organismal Images
 
 - **链接**: https://huggingface.co/papers/2604.01619
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@
 
 ============================================================
 
-### 📄 Generative World Renderer
+## 📄 Generative World Renderer
 
 - **链接**: https://huggingface.co/papers/2604.02329
 - **阅读来源**: HTML
@@ -98,7 +95,7 @@
 
 ============================================================
 
-### 📄 UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving
+## 📄 UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving
 
 - **链接**: https://huggingface.co/papers/2604.02190
 - **阅读来源**: HTML
@@ -128,7 +125,7 @@
 
 ============================================================
 
-### 📄 Steerable Visual Representations
+## 📄 Steerable Visual Representations
 
 - **链接**: https://huggingface.co/papers/2604.02327
 - **阅读来源**: HTML
@@ -158,7 +155,7 @@
 
 ============================================================
 
-### 📄 SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization
+## 📄 SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization
 
 - **链接**: https://huggingface.co/papers/2604.02268
 - **阅读来源**: HTML
@@ -190,7 +187,7 @@
 
 ============================================================
 
-### 📄 GPA: Learning GUI Process Automation from Demonstrations
+## 📄 GPA: Learning GUI Process Automation from Demonstrations
 
 - **链接**: https://huggingface.co/papers/2604.01676
 - **阅读来源**: ArXiv Abs
@@ -218,7 +215,7 @@
 
 ============================================================
 
-### 📄 Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models
+## 📄 Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models
 
 - **链接**: https://huggingface.co/papers/2604.01404
 - **阅读来源**: HTML
@@ -250,7 +247,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios
+## 📄 MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios
 
 - **链接**: https://huggingface.co/papers/2603.28130
 - **阅读来源**: HTML
@@ -281,7 +278,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 UniRecGen: Unifying Multi-View 3D Reconstruction and Generation
+## 📄 UniRecGen: Unifying Multi-View 3D Reconstruction and Generation
 
 - **链接**: https://huggingface.co/papers/2604.01479
 - **阅读来源**: HTML
@@ -311,7 +308,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model
+## 📄 LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model
 
 - **链接**: https://huggingface.co/papers/2603.27449
 - **阅读来源**: HTML
@@ -342,7 +339,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition
+## 📄 FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition
 
 - **链接**: https://huggingface.co/papers/2604.02088
 - **阅读来源**: HTML
@@ -372,7 +369,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 An Empirical Recipe for Universal Phone Recognition
+## 📄 An Empirical Recipe for Universal Phone Recognition
 
 - **链接**: https://huggingface.co/papers/2603.29042
 - **阅读来源**: HTML
@@ -402,7 +399,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 EgoSim: Egocentric World Simulator for Embodied Interaction Generation
+## 📄 EgoSim: Egocentric World Simulator for Embodied Interaction Generation
 
 - **链接**: https://huggingface.co/papers/2604.01001
 - **阅读来源**: HTML
@@ -432,7 +429,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines
+## 📄 MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines
 
 - **链接**: https://huggingface.co/papers/2603.06679
 - **阅读来源**: HTML
@@ -461,7 +458,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation
+## 📄 LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation
 
 - **链接**: https://huggingface.co/papers/2604.00829
 - **阅读来源**: HTML
@@ -493,7 +490,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery
+## 📄 CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery
 
 - **链接**: https://huggingface.co/papers/2604.01658
 - **阅读来源**: HTML
@@ -523,7 +520,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 Woosh: A Sound Effects Foundation Model
+## 📄 Woosh: A Sound Effects Foundation Model
 
 - **链接**: https://huggingface.co/papers/2604.01929
 - **阅读来源**: HTML
@@ -554,7 +551,7 @@ NLP-大模型可解释性 (Mechanistic Interpretability)、知识召回与模型
 
 ============================================================
 
-### 📄 Signals: Trajectory Sampling and Triage for Agentic Interactions
+## 📄 Signals: Trajectory Sampling and Triage for Agentic Interactions
 
 - **链接**: https://huggingface.co/papers/2604.00356
 - **阅读来源**: HTML
@@ -585,7 +582,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 Video Models Reason Early: Exploiting Plan Commitment for Maze Solving
+## 📄 Video Models Reason Early: Exploiting Plan Commitment for Maze Solving
 
 - **链接**: https://huggingface.co/papers/2603.30043
 - **阅读来源**: HTML
@@ -617,7 +614,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning
+## 📄 Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning
 
 - **链接**: https://huggingface.co/papers/2603.24257
 - **阅读来源**: ArXiv Abs
@@ -648,7 +645,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration
+## 📄 AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration
 
 - **链接**: https://huggingface.co/papers/2604.01014
 - **阅读来源**: HTML
@@ -681,7 +678,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification
+## 📄 VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification
 
 - **链接**: https://huggingface.co/papers/2604.01569
 - **阅读来源**: HTML
@@ -712,7 +709,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 ActionParty: Multi-Subject Action Binding in Generative Video Games
+## 📄 ActionParty: Multi-Subject Action Binding in Generative Video Games
 
 - **链接**: https://huggingface.co/papers/2604.02330
 - **阅读来源**: HTML
@@ -743,7 +740,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook
+## 📄 The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook
 
 - **链接**: https://huggingface.co/papers/2604.02029
 - **阅读来源**: HTML
@@ -774,7 +771,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models
+## 📄 Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2604.01618
 - **阅读来源**: HTML
@@ -804,7 +801,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 AIBench: Evaluating Visual-Logical Consistency in Academic Illustration Generation
+## 📄 AIBench: Evaluating Visual-Logical Consistency in Academic Illustration Generation
 
 - **链接**: https://huggingface.co/papers/2603.28068
 - **阅读来源**: HTML
@@ -840,7 +837,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models
+## 📄 DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models
 
 - **链接**: https://huggingface.co/papers/2603.26164
 - **阅读来源**: HTML
@@ -870,7 +867,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model
+## 📄 LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model
 
 - **链接**: https://huggingface.co/papers/2604.02097
 - **阅读来源**: HTML
@@ -901,7 +898,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory
+## 📄 Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory
 
 - **链接**: https://huggingface.co/papers/2604.01007
 - **阅读来源**: HTML
@@ -931,7 +928,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial
+## 📄 Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial
 
 - **链接**: https://huggingface.co/papers/2604.01328
 - **阅读来源**: ArXiv Abs
@@ -959,7 +956,7 @@ NLP-大模型智能体 (LLM Agents) 评估与后部署优化、人类偏好对�
 
 ============================================================
 
-### 📄 T5Gemma-TTS Technical Report
+## 📄 T5Gemma-TTS Technical Report
 
 - **链接**: https://huggingface.co/papers/2604.01760
 - **阅读来源**: HTML
@@ -990,7 +987,7 @@ T5Gemma-TTS 基于 40 亿参数的预训练编码器-解码器架构，结合进
 
 ============================================================
 
-### 📄 Ask or Assume? Uncertainty-Aware Clarification-Seeking in Coding Agents
+## 📄 Ask or Assume? Uncertainty-Aware Clarification-Seeking in Coding Agents
 
 - **链接**: https://huggingface.co/papers/2603.26233
 - **阅读来源**: HTML
@@ -1021,7 +1018,7 @@ T5Gemma-TTS 基于 40 亿参数的预训练编码器-解码器架构，结合进
 
 ============================================================
 
-### 📄 Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning
+## 📄 Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning
 
 - **链接**: https://huggingface.co/papers/2604.02007
 - **阅读来源**: ArXiv Abs
@@ -1052,7 +1049,7 @@ T5Gemma-TTS 基于 40 亿参数的预训练编码器-解码器架构，结合进
 
 ============================================================
 
-### 📄 Therefore I am. I Think
+## 📄 Therefore I am. I Think
 
 - **链接**: https://huggingface.co/papers/2604.01202
 - **阅读来源**: HTML
@@ -1084,7 +1081,7 @@ T5Gemma-TTS 基于 40 亿参数的预训练编码器-解码器架构，结合进
 
 ============================================================
 
-### 📄 VOID: Video Object and Interaction Deletion
+## 📄 VOID: Video Object and Interaction Deletion
 
 - **链接**: https://huggingface.co/papers/2604.02296
 - **阅读来源**: ArXiv Abs
@@ -1115,7 +1112,7 @@ T5Gemma-TTS 基于 40 亿参数的预训练编码器-解码器架构，结合进
 
 ============================================================
 
-### 📄 DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data
+## 📄 DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data
 
 - **链接**: https://huggingface.co/papers/2604.01666
 - **阅读来源**: HTML
@@ -1146,7 +1143,7 @@ T5Gemma-TTS 基于 40 亿参数的预训练编码器-解码器架构，结合进
 
 ============================================================
 
-### 📄 Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models
+## 📄 Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models
 
 - **链接**: https://huggingface.co/papers/2603.26259
 - **阅读来源**: HTML
@@ -1177,7 +1174,7 @@ T5Gemma-TTS 基于 40 亿参数的预训练编码器-解码器架构，结合进
 
 ============================================================
 
-### 📄 Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers
+## 📄 Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers
 
 - **链接**: https://huggingface.co/papers/2603.27666
 - **阅读来源**: HTML
@@ -1207,7 +1204,7 @@ T5Gemma-TTS 基于 40 亿参数的预训练编码器-解码器架构，结合进
 
 ============================================================
 
-### 📄 ASI-Evolve: AI Accelerates AI
+## 📄 ASI-Evolve: AI Accelerates AI
 
 - **链接**: https://huggingface.co/papers/2603.29640
 - **阅读来源**: HTML
@@ -1238,7 +1235,7 @@ AI for AI (AI自动化AI研究) / 科学发现 (AI for Science)。具体涵盖�
 
 ============================================================
 
-### 📄 Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning
+## 📄 Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning
 
 - **链接**: https://huggingface.co/papers/2604.01152
 - **阅读来源**: HTML
@@ -1268,7 +1265,7 @@ NLP - 大模型微调与持续学习（LLM Fine-tuning & Continual Learning / PE
 
 ============================================================
 
-### 📄 Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time
+## 📄 Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time
 
 - **链接**: https://huggingface.co/papers/2604.00917
 - **阅读来源**: HTML
@@ -1299,7 +1296,7 @@ NLP - 大模型微调与持续学习（LLM Fine-tuning & Continual Learning / PE
 
 ============================================================
 
-### 📄 NearID: Identity Representation Learning via Near-identity Distractors
+## 📄 NearID: Identity Representation Learning via Near-identity Distractors
 
 - **链接**: https://huggingface.co/papers/2604.01973
 - **阅读来源**: HTML
@@ -1330,7 +1327,7 @@ NLP - 大模型微调与持续学习（LLM Fine-tuning & Continual Learning / PE
 
 ============================================================
 
-### 📄 Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation
+## 📄 Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation
 
 - **链接**: https://huggingface.co/papers/2604.02289
 - **阅读来源**: HTML
@@ -1360,7 +1357,7 @@ NLP - 大模型微调与持续学习（LLM Fine-tuning & Continual Learning / PE
 
 ============================================================
 
-### 📄 Forecasting Supply Chain Disruptions with Foresight Learning
+## 📄 Forecasting Supply Chain Disruptions with Foresight Learning
 
 - **链接**: https://huggingface.co/papers/2604.01298
 - **阅读来源**: HTML
@@ -1393,4 +1390,3 @@ NLP - 大模型微调与持续学习（LLM Fine-tuning & Continual Learning / PE
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
