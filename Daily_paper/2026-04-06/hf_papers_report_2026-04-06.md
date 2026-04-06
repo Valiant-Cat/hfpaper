@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-06
 **Source URL**: https://huggingface.co/papers/date/2026-04-06
 
 ============================================================
 
-### 📄 A Simple Baseline for Streaming Video Understanding
+## 📄 A Simple Baseline for Streaming Video Understanding
 
 - **链接**: https://huggingface.co/papers/2604.02317
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?
+## 📄 Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?
 
 - **链接**: https://huggingface.co/papers/2604.03016
 - **阅读来源**: HTML
@@ -71,7 +68,7 @@
 
 ============================================================
 
-### 📄 AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents
+## 📄 AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents
 
 - **链接**: https://huggingface.co/papers/2604.02947
 - **阅读来源**: HTML
@@ -102,7 +99,7 @@
 
 ============================================================
 
-### 📄 Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation
+## 📄 Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation
 
 - **链接**: https://huggingface.co/papers/2604.02368
 - **阅读来源**: HTML
@@ -133,7 +130,7 @@
 
 ============================================================
 
-### 📄 Self-Distilled RLVR
+## 📄 Self-Distilled RLVR
 
 - **链接**: https://huggingface.co/papers/2604.03128
 - **阅读来源**: HTML
@@ -163,7 +160,7 @@
 
 ============================================================
 
-### 📄 InCoder-32B-Thinking: Industrial Code World Model for Thinking
+## 📄 InCoder-32B-Thinking: Industrial Code World Model for Thinking
 
 - **链接**: https://huggingface.co/papers/2604.03144
 - **阅读来源**: HTML
@@ -194,7 +191,7 @@
 
 ============================================================
 
-### 📄 Token Warping Helps MLLMs Look from Nearby Viewpoints
+## 📄 Token Warping Helps MLLMs Look from Nearby Viewpoints
 
 - **链接**: https://huggingface.co/papers/2604.02870
 - **阅读来源**: HTML
@@ -225,7 +222,7 @@
 
 ============================================================
 
-### 📄 CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning
+## 📄 CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning
 
 - **链接**: https://huggingface.co/papers/2604.03231
 - **阅读来源**: HTML
@@ -253,4 +250,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
