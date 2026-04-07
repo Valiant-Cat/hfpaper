@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-07
 **Source URL**: https://huggingface.co/papers/date/2026-04-07
 
 ============================================================
 
-### 📄 Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing
+## 📄 Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing
 
 - **链接**: https://huggingface.co/papers/2604.02288
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies
+## 📄 Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies
 
 - **链接**: https://huggingface.co/papers/2604.00830
 - **阅读来源**: HTML
@@ -68,7 +65,7 @@
 
 ============================================================
 
-### 📄 SkillX: Automatically Constructing Skill Knowledge Bases for Agents
+## 📄 SkillX: Automatically Constructing Skill Knowledge Bases for Agents
 
 - **链接**: https://huggingface.co/papers/2604.04804
 - **阅读来源**: HTML
@@ -103,7 +100,7 @@
 
 ============================================================
 
-### 📄 HDP: A Lightweight Cryptographic Protocol for Human Delegation Provenance in Agentic AI Systems
+## 📄 HDP: A Lightweight Cryptographic Protocol for Human Delegation Provenance in Agentic AI Systems
 
 - **链接**: https://huggingface.co/papers/2604.04522
 - **阅读来源**: ArXiv Abs
@@ -133,7 +130,7 @@
 
 ============================================================
 
-### 📄 Memory Intelligence Agent
+## 📄 Memory Intelligence Agent
 
 - **链接**: https://huggingface.co/papers/2604.04503
 - **阅读来源**: HTML
@@ -164,7 +161,7 @@
 
 ============================================================
 
-### 📄 MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale
+## 📄 MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale
 
 - **链接**: https://huggingface.co/papers/2604.04771
 - **阅读来源**: HTML
@@ -194,7 +191,7 @@
 
 ============================================================
 
-### 📄 AvatarPointillist: AutoRegressive 4D Gaussian Avatarization
+## 📄 AvatarPointillist: AutoRegressive 4D Gaussian Avatarization
 
 - **链接**: https://huggingface.co/papers/2604.04787
 - **阅读来源**: HTML
@@ -224,7 +221,7 @@
 
 ============================================================
 
-### 📄 Can LLMs Learn to Reason Robustly under Noisy Supervision?
+## 📄 Can LLMs Learn to Reason Robustly under Noisy Supervision?
 
 - **链接**: https://huggingface.co/papers/2604.03993
 - **阅读来源**: HTML
@@ -258,7 +255,7 @@
 
 ============================================================
 
-### 📄 TriAttention: Efficient Long Reasoning with Trigonometric KV Compression
+## 📄 TriAttention: Efficient Long Reasoning with Trigonometric KV Compression
 
 - **链接**: https://huggingface.co/papers/2604.04921
 - **阅读来源**: HTML
@@ -291,7 +288,7 @@
 
 ============================================================
 
-### 📄 Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw
+## 📄 Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw
 
 - **链接**: https://huggingface.co/papers/2604.04759
 - **阅读来源**: HTML
@@ -322,7 +319,7 @@
 
 ============================================================
 
-### 📄 OpenWorldLib: A Unified Codebase and Definition of Advanced World Models
+## 📄 OpenWorldLib: A Unified Codebase and Definition of Advanced World Models
 
 - **链接**: https://huggingface.co/papers/2604.04707
 - **阅读来源**: HTML
@@ -353,7 +350,7 @@
 
 ============================================================
 
-### 📄 Less Detail, Better Answers: Degradation-Driven Prompting for VQA
+## 📄 Less Detail, Better Answers: Degradation-Driven Prompting for VQA
 
 - **链接**: https://huggingface.co/papers/2604.04838
 - **阅读来源**: HTML
@@ -384,7 +381,7 @@
 
 ============================================================
 
-### 📄 LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models
+## 📄 LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models
 
 - **链接**: https://huggingface.co/papers/2603.28301
 - **阅读来源**: HTML
@@ -416,7 +413,7 @@
 
 ============================================================
 
-### 📄 FileGram: Grounding Agent Personalization in File-System Behavioral Traces
+## 📄 FileGram: Grounding Agent Personalization in File-System Behavioral Traces
 
 - **链接**: https://huggingface.co/papers/2604.04901
 - **阅读来源**: HTML
@@ -446,7 +443,7 @@
 
 ============================================================
 
-### 📄 LightThinker++: From Reasoning Compression to Memory Management
+## 📄 LightThinker++: From Reasoning Compression to Memory Management
 
 - **链接**: https://huggingface.co/papers/2604.03679
 - **阅读来源**: HTML
@@ -480,7 +477,7 @@ NLP-大模型推理加速、复杂逻辑推理（Slow-thinking）以及长周期
 
 ============================================================
 
-### 📄 AURA: Always-On Understanding and Real-Time Assistance via Video Streams
+## 📄 AURA: Always-On Understanding and Real-Time Assistance via Video Streams
 
 - **链接**: https://huggingface.co/papers/2604.04184
 - **阅读来源**: HTML
@@ -510,7 +507,7 @@ NLP-大模型推理加速、复杂逻辑推理（Slow-thinking）以及长周期
 
 ============================================================
 
-### 📄 Self-Execution Simulation Improves Coding Models
+## 📄 Self-Execution Simulation Improves Coding Models
 
 - **链接**: https://huggingface.co/papers/2604.03253
 - **阅读来源**: HTML
@@ -542,7 +539,7 @@ NLP-大模型微调、代码生成（Code Generation）、强化学习（Reinfor
 
 ============================================================
 
-### 📄 SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing
+## 📄 SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing
 
 - **链接**: https://huggingface.co/papers/2604.04911
 - **阅读来源**: HTML
@@ -572,7 +569,7 @@ NLP-大模型微调、代码生成（Code Generation）、强化学习（Reinfor
 
 ============================================================
 
-### 📄 ClawArena: Benchmarking AI Agents in Evolving Information Environments
+## 📄 ClawArena: Benchmarking AI Agents in Evolving Information Environments
 
 - **链接**: https://huggingface.co/papers/2604.04202
 - **阅读来源**: HTML
@@ -602,7 +599,7 @@ NLP-大模型微调、代码生成（Code Generation）、强化学习（Reinfor
 
 ============================================================
 
-### 📄 Vero: An Open RL Recipe for General Visual Reasoning
+## 📄 Vero: An Open RL Recipe for General Visual Reasoning
 
 - **链接**: https://huggingface.co/papers/2604.04917
 - **阅读来源**: HTML
@@ -633,4 +630,3 @@ NLP-大模型微调、代码生成（Code Generation）、强化学习（Reinfor
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
