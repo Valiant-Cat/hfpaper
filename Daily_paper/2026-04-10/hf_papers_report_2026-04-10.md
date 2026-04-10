@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-10
 **Source URL**: https://huggingface.co/papers/date/2026-04-10
 
 ============================================================
 
-### 📄 Structured Distillation of Web Agent Capabilities Enables Generalization
+## 📄 Structured Distillation of Web Agent Capabilities Enables Generalization
 
 - **链接**: https://huggingface.co/papers/2604.07776
 - **阅读来源**: HTML
@@ -36,7 +33,7 @@
 
 ============================================================
 
-### 📄 Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics
+## 📄 Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics
 
 - **链接**: https://huggingface.co/papers/2604.08503
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models
+## 📄 ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2604.08064
 - **阅读来源**: HTML
@@ -102,7 +99,7 @@
 
 ============================================================
 
-### 📄 DMax: Aggressive Parallel Decoding for dLLMs
+## 📄 DMax: Aggressive Parallel Decoding for dLLMs
 
 - **链接**: https://huggingface.co/papers/2604.08302
 - **阅读来源**: HTML
@@ -134,7 +131,7 @@
 
 ============================================================
 
-### 📄 Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability
+## 📄 Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability
 
 - **链接**: https://huggingface.co/papers/2604.06628
 - **阅读来源**: ArXiv Abs
@@ -166,7 +163,7 @@
 
 ============================================================
 
-### 📄 AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors
+## 📄 AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors
 
 - **链接**: https://huggingface.co/papers/2601.20524
 - **阅读来源**: HTML
@@ -196,7 +193,7 @@
 
 ============================================================
 
-### 📄 SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds
+## 📄 SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds
 
 - **链接**: https://huggingface.co/papers/2604.08544
 - **阅读来源**: HTML
@@ -228,7 +225,7 @@
 
 ============================================================
 
-### 📄 OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering
+## 📄 OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering
 
 - **链接**: https://huggingface.co/papers/2604.08209
 - **阅读来源**: HTML
@@ -260,7 +257,7 @@
 
 ============================================================
 
-### 📄 ClawBench: Can AI Agents Complete Everyday Online Tasks?
+## 📄 ClawBench: Can AI Agents Complete Everyday Online Tasks?
 
 - **链接**: https://huggingface.co/papers/2604.08523
 - **阅读来源**: HTML
@@ -291,7 +288,7 @@
 
 ============================================================
 
-### 📄 SkillClaw: Let Skills Evolve Collectively with Agentic Evolver
+## 📄 SkillClaw: Let Skills Evolve Collectively with Agentic Evolver
 
 - **链接**: https://huggingface.co/papers/2604.08377
 - **阅读来源**: ArXiv Abs
@@ -319,7 +316,7 @@
 
 ============================================================
 
-### 📄 Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills
+## 📄 Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills
 
 - **链接**: https://huggingface.co/papers/2604.05333
 - **阅读来源**: HTML
@@ -350,7 +347,7 @@
 
 ============================================================
 
-### 📄 KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation
+## 📄 KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation
 
 - **链接**: https://huggingface.co/papers/2604.08455
 - **阅读来源**: HTML
@@ -380,7 +377,7 @@
 
 ============================================================
 
-### 📄 Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search
+## 📄 Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search
 
 - **链接**: https://huggingface.co/papers/2604.08124
 - **阅读来源**: HTML
@@ -411,7 +408,7 @@
 
 ============================================================
 
-### 📄 MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping
+## 📄 MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping
 
 - **链接**: https://huggingface.co/papers/2604.08364
 - **阅读来源**: HTML
@@ -444,7 +441,7 @@
 
 ============================================================
 
-### 📄 RewardFlow: Generate Images by Optimizing What You Reward
+## 📄 RewardFlow: Generate Images by Optimizing What You Reward
 
 - **链接**: https://huggingface.co/papers/2604.08536
 - **阅读来源**: ArXiv Abs
@@ -473,7 +470,7 @@
 
 ============================================================
 
-### 📄 Structural Graph Probing of Vision-Language Models
+## 📄 Structural Graph Probing of Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.27070
 - **阅读来源**: HTML
@@ -505,7 +502,7 @@
 
 ============================================================
 
-### 📄 Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces
+## 📄 Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces
 
 - **链接**: https://huggingface.co/papers/2604.08362
 - **阅读来源**: HTML
@@ -535,7 +532,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 Lighting-grounded Video Generation with Renderer-based Agent Reasoning
+## 📄 Lighting-grounded Video Generation with Renderer-based Agent Reasoning
 
 - **链接**: https://huggingface.co/papers/2604.07966
 - **阅读来源**: HTML
@@ -566,7 +563,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference
+## 📄 Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference
 
 - **链接**: https://huggingface.co/papers/2604.07394
 - **阅读来源**: HTML
@@ -596,7 +593,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 On the Global Photometric Alignment for Low-Level Vision
+## 📄 On the Global Photometric Alignment for Low-Level Vision
 
 - **链接**: https://huggingface.co/papers/2604.08172
 - **阅读来源**: HTML
@@ -627,7 +624,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 Personalizing Text-to-Image Generation to Individual Taste
+## 📄 Personalizing Text-to-Image Generation to Individual Taste
 
 - **链接**: https://huggingface.co/papers/2604.07427
 - **阅读来源**: HTML
@@ -657,7 +654,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 Automating Database-Native Function Code Synthesis with LLMs
+## 📄 Automating Database-Native Function Code Synthesis with LLMs
 
 - **链接**: https://huggingface.co/papers/2604.06231
 - **阅读来源**: ArXiv Abs
@@ -685,7 +682,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks
+## 📄 OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks
 
 - **链接**: https://huggingface.co/papers/2604.08539
 - **阅读来源**: HTML
@@ -715,7 +712,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents
+## 📄 HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents
 
 - **链接**: https://huggingface.co/papers/2604.07430
 - **阅读来源**: HTML
@@ -745,7 +742,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering
+## 📄 Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering
 
 - **链接**: https://huggingface.co/papers/2604.08224
 - **阅读来源**: HTML
@@ -779,7 +776,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 LPM 1.0: Video-based Character Performance Model
+## 📄 LPM 1.0: Video-based Character Performance Model
 
 - **链接**: https://huggingface.co/papers/2604.07823
 - **阅读来源**: HTML
@@ -807,7 +804,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 ViVa: A Video-Generative Value Model for Robot Reinforcement Learning
+## 📄 ViVa: A Video-Generative Value Model for Robot Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2604.08168
 - **阅读来源**: HTML
@@ -842,7 +839,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence
+## 📄 OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence
 
 - **链接**: https://huggingface.co/papers/2604.07296
 - **阅读来源**: HTML
@@ -871,7 +868,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models
+## 📄 Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models
 
 - **链接**: https://huggingface.co/papers/2604.08545
 - **阅读来源**: HTML
@@ -905,7 +902,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP
+## 📄 POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP
 
 - **链接**: https://huggingface.co/papers/2604.06938
 - **阅读来源**: HTML
@@ -936,7 +933,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models
+## 📄 When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2604.08546
 - **阅读来源**: HTML
@@ -967,7 +964,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On
+## 📄 FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On
 
 - **链接**: https://huggingface.co/papers/2604.08526
 - **阅读来源**: HTML
@@ -996,7 +993,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
+## 📄 GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
 
 - **链接**: https://huggingface.co/papers/2604.07429
 - **阅读来源**: ArXiv Abs
@@ -1027,7 +1024,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models
+## 📄 PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2604.08340
 - **阅读来源**: HTML
@@ -1058,7 +1055,7 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 ============================================================
 
-### 📄 MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
+## 📄 MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
 
 - **链接**: https://huggingface.co/papers/2604.08516
 - **阅读来源**: HTML
@@ -1087,4 +1084,3 @@ NLP-大模型评估 / 用户行为模拟（User Behavior Simulation）
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
