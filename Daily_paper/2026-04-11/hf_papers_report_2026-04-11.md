@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-11
 **Source URL**: https://huggingface.co/papers/date/2026-04-11
 
 ============================================================
 
-### 📄 Training a Student Expert via Semi-Supervised Foundation Model Distillation
+## 📄 Training a Student Expert via Semi-Supervised Foundation Model Distillation
 
 - **链接**: https://huggingface.co/papers/2604.03841
 - **阅读来源**: HTML
@@ -41,7 +38,7 @@
 
 ============================================================
 
-### 📄 HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents
+## 📄 HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents
 
 - **链接**: https://huggingface.co/papers/2604.07430
 - **阅读来源**: HTML
@@ -74,7 +71,7 @@
 
 ============================================================
 
-### 📄 ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models
+## 📄 ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2604.08064
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@
 
 ============================================================
 
-### 📄 Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability
+## 📄 Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability
 
 - **链接**: https://huggingface.co/papers/2604.06628
 - **阅读来源**: ArXiv Abs
@@ -140,7 +137,7 @@
 
 ============================================================
 
-### 📄 Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models
+## 📄 Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models
 
 - **链接**: https://huggingface.co/papers/2604.08545
 - **阅读来源**: HTML
@@ -171,7 +168,7 @@
 
 ============================================================
 
-### 📄 OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering
+## 📄 OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering
 
 - **链接**: https://huggingface.co/papers/2604.08209
 - **阅读来源**: HTML
@@ -204,7 +201,7 @@
 
 ============================================================
 
-### 📄 Structured Distillation of Web Agent Capabilities Enables Generalization
+## 📄 Structured Distillation of Web Agent Capabilities Enables Generalization
 
 - **链接**: https://huggingface.co/papers/2604.07776
 - **阅读来源**: HTML
@@ -233,7 +230,7 @@
 
 ============================================================
 
-### 📄 Personalizing Text-to-Image Generation to Individual Taste
+## 📄 Personalizing Text-to-Image Generation to Individual Taste
 
 - **链接**: https://huggingface.co/papers/2604.07427
 - **阅读来源**: HTML
@@ -268,7 +265,7 @@
 
 ============================================================
 
-### 📄 MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
+## 📄 MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
 
 - **链接**: https://huggingface.co/papers/2604.08516
 - **阅读来源**: HTML
@@ -299,7 +296,7 @@
 
 ============================================================
 
-### 📄 SkillClaw: Let Skills Evolve Collectively with Agentic Evolver
+## 📄 SkillClaw: Let Skills Evolve Collectively with Agentic Evolver
 
 - **链接**: https://huggingface.co/papers/2604.08377
 - **阅读来源**: ArXiv Abs
@@ -327,7 +324,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search
+## 📄 Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search
 
 - **链接**: https://huggingface.co/papers/2604.08124
 - **阅读来源**: HTML
@@ -363,7 +360,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 QEIL v2: Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pareto-Optimal Energy Modeling and Multi-Objective Orchestration
+## 📄 QEIL v2: Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pareto-Optimal Energy Modeling and Multi-Objective Orchestration
 
 - **链接**: https://huggingface.co/papers/2602.06057
 - **阅读来源**: HTML
@@ -395,7 +392,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP
+## 📄 POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP
 
 - **链接**: https://huggingface.co/papers/2604.06938
 - **阅读来源**: HTML
@@ -426,7 +423,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces
+## 📄 Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces
 
 - **链接**: https://huggingface.co/papers/2604.08362
 - **阅读来源**: HTML
@@ -456,7 +453,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics
+## 📄 Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics
 
 - **链接**: https://huggingface.co/papers/2604.08503
 - **阅读来源**: HTML
@@ -486,7 +483,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Structural Graph Probing of Vision-Language Models
+## 📄 Structural Graph Probing of Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2603.27070
 - **阅读来源**: HTML
@@ -521,7 +518,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Automating Database-Native Function Code Synthesis with LLMs
+## 📄 Automating Database-Native Function Code Synthesis with LLMs
 
 - **链接**: https://huggingface.co/papers/2604.06231
 - **阅读来源**: ArXiv Abs
@@ -549,7 +546,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors
+## 📄 AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors
 
 - **链接**: https://huggingface.co/papers/2601.20524
 - **阅读来源**: HTML
@@ -580,7 +577,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Small Vision-Language Models are Smart Compressors for Long Video Understanding
+## 📄 Small Vision-Language Models are Smart Compressors for Long Video Understanding
 
 - **链接**: https://huggingface.co/papers/2604.08120
 - **阅读来源**: HTML
@@ -611,7 +608,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering
+## 📄 Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering
 
 - **链接**: https://huggingface.co/papers/2604.08224
 - **阅读来源**: HTML
@@ -646,7 +643,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping
+## 📄 MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping
 
 - **链接**: https://huggingface.co/papers/2604.08364
 - **阅读来源**: HTML
@@ -675,7 +672,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models
+## 📄 PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2604.08340
 - **阅读来源**: HTML
@@ -706,7 +703,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation
+## 📄 KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation
 
 - **链接**: https://huggingface.co/papers/2604.08455
 - **阅读来源**: HTML
@@ -737,7 +734,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 ViVa: A Video-Generative Value Model for Robot Reinforcement Learning
+## 📄 ViVa: A Video-Generative Value Model for Robot Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2604.08168
 - **阅读来源**: HTML
@@ -767,7 +764,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Lighting-grounded Video Generation with Renderer-based Agent Reasoning
+## 📄 Lighting-grounded Video Generation with Renderer-based Agent Reasoning
 
 - **链接**: https://huggingface.co/papers/2604.07966
 - **阅读来源**: HTML
@@ -798,7 +795,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization
+## 📄 Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2604.08476
 - **阅读来源**: HTML
@@ -835,7 +832,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 RewardFlow: Generate Images by Optimizing What You Reward
+## 📄 RewardFlow: Generate Images by Optimizing What You Reward
 
 - **链接**: https://huggingface.co/papers/2604.08536
 - **阅读来源**: ArXiv Abs
@@ -864,7 +861,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On
+## 📄 FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On
 
 - **链接**: https://huggingface.co/papers/2604.08526
 - **阅读来源**: HTML
@@ -894,7 +891,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 On the Global Photometric Alignment for Low-Level Vision
+## 📄 On the Global Photometric Alignment for Low-Level Vision
 
 - **链接**: https://huggingface.co/papers/2604.08172
 - **阅读来源**: HTML
@@ -924,7 +921,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 LPM 1.0: Video-based Character Performance Model
+## 📄 LPM 1.0: Video-based Character Performance Model
 
 - **链接**: https://huggingface.co/papers/2604.07823
 - **阅读来源**: HTML
@@ -952,7 +949,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks
+## 📄 OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks
 
 - **链接**: https://huggingface.co/papers/2604.08539
 - **阅读来源**: HTML
@@ -983,7 +980,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models
+## 📄 When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2604.08546
 - **阅读来源**: HTML
@@ -1014,7 +1011,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence
+## 📄 OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence
 
 - **链接**: https://huggingface.co/papers/2604.07296
 - **阅读来源**: HTML
@@ -1048,7 +1045,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images
+## 📄 Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images
 
 - **链接**: https://huggingface.co/papers/2604.07338
 - **阅读来源**: HTML
@@ -1079,7 +1076,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
+## 📄 GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
 
 - **链接**: https://huggingface.co/papers/2604.07429
 - **阅读来源**: ArXiv Abs
@@ -1112,7 +1109,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds
+## 📄 SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds
 
 - **链接**: https://huggingface.co/papers/2604.08544
 - **阅读来源**: HTML
@@ -1147,7 +1144,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 DMax: Aggressive Parallel Decoding for dLLMs
+## 📄 DMax: Aggressive Parallel Decoding for dLLMs
 
 - **链接**: https://huggingface.co/papers/2604.08302
 - **阅读来源**: HTML
@@ -1179,7 +1176,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills
+## 📄 Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills
 
 - **链接**: https://huggingface.co/papers/2604.05333
 - **阅读来源**: HTML
@@ -1214,7 +1211,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 ClawBench: Can AI Agents Complete Everyday Online Tasks?
+## 📄 ClawBench: Can AI Agents Complete Everyday Online Tasks?
 
 - **链接**: https://huggingface.co/papers/2604.08523
 - **阅读来源**: HTML
@@ -1243,7 +1240,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment
+## 📄 The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment
 
 - **链接**: https://huggingface.co/papers/2604.06377
 - **阅读来源**: ArXiv Abs
@@ -1273,7 +1270,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference
+## 📄 Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference
 
 - **链接**: https://huggingface.co/papers/2604.07394
 - **阅读来源**: HTML
@@ -1303,7 +1300,7 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 ============================================================
 
-### 📄 CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation
+## 📄 CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation
 
 - **链接**: https://huggingface.co/papers/2511.16428
 - **阅读来源**: HTML
@@ -1333,4 +1330,3 @@ NLP - 大语言模型智能体（LLM Agents） / 智能体技能持续学习与�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
