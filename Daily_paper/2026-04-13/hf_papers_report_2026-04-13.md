@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-13
 **Source URL**: https://huggingface.co/papers/date/2026-04-13
 
 ============================================================
 
-### 📄 ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion
+## 📄 ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion
 
 - **链接**: https://huggingface.co/papers/2604.09450
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details
+## 📄 RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details
 
 - **链接**: https://huggingface.co/papers/2604.06870
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory
+## 📄 Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory
 
 - **链接**: https://huggingface.co/papers/2604.08995
 - **阅读来源**: HTML
@@ -98,7 +95,7 @@
 
 ============================================================
 
-### 📄 VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images
+## 📄 VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images
 
 - **链接**: https://huggingface.co/papers/2604.09531
 - **阅读来源**: ArXiv Abs
@@ -131,7 +128,7 @@
 
 ============================================================
 
-### 📄 ScheMatiQ: From Research Question to Structured Data through Interactive Schema Discovery
+## 📄 ScheMatiQ: From Research Question to Structured Data through Interactive Schema Discovery
 
 - **链接**: https://huggingface.co/papers/2604.09237
 - **阅读来源**: HTML
@@ -164,7 +161,7 @@
 
 ============================================================
 
-### 📄 ELT: Elastic Looped Transformers for Visual Generation
+## 📄 ELT: Elastic Looped Transformers for Visual Generation
 
 - **链接**: https://huggingface.co/papers/2604.09168
 - **阅读来源**: HTML
@@ -194,7 +191,7 @@
 
 ============================================================
 
-### 📄 Large Language Models Align with the Human Brain during Creative Thinking
+## 📄 Large Language Models Align with the Human Brain during Creative Thinking
 
 - **链接**: https://huggingface.co/papers/2604.03480
 - **阅读来源**: HTML
@@ -224,7 +221,7 @@
 
 ============================================================
 
-### 📄 Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video
+## 📄 Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video
 
 - **链接**: https://huggingface.co/papers/2604.07786
 - **阅读来源**: HTML
@@ -256,7 +253,7 @@
 
 ============================================================
 
-### 📄 CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation
+## 📄 CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation
 
 - **链接**: https://huggingface.co/papers/2604.09201
 - **阅读来源**: ArXiv Abs
@@ -285,7 +282,7 @@
 
 ============================================================
 
-### 📄 FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios
+## 📄 FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios
 
 - **链接**: https://huggingface.co/papers/2604.07413
 - **阅读来源**: ArXiv Abs
@@ -314,7 +311,7 @@
 
 ============================================================
 
-### 📄 AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents
+## 📄 AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents
 
 - **链接**: https://huggingface.co/papers/2603.27490
 - **阅读来源**: HTML
@@ -345,7 +342,7 @@
 
 ============================================================
 
-### 📄 WildDet3D: Scaling Promptable 3D Detection in the Wild
+## 📄 WildDet3D: Scaling Promptable 3D Detection in the Wild
 
 - **链接**: https://huggingface.co/papers/2604.08626
 - **阅读来源**: ArXiv Abs
@@ -377,7 +374,7 @@
 
 ============================================================
 
-### 📄 Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism
+## 📄 Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism
 
 - **链接**: https://huggingface.co/papers/2604.09544
 - **阅读来源**: HTML
@@ -411,7 +408,7 @@
 
 ============================================================
 
-### 📄 Structured Causal Video Reasoning via Multi-Objective Alignment
+## 📄 Structured Causal Video Reasoning via Multi-Objective Alignment
 
 - **链接**: https://huggingface.co/papers/2604.04415
 - **阅读来源**: HTML
@@ -441,7 +438,7 @@
 
 ============================================================
 
-### 📄 EXAONE 4.5 Technical Report
+## 📄 EXAONE 4.5 Technical Report
 
 - **链接**: https://huggingface.co/papers/2604.08644
 - **阅读来源**: HTML
@@ -468,4 +465,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
