@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-14
 **Source URL**: https://huggingface.co/papers/date/2026-04-14
 
 ============================================================
 
-### 📄 OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation
+## 📄 OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation
 
 - **链接**: https://huggingface.co/papers/2604.11804
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach
+## 📄 Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach
 
 - **链接**: https://huggingface.co/papers/2604.11547
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation
+## 📄 SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation
 
 - **链接**: https://huggingface.co/papers/2604.09212
 - **阅读来源**: HTML
@@ -103,7 +100,7 @@
 
 ============================================================
 
-### 📄 SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding
+## 📄 SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding
 
 - **链接**: https://huggingface.co/papers/2604.09557
 - **阅读来源**: HTML
@@ -136,7 +133,7 @@
 
 ============================================================
 
-### 📄 Zero-shot World Models Are Developmentally Efficient Learners
+## 📄 Zero-shot World Models Are Developmentally Efficient Learners
 
 - **链接**: https://huggingface.co/papers/2604.10333
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@
 
 ============================================================
 
-### 📄 Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator
+## 📄 Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator
 
 - **链接**: https://huggingface.co/papers/2604.08121
 - **阅读来源**: HTML
@@ -199,7 +196,7 @@
 
 ============================================================
 
-### 📄 TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training
+## 📄 TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training
 
 - **链接**: https://huggingface.co/papers/2604.10784
 - **阅读来源**: HTML
@@ -231,7 +228,7 @@
 
 ============================================================
 
-### 📄 Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models
+## 📄 Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2604.02340
 - **阅读来源**: HTML
@@ -261,7 +258,7 @@
 
 ============================================================
 
-### 📄 SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context
+## 📄 SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context
 
 - **链接**: https://huggingface.co/papers/2604.11716
 - **阅读来源**: HTML
@@ -292,7 +289,7 @@
 
 ============================================================
 
-### 📄 TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction
+## 📄 TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction
 
 - **链接**: https://huggingface.co/papers/2604.08921
 - **阅读来源**: HTML
@@ -323,7 +320,7 @@
 
 ============================================================
 
-### 📄 BMdataset: A Musicologically Curated LilyPond Dataset
+## 📄 BMdataset: A Musicologically Curated LilyPond Dataset
 
 - **链接**: https://huggingface.co/papers/2604.10628
 - **阅读来源**: HTML
@@ -354,7 +351,7 @@
 
 ============================================================
 
-### 📄 Strips as Tokens: Artist Mesh Generation with Native UV Segmentation
+## 📄 Strips as Tokens: Artist Mesh Generation with Native UV Segmentation
 
 - **链接**: https://huggingface.co/papers/2604.09132
 - **阅读来源**: HTML
@@ -389,7 +386,7 @@
 
 ============================================================
 
-### 📄 ADD for Multi-Bit Image Watermarking
+## 📄 ADD for Multi-Bit Image Watermarking
 
 - **链接**: https://huggingface.co/papers/2604.11491
 - **阅读来源**: HTML
@@ -425,7 +422,7 @@
 
 ============================================================
 
-### 📄 CodeTracer: Towards Traceable Agent States
+## 📄 CodeTracer: Towards Traceable Agent States
 
 - **链接**: https://huggingface.co/papers/2604.11641
 - **阅读来源**: HTML
@@ -455,7 +452,7 @@
 
 ============================================================
 
-### 📄 Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation
+## 📄 Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation
 
 - **链接**: https://huggingface.co/papers/2604.10030
 - **阅读来源**: HTML
@@ -485,7 +482,7 @@
 
 ============================================================
 
-### 📄 QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation
+## 📄 QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation
 
 - **链接**: https://huggingface.co/papers/2604.08570
 - **阅读来源**: HTML
@@ -516,7 +513,7 @@
 
 ============================================================
 
-### 📄 Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs
+## 📄 Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs
 
 - **链接**: https://huggingface.co/papers/2604.10480
 - **阅读来源**: HTML
@@ -548,7 +545,7 @@
 
 ============================================================
 
-### 📄 Advancing Polish Language Modeling through Tokenizer Optimization in the Bielik v3 7B and 11B Series
+## 📄 Advancing Polish Language Modeling through Tokenizer Optimization in the Bielik v3 7B and 11B Series
 
 - **链接**: https://huggingface.co/papers/2604.10799
 - **阅读来源**: HTML
@@ -577,7 +574,7 @@
 
 ============================================================
 
-### 📄 SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?
+## 📄 SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?
 
 - **链接**: https://huggingface.co/papers/2604.10718
 - **阅读来源**: HTML
@@ -608,7 +605,7 @@
 
 ============================================================
 
-### 📄 Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation
+## 📄 Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation
 
 - **链接**: https://huggingface.co/papers/2604.11290
 - **阅读来源**: HTML
@@ -642,7 +639,7 @@
 
 ============================================================
 
-### 📄 Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation
+## 📄 Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation
 
 - **链接**: https://huggingface.co/papers/2604.10098
 - **阅读来源**: HTML
@@ -673,7 +670,7 @@
 
 ============================================================
 
-### 📄 Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration
+## 📄 Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration
 
 - **链接**: https://huggingface.co/papers/2604.11446
 - **阅读来源**: HTML
@@ -709,7 +706,7 @@
 
 ============================================================
 
-### 📄 CocoaBench: Evaluating Unified Digital Agents in the Wild
+## 📄 CocoaBench: Evaluating Unified Digital Agents in the Wild
 
 - **链接**: https://huggingface.co/papers/2604.11201
 - **阅读来源**: HTML
@@ -740,7 +737,7 @@
 
 ============================================================
 
-### 📄 Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music
+## 📄 Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music
 
 - **链接**: https://huggingface.co/papers/2604.10905
 - **阅读来源**: HTML
@@ -771,7 +768,7 @@ AF-Next 在超过 20 个音频理解和推理基准测试中表现卓越，以�
 
 ============================================================
 
-### 📄 DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain
+## 📄 DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain
 
 - **链接**: https://huggingface.co/papers/2604.10425
 - **阅读来源**: HTML
@@ -802,7 +799,7 @@ AF-Next 在超过 20 个音频理解和推理基准测试中表现卓越，以�
 
 ============================================================
 
-### 📄 From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models
+## 📄 From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models
 
 - **链接**: https://huggingface.co/papers/2604.09459
 - **阅读来源**: HTML
@@ -833,7 +830,7 @@ AF-Next 在超过 20 个音频理解和推理基准测试中表现卓越，以�
 
 ============================================================
 
-### 📄 Introspective Diffusion Language Models
+## 📄 Introspective Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2604.11035
 - **阅读来源**: HTML
@@ -861,7 +858,7 @@ AF-Next 在超过 20 个音频理解和推理基准测试中表现卓越，以�
 
 ============================================================
 
-### 📄 Pseudo-Unification: Entropy Probing Reveals Divergent Information Patterns in Unified Multimodal Models
+## 📄 Pseudo-Unification: Entropy Probing Reveals Divergent Information Patterns in Unified Multimodal Models
 
 - **链接**: https://huggingface.co/papers/2604.10949
 - **阅读来源**: HTML
@@ -895,7 +892,7 @@ AF-Next 在超过 20 个音频理解和推理基准测试中表现卓越，以�
 
 ============================================================
 
-### 📄 General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks
+## 📄 General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks
 
 - **链接**: https://huggingface.co/papers/2604.11778
 - **阅读来源**: HTML
@@ -926,7 +923,7 @@ AF-Next 在超过 20 个音频理解和推理基准测试中表现卓越，以�
 
 ============================================================
 
-### 📄 Continuous Adversarial Flow Models
+## 📄 Continuous Adversarial Flow Models
 
 - **链接**: https://huggingface.co/papers/2604.11521
 - **阅读来源**: HTML
@@ -959,7 +956,7 @@ AF-Next 在超过 20 个音频理解和推理基准测试中表现卓越，以�
 
 ============================================================
 
-### 📄 Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind
+## 📄 Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind
 
 - **链接**: https://huggingface.co/papers/2604.11666
 - **阅读来源**: ArXiv Abs
@@ -988,7 +985,7 @@ AF-Next 在超过 20 个音频理解和推理基准测试中表现卓越，以�
 
 ============================================================
 
-### 📄 Solving Physics Olympiad via Reinforcement Learning on Physics Simulators
+## 📄 Solving Physics Olympiad via Reinforcement Learning on Physics Simulators
 
 - **链接**: https://huggingface.co/papers/2604.11805
 - **阅读来源**: ArXiv Abs
@@ -1015,4 +1012,3 @@ NLP-大模型微调、强化学习、AI for Science（物理推理）
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
