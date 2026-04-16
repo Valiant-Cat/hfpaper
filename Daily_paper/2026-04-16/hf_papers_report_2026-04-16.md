@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-16
 **Source URL**: https://huggingface.co/papers/date/2026-04-16
 
 ============================================================
 
-### 📄 OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models
+## 📄 OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models
 
 - **链接**: https://huggingface.co/papers/2604.10866
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 From P(y|x) to P(y): Investigating Reinforcement Learning in Pre-train Space
+## 📄 From P(y|x) to P(y): Investigating Reinforcement Learning in Pre-train Space
 
 - **链接**: https://huggingface.co/papers/2604.14142
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 Mobile GUI Agents under Real-world Threats: Are We There Yet?
+## 📄 Mobile GUI Agents under Real-world Threats: Are We There Yet?
 
 - **链接**: https://huggingface.co/papers/2507.04227
 - **阅读来源**: HTML
@@ -101,7 +98,7 @@
 
 ============================================================
 
-### 📄 MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments
+## 📄 MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments
 
 - **链接**: https://huggingface.co/papers/2604.13418
 - **阅读来源**: HTML
@@ -133,7 +130,7 @@
 
 ============================================================
 
-### 📄 Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself
+## 📄 Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself
 
 - **链接**: https://huggingface.co/papers/2604.14048
 - **阅读来源**: HTML
@@ -165,7 +162,7 @@
 
 ============================================================
 
-### 📄 TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration
+## 📄 TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration
 
 - **链接**: https://huggingface.co/papers/2604.14116
 - **阅读来源**: HTML
@@ -195,7 +192,7 @@
 
 ============================================================
 
-### 📄 Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents
+## 📄 Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents
 
 - **链接**: https://huggingface.co/papers/2604.14004
 - **阅读来源**: HTML
@@ -229,7 +226,7 @@
 
 ============================================================
 
-### 📄 RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time
+## 📄 RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time
 
 - **链接**: https://huggingface.co/papers/2604.11626
 - **阅读来源**: HTML
@@ -259,7 +256,7 @@
 
 ============================================================
 
-### 📄 Target Policy Optimization
+## 📄 Target Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2604.06159
 - **阅读来源**: HTML
@@ -297,7 +294,7 @@
 
 ============================================================
 
-### 📄 Exploration and Exploitation Errors Are Measurable for Language Model Agents
+## 📄 Exploration and Exploitation Errors Are Measurable for Language Model Agents
 
 - **链接**: https://huggingface.co/papers/2604.13151
 - **阅读来源**: HTML
@@ -329,7 +326,7 @@
 
 ============================================================
 
-### 📄 TIP: Token Importance in On-Policy Distillation
+## 📄 TIP: Token Importance in On-Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2604.14084
 - **阅读来源**: HTML
@@ -358,7 +355,7 @@
 
 ============================================================
 
-### 📄 Seedance 2.0: Advancing Video Generation for World Complexity
+## 📄 Seedance 2.0: Advancing Video Generation for World Complexity
 
 - **链接**: https://huggingface.co/papers/2604.14148
 - **阅读来源**: ArXiv Abs
@@ -387,7 +384,7 @@
 
 ============================================================
 
-### 📄 Do AI Coding Agents Log Like Humans? An Empirical Study
+## 📄 Do AI Coding Agents Log Like Humans? An Empirical Study
 
 - **链接**: https://huggingface.co/papers/2604.09409
 - **阅读来源**: HTML
@@ -418,7 +415,7 @@
 
 ============================================================
 
-### 📄 ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video
+## 📄 ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video
 
 - **链接**: https://huggingface.co/papers/2604.07882
 - **阅读来源**: HTML
@@ -449,7 +446,7 @@
 
 ============================================================
 
-### 📄 InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis
+## 📄 InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis
 
 - **链接**: https://huggingface.co/papers/2604.13201
 - **阅读来源**: HTML
@@ -480,7 +477,7 @@
 
 ============================================================
 
-### 📄 UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding
+## 📄 UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding
 
 - **链接**: https://huggingface.co/papers/2604.14113
 - **阅读来源**: HTML
@@ -512,7 +509,7 @@
 
 ============================================================
 
-### 📄 Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure
+## 📄 Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure
 
 - **链接**: https://huggingface.co/papers/2604.11045
 - **阅读来源**: HTML
@@ -544,7 +541,7 @@
 
 ============================================================
 
-### 📄 UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization
+## 📄 UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2604.13822
 - **阅读来源**: ArXiv Abs
@@ -573,7 +570,7 @@
 
 ============================================================
 
-### 📄 ROSE: Retrieval-Oriented Segmentation Enhancement
+## 📄 ROSE: Retrieval-Oriented Segmentation Enhancement
 
 - **链接**: https://huggingface.co/papers/2604.14147
 - **阅读来源**: HTML
@@ -605,7 +602,7 @@
 
 ============================================================
 
-### 📄 GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
+## 📄 GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
 
 - **链接**: https://huggingface.co/papers/2604.07429
 - **阅读来源**: ArXiv Abs
@@ -636,7 +633,7 @@
 
 ============================================================
 
-### 📄 SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering
+## 📄 SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering
 
 - **链接**: https://huggingface.co/papers/2604.11548
 - **阅读来源**: HTML
@@ -668,7 +665,7 @@
 
 ============================================================
 
-### 📄 SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments
+## 📄 SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments
 
 - **链接**: https://huggingface.co/papers/2604.14144
 - **阅读来源**: HTML
@@ -697,4 +694,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
