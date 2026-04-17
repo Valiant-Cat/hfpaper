@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-17
 **Source URL**: https://huggingface.co/papers/date/2026-04-17
 
 ============================================================
 
-### 📄 LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning
+## 📄 LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2604.14922
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories
+## 📄 LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories
 
 - **链接**: https://huggingface.co/papers/2604.15311
 - **阅读来源**: HTML
@@ -68,7 +65,7 @@
 
 ============================================================
 
-### 📄 MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
+## 📄 MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
 
 - **链接**: https://huggingface.co/papers/2604.15309
 - **阅读来源**: HTML
@@ -98,7 +95,7 @@
 
 ============================================================
 
-### 📄 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems
+## 📄 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems
 
 - **链接**: https://huggingface.co/papers/2604.14228
 - **阅读来源**: HTML
@@ -129,7 +126,7 @@
 
 ============================================================
 
-### 📄 OneHOI: Unifying Human-Object Interaction Generation and Editing
+## 📄 OneHOI: Unifying Human-Object Interaction Generation and Editing
 
 - **链接**: https://huggingface.co/papers/2604.14062
 - **阅读来源**: HTML
@@ -159,7 +156,7 @@
 
 ============================================================
 
-### 📄 GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens
+## 📄 GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens
 
 - **链接**: https://huggingface.co/papers/2604.15284
 - **阅读来源**: HTML
@@ -189,7 +186,7 @@
 
 ============================================================
 
-### 📄 ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack
+## 📄 ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack
 
 - **链接**: https://huggingface.co/papers/2509.25843
 - **阅读来源**: HTML
@@ -223,7 +220,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment） / 机械可解释性（
 
 ============================================================
 
-### 📄 Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction
+## 📄 Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction
 
 - **链接**: https://huggingface.co/papers/2604.11707
 - **阅读来源**: HTML
@@ -256,7 +253,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment） / 机械可解释性（
 
 ============================================================
 
-### 📄 UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards
+## 📄 UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards
 
 - **链接**: https://huggingface.co/papers/2604.14967
 - **阅读来源**: HTML
@@ -291,7 +288,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment） / 机械可解释性（
 
 ============================================================
 
-### 📄 KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs
+## 📄 KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs
 
 - **链接**: https://huggingface.co/papers/2604.13226
 - **阅读来源**: HTML
@@ -324,7 +321,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment） / 机械可解释性（
 
 ============================================================
 
-### 📄 How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data
+## 📄 How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data
 
 - **链接**: https://huggingface.co/papers/2604.14164
 - **阅读来源**: HTML
@@ -360,7 +357,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment） / 机械可解释性（
 
 ============================================================
 
-### 📄 SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems
+## 📄 SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems
 
 - **链接**: https://huggingface.co/papers/2604.04514
 - **阅读来源**: HTML
@@ -390,7 +387,7 @@ NLP-大模型安全与对齐（LLM Safety & Alignment） / 机械可解释性（
 
 ============================================================
 
-### 📄 C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences
+## 📄 C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences
 
 - **链接**: https://huggingface.co/papers/2604.13618
 - **阅读来源**: HTML
@@ -424,7 +421,7 @@ NLP-大模型对齐（LLM Alignment）、强化学习人类反馈（RLHF）、�
 
 ============================================================
 
-### 📄 RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework
+## 📄 RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework
 
 - **链接**: https://huggingface.co/papers/2604.15308
 - **阅读来源**: HTML
@@ -454,7 +451,7 @@ NLP-大模型对齐（LLM Alignment）、强化学习人类反馈（RLHF）、�
 
 ============================================================
 
-### 📄 Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models
+## 📄 Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2604.14629
 - **阅读来源**: HTML
@@ -485,7 +482,7 @@ NLP-大模型对齐（LLM Alignment）、强化学习人类反馈（RLHF）、�
 
 ============================================================
 
-### 📄 HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System
+## 📄 HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System
 
 - **链接**: https://huggingface.co/papers/2604.14125
 - **阅读来源**: HTML
@@ -516,7 +513,7 @@ NLP-大模型对齐（LLM Alignment）、强化学习人类反馈（RLHF）、�
 
 ============================================================
 
-### 📄 Cross-Tokenizer LLM Distillation through a Byte-Level Interface
+## 📄 Cross-Tokenizer LLM Distillation through a Byte-Level Interface
 
 - **链接**: https://huggingface.co/papers/2604.07466
 - **阅读来源**: HTML
@@ -551,7 +548,7 @@ NLP-大模型对齐（LLM Alignment）、强化学习人类反馈（RLHF）、�
 
 ============================================================
 
-### 📄 Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3
+## 📄 Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3
 
 - **链接**: https://huggingface.co/papers/2603.27844
 - **阅读来源**: HTML
@@ -583,7 +580,7 @@ NLP-大模型推理优化（Inference-Time Optimization）、大语言模型数�
 
 ============================================================
 
-### 📄 DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation
+## 📄 DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation
 
 - **链接**: https://huggingface.co/papers/2604.14683
 - **阅读来源**: HTML
@@ -615,7 +612,7 @@ NLP-大模型推理优化（Inference-Time Optimization）、大语言模型数�
 
 ============================================================
 
-### 📄 Towards Autonomous Mechanistic Reasoning in Virtual Cells
+## 📄 Towards Autonomous Mechanistic Reasoning in Virtual Cells
 
 - **链接**: https://huggingface.co/papers/2604.11661
 - **阅读来源**: HTML
@@ -648,7 +645,7 @@ AI for Science (AI4Science) / 生物信息学 / 大模型科学推理（大模�
 
 ============================================================
 
-### 📄 TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification
+## 📄 TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification
 
 - **链接**: https://huggingface.co/papers/2604.14531
 - **阅读来源**: HTML
@@ -682,7 +679,7 @@ AI for Science (AI4Science) / 生物信息学 / 大模型科学推理（大模�
 
 ============================================================
 
-### 📄 HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds
+## 📄 HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds
 
 - **链接**: https://huggingface.co/papers/2604.14268
 - **阅读来源**: HTML
@@ -711,4 +708,3 @@ AI for Science (AI4Science) / 生物信息学 / 大模型科学推理（大模�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
