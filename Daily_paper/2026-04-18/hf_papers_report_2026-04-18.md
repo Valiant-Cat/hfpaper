@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-18
 **Source URL**: https://huggingface.co/papers/date/2026-04-18
 
 ============================================================
 
-### 📄 GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens
+## 📄 GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens
 
 - **链接**: https://huggingface.co/papers/2604.15284
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System
+## 📄 HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System
 
 - **链接**: https://huggingface.co/papers/2604.14125
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@
 
 ============================================================
 
-### 📄 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems
+## 📄 Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems
 
 - **链接**: https://huggingface.co/papers/2604.14228
 - **阅读来源**: HTML
@@ -99,7 +96,7 @@
 
 ============================================================
 
-### 📄 An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning
+## 📄 An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning
 
 - **链接**: https://huggingface.co/papers/2211.16780
 - **阅读来源**: HTML
@@ -131,7 +128,7 @@
 
 ============================================================
 
-### 📄 Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction
+## 📄 Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction
 
 - **链接**: https://huggingface.co/papers/2604.11707
 - **阅读来源**: HTML
@@ -164,7 +161,7 @@
 
 ============================================================
 
-### 📄 Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models
+## 📄 Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2604.14629
 - **阅读来源**: HTML
@@ -194,7 +191,7 @@
 
 ============================================================
 
-### 📄 Three-Phase Transformer
+## 📄 Three-Phase Transformer
 
 - **链接**: https://huggingface.co/papers/2604.14430
 - **阅读来源**: HTML
@@ -224,7 +221,7 @@
 
 ============================================================
 
-### 📄 Cross-Tokenizer LLM Distillation through a Byte-Level Interface
+## 📄 Cross-Tokenizer LLM Distillation through a Byte-Level Interface
 
 - **链接**: https://huggingface.co/papers/2604.07466
 - **阅读来源**: HTML
@@ -258,7 +255,7 @@
 
 ============================================================
 
-### 📄 MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
+## 📄 MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
 
 - **链接**: https://huggingface.co/papers/2604.15309
 - **阅读来源**: HTML
@@ -288,7 +285,7 @@
 
 ============================================================
 
-### 📄 OneHOI: Unifying Human-Object Interaction Generation and Editing
+## 📄 OneHOI: Unifying Human-Object Interaction Generation and Editing
 
 - **链接**: https://huggingface.co/papers/2604.14062
 - **阅读来源**: HTML
@@ -322,7 +319,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data
+## 📄 How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data
 
 - **链接**: https://huggingface.co/papers/2604.14164
 - **阅读来源**: HTML
@@ -353,7 +350,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes
+## 📄 Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes
 
 - **链接**: https://huggingface.co/papers/2604.14914
 - **阅读来源**: HTML
@@ -385,7 +382,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography
+## 📄 RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography
 
 - **链接**: https://huggingface.co/papers/2604.15231
 - **阅读来源**: HTML
@@ -415,7 +412,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 Reinforcement Learning via Value Gradient Flow
+## 📄 Reinforcement Learning via Value Gradient Flow
 
 - **链接**: https://huggingface.co/papers/2604.14265
 - **阅读来源**: HTML
@@ -450,7 +447,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards
+## 📄 UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards
 
 - **链接**: https://huggingface.co/papers/2604.14967
 - **阅读来源**: HTML
@@ -482,7 +479,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification
+## 📄 TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification
 
 - **链接**: https://huggingface.co/papers/2604.14531
 - **阅读来源**: HTML
@@ -513,7 +510,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories
+## 📄 LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories
 
 - **链接**: https://huggingface.co/papers/2604.15311
 - **阅读来源**: HTML
@@ -542,7 +539,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds
+## 📄 HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds
 
 - **链接**: https://huggingface.co/papers/2604.14268
 - **阅读来源**: HTML
@@ -573,7 +570,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3
+## 📄 Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3
 
 - **链接**: https://huggingface.co/papers/2603.27844
 - **阅读来源**: HTML
@@ -605,7 +602,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences
+## 📄 C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences
 
 - **链接**: https://huggingface.co/papers/2604.13618
 - **阅读来源**: HTML
@@ -636,7 +633,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack
+## 📄 ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack
 
 - **链接**: https://huggingface.co/papers/2509.25843
 - **阅读来源**: HTML
@@ -666,7 +663,7 @@ OneHOI 在图像生成、无布局编辑及带布局单/多目标编辑任务上
 
 ============================================================
 
-### 📄 Towards Autonomous Mechanistic Reasoning in Virtual Cells
+## 📄 Towards Autonomous Mechanistic Reasoning in Virtual Cells
 
 - **链接**: https://huggingface.co/papers/2604.11661
 - **阅读来源**: HTML
@@ -698,7 +695,7 @@ AI for Science（科学人工智能） - 生物信息学 / 大语言模型（LLM
 
 ============================================================
 
-### 📄 Boosting Visual Instruction Tuning with Self-Supervised Guidance
+## 📄 Boosting Visual Instruction Tuning with Self-Supervised Guidance
 
 - **链接**: https://huggingface.co/papers/2604.12966
 - **阅读来源**: HTML
@@ -729,7 +726,7 @@ AI for Science（科学人工智能） - 生物信息学 / 大语言模型（LLM
 
 ============================================================
 
-### 📄 KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs
+## 📄 KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs
 
 - **链接**: https://huggingface.co/papers/2604.13226
 - **阅读来源**: HTML
@@ -762,7 +759,7 @@ AI for Science（科学人工智能） - 生物信息学 / 大语言模型（LLM
 
 ============================================================
 
-### 📄 RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework
+## 📄 RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework
 
 - **链接**: https://huggingface.co/papers/2604.15308
 - **阅读来源**: HTML
@@ -793,7 +790,7 @@ AI for Science（科学人工智能） - 生物信息学 / 大语言模型（LLM
 
 ============================================================
 
-### 📄 DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation
+## 📄 DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation
 
 - **链接**: https://huggingface.co/papers/2604.14683
 - **阅读来源**: HTML
@@ -824,7 +821,7 @@ AI for Science（科学人工智能） - 生物信息学 / 大语言模型（LLM
 
 ============================================================
 
-### 📄 SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems
+## 📄 SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems
 
 - **链接**: https://huggingface.co/papers/2604.04514
 - **阅读来源**: HTML
@@ -854,7 +851,7 @@ AI for Science（科学人工智能） - 生物信息学 / 大语言模型（LLM
 
 ============================================================
 
-### 📄 LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning
+## 📄 LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2604.14922
 - **阅读来源**: HTML
@@ -884,7 +881,7 @@ NLP-大语言模型微调与强化学习（特别是大模型的长文本推理�
 
 ============================================================
 
-### 📄 Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG
+## 📄 Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG
 
 - **链接**: https://huggingface.co/papers/2604.14572
 - **阅读来源**: HTML
@@ -916,4 +913,3 @@ NLP - 检索增强生成 (RAG) 与大模型智能体 (LLM Agents) / 企业级知
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
