@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-20
 **Source URL**: https://huggingface.co/papers/date/2026-04-20
 
 ============================================================
 
-### 📄 Elucidating the SNR-t Bias of Diffusion Probabilistic Models
+## 📄 Elucidating the SNR-t Bias of Diffusion Probabilistic Models
 
 - **链接**: https://huggingface.co/papers/2604.16044
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics
+## 📄 ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics
 
 - **链接**: https://huggingface.co/papers/2604.16254
 - **阅读来源**: ArXiv Abs
@@ -47,7 +44,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment
+## 📄 TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment
 
 - **链接**: https://huggingface.co/papers/2604.12012
 - **阅读来源**: HTML
@@ -78,7 +75,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems
+## 📄 Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems
 
 - **链接**: https://huggingface.co/papers/2604.04936
 - **阅读来源**: HTML
@@ -108,7 +105,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 (1D) Ordered Tokens Enable Efficient Test-Time Search
+## 📄 (1D) Ordered Tokens Enable Efficient Test-Time Search
 
 - **链接**: https://huggingface.co/papers/2604.15453
 - **阅读来源**: HTML
@@ -139,7 +136,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research
+## 📄 PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research
 
 - **链接**: https://huggingface.co/papers/2604.15411
 - **阅读来源**: HTML
@@ -168,7 +165,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies
+## 📄 QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies
 
 - **链接**: https://huggingface.co/papers/2604.15151
 - **阅读来源**: HTML
@@ -198,7 +195,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 EdgeDetect: Importance-Aware Gradient Compression with Homomorphic Aggregation for Federated Intrusion Detection
+## 📄 EdgeDetect: Importance-Aware Gradient Compression with Homomorphic Aggregation for Federated Intrusion Detection
 
 - **链接**: https://huggingface.co/papers/2604.14663
 - **阅读来源**: HTML
@@ -229,7 +226,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 PersonaVLM: Long-Term Personalized Multimodal LLMs
+## 📄 PersonaVLM: Long-Term Personalized Multimodal LLMs
 
 - **链接**: https://huggingface.co/papers/2604.13074
 - **阅读来源**: HTML
@@ -261,7 +258,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Can Large Language Models Reinvent Foundational Algorithms?
+## 📄 Can Large Language Models Reinvent Foundational Algorithms?
 
 - **链接**: https://huggingface.co/papers/2604.05716
 - **阅读来源**: HTML
@@ -292,7 +289,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Learning Adaptive Reasoning Paths for Efficient Visual Reasoning
+## 📄 Learning Adaptive Reasoning Paths for Efficient Visual Reasoning
 
 - **链接**: https://huggingface.co/papers/2604.14568
 - **阅读来源**: HTML
@@ -323,7 +320,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows
+## 📄 GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows
 
 - **链接**: https://huggingface.co/papers/2604.15715
 - **阅读来源**: HTML
@@ -353,7 +350,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization
+## 📄 AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization
 
 - **链接**: https://huggingface.co/papers/2511.15915
 - **阅读来源**: HTML
@@ -384,7 +381,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation
+## 📄 TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation
 
 - **链接**: https://huggingface.co/papers/2604.15950
 - **阅读来源**: ArXiv Abs
@@ -413,7 +410,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects
+## 📄 VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects
 
 - **链接**: https://huggingface.co/papers/2604.16272
 - **阅读来源**: HTML
@@ -446,7 +443,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning
+## 📄 Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning
 
 - **链接**: https://huggingface.co/papers/2604.16029
 - **阅读来源**: HTML
@@ -480,7 +477,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Repurposing 3D Generative Model for Autoregressive Layout Generation
+## 📄 Repurposing 3D Generative Model for Autoregressive Layout Generation
 
 - **链接**: https://huggingface.co/papers/2604.16299
 - **阅读来源**: HTML
@@ -510,7 +507,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Qwen3.5-Omni Technical Report
+## 📄 Qwen3.5-Omni Technical Report
 
 - **链接**: https://huggingface.co/papers/2604.15804
 - **阅读来源**: HTML
@@ -545,7 +542,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results
+## 📄 NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results
 
 - **链接**: https://huggingface.co/papers/2604.14816
 - **阅读来源**: HTML
@@ -575,7 +572,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips
+## 📄 Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips
 
 - **链接**: https://huggingface.co/papers/2502.07408
 - **阅读来源**: HTML
@@ -604,4 +601,3 @@ AI 分析出错: Server disconnected without sending a response.
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
