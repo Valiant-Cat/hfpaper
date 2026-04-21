@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-21
 **Source URL**: https://huggingface.co/papers/date/2026-04-21
 
 ============================================================
 
-### 📄 The Geometric Canary: Predicting Steerability and Detecting Drift via Representational Stability
+## 📄 The Geometric Canary: Predicting Steerability and Detecting Drift via Representational Stability
 
 - **链接**: https://huggingface.co/papers/2604.17698
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints
+## 📄 Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints
 
 - **链接**: https://huggingface.co/papers/2604.16038
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 Modeling Multiple Support Strategies within a Single Turn for Emotional Support Conversations
+## 📄 Modeling Multiple Support Strategies within a Single Turn for Emotional Support Conversations
 
 - **链接**: https://huggingface.co/papers/2604.17972
 - **阅读来源**: ArXiv Abs
@@ -97,7 +94,7 @@ NLP - 情感支持对话系统（Dialogue Generation / Emotional Support Convers
 
 ============================================================
 
-### 📄 Stratagem: Learning Transferable Reasoning via Trajectory-Modulated Game Self-Play
+## 📄 Stratagem: Learning Transferable Reasoning via Trajectory-Modulated Game Self-Play
 
 - **链接**: https://huggingface.co/papers/2604.17696
 - **阅读来源**: HTML
@@ -129,7 +126,7 @@ NLP - 情感支持对话系统（Dialogue Generation / Emotional Support Convers
 
 ============================================================
 
-### 📄 Beyond Text-Dominance: Understanding Modality Preference of Omni-modal Large Language Models
+## 📄 Beyond Text-Dominance: Understanding Modality Preference of Omni-modal Large Language Models
 
 - **链接**: https://huggingface.co/papers/2604.16902
 - **阅读来源**: HTML
@@ -158,7 +155,7 @@ NLP - 情感支持对话系统（Dialogue Generation / Emotional Support Convers
 
 ============================================================
 
-### 📄 ClawEnvKit: Automatic Environment Generation for Claw-Like Agents
+## 📄 ClawEnvKit: Automatic Environment Generation for Claw-Like Agents
 
 - **链接**: https://huggingface.co/papers/2604.18543
 - **阅读来源**: HTML
@@ -188,7 +185,7 @@ NLP - 情感支持对话系统（Dialogue Generation / Emotional Support Convers
 
 ============================================================
 
-### 📄 EvoMaster: A Foundational Agent Framework for Building Evolving Autonomous Scientific Agents at Scale
+## 📄 EvoMaster: A Foundational Agent Framework for Building Evolving Autonomous Scientific Agents at Scale
 
 - **链接**: https://huggingface.co/papers/2604.17406
 - **阅读来源**: HTML
@@ -221,7 +218,7 @@ NLP - 情感支持对话系统（Dialogue Generation / Emotional Support Convers
 
 ============================================================
 
-### 📄 OpenGame: Open Agentic Coding for Games
+## 📄 OpenGame: Open Agentic Coding for Games
 
 - **链接**: https://huggingface.co/papers/2604.18394
 - **阅读来源**: HTML
@@ -251,7 +248,7 @@ NLP - 情感支持对话系统（Dialogue Generation / Emotional Support Convers
 
 ============================================================
 
-### 📄 MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval
+## 📄 MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval
 
 - **链接**: https://huggingface.co/papers/2604.18584
 - **阅读来源**: HTML
@@ -283,7 +280,7 @@ NLP - 情感支持对话系统（Dialogue Generation / Emotional Support Convers
 
 ============================================================
 
-### 📄 WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models
+## 📄 WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models
 
 - **链接**: https://huggingface.co/papers/2604.18224
 - **阅读来源**: HTML
@@ -315,7 +312,7 @@ NLP - 情感支持对话系统（Dialogue Generation / Emotional Support Convers
 
 ============================================================
 
-### 📄 Geometric coherence of single-cell CRISPR perturbations reveals regulatory architecture and predicts cellular stress
+## 📄 Geometric coherence of single-cell CRISPR perturbations reveals regulatory architecture and predicts cellular stress
 
 - **链接**: https://huggingface.co/papers/2604.16642
 - **阅读来源**: HTML
@@ -325,7 +322,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Crowded in B-Space: Calibrating Shared Directions for LoRA Merging
+## 📄 Crowded in B-Space: Calibrating Shared Directions for LoRA Merging
 
 - **链接**: https://huggingface.co/papers/2604.16826
 - **阅读来源**: HTML
@@ -360,7 +357,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 MedConclusion: A Benchmark for Biomedical Conclusion Generation from Structured Abstracts
+## 📄 MedConclusion: A Benchmark for Biomedical Conclusion Generation from Structured Abstracts
 
 - **链接**: https://huggingface.co/papers/2604.06505
 - **阅读来源**: HTML
@@ -391,7 +388,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding
+## 📄 Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding
 
 - **链接**: https://huggingface.co/papers/2604.08537
 - **阅读来源**: HTML
@@ -421,7 +418,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 HSG: Hyperbolic Scene Graph
+## 📄 HSG: Hyperbolic Scene Graph
 
 - **链接**: https://huggingface.co/papers/2604.17454
 - **阅读来源**: HTML
@@ -451,7 +448,7 @@ AI 分析出错: Server disconnected without sending a response.
 
 ============================================================
 
-### 📄 Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration
+## 📄 Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration
 
 - **链接**: https://huggingface.co/papers/2604.18131
 - **阅读来源**: HTML
@@ -481,7 +478,7 @@ NLP-大模型智能体（LLM Agents）与无监督自进化（Self-Evolution）�
 
 ============================================================
 
-### 📄 Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs
+## 📄 Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs
 
 - **链接**: https://huggingface.co/papers/2604.18203
 - **阅读来源**: HTML
@@ -511,7 +508,7 @@ NLP-大模型智能体（LLM Agents）与无监督自进化（Self-Evolution）�
 
 ============================================================
 
-### 📄 Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation
+## 📄 Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation
 
 - **链接**: https://huggingface.co/papers/2604.18168
 - **阅读来源**: HTML
@@ -542,7 +539,7 @@ NLP-大模型智能体（LLM Agents）与无监督自进化（Self-Evolution）�
 
 ============================================================
 
-### 📄 MultiWorld: Scalable Multi-Agent Multi-View Video World Models
+## 📄 MultiWorld: Scalable Multi-Agent Multi-View Video World Models
 
 - **链接**: https://huggingface.co/papers/2604.18564
 - **阅读来源**: HTML
@@ -573,7 +570,7 @@ NLP-大模型智能体（LLM Agents）与无监督自进化（Self-Evolution）�
 
 ============================================================
 
-### 📄 EasyVideoR1: Easier RL for Video Understanding
+## 📄 EasyVideoR1: Easier RL for Video Understanding
 
 - **链接**: https://huggingface.co/papers/2604.16893
 - **阅读来源**: HTML
@@ -605,7 +602,7 @@ NLP-大模型智能体（LLM Agents）与无监督自进化（Self-Evolution）�
 
 ============================================================
 
-### 📄 When Can LLMs Learn to Reason with Weak Supervision?
+## 📄 When Can LLMs Learn to Reason with Weak Supervision?
 
 - **链接**: https://huggingface.co/papers/2604.18574
 - **阅读来源**: HTML
@@ -636,7 +633,7 @@ NLP - 大模型推理与强化学习微调（LLM Reasoning & Reinforcement Learn
 
 ============================================================
 
-### 📄 Precise Debugging Benchmark: Is Your Model Debugging or Regenerating?
+## 📄 Precise Debugging Benchmark: Is Your Model Debugging or Regenerating?
 
 - **链接**: https://huggingface.co/papers/2604.17338
 - **阅读来源**: HTML
@@ -669,7 +666,7 @@ NLP - 大模型推理与强化学习微调（LLM Reasoning & Reinforcement Learn
 
 ============================================================
 
-### 📄 GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification
+## 📄 GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification
 
 - **链接**: https://huggingface.co/papers/2604.14258
 - **阅读来源**: HTML
@@ -702,7 +699,7 @@ NLP - 大语言模型后训练（大模型微调与强化学习、数学推理�
 
 ============================================================
 
-### 📄 Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
+## 📄 Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
 
 - **链接**: https://huggingface.co/papers/2604.18292
 - **阅读来源**: HTML
@@ -733,7 +730,7 @@ NLP - 大语言模型后训练（大模型微调与强化学习、数学推理�
 
 ============================================================
 
-### 📄 Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models
+## 📄 Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models
 
 - **链接**: https://huggingface.co/papers/2604.16593
 - **阅读来源**: ArXiv Abs
@@ -761,7 +758,7 @@ NLP - 大语言模型后训练（大模型微调与强化学习、数学推理�
 
 ============================================================
 
-### 📄 Back to Repair: A Minimal Denoising Network\ for Time Series Anomaly Detection
+## 📄 Back to Repair: A Minimal Denoising Network\ for Time Series Anomaly Detection
 
 - **链接**: https://huggingface.co/papers/2604.17388
 - **阅读来源**: HTML
@@ -791,7 +788,7 @@ NLP - 大语言模型后训练（大模型微调与强化学习、数学推理�
 
 ============================================================
 
-### 📄 OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation
+## 📄 OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation
 
 - **链接**: https://huggingface.co/papers/2604.18486
 - **阅读来源**: HTML
@@ -824,7 +821,7 @@ NLP - 大语言模型后训练（大模型微调与强化学习、数学推理�
 
 ============================================================
 
-### 📄 Latent Preference Modeling for Cross-Session Personalized Tool Calling
+## 📄 Latent Preference Modeling for Cross-Session Personalized Tool Calling
 
 - **链接**: https://huggingface.co/papers/2604.17886
 - **阅读来源**: HTML
@@ -854,7 +851,7 @@ NLP-大模型智能体（LLM Agents）、个性化工具调用（Personalized To
 
 ============================================================
 
-### 📄 SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents
+## 📄 SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents
 
 - **链接**: https://huggingface.co/papers/2604.17308
 - **阅读来源**: HTML
@@ -885,7 +882,7 @@ NLP-大语言模型智能体 (LLM Agents)、自主智能体 (Autonomous Agents)�
 
 ============================================================
 
-### 📄 MNAFT: modality neuron-aware fine-tuning of multimodal large language models for image translation
+## 📄 MNAFT: modality neuron-aware fine-tuning of multimodal large language models for image translation
 
 - **链接**: https://huggingface.co/papers/2604.16943
 - **阅读来源**: HTML
@@ -919,7 +916,7 @@ NLP-大语言模型智能体 (LLM Agents)、自主智能体 (Autonomous Agents)�
 
 ============================================================
 
-### 📄 OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video
+## 📄 OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video
 
 - **链接**: https://huggingface.co/papers/2604.11102
 - **阅读来源**: HTML
@@ -950,4 +947,3 @@ NLP-大语言模型智能体 (LLM Agents)、自主智能体 (Autonomous Agents)�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
