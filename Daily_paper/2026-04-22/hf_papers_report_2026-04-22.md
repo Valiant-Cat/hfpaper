@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-22
 **Source URL**: https://huggingface.co/papers/date/2026-04-22
 
 ============================================================
 
-### 📄 Target-Oriented Pretraining Data Selection via Neuron-Activated Graph
+## 📄 Target-Oriented Pretraining Data Selection via Neuron-Activated Graph
 
 - **链接**: https://huggingface.co/papers/2604.15706
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 TEMPO: Scaling Test-time Training for Large Reasoning Models
+## 📄 TEMPO: Scaling Test-time Training for Large Reasoning Models
 
 - **链接**: https://huggingface.co/papers/2604.19295
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 Dual-View Training for Instruction-Following Information Retrieval
+## 📄 Dual-View Training for Instruction-Following Information Retrieval
 
 - **链接**: https://huggingface.co/papers/2604.18845
 - **阅读来源**: HTML
@@ -100,7 +97,7 @@
 
 ============================================================
 
-### 📄 HP-Edit: A Human-Preference Post-Training Framework for Image Editing
+## 📄 HP-Edit: A Human-Preference Post-Training Framework for Image Editing
 
 - **链接**: https://huggingface.co/papers/2604.19406
 - **阅读来源**: HTML
@@ -131,7 +128,7 @@
 
 ============================================================
 
-### 📄 Speculative Decoding for Autoregressive Video Generation
+## 📄 Speculative Decoding for Autoregressive Video Generation
 
 - **链接**: https://huggingface.co/papers/2604.17397
 - **阅读来源**: HTML
@@ -159,7 +156,7 @@
 
 ============================================================
 
-### 📄 Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs
+## 📄 Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs
 
 - **链接**: https://huggingface.co/papers/2604.16054
 - **阅读来源**: HTML
@@ -189,7 +186,7 @@
 
 ============================================================
 
-### 📄 UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models
+## 📄 UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2604.18518
 - **阅读来源**: HTML
@@ -224,7 +221,7 @@
 
 ============================================================
 
-### 📄 SPRITE: From Static Mockups to Engine-Ready Game UI
+## 📄 SPRITE: From Static Mockups to Engine-Ready Game UI
 
 - **链接**: https://huggingface.co/papers/2604.18591
 - **阅读来源**: HTML
@@ -254,7 +251,7 @@
 
 ============================================================
 
-### 📄 ClawNet: Human-Symbiotic Agent Network for Cross-User Autonomous Cooperation
+## 📄 ClawNet: Human-Symbiotic Agent Network for Cross-User Autonomous Cooperation
 
 - **链接**: https://huggingface.co/papers/2604.19211
 - **阅读来源**: HTML
@@ -286,7 +283,7 @@
 
 ============================================================
 
-### 📄 AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation
+## 📄 AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation
 
 - **链接**: https://huggingface.co/papers/2604.18240
 - **阅读来源**: HTML
@@ -318,7 +315,7 @@
 
 ============================================================
 
-### 📄 Understanding and Enforcing Weight Disentanglement in Task Arithmetic
+## 📄 Understanding and Enforcing Weight Disentanglement in Task Arithmetic
 
 - **链接**: https://huggingface.co/papers/2604.17078
 - **阅读来源**: HTML
@@ -350,7 +347,7 @@
 
 ============================================================
 
-### 📄 Code-Switching Information Retrieval: Benchmarks, Analysis, and the Limits of Current Retrievers
+## 📄 Code-Switching Information Retrieval: Benchmarks, Analysis, and the Limits of Current Retrievers
 
 - **链接**: https://huggingface.co/papers/2604.17632
 - **阅读来源**: HTML
@@ -381,7 +378,7 @@
 
 ============================================================
 
-### 📄 SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing
+## 📄 SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing
 
 - **链接**: https://huggingface.co/papers/2604.19587
 - **阅读来源**: HTML
@@ -411,7 +408,7 @@
 
 ============================================================
 
-### 📄 PlayCoder: Making LLM-Generated GUI Code Playable
+## 📄 PlayCoder: Making LLM-Generated GUI Code Playable
 
 - **链接**: https://huggingface.co/papers/2604.19742
 - **阅读来源**: HTML
@@ -444,7 +441,7 @@
 
 ============================================================
 
-### 📄 Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs
+## 📄 Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs
 
 - **链接**: https://huggingface.co/papers/2604.16060
 - **阅读来源**: HTML
@@ -475,7 +472,7 @@
 
 ============================================================
 
-### 📄 CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation
+## 📄 CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation
 
 - **链接**: https://huggingface.co/papers/2604.19636
 - **阅读来源**: HTML
@@ -505,7 +502,7 @@
 
 ============================================================
 
-### 📄 Contrastive Attribution in the Wild: An Interpretability Analysis of LLM Failures on Realistic Benchmarks
+## 📄 Contrastive Attribution in the Wild: An Interpretability Analysis of LLM Failures on Realistic Benchmarks
 
 - **链接**: https://huggingface.co/papers/2604.17761
 - **阅读来源**: HTML
@@ -537,7 +534,7 @@
 
 ============================================================
 
-### 📄 AgentSPEX: An Agent SPecification and EXecution Language
+## 📄 AgentSPEX: An Agent SPecification and EXecution Language
 
 - **链接**: https://huggingface.co/papers/2604.13346
 - **阅读来源**: HTML
@@ -566,7 +563,7 @@
 
 ============================================================
 
-### 📄 Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items
+## 📄 Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items
 
 - **链接**: https://huggingface.co/papers/2604.19748
 - **阅读来源**: ArXiv Abs
@@ -595,7 +592,7 @@
 
 ============================================================
 
-### 📄 Evaluation-driven Scaling for Scientific Discovery
+## 📄 Evaluation-driven Scaling for Scientific Discovery
 
 - **链接**: https://huggingface.co/papers/2604.19341
 - **阅读来源**: ArXiv Abs
@@ -626,7 +623,7 @@
 
 ============================================================
 
-### 📄 ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning
+## 📄 ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning
 
 - **链接**: https://huggingface.co/papers/2604.19254
 - **阅读来源**: HTML
@@ -659,7 +656,7 @@
 
 ============================================================
 
-### 📄 Mitigating Multimodal Hallucination via Phase-wise Self-reward
+## 📄 Mitigating Multimodal Hallucination via Phase-wise Self-reward
 
 - **链接**: https://huggingface.co/papers/2604.17982
 - **阅读来源**: HTML
@@ -692,7 +689,7 @@
 
 ============================================================
 
-### 📄 UniMesh: Unifying 3D Mesh Understanding and Generation
+## 📄 UniMesh: Unifying 3D Mesh Understanding and Generation
 
 - **链接**: https://huggingface.co/papers/2604.17472
 - **阅读来源**: HTML
@@ -723,7 +720,7 @@
 
 ============================================================
 
-### 📄 MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge
+## 📄 MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge
 
 - **链接**: https://huggingface.co/papers/2604.18164
 - **阅读来源**: ArXiv Abs
@@ -750,7 +747,7 @@
 
 ============================================================
 
-### 📄 The Cognitive Penalty: Ablating System 1 and System 2 Reasoning in Edge-Native SLMs for Decentralized Consensus
+## 📄 The Cognitive Penalty: Ablating System 1 and System 2 Reasoning in Edge-Native SLMs for Decentralized Consensus
 
 - **链接**: https://huggingface.co/papers/2604.16913
 - **阅读来源**: HTML
@@ -780,7 +777,7 @@
 
 ============================================================
 
-### 📄 LoopCTR: Unlocking the Loop Scaling Power for Click-Through Rate Prediction
+## 📄 LoopCTR: Unlocking the Loop Scaling Power for Click-Through Rate Prediction
 
 - **链接**: https://huggingface.co/papers/2604.19550
 - **阅读来源**: HTML
@@ -811,7 +808,7 @@
 
 ============================================================
 
-### 📄 Predicting integers from continuous parameters
+## 📄 Predicting integers from continuous parameters
 
 - **链接**: https://huggingface.co/papers/2602.10751
 - **阅读来源**: HTML
@@ -843,7 +840,7 @@
 
 ============================================================
 
-### 📄 Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language
+## 📄 Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language
 
 - **链接**: https://huggingface.co/papers/2604.19667
 - **阅读来源**: HTML
@@ -874,7 +871,7 @@
 
 ============================================================
 
-### 📄 AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model
+## 📄 AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model
 
 - **链接**: https://huggingface.co/papers/2604.19747
 - **阅读来源**: HTML
@@ -903,4 +900,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
