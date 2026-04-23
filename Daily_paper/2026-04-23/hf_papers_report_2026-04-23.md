@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-23
 **Source URL**: https://huggingface.co/papers/date/2026-04-23
 
 ============================================================
 
-### 📄 MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings
+## 📄 MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings
 
 - **链接**: https://huggingface.co/papers/2604.19902
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 CreativeGame:Toward Mechanic-Aware Creative Game Generation
+## 📄 CreativeGame:Toward Mechanic-Aware Creative Game Generation
 
 - **链接**: https://huggingface.co/papers/2604.19926
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 Tadabur: A Large-Scale Quran Audio Dataset
+## 📄 Tadabur: A Large-Scale Quran Audio Dataset
 
 - **链接**: https://huggingface.co/papers/2604.18932
 - **阅读来源**: HTML
@@ -99,7 +96,7 @@
 
 ============================================================
 
-### 📄 Near-Future Policy Optimization
+## 📄 Near-Future Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2604.20733
 - **阅读来源**: HTML
@@ -131,7 +128,7 @@
 
 ============================================================
 
-### 📄 Cortex 2.0: Grounding World Models in Real-World Industrial Deployment
+## 📄 Cortex 2.0: Grounding World Models in Real-World Industrial Deployment
 
 - **链接**: https://huggingface.co/papers/2604.20246
 - **阅读来源**: HTML
@@ -161,7 +158,7 @@
 
 ============================================================
 
-### 📄 Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks
+## 📄 Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks
 
 - **链接**: https://huggingface.co/papers/2604.11610
 - **阅读来源**: HTML
@@ -191,7 +188,7 @@
 
 ============================================================
 
-### 📄 ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis
+## 📄 ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis
 
 - **链接**: https://huggingface.co/papers/2604.19720
 - **阅读来源**: HTML
@@ -221,7 +218,7 @@
 
 ============================================================
 
-### 📄 Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges
+## 📄 Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges
 
 - **链接**: https://huggingface.co/papers/2604.13602
 - **阅读来源**: HTML
@@ -258,7 +255,7 @@
 
 ============================================================
 
-### 📄 Scaling Test-Time Compute for Agentic Coding
+## 📄 Scaling Test-Time Compute for Agentic Coding
 
 - **链接**: https://huggingface.co/papers/2604.16529
 - **阅读来源**: ArXiv Abs
@@ -288,7 +285,7 @@
 
 ============================================================
 
-### 📄 Exploring Spatial Intelligence from a Generative Perspective
+## 📄 Exploring Spatial Intelligence from a Generative Perspective
 
 - **链接**: https://huggingface.co/papers/2604.20570
 - **阅读来源**: HTML
@@ -320,7 +317,7 @@
 
 ============================================================
 
-### 📄 SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution
+## 📄 SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution
 
 - **链接**: https://huggingface.co/papers/2604.18982
 - **阅读来源**: HTML
@@ -354,7 +351,7 @@
 
 ============================================================
 
-### 📄 A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression
+## 📄 A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression
 
 - **链接**: https://huggingface.co/papers/2604.19572
 - **阅读来源**: HTML
@@ -385,7 +382,7 @@
 
 ============================================================
 
-### 📄 Convergent Evolution: How Different Language Models Learn Similar Number Representations
+## 📄 Convergent Evolution: How Different Language Models Learn Similar Number Representations
 
 - **链接**: https://huggingface.co/papers/2604.20817
 - **阅读来源**: HTML
@@ -416,7 +413,7 @@
 
 ============================================================
 
-### 📄 WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training
+## 📄 WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training
 
 - **链接**: https://huggingface.co/papers/2604.14932
 - **阅读来源**: HTML
@@ -448,7 +445,7 @@
 
 ============================================================
 
-### 📄 Visual Reasoning through Tool-supervised Reinforcement Learning
+## 📄 Visual Reasoning through Tool-supervised Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2604.19945
 - **阅读来源**: HTML
@@ -481,7 +478,7 @@
 
 ============================================================
 
-### 📄 SWE-chat: Coding Agent Interactions From Real Users in the Wild
+## 📄 SWE-chat: Coding Agent Interactions From Real Users in the Wild
 
 - **链接**: https://huggingface.co/papers/2604.20779
 - **阅读来源**: HTML
@@ -514,7 +511,7 @@
 
 ============================================================
 
-### 📄 DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation
+## 📄 DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation
 
 - **链接**: https://huggingface.co/papers/2604.20841
 - **阅读来源**: HTML
@@ -544,7 +541,7 @@
 
 ============================================================
 
-### 📄 LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model
+## 📄 LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model
 
 - **链接**: https://huggingface.co/papers/2604.20796
 - **阅读来源**: ArXiv Abs
@@ -574,7 +571,7 @@
 
 ============================================================
 
-### 📄 AI scientists produce results without reasoning scientifically
+## 📄 AI scientists produce results without reasoning scientifically
 
 - **链接**: https://huggingface.co/papers/2604.18805
 - **阅读来源**: ArXiv Abs
@@ -606,7 +603,7 @@
 
 ============================================================
 
-### 📄 Diverse Dictionary Learning
+## 📄 Diverse Dictionary Learning
 
 - **链接**: https://huggingface.co/papers/2604.17568
 - **阅读来源**: HTML
@@ -637,7 +634,7 @@
 
 ============================================================
 
-### 📄 DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data
+## 📄 DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data
 
 - **链接**: https://huggingface.co/papers/2604.19859
 - **阅读来源**: HTML
@@ -667,4 +664,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
