@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-24
 **Source URL**: https://huggingface.co/papers/date/2026-04-24
 
 ============================================================
 
-### 📄 UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling
+## 📄 UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling
 
 - **链接**: https://huggingface.co/papers/2604.19734
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 WorldMark: A Unified Benchmark Suite for Interactive Video World Models
+## 📄 WorldMark: A Unified Benchmark Suite for Interactive Video World Models
 
 - **链接**: https://huggingface.co/papers/2604.21686
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 Hybrid Policy Distillation for LLMs
+## 📄 Hybrid Policy Distillation for LLMs
 
 - **链接**: https://huggingface.co/papers/2604.20244
 - **阅读来源**: ArXiv Abs
@@ -98,7 +95,7 @@
 
 ============================================================
 
-### 📄 VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation
+## 📄 VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation
 
 - **链接**: https://huggingface.co/papers/2604.21375
 - **阅读来源**: HTML
@@ -129,7 +126,7 @@
 
 ============================================================
 
-### 📄 Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts
+## 📄 Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts
 
 - **链接**: https://huggingface.co/papers/2604.16926
 - **阅读来源**: HTML
@@ -162,7 +159,7 @@
 
 ============================================================
 
-### 📄 Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI
+## 📄 Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI
 
 - **链接**: https://huggingface.co/papers/2604.21300
 - **阅读来源**: HTML
@@ -191,7 +188,7 @@
 
 ============================================================
 
-### 📄 TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale
+## 📄 TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale
 
 - **链接**: https://huggingface.co/papers/2604.21889
 - **阅读来源**: HTML
@@ -221,7 +218,7 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 ============================================================
 
-### 📄 EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model
+## 📄 EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model
 
 - **链接**: https://huggingface.co/papers/2604.10268
 - **阅读来源**: ArXiv Abs
@@ -250,7 +247,7 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 ============================================================
 
-### 📄 Context Unrolling in Omni Models
+## 📄 Context Unrolling in Omni Models
 
 - **链接**: https://huggingface.co/papers/2604.21921
 - **阅读来源**: HTML
@@ -281,7 +278,7 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 ============================================================
 
-### 📄 WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning
+## 📄 WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2604.20398
 - **阅读来源**: ArXiv Abs
@@ -311,7 +308,7 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 ============================================================
 
-### 📄 UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection
+## 📄 UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection
 
 - **链接**: https://huggingface.co/papers/2604.21904
 - **阅读来源**: HTML
@@ -344,7 +341,7 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 ============================================================
 
-### 📄 StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition
+## 📄 StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition
 
 - **链接**: https://huggingface.co/papers/2604.21689
 - **阅读来源**: HTML
@@ -374,7 +371,7 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 ============================================================
 
-### 📄 Seeing Fast and Slow: Learning the Flow of Time in Videos
+## 📄 Seeing Fast and Slow: Learning the Flow of Time in Videos
 
 - **链接**: https://huggingface.co/papers/2604.21931
 - **阅读来源**: ArXiv Abs
@@ -405,7 +402,7 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 ============================================================
 
-### 📄 PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents
+## 📄 PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents
 
 - **链接**: https://huggingface.co/papers/2506.17001
 - **阅读来源**: HTML
@@ -437,7 +434,7 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 ============================================================
 
-### 📄 Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models
+## 📄 Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models
 
 - **链接**: https://huggingface.co/papers/2604.21193
 - **阅读来源**: HTML
@@ -467,7 +464,7 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 ============================================================
 
-### 📄 Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks
+## 📄 Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks
 
 - **链接**: https://huggingface.co/papers/2604.20987
 - **阅读来源**: ArXiv Abs
@@ -497,4 +494,3 @@ AIOps（智能运维） / 自然语言处理（NLP）在大语言模型（LLM）
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
