@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-25
 **Source URL**: https://huggingface.co/papers/date/2026-04-25
 
 ============================================================
 
-### 📄 Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts
+## 📄 Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts
 
 - **链接**: https://huggingface.co/papers/2604.16926
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale
+## 📄 TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale
 
 - **链接**: https://huggingface.co/papers/2604.21889
 - **阅读来源**: HTML
@@ -68,7 +65,7 @@
 
 ============================================================
 
-### 📄 StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition
+## 📄 StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition
 
 - **链接**: https://huggingface.co/papers/2604.21689
 - **阅读来源**: HTML
@@ -98,7 +95,7 @@
 
 ============================================================
 
-### 📄 3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding
+## 📄 3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding
 
 - **链接**: https://huggingface.co/papers/2604.08645
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@
 
 ============================================================
 
-### 📄 EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model
+## 📄 EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model
 
 - **链接**: https://huggingface.co/papers/2604.10268
 - **阅读来源**: ArXiv Abs
@@ -156,7 +153,7 @@
 
 ============================================================
 
-### 📄 Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks
+## 📄 Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks
 
 - **链接**: https://huggingface.co/papers/2604.20987
 - **阅读来源**: ArXiv Abs
@@ -190,7 +187,7 @@
 
 ============================================================
 
-### 📄 Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models
+## 📄 Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models
 
 - **链接**: https://huggingface.co/papers/2604.21193
 - **阅读来源**: HTML
@@ -221,7 +218,7 @@
 
 ============================================================
 
-### 📄 Temporally Extended Mixture-of-Experts Models
+## 📄 Temporally Extended Mixture-of-Experts Models
 
 - **链接**: https://huggingface.co/papers/2604.20156
 - **阅读来源**: HTML
@@ -256,7 +253,7 @@ NLP-大语言模型（LLM）推理优化、混合专家模型（MoE）架构改�
 
 ============================================================
 
-### 📄 Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI
+## 📄 Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI
 
 - **链接**: https://huggingface.co/papers/2604.21300
 - **阅读来源**: HTML
@@ -285,7 +282,7 @@ NLP-大语言模型（LLM）推理优化、混合专家模型（MoE）架构改�
 
 ============================================================
 
-### 📄 WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning
+## 📄 WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2604.20398
 - **阅读来源**: ArXiv Abs
@@ -316,7 +313,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling
+## 📄 UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling
 
 - **链接**: https://huggingface.co/papers/2604.19734
 - **阅读来源**: HTML
@@ -348,7 +345,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 Vista4D: Video Reshooting with 4D Point Clouds
+## 📄 Vista4D: Video Reshooting with 4D Point Clouds
 
 - **链接**: https://huggingface.co/papers/2604.21915
 - **阅读来源**: HTML
@@ -379,7 +376,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics
+## 📄 LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics
 
 - **链接**: https://huggingface.co/papers/2604.17295
 - **阅读来源**: HTML
@@ -410,7 +407,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents
+## 📄 PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents
 
 - **链接**: https://huggingface.co/papers/2506.17001
 - **阅读来源**: HTML
@@ -446,7 +443,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 Coevolving Representations in Joint Image-Feature Diffusion
+## 📄 Coevolving Representations in Joint Image-Feature Diffusion
 
 - **链接**: https://huggingface.co/papers/2604.17492
 - **阅读来源**: HTML
@@ -477,7 +474,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation
+## 📄 VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation
 
 - **链接**: https://huggingface.co/papers/2604.21375
 - **阅读来源**: HTML
@@ -508,7 +505,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 Context Unrolling in Omni Models
+## 📄 Context Unrolling in Omni Models
 
 - **链接**: https://huggingface.co/papers/2604.21921
 - **阅读来源**: HTML
@@ -539,7 +536,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection
+## 📄 UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection
 
 - **链接**: https://huggingface.co/papers/2604.21904
 - **阅读来源**: HTML
@@ -572,7 +569,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 Encoder-Free Human Motion Understanding via Structured Motion Descriptions
+## 📄 Encoder-Free Human Motion Understanding via Structured Motion Descriptions
 
 - **链接**: https://huggingface.co/papers/2604.21668
 - **阅读来源**: HTML
@@ -601,7 +598,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 Seeing Fast and Slow: Learning the Flow of Time in Videos
+## 📄 Seeing Fast and Slow: Learning the Flow of Time in Videos
 
 - **链接**: https://huggingface.co/papers/2604.21931
 - **阅读来源**: ArXiv Abs
@@ -631,7 +628,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 WorldMark: A Unified Benchmark Suite for Interactive Video World Models
+## 📄 WorldMark: A Unified Benchmark Suite for Interactive Video World Models
 
 - **链接**: https://huggingface.co/papers/2604.21686
 - **阅读来源**: HTML
@@ -663,7 +660,7 @@ NLP-大模型代码生成、强化学习（RLHF/RLAIF）、前端/网页自动�
 
 ============================================================
 
-### 📄 Hybrid Policy Distillation for LLMs
+## 📄 Hybrid Policy Distillation for LLMs
 
 - **链接**: https://huggingface.co/papers/2604.20244
 - **阅读来源**: ArXiv Abs
@@ -690,4 +687,3 @@ NLP - 大语言模型压缩与知识蒸馏（Knowledge Distillation）
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
