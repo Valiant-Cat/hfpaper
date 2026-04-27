@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-27
 **Source URL**: https://huggingface.co/papers/date/2026-04-27
 
 ============================================================
 
-### 📄 Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
+## 📄 Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
 
 - **链接**: https://huggingface.co/papers/2604.22748
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Building a Precise Video Language with Human-AI Oversight
+## 📄 Building a Precise Video Language with Human-AI Oversight
 
 - **链接**: https://huggingface.co/papers/2604.21718
 - **阅读来源**: ArXiv Abs
@@ -67,7 +64,7 @@
 
 ============================================================
 
-### 📄 FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing
+## 📄 FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing
 
 - **链接**: https://huggingface.co/papers/2604.22586
 - **阅读来源**: HTML
@@ -99,7 +96,7 @@
 
 ============================================================
 
-### 📄 Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets
+## 📄 Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets
 
 - **链接**: https://huggingface.co/papers/2604.22294
 - **阅读来源**: ArXiv Abs
@@ -131,7 +128,7 @@
 
 ============================================================
 
-### 📄 LLM Safety From Within: Detecting Harmful Content with Internal Representations
+## 📄 LLM Safety From Within: Detecting Harmful Content with Internal Representations
 
 - **链接**: https://huggingface.co/papers/2604.18519
 - **阅读来源**: HTML
@@ -162,7 +159,7 @@
 
 ============================================================
 
-### 📄 DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction
+## 📄 DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction
 
 - **链接**: https://huggingface.co/papers/2604.21518
 - **阅读来源**: HTML
@@ -192,7 +189,7 @@
 
 ============================================================
 
-### 📄 dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model
+## 📄 dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model
 
 - **链接**: https://huggingface.co/papers/2604.22152
 - **阅读来源**: HTML
@@ -223,7 +220,7 @@
 
 ============================================================
 
-### 📄 AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval
+## 📄 AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval
 
 - **链接**: https://huggingface.co/papers/2604.16353
 - **阅读来源**: HTML
@@ -254,7 +251,7 @@ NLP-检索增强生成 (RAG) 与垂直领域信息检索 (特定领域：农业A
 
 ============================================================
 
-### 📄 Sessa: Selective State Space Attention
+## 📄 Sessa: Selective State Space Attention
 
 - **链接**: https://huggingface.co/papers/2604.18580
 - **阅读来源**: HTML
@@ -283,7 +280,7 @@ NLP-检索增强生成 (RAG) 与垂直领域信息检索 (特定领域：农业A
 
 ============================================================
 
-### 📄 Learning Evidence Highlighting for Frozen LLMs
+## 📄 Learning Evidence Highlighting for Frozen LLMs
 
 - **链接**: https://huggingface.co/papers/2604.22565
 - **阅读来源**: HTML
@@ -314,7 +311,7 @@ NLP-检索增强生成 (RAG) 与垂直领域信息检索 (特定领域：农业A
 
 ============================================================
 
-### 📄 AgentSearchBench: A Benchmark for AI Agent Search in the Wild
+## 📄 AgentSearchBench: A Benchmark for AI Agent Search in the Wild
 
 - **链接**: https://huggingface.co/papers/2604.22436
 - **阅读来源**: HTML
@@ -343,4 +340,3 @@ NLP-检索增强生成 (RAG) 与垂直领域信息检索 (特定领域：农业A
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
