@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-04-30
 **Source URL**: https://huggingface.co/papers/date/2026-04-30
 
 ============================================================
 
-### 📄 Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion
+## 📄 Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion
 
 - **链接**: https://huggingface.co/papers/2604.24351
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 A Survey on LLM-based Conversational User Simulation
+## 📄 A Survey on LLM-based Conversational User Simulation
 
 - **链接**: https://huggingface.co/papers/2604.24977
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 ClawGym: A Scalable Framework for Building Effective Claw Agents
+## 📄 ClawGym: A Scalable Framework for Building Effective Claw Agents
 
 - **链接**: https://huggingface.co/papers/2604.26904
 - **阅读来源**: HTML
@@ -105,7 +102,7 @@ NLP-大模型智能体 (LLM Agents) / 计算机交互与自动化 (Computer-use/
 
 ============================================================
 
-### 📄 Accelerating RL Post-Training Rollouts via System-Integrated Speculative Decoding
+## 📄 Accelerating RL Post-Training Rollouts via System-Integrated Speculative Decoding
 
 - **链接**: https://huggingface.co/papers/2604.26779
 - **阅读来源**: HTML
@@ -136,7 +133,7 @@ NLP-大模型智能体 (LLM Agents) / 计算机交互与自动化 (Computer-use/
 
 ============================================================
 
-### 📄 Large Language Models Explore by Latent Distilling
+## 📄 Large Language Models Explore by Latent Distilling
 
 - **链接**: https://huggingface.co/papers/2604.24927
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ NLP-大模型智能体 (LLM Agents) / 计算机交互与自动化 (Computer-use/
 
 ============================================================
 
-### 📄 FASH-iCNN: Making Editorial Fashion Identity Inspectable Through Multimodal CNN Probing
+## 📄 FASH-iCNN: Making Editorial Fashion Identity Inspectable Through Multimodal CNN Probing
 
 - **链接**: https://huggingface.co/papers/2604.26186
 - **阅读来源**: HTML
@@ -198,7 +195,7 @@ NLP-大模型智能体 (LLM Agents) / 计算机交互与自动化 (Computer-use/
 
 ============================================================
 
-### 📄 Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising
+## 📄 Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising
 
 - **链接**: https://huggingface.co/papers/2604.26694
 - **阅读来源**: HTML
@@ -231,7 +228,7 @@ NLP-大模型智能体 (LLM Agents) / 计算机交互与自动化 (Computer-use/
 
 ============================================================
 
-### 📄 GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents
+## 📄 GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents
 
 - **链接**: https://huggingface.co/papers/2604.26752
 - **阅读来源**: HTML
@@ -263,7 +260,7 @@ NLP-大模型智能体 (LLM Agents) / 计算机交互与自动化 (Computer-use/
 
 ============================================================
 
-### 📄 Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models
+## 📄 Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models
 
 - **链接**: https://huggingface.co/papers/2604.26951
 - **阅读来源**: HTML
@@ -296,4 +293,3 @@ NLP-大语言模型微调与知识蒸馏（特别针对扩散大语言模型 Dif
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
