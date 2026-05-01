@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-01
 **Source URL**: https://huggingface.co/papers/date/2026-05-01
 
 ============================================================
 
-### 📄 ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control
+## 📄 ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control
 
 - **链接**: https://huggingface.co/papers/2604.27711
 - **阅读来源**: HTML
@@ -43,7 +40,7 @@
 
 ============================================================
 
-### 📄 Leveraging Verifier-Based Reinforcement Learning in Image Editing
+## 📄 Leveraging Verifier-Based Reinforcement Learning in Image Editing
 
 - **链接**: https://huggingface.co/papers/2604.27505
 - **阅读来源**: HTML
@@ -76,7 +73,7 @@
 
 ============================================================
 
-### 📄 Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists
+## 📄 Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists
 
 - **链接**: https://huggingface.co/papers/2604.28158
 - **阅读来源**: HTML
@@ -109,7 +106,7 @@
 
 ============================================================
 
-### 📄 PhyCo: Learning Controllable Physical Priors for Generative Motion
+## 📄 PhyCo: Learning Controllable Physical Priors for Generative Motion
 
 - **链接**: https://huggingface.co/papers/2604.28169
 - **阅读来源**: HTML
@@ -139,7 +136,7 @@
 
 ============================================================
 
-### 📄 Efficient Training on Multiple Consumer GPUs with RoundPipe
+## 📄 Efficient Training on Multiple Consumer GPUs with RoundPipe
 
 - **链接**: https://huggingface.co/papers/2604.27085
 - **阅读来源**: HTML
@@ -168,7 +165,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 The Last Human-Written Paper: Agent-Native Research Artifacts
+## 📄 The Last Human-Written Paper: Agent-Native Research Artifacts
 
 - **链接**: https://huggingface.co/papers/2604.24658
 - **阅读来源**: HTML
@@ -202,7 +199,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 World2Minecraft: Occupancy-Driven Simulated Scenes Construction
+## 📄 World2Minecraft: Occupancy-Driven Simulated Scenes Construction
 
 - **链接**: https://huggingface.co/papers/2604.27578
 - **阅读来源**: HTML
@@ -235,7 +232,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling
+## 📄 Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling
 
 - **链接**: https://huggingface.co/papers/2604.27039
 - **阅读来源**: ArXiv Abs
@@ -266,7 +263,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 Synthetic Computers at Scale for Long-Horizon Productivity Simulation
+## 📄 Synthetic Computers at Scale for Long-Horizon Productivity Simulation
 
 - **链接**: https://huggingface.co/papers/2604.28181
 - **阅读来源**: HTML
@@ -298,7 +295,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 Co-Evolving Policy Distillation
+## 📄 Co-Evolving Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2604.27083
 - **阅读来源**: ArXiv Abs
@@ -328,7 +325,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 Heterogeneous Scientific Foundation Model Collaboration
+## 📄 Heterogeneous Scientific Foundation Model Collaboration
 
 - **链接**: https://huggingface.co/papers/2604.27351
 - **阅读来源**: HTML
@@ -359,7 +356,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling
+## 📄 Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling
 
 - **链接**: https://huggingface.co/papers/2604.28185
 - **阅读来源**: HTML
@@ -390,7 +387,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?
+## 📄 InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?
 
 - **链接**: https://huggingface.co/papers/2604.27419
 - **阅读来源**: HTML
@@ -423,7 +420,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons
+## 📄 MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons
 
 - **链接**: https://huggingface.co/papers/2604.28130
 - **阅读来源**: ArXiv Abs
@@ -453,7 +450,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 Representation Fréchet Loss for Visual Generation
+## 📄 Representation Fréchet Loss for Visual Generation
 
 - **链接**: https://huggingface.co/papers/2604.28190
 - **阅读来源**: HTML
@@ -485,7 +482,7 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 ============================================================
 
-### 📄 Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows
+## 📄 Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows
 
 - **链接**: https://huggingface.co/papers/2604.28139
 - **阅读来源**: HTML
@@ -516,4 +513,3 @@ NLP-大模型微调（分布式深度学习系统/高效训练）
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
