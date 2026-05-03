@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-03
 **Source URL**: https://huggingface.co/papers/date/2026-05-03
 
 ============================================================
 
-### 📄 ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control
+## 📄 ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control
 
 - **链接**: https://huggingface.co/papers/2604.27711
 - **阅读来源**: HTML
@@ -44,7 +41,7 @@
 
 ============================================================
 
-### 📄 Co-Evolving Policy Distillation
+## 📄 Co-Evolving Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2604.27083
 - **阅读来源**: ArXiv Abs
@@ -73,7 +70,7 @@
 
 ============================================================
 
-### 📄 Leveraging Verifier-Based Reinforcement Learning in Image Editing
+## 📄 Leveraging Verifier-Based Reinforcement Learning in Image Editing
 
 - **链接**: https://huggingface.co/papers/2604.27505
 - **阅读来源**: HTML
@@ -110,7 +107,7 @@
 
 ============================================================
 
-### 📄 ViPO: Visual Preference Optimization at Scale
+## 📄 ViPO: Visual Preference Optimization at Scale
 
 - **链接**: https://huggingface.co/papers/2604.24953
 - **阅读来源**: HTML
@@ -143,7 +140,7 @@
 
 ============================================================
 
-### 📄 Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists
+## 📄 Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists
 
 - **链接**: https://huggingface.co/papers/2604.28158
 - **阅读来源**: HTML
@@ -175,7 +172,7 @@
 
 ============================================================
 
-### 📄 Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows
+## 📄 Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows
 
 - **链接**: https://huggingface.co/papers/2604.28139
 - **阅读来源**: HTML
@@ -206,7 +203,7 @@
 
 ============================================================
 
-### 📄 Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling
+## 📄 Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling
 
 - **链接**: https://huggingface.co/papers/2604.28185
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@
 
 ============================================================
 
-### 📄 Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains
+## 📄 Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains
 
 - **链接**: https://huggingface.co/papers/2604.24902
 - **阅读来源**: HTML
@@ -269,7 +266,7 @@
 
 ============================================================
 
-### 📄 Instruction-Guided Poetry Generation in Arabic and Its Dialects
+## 📄 Instruction-Guided Poetry Generation in Arabic and Its Dialects
 
 - **链接**: https://huggingface.co/papers/2604.27766
 - **阅读来源**: ArXiv Abs
@@ -297,7 +294,7 @@
 
 ============================================================
 
-### 📄 PhyCo: Learning Controllable Physical Priors for Generative Motion
+## 📄 PhyCo: Learning Controllable Physical Priors for Generative Motion
 
 - **链接**: https://huggingface.co/papers/2604.28169
 - **阅读来源**: HTML
@@ -328,7 +325,7 @@
 
 ============================================================
 
-### 📄 MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons
+## 📄 MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons
 
 - **链接**: https://huggingface.co/papers/2604.28130
 - **阅读来源**: ArXiv Abs
@@ -358,7 +355,7 @@
 
 ============================================================
 
-### 📄 Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence
+## 📄 Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence
 
 - **链接**: https://huggingface.co/papers/2604.24954
 - **阅读来源**: HTML
@@ -388,7 +385,7 @@
 
 ============================================================
 
-### 📄 Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling
+## 📄 Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling
 
 - **链接**: https://huggingface.co/papers/2604.27039
 - **阅读来源**: ArXiv Abs
@@ -418,7 +415,7 @@
 
 ============================================================
 
-### 📄 InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?
+## 📄 InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?
 
 - **链接**: https://huggingface.co/papers/2604.27419
 - **阅读来源**: HTML
@@ -449,7 +446,7 @@
 
 ============================================================
 
-### 📄 The Last Human-Written Paper: Agent-Native Research Artifacts
+## 📄 The Last Human-Written Paper: Agent-Native Research Artifacts
 
 - **链接**: https://huggingface.co/papers/2604.24658
 - **阅读来源**: HTML
@@ -482,7 +479,7 @@
 
 ============================================================
 
-### 📄 Efficient Training on Multiple Consumer GPUs with RoundPipe
+## 📄 Efficient Training on Multiple Consumer GPUs with RoundPipe
 
 - **链接**: https://huggingface.co/papers/2604.27085
 - **阅读来源**: HTML
@@ -513,7 +510,7 @@
 
 ============================================================
 
-### 📄 FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption
+## 📄 FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption
 
 - **链接**: https://huggingface.co/papers/2604.28157
 - **阅读来源**: HTML
@@ -544,7 +541,7 @@
 
 ============================================================
 
-### 📄 World2Minecraft: Occupancy-Driven Simulated Scenes Construction
+## 📄 World2Minecraft: Occupancy-Driven Simulated Scenes Construction
 
 - **链接**: https://huggingface.co/papers/2604.27578
 - **阅读来源**: HTML
@@ -579,7 +576,7 @@
 
 ============================================================
 
-### 📄 Heterogeneous Scientific Foundation Model Collaboration
+## 📄 Heterogeneous Scientific Foundation Model Collaboration
 
 - **链接**: https://huggingface.co/papers/2604.27351
 - **阅读来源**: HTML
@@ -613,7 +610,7 @@
 
 ============================================================
 
-### 📄 Step-level Optimization for Efficient Computer-use Agents
+## 📄 Step-level Optimization for Efficient Computer-use Agents
 
 - **链接**: https://huggingface.co/papers/2604.27151
 - **阅读来源**: HTML
@@ -648,7 +645,7 @@
 
 ============================================================
 
-### 📄 Synthetic Computers at Scale for Long-Horizon Productivity Simulation
+## 📄 Synthetic Computers at Scale for Long-Horizon Productivity Simulation
 
 - **链接**: https://huggingface.co/papers/2604.28181
 - **阅读来源**: HTML
@@ -679,7 +676,7 @@
 
 ============================================================
 
-### 📄 Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models
+## 📄 Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models
 
 - **链接**: https://huggingface.co/papers/2604.27251
 - **阅读来源**: HTML
@@ -710,7 +707,7 @@
 
 ============================================================
 
-### 📄 Representation Fréchet Loss for Visual Generation
+## 📄 Representation Fréchet Loss for Visual Generation
 
 - **链接**: https://huggingface.co/papers/2604.28190
 - **阅读来源**: HTML
@@ -741,7 +738,7 @@
 
 ============================================================
 
-### 📄 Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization
+## 📄 Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization
 
 - **链接**: https://huggingface.co/papers/2604.24952
 - **阅读来源**: HTML
@@ -772,4 +769,3 @@
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
