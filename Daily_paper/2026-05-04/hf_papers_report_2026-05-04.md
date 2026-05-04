@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-04
 **Source URL**: https://huggingface.co/papers/date/2026-05-04
 
 ============================================================
 
-### 📄 UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors
+## 📄 UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors
 
 - **链接**: https://huggingface.co/papers/2605.00658
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 Online Self-Calibration Against Hallucination in Vision-Language Models
+## 📄 Online Self-Calibration Against Hallucination in Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2605.00323
 - **阅读来源**: HTML
@@ -76,7 +73,7 @@
 
 ============================================================
 
-### 📄 Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling
+## 📄 Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling
 
 - **链接**: https://huggingface.co/papers/2604.23586
 - **阅读来源**: HTML
@@ -106,7 +103,7 @@
 
 ============================================================
 
-### 📄 Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies
+## 📄 Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies
 
 - **链接**: https://huggingface.co/papers/2605.00416
 - **阅读来源**: HTML
@@ -138,7 +135,7 @@
 
 ============================================================
 
-### 📄 Map2World: Segment Map Conditioned Text to 3D World Generation
+## 📄 Map2World: Segment Map Conditioned Text to 3D World Generation
 
 - **链接**: https://huggingface.co/papers/2605.00781
 - **阅读来源**: HTML
@@ -169,7 +166,7 @@
 
 ============================================================
 
-### 📄 Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction
+## 📄 Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction
 
 - **链接**: https://huggingface.co/papers/2604.27221
 - **阅读来源**: HTML
@@ -199,7 +196,7 @@
 
 ============================================================
 
-### 📄 LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation
+## 📄 LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation
 
 - **链接**: https://huggingface.co/papers/2605.00777
 - **阅读来源**: HTML
@@ -229,7 +226,7 @@
 
 ============================================================
 
-### 📄 End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer
+## 📄 End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer
 
 - **链接**: https://huggingface.co/papers/2605.00503
 - **阅读来源**: HTML
@@ -261,7 +258,7 @@
 
 ============================================================
 
-### 📄 Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring
+## 📄 Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring
 
 - **链接**: https://huggingface.co/papers/2605.00754
 - **阅读来源**: HTML
@@ -290,7 +287,7 @@
 
 ============================================================
 
-### 📄 Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization
+## 📄 Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization
 
 - **链接**: https://huggingface.co/papers/2605.00691
 - **阅读来源**: HTML
@@ -319,7 +316,7 @@
 
 ============================================================
 
-### 📄 AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval
+## 📄 AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval
 
 - **链接**: https://huggingface.co/papers/2604.23195
 - **阅读来源**: HTML
@@ -348,7 +345,7 @@
 
 ============================================================
 
-### 📄 From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills
+## 📄 From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills
 
 - **链接**: https://huggingface.co/papers/2604.24026
 - **阅读来源**: HTML
@@ -378,7 +375,7 @@ NLP - 大模型智能体 (LLM Agents) / 智能体技能表示与管理
 
 ============================================================
 
-### 📄 Let ViT Speak: Generative Language-Image Pre-training
+## 📄 Let ViT Speak: Generative Language-Image Pre-training
 
 - **链接**: https://huggingface.co/papers/2605.00809
 - **阅读来源**: HTML
@@ -407,4 +404,3 @@ NLP - 大模型智能体 (LLM Agents) / 智能体技能表示与管理
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
