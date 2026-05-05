@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-05
 **Source URL**: https://huggingface.co/papers/date/2026-05-05
 
 ============================================================
 
-### 📄 Repetition over Diversity: High-Signal Data Filtering for Sample-Efficient German Language Modeling
+## 📄 Repetition over Diversity: High-Signal Data Filtering for Sample-Efficient German Language Modeling
 
 - **链接**: https://huggingface.co/papers/2604.28075
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 MolmoAct2: Action Reasoning Models for Real-world Deployment
+## 📄 MolmoAct2: Action Reasoning Models for Real-world Deployment
 
 - **链接**: https://huggingface.co/papers/2605.02881
 - **阅读来源**: HTML
@@ -68,7 +65,7 @@
 
 ============================================================
 
-### 📄 From Context to Skills: Can Language Models Learn from Context Skillfully?
+## 📄 From Context to Skills: Can Language Models Learn from Context Skillfully?
 
 - **链接**: https://huggingface.co/papers/2604.27660
 - **阅读来源**: HTML
@@ -96,7 +93,7 @@
 
 ============================================================
 
-### 📄 AcademiClaw: When Students Set Challenges for AI Agents
+## 📄 AcademiClaw: When Students Set Challenges for AI Agents
 
 - **链接**: https://huggingface.co/papers/2605.02661
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@
 
 ============================================================
 
-### 📄 T^2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning
+## 📄 T^2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2605.02178
 - **阅读来源**: HTML
@@ -158,7 +155,7 @@
 
 ============================================================
 
-### 📄 Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation
+## 📄 Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation
 
 - **链接**: https://huggingface.co/papers/2605.00529
 - **阅读来源**: ArXiv Abs
@@ -186,7 +183,7 @@
 
 ============================================================
 
-### 📄 Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs
+## 📄 Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs
 
 - **链接**: https://huggingface.co/papers/2605.00814
 - **阅读来源**: HTML
@@ -216,7 +213,7 @@
 
 ============================================================
 
-### 📄 PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments
+## 📄 PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments
 
 - **链接**: https://huggingface.co/papers/2605.02240
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ NLP-大模型智能体评估 (LLM Agent Evaluation) / 医疗人工智能 (Medica
 
 ============================================================
 
-### 📄 OceanPile: A Large-Scale Multimodal Ocean Corpus for Foundation Models
+## 📄 OceanPile: A Large-Scale Multimodal Ocean Corpus for Foundation Models
 
 - **链接**: https://huggingface.co/papers/2605.00877
 - **阅读来源**: HTML
@@ -280,7 +277,7 @@ NLP-大模型智能体评估 (LLM Agent Evaluation) / 医疗人工智能 (Medica
 
 ============================================================
 
-### 📄 Generative Modeling with Orbit-Space Particle Flow Matching
+## 📄 Generative Modeling with Orbit-Space Particle Flow Matching
 
 - **链接**: https://huggingface.co/papers/2605.02222
 - **阅读来源**: HTML
@@ -312,7 +309,7 @@ NLP-大模型智能体评估 (LLM Agent Evaluation) / 医疗人工智能 (Medica
 
 ============================================================
 
-### 📄 Perceptual Flow Network for Visually Grounded Reasoning
+## 📄 Perceptual Flow Network for Visually Grounded Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.02730
 - **阅读来源**: HTML
@@ -340,7 +337,7 @@ PFlowNet 在多项通用与细粒度视觉推理基准测试中刷新了 SOTA �
 
 ============================================================
 
-### 📄 Code World Model Preparedness Report
+## 📄 Code World Model Preparedness Report
 
 - **链接**: https://huggingface.co/papers/2605.00932
 - **阅读来源**: HTML
@@ -370,7 +367,7 @@ NLP-大模型安全评估与代码生成（AI安全风险评测、智能体代�
 
 ============================================================
 
-### 📄 ComboStoc: Combinatorial Stochasticity for Diffusion Generative Models
+## 📄 ComboStoc: Combinatorial Stochasticity for Diffusion Generative Models
 
 - **链接**: https://huggingface.co/papers/2405.13729
 - **阅读来源**: HTML
@@ -399,7 +396,7 @@ NLP-大模型安全评估与代码生成（AI安全风险评测、智能体代�
 
 ============================================================
 
-### 📄 Motion-Aware Caching for Efficient Autoregressive Video Generation
+## 📄 Motion-Aware Caching for Efficient Autoregressive Video Generation
 
 - **链接**: https://huggingface.co/papers/2605.01725
 - **阅读来源**: HTML
@@ -430,4 +427,3 @@ NLP-大模型安全评估与代码生成（AI安全风险评测、智能体代�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
