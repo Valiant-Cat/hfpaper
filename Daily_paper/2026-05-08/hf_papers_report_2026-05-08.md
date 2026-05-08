@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-08
 **Source URL**: https://huggingface.co/papers/date/2026-05-08
 
 ============================================================
 
-### 📄 When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels
+## 📄 When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels
 
 - **链接**: https://huggingface.co/papers/2605.06652
 - **阅读来源**: HTML
@@ -36,7 +33,7 @@
 
 ============================================================
 
-### 📄 EDU-CIRCUIT-HW: Evaluating Multimodal Large Language Models on Real-World University-Level STEM Student Handwritten Solutions
+## 📄 EDU-CIRCUIT-HW: Evaluating Multimodal Large Language Models on Real-World University-Level STEM Student Handwritten Solutions
 
 - **链接**: https://huggingface.co/papers/2602.00095
 - **阅读来源**: HTML
@@ -69,7 +66,7 @@
 
 ============================================================
 
-### 📄 MiA-Signature: Approximating Global Activation for Long-Context Understanding
+## 📄 MiA-Signature: Approximating Global Activation for Long-Context Understanding
 
 - **链接**: https://huggingface.co/papers/2605.06416
 - **阅读来源**: HTML
@@ -103,7 +100,7 @@
 
 ============================================================
 
-### 📄 Continuous Latent Diffusion Language Model
+## 📄 Continuous Latent Diffusion Language Model
 
 - **链接**: https://huggingface.co/papers/2605.06548
 - **阅读来源**: HTML
@@ -136,7 +133,7 @@
 
 ============================================================
 
-### 📄 TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding
+## 📄 TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding
 
 - **链接**: https://huggingface.co/papers/2605.04962
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@
 
 ============================================================
 
-### 📄 Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key
+## 📄 Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key
 
 - **链接**: https://huggingface.co/papers/2605.06638
 - **阅读来源**: HTML
@@ -198,7 +195,7 @@
 
 ============================================================
 
-### 📄 AI Co-Mathematician: Accelerating Mathematicians with Agentic AI
+## 📄 AI Co-Mathematician: Accelerating Mathematicians with Agentic AI
 
 - **链接**: https://huggingface.co/papers/2605.06651
 - **阅读来源**: HTML
@@ -228,7 +225,7 @@
 
 ============================================================
 
-### 📄 UniPool: A Globally Shared Expert Pool for Mixture-of-Experts
+## 📄 UniPool: A Globally Shared Expert Pool for Mixture-of-Experts
 
 - **链接**: https://huggingface.co/papers/2605.06665
 - **阅读来源**: HTML
@@ -258,7 +255,7 @@ NLP-大语言模型架构优化（混合专家模型 MoE 架构设计）
 
 ============================================================
 
-### 📄 SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation
+## 📄 SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation
 
 - **链接**: https://huggingface.co/papers/2605.06356
 - **阅读来源**: HTML
@@ -268,7 +265,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 SkillOS: Learning Skill Curation for Self-Evolving Agents
+## 📄 SkillOS: Learning Skill Curation for Self-Evolving Agents
 
 - **链接**: https://huggingface.co/papers/2605.06614
 - **阅读来源**: HTML
@@ -299,7 +296,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 When to Trust Imagination: Adaptive Action Execution for World Action Models
+## 📄 When to Trust Imagination: Adaptive Action Execution for World Action Models
 
 - **链接**: https://huggingface.co/papers/2605.06222
 - **阅读来源**: HTML
@@ -328,7 +325,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes
+## 📄 Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes
 
 - **链接**: https://huggingface.co/papers/2605.05724
 - **阅读来源**: HTML
@@ -359,7 +356,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 RemoteZero: Geospatial Reasoning with Zero Human Annotations
+## 📄 RemoteZero: Geospatial Reasoning with Zero Human Annotations
 
 - **链接**: https://huggingface.co/papers/2605.04451
 - **阅读来源**: HTML
@@ -390,7 +387,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Recovering Hidden Reward in Diffusion-Based Policies
+## 📄 Recovering Hidden Reward in Diffusion-Based Policies
 
 - **链接**: https://huggingface.co/papers/2605.00623
 - **阅读来源**: HTML
@@ -420,7 +417,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 MARBLE: Multi-Aspect Reward Balance for Diffusion RL
+## 📄 MARBLE: Multi-Aspect Reward Balance for Diffusion RL
 
 - **链接**: https://huggingface.co/papers/2605.06507
 - **阅读来源**: HTML
@@ -451,7 +448,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study
+## 📄 Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study
 
 - **链接**: https://huggingface.co/papers/2605.06643
 - **阅读来源**: HTML
@@ -483,7 +480,7 @@ AI 分析出错: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model
 
 ============================================================
 
-### 📄 Balanced Aggregation: Understanding and Fixing Aggregation Bias in GRPO
+## 📄 Balanced Aggregation: Understanding and Fixing Aggregation Bias in GRPO
 
 - **链接**: https://huggingface.co/papers/2605.04077
 - **阅读来源**: HTML
@@ -517,7 +514,7 @@ NLP - 大模型强化学习 / 基于可验证奖励的强化学习 (RLVR)
 
 ============================================================
 
-### 📄 Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling
+## 📄 Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling
 
 - **链接**: https://huggingface.co/papers/2605.05922
 - **阅读来源**: HTML
@@ -547,7 +544,7 @@ NLP - 大模型强化学习 / 基于可验证奖励的强化学习 (RLVR)
 
 ============================================================
 
-### 📄 TIDE: Every Layer Knows the Token Beneath the Context
+## 📄 TIDE: Every Layer Knows the Token Beneath the Context
 
 - **链接**: https://huggingface.co/papers/2605.06216
 - **阅读来源**: HTML
@@ -576,7 +573,7 @@ NLP - 大模型强化学习 / 基于可验证奖励的强化学习 (RLVR)
 
 ============================================================
 
-### 📄 Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning
+## 📄 Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2605.06130
 - **阅读来源**: HTML
@@ -606,7 +603,7 @@ NLP - 大模型强化学习 / 基于可验证奖励的强化学习 (RLVR)
 
 ============================================================
 
-### 📄 Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration
+## 📄 Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration
 
 - **链接**: https://huggingface.co/papers/2605.05566
 - **阅读来源**: HTML
@@ -636,7 +633,7 @@ NLP - 大模型强化学习 / 基于可验证奖励的强化学习 (RLVR)
 
 ============================================================
 
-### 📄 RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation
+## 📄 RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation
 
 - **链接**: https://huggingface.co/papers/2605.04523
 - **阅读来源**: ArXiv Abs
@@ -665,7 +662,7 @@ NLP-多轮对话生成 / 大语言模型集成 (LLM Ensemble) / 检索增强生�
 
 ============================================================
 
-### 📄 ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving
+## 📄 ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving
 
 - **链接**: https://huggingface.co/papers/2605.04647
 - **阅读来源**: HTML
@@ -695,7 +692,7 @@ NLP-多轮对话生成 / 大语言模型集成 (LLM Ensemble) / 检索增强生�
 
 ============================================================
 
-### 📄 A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping
+## 📄 A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping
 
 - **链接**: https://huggingface.co/papers/2605.06200
 - **阅读来源**: HTML
@@ -727,7 +724,7 @@ NLP-多轮对话生成 / 大语言模型集成 (LLM Ensemble) / 检索增强生�
 
 ============================================================
 
-### 📄 Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance
+## 📄 Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance
 
 - **链接**: https://huggingface.co/papers/2605.06535
 - **阅读来源**: HTML
@@ -756,7 +753,7 @@ NLP-多轮对话生成 / 大语言模型集成 (LLM Ensemble) / 检索增强生�
 
 ============================================================
 
-### 📄 The Granularity Axis: A Micro-to-Macro Latent Direction for Social Roles in Language Models
+## 📄 The Granularity Axis: A Micro-to-Macro Latent Direction for Social Roles in Language Models
 
 - **链接**: https://huggingface.co/papers/2605.06196
 - **阅读来源**: HTML
@@ -789,7 +786,7 @@ NLP-多轮对话生成 / 大语言模型集成 (LLM Ensemble) / 检索增强生�
 
 ============================================================
 
-### 📄 Continuous-Time Distribution Matching for Few-Step Diffusion Distillation
+## 📄 Continuous-Time Distribution Matching for Few-Step Diffusion Distillation
 
 - **链接**: https://huggingface.co/papers/2605.06376
 - **阅读来源**: HTML
@@ -818,4 +815,3 @@ NLP-多轮对话生成 / 大语言模型集成 (LLM Ensemble) / 检索增强生�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
