@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-11
 **Source URL**: https://huggingface.co/papers/date/2026-05-11
 
 ============================================================
 
-### 📄 CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization
+## 📄 CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization
 
 - **链接**: https://huggingface.co/papers/2605.05136
 - **阅读来源**: HTML
@@ -36,7 +33,7 @@
 
 ============================================================
 
-### 📄 MatryoshkaLoRA: Learning Accurate Hierarchical Low-Rank Representations for LLM Fine-Tuning
+## 📄 MatryoshkaLoRA: Learning Accurate Hierarchical Low-Rank Representations for LLM Fine-Tuning
 
 - **链接**: https://huggingface.co/papers/2605.07850
 - **阅读来源**: HTML
@@ -68,7 +65,7 @@ NLP-大模型微调（具体为参数高效微调 PEFT）
 
 ============================================================
 
-### 📄 4DThinker: Thinking with 4D Imagery for Dynamic Spatial Understanding
+## 📄 4DThinker: Thinking with 4D Imagery for Dynamic Spatial Understanding
 
 - **链接**: https://huggingface.co/papers/2605.05997
 - **阅读来源**: HTML
@@ -98,7 +95,7 @@ NLP-大模型微调（具体为参数高效微调 PEFT）
 
 ============================================================
 
-### 📄 Steering Visual Generation in Unified Multimodal Models with Understanding Supervision
+## 📄 Steering Visual Generation in Unified Multimodal Models with Understanding Supervision
 
 - **链接**: https://huggingface.co/papers/2605.05781
 - **阅读来源**: HTML
@@ -134,7 +131,7 @@ NLP-大模型微调（具体为参数高效微调 PEFT）
 
 ============================================================
 
-### 📄 InterLV-Search: Benchmarking Interleaved Multimodal Agentic Search
+## 📄 InterLV-Search: Benchmarking Interleaved Multimodal Agentic Search
 
 - **链接**: https://huggingface.co/papers/2605.07510
 - **阅读来源**: HTML
@@ -164,7 +161,7 @@ NLP-大模型微调（具体为参数高效微调 PEFT）
 
 ============================================================
 
-### 📄 MDN: Parallelizing Stepwise Momentum for Delta Linear Attention
+## 📄 MDN: Parallelizing Stepwise Momentum for Delta Linear Attention
 
 - **链接**: https://huggingface.co/papers/2605.05838
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ NLP-大模型微调（具体为参数高效微调 PEFT）
 
 ============================================================
 
-### 📄 TextLDM: Language Modeling with Continuous Latent Diffusion
+## 📄 TextLDM: Language Modeling with Continuous Latent Diffusion
 
 - **链接**: https://huggingface.co/papers/2605.07748
 - **阅读来源**: HTML
@@ -229,7 +226,7 @@ NLP-大模型微调（具体为参数高效微调 PEFT）
 
 ============================================================
 
-### 📄 Empirical Evidence for Simply Connected Decision Regions in Image Classifiers
+## 📄 Empirical Evidence for Simply Connected Decision Regions in Image Classifiers
 
 - **链接**: https://huggingface.co/papers/2605.06380
 - **阅读来源**: HTML
@@ -259,7 +256,7 @@ NLP-大模型微调（具体为参数高效微调 PEFT）
 
 ============================================================
 
-### 📄 Normalizing Trajectory Models
+## 📄 Normalizing Trajectory Models
 
 - **链接**: https://huggingface.co/papers/2605.08078
 - **阅读来源**: HTML
@@ -293,7 +290,7 @@ NLP-大模型微调（具体为参数高效微调 PEFT）
 
 ============================================================
 
-### 📄 Fast Byte Latent Transformer
+## 📄 Fast Byte Latent Transformer
 
 - **链接**: https://huggingface.co/papers/2605.08044
 - **阅读来源**: HTML
@@ -324,7 +321,7 @@ NLP-大模型微调（具体为参数高效微调 PEFT）
 
 ============================================================
 
-### 📄 PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors
+## 📄 PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors
 
 - **链接**: https://huggingface.co/papers/2605.06455
 - **阅读来源**: HTML
@@ -355,7 +352,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation
+## 📄 LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation
 
 - **链接**: https://huggingface.co/papers/2605.06628
 - **阅读来源**: HTML
@@ -386,7 +383,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 CGM-JEPA: Learning Consistent Continuous Glucose Monitor Representations via Predictive Self-Supervised Pretraining
+## 📄 CGM-JEPA: Learning Consistent Continuous Glucose Monitor Representations via Predictive Self-Supervised Pretraining
 
 - **链接**: https://huggingface.co/papers/2605.00933
 - **阅读来源**: HTML
@@ -416,7 +413,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion
+## 📄 What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion
 
 - **链接**: https://huggingface.co/papers/2605.07915
 - **阅读来源**: HTML
@@ -454,7 +451,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents
+## 📄 DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents
 
 - **链接**: https://huggingface.co/papers/2605.04808
 - **阅读来源**: ArXiv Abs
@@ -482,7 +479,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms
+## 📄 From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms
 
 - **链接**: https://huggingface.co/papers/2605.06716
 - **阅读来源**: HTML
@@ -512,7 +509,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 Who Prices Cognitive Labor in the Age of Agents? Compute-Anchored Wages
+## 📄 Who Prices Cognitive Labor in the Age of Agents? Compute-Anchored Wages
 
 - **链接**: https://huggingface.co/papers/2605.05558
 - **阅读来源**: HTML
@@ -542,7 +539,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning
+## 📄 AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2605.00425
 - **阅读来源**: HTML
@@ -573,7 +570,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation
+## 📄 STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation
 
 - **链接**: https://huggingface.co/papers/2605.08029
 - **阅读来源**: HTML
@@ -604,7 +601,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 Anisotropic Modality Align
+## 📄 Anisotropic Modality Align
 
 - **链接**: https://huggingface.co/papers/2605.07825
 - **阅读来源**: HTML
@@ -637,7 +634,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 Beyond Retrieval: A Multitask Benchmark and Model for Code Search
+## 📄 Beyond Retrieval: A Multitask Benchmark and Model for Code Search
 
 - **链接**: https://huggingface.co/papers/2605.04615
 - **阅读来源**: ArXiv Abs
@@ -667,7 +664,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification
+## 📄 UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification
 
 - **链接**: https://huggingface.co/papers/2605.06221
 - **阅读来源**: HTML
@@ -696,7 +693,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 HumanNet: Scaling Human-centric Video Learning to One Million Hours
+## 📄 HumanNet: Scaling Human-centric Video Learning to One Million Hours
 
 - **链接**: https://huggingface.co/papers/2605.06747
 - **阅读来源**: HTML
@@ -727,7 +724,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 IntentGrasp: A Comprehensive Benchmark for Intent Understanding
+## 📄 IntentGrasp: A Comprehensive Benchmark for Intent Understanding
 
 - **链接**: https://huggingface.co/papers/2605.06832
 - **阅读来源**: HTML
@@ -757,7 +754,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning
+## 📄 Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning
 
 - **链接**: https://huggingface.co/papers/2605.06734
 - **阅读来源**: HTML
@@ -789,7 +786,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 Shallow Prefill, Deep Decoding: Efficient Long-Context Inference via Layer-Asymmetric KV Visibility
+## 📄 Shallow Prefill, Deep Decoding: Efficient Long-Context Inference via Layer-Asymmetric KV Visibility
 
 - **链接**: https://huggingface.co/papers/2605.06105
 - **阅读来源**: HTML
@@ -821,7 +818,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 R^3-SQL: Ranking Reward and Resampling for Text-to-SQL
+## 📄 R^3-SQL: Ranking Reward and Resampling for Text-to-SQL
 
 - **链接**: https://huggingface.co/papers/2604.25325
 - **阅读来源**: ArXiv Abs
@@ -849,7 +846,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling
+## 📄 LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling
 
 - **链接**: https://huggingface.co/papers/2605.08083
 - **阅读来源**: HTML
@@ -883,7 +880,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents
+## 📄 HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents
 
 - **链接**: https://huggingface.co/papers/2605.07177
 - **阅读来源**: HTML
@@ -915,7 +912,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation
+## 📄 MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation
 
 - **链接**: https://huggingface.co/papers/2512.18181
 - **阅读来源**: HTML
@@ -945,7 +942,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 Sparse Autoencoders as Plug-and-Play Firewalls for Adversarial Attack Detection in VLMs
+## 📄 Sparse Autoencoders as Plug-and-Play Firewalls for Adversarial Attack Detection in VLMs
 
 - **链接**: https://huggingface.co/papers/2605.07447
 - **阅读来源**: HTML
@@ -981,7 +978,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex
+## 📄 Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex
 
 - **链接**: https://huggingface.co/papers/2605.06139
 - **阅读来源**: HTML
@@ -1012,7 +1009,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation
+## 📄 SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation
 
 - **链接**: https://huggingface.co/papers/2605.08043
 - **阅读来源**: HTML
@@ -1043,7 +1040,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 Flow-OPD: On-Policy Distillation for Flow Matching Models
+## 📄 Flow-OPD: On-Policy Distillation for Flow Matching Models
 
 - **链接**: https://huggingface.co/papers/2605.08063
 - **阅读来源**: HTML
@@ -1077,7 +1074,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers
+## 📄 Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2605.06169
 - **阅读来源**: HTML
@@ -1105,7 +1102,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 A^2RD: Agentic Autoregressive Diffusion for Long Video Consistency
+## 📄 A^2RD: Agentic Autoregressive Diffusion for Long Video Consistency
 
 - **链接**: https://huggingface.co/papers/2605.06924
 - **阅读来源**: HTML
@@ -1135,7 +1132,7 @@ NLP - 大模型智能体 (LLM Agents) 运行时监控与在线故障预警
 
 ============================================================
 
-### 📄 UniSD: Towards a Unified Self-Distillation Framework for Large Language Models
+## 📄 UniSD: Towards a Unified Self-Distillation Framework for Large Language Models
 
 - **链接**: https://huggingface.co/papers/2605.06597
 - **阅读来源**: HTML
@@ -1166,7 +1163,7 @@ NLP - 大语言模型微调与自蒸馏 (LLM Fine-tuning & Self-Distillation)
 
 ============================================================
 
-### 📄 Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts
+## 📄 Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts
 
 - **链接**: https://huggingface.co/papers/2602.03473
 - **阅读来源**: HTML
@@ -1196,7 +1193,7 @@ NLP - 大语言模型微调与自蒸馏 (LLM Fine-tuning & Self-Distillation)
 
 ============================================================
 
-### 📄 CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment
+## 📄 CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment
 
 - **链接**: https://huggingface.co/papers/2605.06702
 - **阅读来源**: HTML
@@ -1228,7 +1225,7 @@ NLP-大语言模型智能体 (LLM Agents)、持续学习 (Continual Learning)、
 
 ============================================================
 
-### 📄 Rethinking State Tracking in Recurrent Models Through Error Control Dynamics
+## 📄 Rethinking State Tracking in Recurrent Models Through Error Control Dynamics
 
 - **链接**: https://huggingface.co/papers/2605.07755
 - **阅读来源**: HTML
@@ -1261,7 +1258,7 @@ NLP-大语言模型智能体 (LLM Agents)、持续学习 (Continual Learning)、
 
 ============================================================
 
-### 📄 MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference
+## 📄 MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference
 
 - **链接**: https://huggingface.co/papers/2605.07363
 - **阅读来源**: HTML
@@ -1292,7 +1289,7 @@ NLP-大语言模型推理（特别是长上下文场景下的稀疏注意力机�
 
 ============================================================
 
-### 📄 SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting
+## 📄 SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting
 
 - **链接**: https://huggingface.co/papers/2605.07243
 - **阅读来源**: HTML
@@ -1321,4 +1318,3 @@ NLP-大语言模型推理（特别是长上下文场景下的稀疏注意力机�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
