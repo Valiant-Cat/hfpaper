@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-14
 **Source URL**: https://huggingface.co/papers/date/2026-05-14
 
 ============================================================
 
-### 📄 MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning
+## 📄 MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.13037
 - **阅读来源**: HTML
@@ -42,7 +39,7 @@
 
 ============================================================
 
-### 📄 AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation
+## 📄 AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation
 
 - **链接**: https://huggingface.co/papers/2605.12925
 - **阅读来源**: HTML
@@ -73,7 +70,7 @@
 
 ============================================================
 
-### 📄 Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling
+## 📄 Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling
 
 - **链接**: https://huggingface.co/papers/2605.13062
 - **阅读来源**: HTML
@@ -106,7 +103,7 @@
 
 ============================================================
 
-### 📄 HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution
+## 📄 HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution
 
 - **链接**: https://huggingface.co/papers/2605.09942
 - **阅读来源**: HTML
@@ -136,7 +133,7 @@
 
 ============================================================
 
-### 📄 AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation
+## 📄 AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation
 
 - **链接**: https://huggingface.co/papers/2605.13724
 - **阅读来源**: ArXiv Abs
@@ -167,7 +164,7 @@
 
 ============================================================
 
-### 📄 Asymmetric Flow Models
+## 📄 Asymmetric Flow Models
 
 - **链接**: https://huggingface.co/papers/2605.12964
 - **阅读来源**: HTML
@@ -198,7 +195,7 @@
 
 ============================================================
 
-### 📄 Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs
+## 📄 Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs
 
 - **链接**: https://huggingface.co/papers/2605.09433
 - **阅读来源**: HTML
@@ -229,7 +226,7 @@
 
 ============================================================
 
-### 📄 Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?
+## 📄 Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?
 
 - **链接**: https://huggingface.co/papers/2605.12684
 - **阅读来源**: ArXiv Abs
@@ -261,7 +258,7 @@
 
 ============================================================
 
-### 📄 Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation
+## 📄 Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation
 
 - **链接**: https://huggingface.co/papers/2605.12975
 - **阅读来源**: HTML
@@ -291,7 +288,7 @@
 
 ============================================================
 
-### 📄 Qwen-Image-VAE-2.0 Technical Report
+## 📄 Qwen-Image-VAE-2.0 Technical Report
 
 - **链接**: https://huggingface.co/papers/2605.13565
 - **阅读来源**: ArXiv Abs
@@ -321,7 +318,7 @@
 
 ============================================================
 
-### 📄 Learning Agentic Policy from Action Guidance
+## 📄 Learning Agentic Policy from Action Guidance
 
 - **链接**: https://huggingface.co/papers/2605.12004
 - **阅读来源**: HTML
@@ -355,7 +352,7 @@
 
 ============================================================
 
-### 📄 RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data
+## 📄 RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data
 
 - **链接**: https://huggingface.co/papers/2605.13775
 - **阅读来源**: HTML
@@ -387,7 +384,7 @@
 
 ============================================================
 
-### 📄 MinT: Managed Infrastructure for Training and Serving Millions of LLMs
+## 📄 MinT: Managed Infrastructure for Training and Serving Millions of LLMs
 
 - **链接**: https://huggingface.co/papers/2605.13779
 - **阅读来源**: ArXiv Abs
@@ -418,7 +415,7 @@
 
 ============================================================
 
-### 📄 Many-Shot CoT-ICL: Making In-Context Learning Truly Learn
+## 📄 Many-Shot CoT-ICL: Making In-Context Learning Truly Learn
 
 - **链接**: https://huggingface.co/papers/2605.13511
 - **阅读来源**: HTML
@@ -451,7 +448,7 @@
 
 ============================================================
 
-### 📄 The Extrapolation Cliff in On-Policy Distillation of Near-Deterministic Structured Outputs
+## 📄 The Extrapolation Cliff in On-Policy Distillation of Near-Deterministic Structured Outputs
 
 - **链接**: https://huggingface.co/papers/2605.08737
 - **阅读来源**: HTML
@@ -482,7 +479,7 @@ NLP-大模型微调、强化学习（同轨知识蒸馏）、结构化输出生�
 
 ============================================================
 
-### 📄 RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation
+## 📄 RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation
 
 - **链接**: https://huggingface.co/papers/2605.13542
 - **阅读来源**: HTML
@@ -516,7 +513,7 @@ NLP-大模型微调、强化学习（同轨知识蒸馏）、结构化输出生�
 
 ============================================================
 
-### 📄 WriteSAE: Sparse Autoencoders for Recurrent State
+## 📄 WriteSAE: Sparse Autoencoders for Recurrent State
 
 - **链接**: https://huggingface.co/papers/2605.12770
 - **阅读来源**: HTML
@@ -547,7 +544,7 @@ NLP-大模型微调、强化学习（同轨知识蒸馏）、结构化输出生�
 
 ============================================================
 
-### 📄 Context Training with Active Information Seeking
+## 📄 Context Training with Active Information Seeking
 
 - **链接**: https://huggingface.co/papers/2605.13050
 - **阅读来源**: HTML
@@ -579,7 +576,7 @@ NLP-大模型微调、强化学习（同轨知识蒸馏）、结构化输出生�
 
 ============================================================
 
-### 📄 ShapeCodeBench: A Renewable Benchmark for Perception-to-Program Reconstruction of Synthetic Shape Scenes
+## 📄 ShapeCodeBench: A Renewable Benchmark for Perception-to-Program Reconstruction of Synthetic Shape Scenes
 
 - **链接**: https://huggingface.co/papers/2605.11680
 - **阅读来源**: HTML
@@ -610,7 +607,7 @@ NLP-大模型微调、强化学习（同轨知识蒸馏）、结构化输出生�
 
 ============================================================
 
-### 📄 F-GRPO: Factorized Group-Relative Policy Optimization for Unified Candidate Generation and Ranking
+## 📄 F-GRPO: Factorized Group-Relative Policy Optimization for Unified Candidate Generation and Ranking
 
 - **链接**: https://huggingface.co/papers/2605.12995
 - **阅读来源**: HTML
@@ -643,7 +640,7 @@ NLP-大模型微调、强化学习（同轨知识蒸馏）、结构化输出生�
 
 ============================================================
 
-### 📄 Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context
+## 📄 Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context
 
 - **链接**: https://huggingface.co/papers/2605.13831
 - **阅读来源**: HTML
@@ -673,7 +670,7 @@ NLP-大模型微调、强化学习（同轨知识蒸馏）、结构化输出生�
 
 ============================================================
 
-### 📄 PresentAgent-2: Towards Generalist Multimodal Presentation Agents
+## 📄 PresentAgent-2: Towards Generalist Multimodal Presentation Agents
 
 - **链接**: https://huggingface.co/papers/2605.11363
 - **阅读来源**: HTML
@@ -703,7 +700,7 @@ NLP-大模型微调、强化学习（同轨知识蒸馏）、结构化输出生�
 
 ============================================================
 
-### 📄 FrameSkip: Learning from Fewer but More Informative Frames in VLA Training
+## 📄 FrameSkip: Learning from Fewer but More Informative Frames in VLA Training
 
 - **链接**: https://huggingface.co/papers/2605.13757
 - **阅读来源**: HTML
@@ -732,7 +729,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 Vividh-ASR: A Complexity-Tiered Benchmark and Optimization Dynamics for Robust Indic Speech Recognition
+## 📄 Vividh-ASR: A Complexity-Tiered Benchmark and Optimization Dynamics for Robust Indic Speech Recognition
 
 - **链接**: https://huggingface.co/papers/2605.13087
 - **阅读来源**: HTML
@@ -763,7 +760,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation
+## 📄 Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation
 
 - **链接**: https://huggingface.co/papers/2605.12997
 - **阅读来源**: HTML
@@ -792,7 +789,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 Position: LLM Inference Should Be Evaluated as Energy-to-Token Production
+## 📄 Position: LLM Inference Should Be Evaluated as Energy-to-Token Production
 
 - **链接**: https://huggingface.co/papers/2605.11733
 - **阅读来源**: HTML
@@ -826,7 +823,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading
+## 📄 MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading
 
 - **链接**: https://huggingface.co/papers/2605.10268
 - **阅读来源**: HTML
@@ -858,7 +855,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 Results and Retrospective Analysis of the CODS 2025 AssetOpsBench Challenge
+## 📄 Results and Retrospective Analysis of the CODS 2025 AssetOpsBench Challenge
 
 - **链接**: https://huggingface.co/papers/2605.08518
 - **阅读来源**: HTML
@@ -889,7 +886,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image
+## 📄 MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image
 
 - **链接**: https://huggingface.co/papers/2605.10616
 - **阅读来源**: HTML
@@ -920,7 +917,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 The DAWN of World-Action Interactive Models
+## 📄 The DAWN of World-Action Interactive Models
 
 - **链接**: https://huggingface.co/papers/2605.11550
 - **阅读来源**: HTML
@@ -951,7 +948,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents
+## 📄 PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents
 
 - **链接**: https://huggingface.co/papers/2605.13481
 - **阅读来源**: HTML
@@ -985,7 +982,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion
+## 📄 Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion
 
 - **链接**: https://huggingface.co/papers/2605.12825
 - **阅读来源**: HTML
@@ -1015,7 +1012,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety
+## 📄 SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety
 
 - **链接**: https://huggingface.co/papers/2605.05704
 - **阅读来源**: HTML
@@ -1045,7 +1042,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 Predicting Decisions of AI Agents from Limited Interaction through Text-Tabular Modeling
+## 📄 Predicting Decisions of AI Agents from Limited Interaction through Text-Tabular Modeling
 
 - **链接**: https://huggingface.co/papers/2605.12411
 - **阅读来源**: HTML
@@ -1076,7 +1073,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking
+## 📄 TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking
 
 - **链接**: https://huggingface.co/papers/2605.12587
 - **阅读来源**: HTML
@@ -1106,7 +1103,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 Revisiting DAgger in the Era of LLM-Agents
+## 📄 Revisiting DAgger in the Era of LLM-Agents
 
 - **链接**: https://huggingface.co/papers/2605.12913
 - **阅读来源**: HTML
@@ -1139,7 +1136,7 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 ============================================================
 
-### 📄 From Pixels to Concepts: Do Segmentation Models Understand What They Segment?
+## 📄 From Pixels to Concepts: Do Segmentation Models Understand What They Segment?
 
 - **链接**: https://huggingface.co/papers/2605.09591
 - **阅读来源**: HTML
@@ -1168,4 +1165,3 @@ FrameSkip 在涵盖不同机器人形态的三个主流具身仿真基准测试�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
