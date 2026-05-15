@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-15
 **Source URL**: https://huggingface.co/papers/date/2026-05-15
 
 ============================================================
 
-### 📄 Self-Distilled Agentic Reinforcement Learning
+## 📄 Self-Distilled Agentic Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2605.15155
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents
+## 📄 EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents
 
 - **链接**: https://huggingface.co/papers/2605.13941
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@
 
 ============================================================
 
-### 📄 Quantitative Video World Model Evaluation for Geometric-Consistency
+## 📄 Quantitative Video World Model Evaluation for Geometric-Consistency
 
 - **链接**: https://huggingface.co/papers/2605.15185
 - **阅读来源**: ArXiv Abs
@@ -99,7 +96,7 @@
 
 ============================================================
 
-### 📄 WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation
+## 📄 WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation
 
 - **链接**: https://huggingface.co/papers/2605.10912
 - **阅读来源**: HTML
@@ -129,7 +126,7 @@
 
 ============================================================
 
-### 📄 PREPING: Building Agent Memory without Tasks
+## 📄 PREPING: Building Agent Memory without Tasks
 
 - **链接**: https://huggingface.co/papers/2605.13880
 - **阅读来源**: HTML
@@ -160,7 +157,7 @@
 
 ============================================================
 
-### 📄 Orchard: An Open-Source Agentic Modeling Framework
+## 📄 Orchard: An Open-Source Agentic Modeling Framework
 
 - **链接**: https://huggingface.co/papers/2605.15040
 - **阅读来源**: HTML
@@ -192,7 +189,7 @@
 
 ============================================================
 
-### 📄 ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both
+## 📄 ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both
 
 - **链接**: https://huggingface.co/papers/2605.15198
 - **阅读来源**: HTML
@@ -223,7 +220,7 @@
 
 ============================================================
 
-### 📄 Adaptive Teacher Exposure for Self-Distillation in LLM Reasoning
+## 📄 Adaptive Teacher Exposure for Self-Distillation in LLM Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.11458
 - **阅读来源**: HTML
@@ -255,7 +252,7 @@ NLP - 大语言模型推理（LLM Reasoning）与在轨自蒸馏（On-Policy Sel
 
 ============================================================
 
-### 📄 Topology-Preserving Neural Operator Learning via Hodge Decomposition
+## 📄 Topology-Preserving Neural Operator Learning via Hodge Decomposition
 
 - **链接**: https://huggingface.co/papers/2605.13834
 - **阅读来源**: HTML
@@ -289,7 +286,7 @@ AI for Science (AI4Science) - 物理信息机器学习 / 偏微分方程（PDE�
 
 ============================================================
 
-### 📄 Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation
+## 📄 Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation
 
 - **链接**: https://huggingface.co/papers/2605.12034
 - **阅读来源**: HTML
@@ -320,7 +317,7 @@ AI for Science (AI4Science) - 物理信息机器学习 / 偏微分方程（PDE�
 
 ============================================================
 
-### 📄 PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World
+## 📄 PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World
 
 - **链接**: https://huggingface.co/papers/2605.13169
 - **阅读来源**: HTML
@@ -350,7 +347,7 @@ AI for Science (AI4Science) - 物理信息机器学习 / 偏微分方程（PDE�
 
 ============================================================
 
-### 📄 FutureSim: Replaying World Events to Evaluate Adaptive Agents
+## 📄 FutureSim: Replaying World Events to Evaluate Adaptive Agents
 
 - **链接**: https://huggingface.co/papers/2605.15188
 - **阅读来源**: ArXiv Abs
@@ -381,7 +378,7 @@ AI for Science (AI4Science) - 物理信息机器学习 / 偏微分方程（PDE�
 
 ============================================================
 
-### 📄 PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation
+## 📄 PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation
 
 - **链接**: https://huggingface.co/papers/2605.14269
 - **阅读来源**: HTML
@@ -412,7 +409,7 @@ AI for Science (AI4Science) - 物理信息机器学习 / 偏微分方程（PDE�
 
 ============================================================
 
-### 📄 SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer
+## 📄 SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer
 
 - **链接**: https://huggingface.co/papers/2605.15178
 - **阅读来源**: HTML
@@ -442,7 +439,7 @@ AI for Science (AI4Science) - 物理信息机器学习 / 偏微分方程（PDE�
 
 ============================================================
 
-### 📄 LLM-based Detection of Manipulative Political Narratives
+## 📄 LLM-based Detection of Manipulative Political Narratives
 
 - **链接**: https://huggingface.co/papers/2605.14354
 - **阅读来源**: HTML
@@ -472,7 +469,7 @@ AI for Science (AI4Science) - 物理信息机器学习 / 偏微分方程（PDE�
 
 ============================================================
 
-### 📄 LiSA: Lifelong Safety Adaptation via Conservative Policy Induction
+## 📄 LiSA: Lifelong Safety Adaptation via Conservative Policy Induction
 
 - **链接**: https://huggingface.co/papers/2605.14454
 - **阅读来源**: HTML
@@ -502,7 +499,7 @@ NLP - 大模型安全与对齐 / AI 智能体护栏 (LLM Safety & AI Agent Guard
 
 ============================================================
 
-### 📄 FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale
+## 📄 FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale
 
 - **链接**: https://huggingface.co/papers/2605.14445
 - **阅读来源**: HTML
@@ -535,7 +532,7 @@ NLP - 大模型安全与对齐 / AI 智能体护栏 (LLM Safety & AI Agent Guard
 
 ============================================================
 
-### 📄 SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks
+## 📄 SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks
 
 - **链接**: https://huggingface.co/papers/2605.14051
 - **阅读来源**: ArXiv Abs
@@ -567,7 +564,7 @@ NLP - 大模型安全与对齐 / AI 智能体护栏 (LLM Safety & AI Agent Guard
 
 ============================================================
 
-### 📄 BEAM: Binary Expert Activation Masking for Dynamic Routing in MoE
+## 📄 BEAM: Binary Expert Activation Masking for Dynamic Routing in MoE
 
 - **链接**: https://huggingface.co/papers/2605.14438
 - **阅读来源**: HTML
@@ -598,7 +595,7 @@ NLP - 大模型安全与对齐 / AI 智能体护栏 (LLM Safety & AI Agent Guard
 
 ============================================================
 
-### 📄 CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves
+## 📄 CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves
 
 - **链接**: https://huggingface.co/papers/2605.14068
 - **阅读来源**: HTML
@@ -628,7 +625,7 @@ NLP - 大模型安全与对齐 / AI 智能体护栏 (LLM Safety & AI Agent Guard
 
 ============================================================
 
-### 📄 Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning
+## 📄 Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.14386
 - **阅读来源**: HTML
@@ -658,7 +655,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?
+## 📄 STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?
 
 - **链接**: https://huggingface.co/papers/2605.06527
 - **阅读来源**: HTML
@@ -687,7 +684,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO
+## 📄 RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO
 
 - **链接**: https://huggingface.co/papers/2605.15190
 - **阅读来源**: HTML
@@ -717,7 +714,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 Nexus : An Agentic Framework for Time Series Forecasting
+## 📄 Nexus : An Agentic Framework for Time Series Forecasting
 
 - **链接**: https://huggingface.co/papers/2605.14389
 - **阅读来源**: HTML
@@ -748,7 +745,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 Does Synthetic Layered Design Data Benefit Layered Design Decomposition?
+## 📄 Does Synthetic Layered Design Data Benefit Layered Design Decomposition?
 
 - **链接**: https://huggingface.co/papers/2605.15167
 - **阅读来源**: ArXiv Abs
@@ -778,7 +775,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution
+## 📄 PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution
 
 - **链接**: https://huggingface.co/papers/2605.13027
 - **阅读来源**: HTML
@@ -812,7 +809,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 RewardHarness: Self-Evolving Agentic Post-Training
+## 📄 RewardHarness: Self-Evolving Agentic Post-Training
 
 - **链接**: https://huggingface.co/papers/2605.08703
 - **阅读来源**: HTML
@@ -843,7 +840,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models
+## 📄 MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2605.14906
 - **阅读来源**: ArXiv Abs
@@ -874,7 +871,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning
+## 📄 Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning
 
 - **链接**: https://huggingface.co/papers/2605.13852
 - **阅读来源**: HTML
@@ -908,7 +905,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning
+## 📄 Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.14876
 - **阅读来源**: HTML
@@ -941,7 +938,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 RouteProfile: Elucidating the Design Space of LLM Profiles for Routing
+## 📄 RouteProfile: Elucidating the Design Space of LLM Profiles for Routing
 
 - **链接**: https://huggingface.co/papers/2605.00180
 - **阅读来源**: HTML
@@ -980,7 +977,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models
+## 📄 DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2605.15055
 - **阅读来源**: HTML
@@ -1013,7 +1010,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation
+## 📄 IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation
 
 - **链接**: https://huggingface.co/papers/2605.14712
 - **阅读来源**: HTML
@@ -1044,7 +1041,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models
+## 📄 Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2605.09681
 - **阅读来源**: HTML
@@ -1077,7 +1074,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video
+## 📄 Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video
 
 - **链接**: https://huggingface.co/papers/2605.15182
 - **阅读来源**: HTML
@@ -1111,7 +1108,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation
+## 📄 Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation
 
 - **链接**: https://huggingface.co/papers/2605.15141
 - **阅读来源**: HTML
@@ -1143,7 +1140,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 Ideology Prediction of German Political Texts
+## 📄 Ideology Prediction of German Political Texts
 
 - **链接**: https://huggingface.co/papers/2605.14352
 - **阅读来源**: HTML
@@ -1178,7 +1175,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction
+## 📄 VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction
 
 - **链接**: https://huggingface.co/papers/2605.15186
 - **阅读来源**: HTML
@@ -1209,7 +1206,7 @@ NLP - 大模型参数合并 (Model Merging) 与推理能力提升 (Reasoning Enh
 
 ============================================================
 
-### 📄 BOOKMARKS: Efficient Active Storyline Memory for Role-playing
+## 📄 BOOKMARKS: Efficient Active Storyline Memory for Role-playing
 
 - **链接**: https://huggingface.co/papers/2605.14169
 - **阅读来源**: HTML
@@ -1244,7 +1241,7 @@ NLP-大语言模型（LLM）、角色扮演智能体（Role-Playing Agents, RPAs
 
 ============================================================
 
-### 📄 ViMU: Benchmarking Video Metaphorical Understanding
+## 📄 ViMU: Benchmarking Video Metaphorical Understanding
 
 - **链接**: https://huggingface.co/papers/2605.14607
 - **阅读来源**: HTML
@@ -1274,7 +1271,7 @@ NLP-大语言模型（LLM）、角色扮演智能体（Role-Playing Agents, RPAs
 
 ============================================================
 
-### 📄 MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory
+## 📄 MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory
 
 - **链接**: https://huggingface.co/papers/2605.15128
 - **阅读来源**: HTML
@@ -1306,7 +1303,7 @@ NLP-大语言模型（LLM）、角色扮演智能体（Role-Playing Agents, RPAs
 
 ============================================================
 
-### 📄 Dynamic Latent Routing
+## 📄 Dynamic Latent Routing
 
 - **链接**: https://huggingface.co/papers/2605.14323
 - **阅读来源**: ArXiv Abs
@@ -1336,7 +1333,7 @@ NLP-大模型后训练/微调、强化学习。
 
 ============================================================
 
-### 📄 Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models
+## 📄 Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models
 
 - **链接**: https://huggingface.co/papers/2605.11459
 - **阅读来源**: HTML
@@ -1366,7 +1363,7 @@ NLP-大模型后训练/微调、强化学习。
 
 ============================================================
 
-### 📄 Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling
+## 📄 Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling
 
 - **链接**: https://huggingface.co/papers/2605.13301
 - **阅读来源**: HTML
@@ -1398,7 +1395,7 @@ NLP-大模型后训练/微调、强化学习。
 
 ============================================================
 
-### 📄 Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis
+## 📄 Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis
 
 - **链接**: https://huggingface.co/papers/2605.14392
 - **阅读来源**: HTML
@@ -1428,7 +1425,7 @@ NLP-大模型后训练/微调、强化学习。
 
 ============================================================
 
-### 📄 Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems
+## 📄 Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems
 
 - **链接**: https://huggingface.co/papers/2605.14892
 - **阅读来源**: ArXiv Abs
@@ -1456,4 +1453,3 @@ NLP-大模型后训练/微调、强化学习。
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
