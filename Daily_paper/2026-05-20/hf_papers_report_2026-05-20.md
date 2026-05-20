@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-20
 **Source URL**: https://huggingface.co/papers/date/2026-05-20
 
 ============================================================
 
-### 📄 EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL
+## 📄 EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL
 
 - **链接**: https://huggingface.co/papers/2605.18703
 - **阅读来源**: HTML
@@ -39,7 +36,7 @@
 
 ============================================================
 
-### 📄 Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning
+## 📄 Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning
 
 - **链接**: https://huggingface.co/papers/2605.09640
 - **阅读来源**: HTML
@@ -70,7 +67,7 @@
 
 ============================================================
 
-### 📄 Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information
+## 📄 Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information
 
 - **链接**: https://huggingface.co/papers/2605.11609
 - **阅读来源**: HTML
@@ -102,7 +99,7 @@
 
 ============================================================
 
-### 📄 Aurora: Unified Video Editing with a Tool-Using Agent
+## 📄 Aurora: Unified Video Editing with a Tool-Using Agent
 
 - **链接**: https://huggingface.co/papers/2605.18748
 - **阅读来源**: ArXiv Abs
@@ -132,7 +129,7 @@
 
 ============================================================
 
-### 📄 Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos
+## 📄 Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos
 
 - **链接**: https://huggingface.co/papers/2605.18984
 - **阅读来源**: HTML
@@ -162,7 +159,7 @@
 
 ============================================================
 
-### 📄 SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects
+## 📄 SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects
 
 - **链接**: https://huggingface.co/papers/2605.19587
 - **阅读来源**: HTML
@@ -195,7 +192,7 @@
 
 ============================================================
 
-### 📄 Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation
+## 📄 Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation
 
 - **链接**: https://huggingface.co/papers/2605.16003
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@
 
 ============================================================
 
-### 📄 Video Models Can Reason with Verifiable Rewards
+## 📄 Video Models Can Reason with Verifiable Rewards
 
 - **链接**: https://huggingface.co/papers/2605.15458
 - **阅读来源**: HTML
@@ -260,7 +257,7 @@
 
 ============================================================
 
-### 📄 Active Learners as Efficient PRP Rerankers
+## 📄 Active Learners as Efficient PRP Rerankers
 
 - **链接**: https://huggingface.co/papers/2605.14236
 - **阅读来源**: HTML
@@ -291,7 +288,7 @@
 
 ============================================================
 
-### 📄 ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop
+## 📄 ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop
 
 - **链接**: https://huggingface.co/papers/2605.18746
 - **阅读来源**: HTML
@@ -322,7 +319,7 @@
 
 ============================================================
 
-### 📄 CopT: Contrastive On-Policy Thinking with Continuous Spaces for General and Agentic Reasoning
+## 📄 CopT: Contrastive On-Policy Thinking with Continuous Spaces for General and Agentic Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.20075
 - **阅读来源**: HTML
@@ -352,7 +349,7 @@
 
 ============================================================
 
-### 📄 OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments
+## 📄 OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments
 
 - **链接**: https://huggingface.co/papers/2605.18758
 - **阅读来源**: HTML
@@ -382,7 +379,7 @@
 
 ============================================================
 
-### 📄 SAGA: A Sequence-Adaptive Generative Architecture for Multi-Horizon Probabilistic Forecasting with Adaptive Temporal Conformal Prediction
+## 📄 SAGA: A Sequence-Adaptive Generative Architecture for Multi-Horizon Probabilistic Forecasting with Adaptive Temporal Conformal Prediction
 
 - **链接**: https://huggingface.co/papers/2605.19014
 - **阅读来源**: HTML
@@ -413,7 +410,7 @@
 
 ============================================================
 
-### 📄 AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration
+## 📄 AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration
 
 - **链接**: https://huggingface.co/papers/2605.20025
 - **阅读来源**: HTML
@@ -444,7 +441,7 @@
 
 ============================================================
 
-### 📄 When Vision Speaks for Sound
+## 📄 When Vision Speaks for Sound
 
 - **链接**: https://huggingface.co/papers/2605.16403
 - **阅读来源**: HTML
@@ -474,7 +471,7 @@
 
 ============================================================
 
-### 📄 Draft Less, Retrieve More: Hybrid Tree Construction for Speculative Decoding
+## 📄 Draft Less, Retrieve More: Hybrid Tree Construction for Speculative Decoding
 
 - **链接**: https://huggingface.co/papers/2605.20104
 - **阅读来源**: HTML
@@ -504,7 +501,7 @@ NLP-大模型推理加速（推测解码 Speculative Decoding）
 
 ============================================================
 
-### 📄 DocAtlas: Multilingual Document Understanding Across 80+ Languages
+## 📄 DocAtlas: Multilingual Document Understanding Across 80+ Languages
 
 - **链接**: https://huggingface.co/papers/2605.12623
 - **阅读来源**: HTML
@@ -536,7 +533,7 @@ NLP-大模型推理加速（推测解码 Speculative Decoding）
 
 ============================================================
 
-### 📄 Omni-DuplexEval: Evaluating Real-time Duplex Omni-modal Interaction
+## 📄 Omni-DuplexEval: Evaluating Real-time Duplex Omni-modal Interaction
 
 - **链接**: https://huggingface.co/papers/2605.17360
 - **阅读来源**: HTML
@@ -568,7 +565,7 @@ NLP-大模型推理加速（推测解码 Speculative Decoding）
 
 ============================================================
 
-### 📄 CEPO: RLVR Self-Distillation using Contrastive Evidence Policy Optimization
+## 📄 CEPO: RLVR Self-Distillation using Contrastive Evidence Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2605.19436
 - **阅读来源**: HTML
@@ -599,7 +596,7 @@ NLP-大模型推理加速（推测解码 Speculative Decoding）
 
 ============================================================
 
-### 📄 TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization
+## 📄 TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization
 
 - **链接**: https://huggingface.co/papers/2605.20150
 - **阅读来源**: HTML
@@ -629,7 +626,7 @@ NLP-大模型推理加速（推测解码 Speculative Decoding）
 
 ============================================================
 
-### 📄 Language-Switching Triggers Take a Latent Detour Through Language Models
+## 📄 Language-Switching Triggers Take a Latent Detour Through Language Models
 
 - **链接**: https://huggingface.co/papers/2605.18646
 - **阅读来源**: HTML
@@ -661,7 +658,7 @@ NLP-大模型推理加速（推测解码 Speculative Decoding）
 
 ============================================================
 
-### 📄 OpenComputer: Verifiable Software Worlds for Computer-Use Agents
+## 📄 OpenComputer: Verifiable Software Worlds for Computer-Use Agents
 
 - **链接**: https://huggingface.co/papers/2605.19769
 - **阅读来源**: HTML
@@ -690,7 +687,7 @@ NLP-大模型推理加速（推测解码 Speculative Decoding）
 
 ============================================================
 
-### 📄 Context Memorization for Efficient Long Context Generation
+## 📄 Context Memorization for Efficient Long Context Generation
 
 - **链接**: https://huggingface.co/papers/2605.18226
 - **阅读来源**: HTML
@@ -722,7 +719,7 @@ NLP-大模型推理加速、长上下文生成（如：上下文学习 ICL、检
 
 ============================================================
 
-### 📄 CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition
+## 📄 CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition
 
 - **链接**: https://huggingface.co/papers/2605.19995
 - **阅读来源**: HTML
@@ -753,7 +750,7 @@ NLP-大模型推理加速、长上下文生成（如：上下文学习 ICL、检
 
 ============================================================
 
-### 📄 PixVerve: Advancing Native UHR Image Generation to 100MP with a Large-Scale High-Quality Dataset
+## 📄 PixVerve: Advancing Native UHR Image Generation to 100MP with a Large-Scale High-Quality Dataset
 
 - **链接**: https://huggingface.co/papers/2605.20147
 - **阅读来源**: HTML
@@ -786,7 +783,7 @@ NLP-大模型推理加速、长上下文生成（如：上下文学习 ICL、检
 
 ============================================================
 
-### 📄 Delta Attention Residuals
+## 📄 Delta Attention Residuals
 
 - **链接**: https://huggingface.co/papers/2605.18855
 - **阅读来源**: HTML
@@ -815,7 +812,7 @@ NLP-大语言模型架构设计与微调
 
 ============================================================
 
-### 📄 GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment
+## 📄 GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment
 
 - **链接**: https://huggingface.co/papers/2605.19577
 - **阅读来源**: ArXiv Abs
@@ -846,7 +843,7 @@ NLP-大语言模型架构设计与微调
 
 ============================================================
 
-### 📄 PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents
+## 📄 PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents
 
 - **链接**: https://huggingface.co/papers/2605.19932
 - **阅读来源**: ArXiv Abs
@@ -876,7 +873,7 @@ NLP-大语言模型架构设计与微调
 
 ============================================================
 
-### 📄 MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation
+## 📄 MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation
 
 - **链接**: https://huggingface.co/papers/2605.20183
 - **阅读来源**: HTML
@@ -908,7 +905,7 @@ NLP-大语言模型架构设计与微调
 
 ============================================================
 
-### 📄 Process Rewards with Learned Reliability
+## 📄 Process Rewards with Learned Reliability
 
 - **链接**: https://huggingface.co/papers/2605.15529
 - **阅读来源**: HTML
@@ -940,7 +937,7 @@ NLP-大语言模型架构设计与微调
 
 ============================================================
 
-### 📄 Code-Guided Reasoning for Small Language Models: Evaluating Executable MCQA Scaffolds
+## 📄 Code-Guided Reasoning for Small Language Models: Evaluating Executable MCQA Scaffolds
 
 - **链接**: https://huggingface.co/papers/2605.18827
 - **阅读来源**: HTML
@@ -974,7 +971,7 @@ NLP-大语言模型架构设计与微调
 
 ============================================================
 
-### 📄 Where Does Authorship Signal Emerge in Encoder-Based Language Models?
+## 📄 Where Does Authorship Signal Emerge in Encoder-Based Language Models?
 
 - **链接**: https://huggingface.co/papers/2605.19908
 - **阅读来源**: HTML
@@ -1005,7 +1002,7 @@ NLP-大语言模型架构设计与微调
 
 ============================================================
 
-### 📄 Semantic Generative Tuning for Unified Multimodal Models
+## 📄 Semantic Generative Tuning for Unified Multimodal Models
 
 - **链接**: https://huggingface.co/papers/2605.18714
 - **阅读来源**: HTML
@@ -1035,4 +1032,3 @@ NLP-大语言模型架构设计与微调
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
