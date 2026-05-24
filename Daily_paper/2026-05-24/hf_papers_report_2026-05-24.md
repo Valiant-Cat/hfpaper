@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-24
 **Source URL**: https://huggingface.co/papers/date/2026-05-24
 
 ============================================================
 
-### 📄 KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving
+## 📄 KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving
 
 - **链接**: https://huggingface.co/papers/2605.13734
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@
 
 ============================================================
 
-### 📄 Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles
+## 📄 Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles
 
 - **链接**: https://huggingface.co/papers/2605.22177
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@
 
 ============================================================
 
-### 📄 LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning
+## 📄 LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.22012
 - **阅读来源**: HTML
@@ -98,7 +95,7 @@
 
 ============================================================
 
-### 📄 Swift Sampling: Selecting Temporal Surprises via Taylor Series
+## 📄 Swift Sampling: Selecting Temporal Surprises via Taylor Series
 
 - **链接**: https://huggingface.co/papers/2605.22678
 - **阅读来源**: HTML
@@ -128,7 +125,7 @@
 
 ============================================================
 
-### 📄 OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding
+## 📄 OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding
 
 - **链接**: https://huggingface.co/papers/2605.18577
 - **阅读来源**: HTML
@@ -162,7 +159,7 @@
 
 ============================================================
 
-### 📄 TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks
+## 📄 TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks
 
 - **链接**: https://huggingface.co/papers/2605.22535
 - **阅读来源**: HTML
@@ -192,7 +189,7 @@
 
 ============================================================
 
-### 📄 Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?
+## 📄 Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?
 
 - **链接**: https://huggingface.co/papers/2605.22109
 - **阅读来源**: HTML
@@ -226,7 +223,7 @@
 
 ============================================================
 
-### 📄 More Context, Larger Models, or Moral Knowledge? A Systematic Study of Schwartz Value Detection in Political Texts
+## 📄 More Context, Larger Models, or Moral Knowledge? A Systematic Study of Schwartz Value Detection in Political Texts
 
 - **链接**: https://huggingface.co/papers/2605.22641
 - **阅读来源**: HTML
@@ -258,7 +255,7 @@
 
 ============================================================
 
-### 📄 SceneAligner: 3D-Grounded Floorplan Localization in the Wild
+## 📄 SceneAligner: 3D-Grounded Floorplan Localization in the Wild
 
 - **链接**: https://huggingface.co/papers/2605.22581
 - **阅读来源**: HTML
@@ -288,7 +285,7 @@
 
 ============================================================
 
-### 📄 ACC: Compiling Agent Trajectories for Long-Context Training
+## 📄 ACC: Compiling Agent Trajectories for Long-Context Training
 
 - **链接**: https://huggingface.co/papers/2605.21850
 - **阅读来源**: HTML
@@ -318,7 +315,7 @@
 
 ============================================================
 
-### 📄 "I didn't Make the Micro Decisions": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration
+## 📄 "I didn't Make the Micro Decisions": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration
 
 - **链接**: https://huggingface.co/papers/2605.21363
 - **阅读来源**: HTML
@@ -348,7 +345,7 @@
 
 ============================================================
 
-### 📄 One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems
+## 📄 One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems
 
 - **链接**: https://huggingface.co/papers/2605.22144
 - **阅读来源**: HTML
@@ -378,7 +375,7 @@
 
 ============================================================
 
-### 📄 Diversed Model Discovery via Structured Table Discovery
+## 📄 Diversed Model Discovery via Structured Table Discovery
 
 - **链接**: https://huggingface.co/papers/2605.22766
 - **阅读来源**: HTML
@@ -409,7 +406,7 @@
 
 ============================================================
 
-### 📄 SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation
+## 📄 SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation
 
 - **链接**: https://huggingface.co/papers/2605.22536
 - **阅读来源**: HTML
@@ -439,7 +436,7 @@
 
 ============================================================
 
-### 📄 Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving
+## 📄 Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving
 
 - **链接**: https://huggingface.co/papers/2605.22809
 - **阅读来源**: HTML
@@ -469,7 +466,7 @@
 
 ============================================================
 
-### 📄 Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search
+## 📄 Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search
 
 - **链接**: https://huggingface.co/papers/2605.20244
 - **阅读来源**: HTML
@@ -499,7 +496,7 @@
 
 ============================================================
 
-### 📄 FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching
+## 📄 FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching
 
 - **链接**: https://huggingface.co/papers/2605.20910
 - **阅读来源**: HTML
@@ -529,7 +526,7 @@
 
 ============================================================
 
-### 📄 LoREnc: Low-Rank Encryption for Securing Foundation Models and LoRA Adapters
+## 📄 LoREnc: Low-Rank Encryption for Securing Foundation Models and LoRA Adapters
 
 - **链接**: https://huggingface.co/papers/2605.13163
 - **阅读来源**: HTML
@@ -559,7 +556,7 @@
 
 ============================================================
 
-### 📄 SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers
+## 📄 SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2605.22668
 - **阅读来源**: HTML
@@ -593,7 +590,7 @@
 
 ============================================================
 
-### 📄 Bernini: Latent Semantic Planning for Video Diffusion
+## 📄 Bernini: Latent Semantic Planning for Video Diffusion
 
 - **链接**: https://huggingface.co/papers/2605.22344
 - **阅读来源**: HTML
@@ -623,7 +620,7 @@
 
 ============================================================
 
-### 📄 From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning
+## 📄 From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.22074
 - **阅读来源**: HTML
@@ -657,7 +654,7 @@
 
 ============================================================
 
-### 📄 FashionLens: Toward Versatile Fashion Image Retrieval via Task-Adaptive Learning
+## 📄 FashionLens: Toward Versatile Fashion Image Retrieval via Task-Adaptive Learning
 
 - **链接**: https://huggingface.co/papers/2605.22552
 - **阅读来源**: HTML
@@ -685,7 +682,7 @@
 
 ============================================================
 
-### 📄 Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning
+## 📄 Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2605.22642
 - **阅读来源**: HTML
@@ -714,7 +711,7 @@
 
 ============================================================
 
-### 📄 Efficient Agentic Reasoning Through Self-Regulated Simulative Planning
+## 📄 Efficient Agentic Reasoning Through Self-Regulated Simulative Planning
 
 - **链接**: https://huggingface.co/papers/2605.22138
 - **阅读来源**: HTML
@@ -745,7 +742,7 @@
 
 ============================================================
 
-### 📄 Unsupervised Process Reward Models
+## 📄 Unsupervised Process Reward Models
 
 - **链接**: https://huggingface.co/papers/2605.10158
 - **阅读来源**: HTML
@@ -777,7 +774,7 @@
 
 ============================================================
 
-### 📄 Minimalist Visual Inertial Odometry
+## 📄 Minimalist Visual Inertial Odometry
 
 - **链接**: https://huggingface.co/papers/2605.19990
 - **阅读来源**: HTML
@@ -807,7 +804,7 @@
 
 ============================================================
 
-### 📄 Q-ARVD: Quantizing Autoregressive Video Diffusion Models
+## 📄 Q-ARVD: Quantizing Autoregressive Video Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2605.21072
 - **阅读来源**: HTML
@@ -842,7 +839,7 @@
 
 ============================================================
 
-### 📄 Disentangling Sampling from Training Budget in Class-Imbalanced CT Body Composition Segmentation
+## 📄 Disentangling Sampling from Training Budget in Class-Imbalanced CT Body Composition Segmentation
 
 - **链接**: https://huggingface.co/papers/2605.20405
 - **阅读来源**: HTML
@@ -874,7 +871,7 @@
 
 ============================================================
 
-### 📄 Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation
+## 📄 Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation
 
 - **链接**: https://huggingface.co/papers/2605.15669
 - **阅读来源**: ArXiv Abs
@@ -906,7 +903,7 @@
 
 ============================================================
 
-### 📄 WorldKV: Efficient World Memory with World Retrieval and Compression
+## 📄 WorldKV: Efficient World Memory with World Retrieval and Compression
 
 - **链接**: https://huggingface.co/papers/2605.22718
 - **阅读来源**: HTML
@@ -936,7 +933,7 @@
 
 ============================================================
 
-### 📄 Forecasting Scientific Progress with Artificial Intelligence
+## 📄 Forecasting Scientific Progress with Artificial Intelligence
 
 - **链接**: https://huggingface.co/papers/2605.22681
 - **阅读来源**: ArXiv Abs
@@ -969,7 +966,7 @@
 
 ============================================================
 
-### 📄 AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment
+## 📄 AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment
 
 - **链接**: https://huggingface.co/papers/2605.17602
 - **阅读来源**: HTML
@@ -998,7 +995,7 @@
 
 ============================================================
 
-### 📄 PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
+## 📄 PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
 
 - **链接**: https://huggingface.co/papers/2605.21572
 - **阅读来源**: HTML
@@ -1028,7 +1025,7 @@
 
 ============================================================
 
-### 📄 Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention
+## 📄 Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention
 
 - **链接**: https://huggingface.co/papers/2605.22791
 - **阅读来源**: HTML
@@ -1059,7 +1056,7 @@
 
 ============================================================
 
-### 📄 Training Large Language Models to Predict Clinical Events
+## 📄 Training Large Language Models to Predict Clinical Events
 
 - **链接**: https://huggingface.co/papers/2605.12817
 - **阅读来源**: HTML
@@ -1091,7 +1088,7 @@
 
 ============================================================
 
-### 📄 Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking
+## 📄 Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking
 
 - **链接**: https://huggingface.co/papers/2605.22538
 - **阅读来源**: HTML
@@ -1123,7 +1120,7 @@
 
 ============================================================
 
-### 📄 Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators
+## 📄 Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators
 
 - **链接**: https://huggingface.co/papers/2605.22717
 - **阅读来源**: HTML
@@ -1154,7 +1151,7 @@
 
 ============================================================
 
-### 📄 π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows
+## 📄 π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows
 
 - **链接**: https://huggingface.co/papers/2605.14678
 - **阅读来源**: HTML
@@ -1185,7 +1182,7 @@
 
 ============================================================
 
-### 📄 Forecasting Downstream Performance of LLMs With Proxy Metrics
+## 📄 Forecasting Downstream Performance of LLMs With Proxy Metrics
 
 - **链接**: https://huggingface.co/papers/2605.18607
 - **阅读来源**: HTML
@@ -1215,7 +1212,7 @@
 
 ============================================================
 
-### 📄 SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild
+## 📄 SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild
 
 - **链接**: https://huggingface.co/papers/2605.07604
 - **阅读来源**: HTML
@@ -1246,7 +1243,7 @@
 
 ============================================================
 
-### 📄 DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards
+## 📄 DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards
 
 - **链接**: https://huggingface.co/papers/2605.21467
 - **阅读来源**: HTML
@@ -1276,7 +1273,7 @@ NLP-大模型微调、强化学习（特别是基于可验证奖励的强化学�
 
 ============================================================
 
-### 📄 Same Architecture, Different Capacity: Optimizer-Induced Spectral Scaling Laws
+## 📄 Same Architecture, Different Capacity: Optimizer-Induced Spectral Scaling Laws
 
 - **链接**: https://huggingface.co/papers/2605.21803
 - **阅读来源**: HTML
@@ -1308,7 +1305,7 @@ NLP-大模型微调、强化学习（特别是基于可验证奖励的强化学�
 
 ============================================================
 
-### 📄 ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning
+## 📄 ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.20176
 - **阅读来源**: HTML
@@ -1339,7 +1336,7 @@ NLP-大模型微调、强化学习（特别是基于可验证奖励的强化学�
 
 ============================================================
 
-### 📄 Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry
+## 📄 Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry
 
 - **链接**: https://huggingface.co/papers/2605.20496
 - **阅读来源**: HTML
@@ -1369,7 +1366,7 @@ NLP-大模型微调、强化学习（特别是基于可验证奖励的强化学�
 
 ============================================================
 
-### 📄 TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation
+## 📄 TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation
 
 - **链接**: https://huggingface.co/papers/2605.22355
 - **阅读来源**: HTML
@@ -1401,7 +1398,7 @@ NLP-大模型微调、强化学习（特别是基于可验证奖励的强化学�
 
 ============================================================
 
-### 📄 Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps
+## 📄 Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps
 
 - **链接**: https://huggingface.co/papers/2605.16928
 - **阅读来源**: HTML
@@ -1436,7 +1433,7 @@ NLP-大模型微调、强化学习（特别是基于可验证奖励的强化学�
 
 ============================================================
 
-### 📄 DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders
+## 📄 DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders
 
 - **链接**: https://huggingface.co/papers/2605.22777
 - **阅读来源**: HTML
@@ -1471,7 +1468,7 @@ NLP-大模型微调、强化学习（特别是基于可验证奖励的强化学�
 
 ============================================================
 
-### 📄 GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation
+## 📄 GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation
 
 - **链接**: https://huggingface.co/papers/2605.21605
 - **阅读来源**: HTML
@@ -1500,7 +1497,7 @@ NLP-大模型微调、强化学习（特别是基于可验证奖励的强化学�
 
 ============================================================
 
-### 📄 AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild
+## 📄 AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild
 
 - **链接**: https://huggingface.co/papers/2605.22715
 - **阅读来源**: HTML
@@ -1529,4 +1526,3 @@ NLP-大模型微调、强化学习（特别是基于可验证奖励的强化学�
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
