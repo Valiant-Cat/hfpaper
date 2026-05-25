@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-05-25
 **Source URL**: https://huggingface.co/papers/date/2026-05-25
 
 ============================================================
 
-### 📄 From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills
+## 📄 From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills
 
 - **链接**: https://huggingface.co/papers/2605.23899
 - **阅读来源**: HTML
@@ -38,7 +35,7 @@
 
 ============================================================
 
-### 📄 SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models
+## 📄 SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models
 
 - **链接**: https://huggingface.co/papers/2605.23345
 - **阅读来源**: HTML
@@ -68,7 +65,7 @@
 
 ============================================================
 
-### 📄 ETCHR: Editing To Clarify and Harness Reasoning
+## 📄 ETCHR: Editing To Clarify and Harness Reasoning
 
 - **链接**: https://huggingface.co/papers/2605.23897
 - **阅读来源**: HTML
@@ -102,7 +99,7 @@
 
 ============================================================
 
-### 📄 Rethinking Cross-Layer Information Routing in Diffusion Transformers
+## 📄 Rethinking Cross-Layer Information Routing in Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2605.20708
 - **阅读来源**: HTML
@@ -132,7 +129,7 @@
 
 ============================================================
 
-### 📄 The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm
+## 📄 The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm
 
 - **链接**: https://huggingface.co/papers/2604.20665
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@
 
 ============================================================
 
-### 📄 VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis
+## 📄 VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis
 
 - **链接**: https://huggingface.co/papers/2605.22570
 - **阅读来源**: HTML
@@ -200,7 +197,7 @@
 
 ============================================================
 
-### 📄 SkillOpt: Executive Strategy for Self-Evolving Agent Skills
+## 📄 SkillOpt: Executive Strategy for Self-Evolving Agent Skills
 
 - **链接**: https://huggingface.co/papers/2605.23904
 - **阅读来源**: HTML
@@ -232,7 +229,7 @@
 
 ============================================================
 
-### 📄 StepAudio 2.5 Technical Report
+## 📄 StepAudio 2.5 Technical Report
 
 - **链接**: https://huggingface.co/papers/2605.23463
 - **阅读来源**: HTML
@@ -264,7 +261,7 @@
 
 ============================================================
 
-### 📄 PhotoFlow: Agentic 3D Virtual Photography Missions
+## 📄 PhotoFlow: Agentic 3D Virtual Photography Missions
 
 - **链接**: https://huggingface.co/papers/2605.23771
 - **阅读来源**: HTML
@@ -294,7 +291,7 @@
 
 ============================================================
 
-### 📄 From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models
+## 📄 From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2605.20177
 - **阅读来源**: HTML
@@ -329,7 +326,7 @@
 
 ============================================================
 
-### 📄 Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers
+## 📄 Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers
 
 - **链接**: https://huggingface.co/papers/2605.23892
 - **阅读来源**: HTML
@@ -360,7 +357,7 @@
 
 ============================================================
 
-### 📄 Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR
+## 📄 Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR
 
 - **链接**: https://huggingface.co/papers/2605.19282
 - **阅读来源**: HTML
@@ -391,7 +388,7 @@
 
 ============================================================
 
-### 📄 PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
+## 📄 PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
 
 - **链接**: https://huggingface.co/papers/2605.23902
 - **阅读来源**: ArXiv Abs
@@ -420,7 +417,7 @@
 
 ============================================================
 
-### 📄 RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution
+## 📄 RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution
 
 - **链接**: https://huggingface.co/papers/2605.21195
 - **阅读来源**: HTML
@@ -451,7 +448,7 @@
 
 ============================================================
 
-### 📄 SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research
+## 📄 SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research
 
 - **链接**: https://huggingface.co/papers/2605.22878
 - **阅读来源**: HTML
@@ -482,7 +479,7 @@
 
 ============================================================
 
-### 📄 LatentUMM: Dual Latent Alignment for Unified Multimodal Models
+## 📄 LatentUMM: Dual Latent Alignment for Unified Multimodal Models
 
 - **链接**: https://huggingface.co/papers/2605.17766
 - **阅读来源**: HTML
@@ -514,7 +511,7 @@
 
 ============================================================
 
-### 📄 GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction
+## 📄 GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction
 
 - **链接**: https://huggingface.co/papers/2605.23888
 - **阅读来源**: HTML
@@ -551,7 +548,7 @@
 
 ============================================================
 
-### 📄 LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
+## 📄 LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
 
 - **链接**: https://huggingface.co/papers/2605.23901
 - **阅读来源**: HTML
@@ -580,7 +577,7 @@ NLP - 大模型预训练、微调与缩放定律（Scaling Laws）研究
 
 ============================================================
 
-### 📄 HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents
+## 📄 HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents
 
 - **链接**: https://huggingface.co/papers/2605.17873
 - **阅读来源**: HTML
@@ -614,7 +611,7 @@ NLP - 大模型预训练、微调与缩放定律（Scaling Laws）研究
 
 ============================================================
 
-### 📄 Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models
+## 📄 Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models
 
 - **链接**: https://huggingface.co/papers/2605.21573
 - **阅读来源**: HTML
@@ -652,7 +649,7 @@ NLP - 大模型预训练、微调与缩放定律（Scaling Laws）研究
 
 ============================================================
 
-### 📄 See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding
+## 📄 See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding
 
 - **链接**: https://huggingface.co/papers/2605.18018
 - **阅读来源**: HTML
@@ -683,7 +680,7 @@ NLP - 大模型预训练、微调与缩放定律（Scaling Laws）研究
 
 ============================================================
 
-### 📄 Geo-Align: Video Generation Alignment via Metric Geometry Reward
+## 📄 Geo-Align: Video Generation Alignment via Metric Geometry Reward
 
 - **链接**: https://huggingface.co/papers/2605.23903
 - **阅读来源**: HTML
@@ -712,4 +709,3 @@ NLP - 大模型预训练、微调与缩放定律（Scaling Laws）研究
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
