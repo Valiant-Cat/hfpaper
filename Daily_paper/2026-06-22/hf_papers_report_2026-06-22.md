@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-06-22
 **Source URL**: https://huggingface.co/papers/date/2026-06-22
 
 ============================================================
 
-### 📄 WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents
+## 📄 WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents
 
 - **链接**: https://huggingface.co/papers/2606.18847
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation
+## 📄 BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation
 
 - **链接**: https://huggingface.co/papers/2606.19651
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents
+## 📄 GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents
 
 - **链接**: https://huggingface.co/papers/2606.18829
 - **阅读来源**: ArXiv Abs
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning
+## 📄 GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning
 
 - **链接**: https://huggingface.co/papers/2606.17480
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision
+## 📄 MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision
 
 - **链接**: https://huggingface.co/papers/2606.17162
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SpatialAvatar-0: High-Quality 4D Head Avatar with Multi-Stage Reconstruction
+## 📄 SpatialAvatar-0: High-Quality 4D Head Avatar with Multi-Stage Reconstruction
 
 - **链接**: https://huggingface.co/papers/2606.15659
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models
+## 📄 PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2606.19534
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models
+## 📄 Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2606.16700
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Distilling Examples into Task Instructions: Enhanced In-Context Learning for Real-World B2B Conversations
+## 📄 Distilling Examples into Task Instructions: Enhanced In-Context Learning for Real-World B2B Conversations
 
 - **链接**: https://huggingface.co/papers/2606.15641
 - **阅读来源**: ArXiv Abs
@@ -96,4 +93,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
