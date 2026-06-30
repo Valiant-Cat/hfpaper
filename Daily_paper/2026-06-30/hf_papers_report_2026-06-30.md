@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-06-30
 **Source URL**: https://huggingface.co/papers/date/2026-06-30
 
 ============================================================
 
-### 📄 TheoremGraph: Bridging Formal and Informal Mathematics
+## 📄 TheoremGraph: Bridging Formal and Informal Mathematics
 
 - **链接**: https://huggingface.co/papers/2606.25363
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks
+## 📄 OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks
 
 - **链接**: https://huggingface.co/papers/2606.29537
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 How Good Can Linear Models Be for Time-Series Forecasting?
+## 📄 How Good Can Linear Models Be for Time-Series Forecasting?
 
 - **链接**: https://huggingface.co/papers/2606.27282
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Focusing on What Matters: Saliency-Harnessing Accurate Routing for Diffusion MoE
+## 📄 Focusing on What Matters: Saliency-Harnessing Accurate Routing for Diffusion MoE
 
 - **链接**: https://huggingface.co/papers/2606.26938
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model
+## 📄 DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model
 
 - **链接**: https://huggingface.co/papers/2606.30292
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
+## 📄 Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
 
 - **链接**: https://huggingface.co/papers/2606.28186
 - **阅读来源**: ArXiv Abs
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents
+## 📄 TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents
 
 - **链接**: https://huggingface.co/papers/2606.28480
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Beyond IID: How General Are Tabular Foundation Models, Really?
+## 📄 Beyond IID: How General Are Tabular Foundation Models, Really?
 
 - **链接**: https://huggingface.co/papers/2606.30410
 - **阅读来源**: ArXiv Abs
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation
+## 📄 MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation
 
 - **链接**: https://huggingface.co/papers/2606.26016
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots
+## 📄 GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots
 
 - **链接**: https://huggingface.co/papers/2606.29705
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence
+## 📄 Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence
 
 - **链接**: https://huggingface.co/papers/2606.29655
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TACO: Tool-Augmented Credit Optimization for Agentic Tool Use
+## 📄 TACO: Tool-Augmented Credit Optimization for Agentic Tool Use
 
 - **链接**: https://huggingface.co/papers/2606.30251
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Walking in the Implicit: Interactive World Exploration via Neural Scene Representation
+## 📄 Walking in the Implicit: Interactive World Exploration via Neural Scene Representation
 
 - **链接**: https://huggingface.co/papers/2606.30045
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing
+## 📄 SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing
 
 - **链接**: https://huggingface.co/papers/2606.29887
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding
+## 📄 One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding
 
 - **链接**: https://huggingface.co/papers/2606.30084
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AsyncOPD: How Stale Can On-Policy Distillation Be?
+## 📄 AsyncOPD: How Stale Can On-Policy Distillation Be?
 
 - **链接**: https://huggingface.co/papers/2606.24143
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Interleaved Speech Language Models Latently Work In Text
+## 📄 Interleaved Speech Language Models Latently Work In Text
 
 - **链接**: https://huggingface.co/papers/2606.22473
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Nemotron-Labs-Diffusion-Image: Advancing Masked Discrete Diffusion for High-Resolution Image Synthesis
+## 📄 Nemotron-Labs-Diffusion-Image: Advancing Masked Discrete Diffusion for High-Resolution Image Synthesis
 
 - **链接**: https://huggingface.co/papers/2606.29814
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction
+## 📄 Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction
 
 - **链接**: https://huggingface.co/papers/2606.29445
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting
+## 📄 Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting
 
 - **链接**: https://huggingface.co/papers/2606.30017
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Agentic Abstention: Do Agents Know When to Stop Instead of Act?
+## 📄 Agentic Abstention: Do Agents Know When to Stop Instead of Act?
 
 - **链接**: https://huggingface.co/papers/2606.28733
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing
+## 📄 LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing
 
 - **链接**: https://huggingface.co/papers/2606.26740
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning
+## 📄 Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning
 
 - **链接**: https://huggingface.co/papers/2606.27828
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Trimming the Long-Tail of Visual World Modeling Evaluation
+## 📄 Trimming the Long-Tail of Visual World Modeling Evaluation
 
 - **链接**: https://huggingface.co/papers/2606.24256
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction
+## 📄 The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction
 
 - **链接**: https://huggingface.co/papers/2606.30308
 - **阅读来源**: HTML
@@ -257,7 +254,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark
+## 📄 Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark
 
 - **链接**: https://huggingface.co/papers/2606.30170
 - **阅读来源**: HTML
@@ -267,7 +264,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ZooClaw-FashionSigLIP2: Distilled Fine-tuning for Robust Fashion Retrieval
+## 📄 ZooClaw-FashionSigLIP2: Distilled Fine-tuning for Robust Fashion Retrieval
 
 - **链接**: https://huggingface.co/papers/2606.27708
 - **阅读来源**: HTML
@@ -277,7 +274,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent
+## 📄 Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent
 
 - **链接**: https://huggingface.co/papers/2606.30616
 - **阅读来源**: HTML
@@ -287,7 +284,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PoseShield: Neural Collision Fields for Human Self-Collision Resolution
+## 📄 PoseShield: Neural Collision Fields for Human Self-Collision Resolution
 
 - **链接**: https://huggingface.co/papers/2606.29686
 - **阅读来源**: HTML
@@ -297,7 +294,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models
+## 📄 ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models
 
 - **链接**: https://huggingface.co/papers/2606.23404
 - **阅读来源**: ArXiv Abs
@@ -307,7 +304,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Learning Transferable Dynamics Priors from Action to World Modeling
+## 📄 Learning Transferable Dynamics Priors from Action to World Modeling
 
 - **链接**: https://huggingface.co/papers/2606.29501
 - **阅读来源**: HTML
@@ -317,7 +314,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents
+## 📄 PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents
 
 - **链接**: https://huggingface.co/papers/2606.29225
 - **阅读来源**: HTML
@@ -327,7 +324,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Large-Scale Tunnel Air-Ground Collaboration With FLISP: Fast LiDAR-IMU Synchronized Path Planner
+## 📄 Large-Scale Tunnel Air-Ground Collaboration With FLISP: Fast LiDAR-IMU Synchronized Path Planner
 
 - **链接**: https://huggingface.co/papers/2606.25393
 - **阅读来源**: HTML
@@ -337,7 +334,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ReFreeKV: Towards Threshold-Free KV Cache Compression
+## 📄 ReFreeKV: Towards Threshold-Free KV Cache Compression
 
 - **链接**: https://huggingface.co/papers/2502.16886
 - **阅读来源**: HTML
@@ -346,4 +343,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
