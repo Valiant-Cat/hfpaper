@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-01
 **Source URL**: https://huggingface.co/papers/date/2026-07-01
 
 ============================================================
 
-### 📄 Xiaomi-GUI-0 Technical Report
+## 📄 Xiaomi-GUI-0 Technical Report
 
 - **链接**: https://huggingface.co/papers/2606.31410
 - **阅读来源**: ArXiv Abs
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs
+## 📄 Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs
 
 - **链接**: https://huggingface.co/papers/2606.32032
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Orca: The World is in Your Mind
+## 📄 Orca: The World is in Your Mind
 
 - **链接**: https://huggingface.co/papers/2606.30534
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation
+## 📄 AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation
 
 - **链接**: https://huggingface.co/papers/2606.30811
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation
+## 📄 Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation
 
 - **链接**: https://huggingface.co/papers/2606.23127
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language
+## 📄 BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language
 
 - **链接**: https://huggingface.co/papers/2606.30319
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation
+## 📄 PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation
 
 - **链接**: https://huggingface.co/papers/2606.30673
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DOPD: Dual On-policy Distillation
+## 📄 DOPD: Dual On-policy Distillation
 
 - **链接**: https://huggingface.co/papers/2606.30626
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Little Brains, Big Feats: Exploring Compact Language Models
+## 📄 Little Brains, Big Feats: Exploring Compact Language Models
 
 - **链接**: https://huggingface.co/papers/2606.30062
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Scenes as Objects, Not Primitives: Instance-Structured 3D Tokenization from Unposed Views
+## 📄 Scenes as Objects, Not Primitives: Instance-Structured 3D Tokenization from Unposed Views
 
 - **链接**: https://huggingface.co/papers/2606.29513
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GEAR: Guided End-to-End AutoRegression for Image Synthesis
+## 📄 GEAR: Guided End-to-End AutoRegression for Image Synthesis
 
 - **链接**: https://huggingface.co/papers/2606.32039
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Multi-Block Diffusion Language Models
+## 📄 Multi-Block Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2606.29215
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SkillHone: A Harness for Continual Agent Skill Evolution Through Persistent Decision History
+## 📄 SkillHone: A Harness for Continual Agent Skill Evolution Through Persistent Decision History
 
 - **链接**: https://huggingface.co/papers/2606.08671
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents
+## 📄 LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents
 
 - **链接**: https://huggingface.co/papers/2606.30697
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RedVox: Safety and Fairness Gaps in Speech Models Across Languages
+## 📄 RedVox: Safety and Fairness Gaps in Speech Models Across Languages
 
 - **链接**: https://huggingface.co/papers/2606.26968
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive
+## 📄 TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive
 
 - **链接**: https://huggingface.co/papers/2606.31029
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks
+## 📄 Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks
 
 - **链接**: https://huggingface.co/papers/2606.29082
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding
+## 📄 BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding
 
 - **链接**: https://huggingface.co/papers/2606.31315
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Dockerless: Environment-Free Program Verifier for Coding Agents
+## 📄 Dockerless: Environment-Free Program Verifier for Coding Agents
 
 - **链接**: https://huggingface.co/papers/2606.28436
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation
+## 📄 DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation
 
 - **链接**: https://huggingface.co/papers/2606.31537
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising
+## 📄 PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising
 
 - **链接**: https://huggingface.co/papers/2606.30968
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MuSViT: A Foundation Vision Model for Sheet Music Representation
+## 📄 MuSViT: A Foundation Vision Model for Sheet Music Representation
 
 - **链接**: https://huggingface.co/papers/2606.31811
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MemLearner: Learning to Query Context memory for Video World Models
+## 📄 MemLearner: Learning to Query Context memory for Video World Models
 
 - **链接**: https://huggingface.co/papers/2606.31734
 - **阅读来源**: HTML
@@ -236,4 +233,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
