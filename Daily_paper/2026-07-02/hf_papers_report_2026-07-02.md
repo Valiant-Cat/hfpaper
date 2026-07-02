@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-02
 **Source URL**: https://huggingface.co/papers/date/2026-07-02
 
 ============================================================
 
-### 📄 Valdi: Value Diffusion World Models
+## 📄 Valdi: Value Diffusion World Models
 
 - **链接**: https://huggingface.co/papers/2607.00917
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TurboServe: Serving Streaming Video Generation Efficiently and Economically
+## 📄 TurboServe: Serving Streaming Video Generation Efficiently and Economically
 
 - **链接**: https://huggingface.co/papers/2606.19271
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising
+## 📄 Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising
 
 - **链接**: https://huggingface.co/papers/2607.00407
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AI translation of literary texts is "fine", but readers still prefer human translations
+## 📄 AI translation of literary texts is "fine", but readers still prefer human translations
 
 - **链接**: https://huggingface.co/papers/2606.26040
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving
+## 📄 ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving
 
 - **链接**: https://huggingface.co/papers/2607.00466
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts
+## 📄 Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts
 
 - **链接**: https://huggingface.co/papers/2607.00666
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Autonomous Scientific Discovery via Iterative Meta-Reflection
+## 📄 Autonomous Scientific Discovery via Iterative Meta-Reflection
 
 - **链接**: https://huggingface.co/papers/2607.01131
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception
+## 📄 PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception
 
 - **链接**: https://huggingface.co/papers/2606.28322
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CausalMix: Data Mixture as Causal Inference for Language Model Training
+## 📄 CausalMix: Data Mixture as Causal Inference for Language Model Training
 
 - **链接**: https://huggingface.co/papers/2607.01104
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MemSyco-Bench: Benchmarking Sycophancy in Agent Memory
+## 📄 MemSyco-Bench: Benchmarking Sycophancy in Agent Memory
 
 - **链接**: https://huggingface.co/papers/2607.01071
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AutoTrainess: Teaching Language Models to Improve Language Models Autonomously
+## 📄 AutoTrainess: Teaching Language Models to Improve Language Models Autonomously
 
 - **链接**: https://huggingface.co/papers/2606.31551
 - **阅读来源**: ArXiv Abs
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning
+## 📄 Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning
 
 - **链接**: https://huggingface.co/papers/2607.00461
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 NoPA: Non-Parametric Online 3D Scene Graph Generation
+## 📄 NoPA: Non-Parametric Online 3D Scene Graph Generation
 
 - **链接**: https://huggingface.co/papers/2607.00529
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation
+## 📄 AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation
 
 - **链接**: https://huggingface.co/papers/2606.31292
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination
+## 📄 Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination
 
 - **链接**: https://huggingface.co/papers/2607.00924
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery
+## 📄 BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery
 
 - **链接**: https://huggingface.co/papers/2606.20997
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity
+## 📄 Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity
 
 - **链接**: https://huggingface.co/papers/2607.00248
 - **阅读来源**: ArXiv Abs
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Cross-Domain Generalization Failure in Lightweight Intrusion Detection Models for IIoT Networks
+## 📄 Cross-Domain Generalization Failure in Lightweight Intrusion Detection Models for IIoT Networks
 
 - **链接**: https://huggingface.co/papers/2607.00553
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning
+## 📄 Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning
 
 - **链接**: https://huggingface.co/papers/2607.01191
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ABot-M0.5: Unified Mobility-and-Manipulation World Action Model
+## 📄 ABot-M0.5: Unified Mobility-and-Manipulation World Action Model
 
 - **链接**: https://huggingface.co/papers/2607.00678
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The State-Prediction Separation Hypothesis
+## 📄 The State-Prediction Separation Hypothesis
 
 - **链接**: https://huggingface.co/papers/2607.01218
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors
+## 📄 When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors
 
 - **链接**: https://huggingface.co/papers/2606.32029
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ASPIRE: Agentic /Skills Discovery for Robotics
+## 📄 ASPIRE: Agentic /Skills Discovery for Robotics
 
 - **链接**: https://huggingface.co/papers/2607.00272
 - **阅读来源**: HTML
@@ -236,4 +233,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
