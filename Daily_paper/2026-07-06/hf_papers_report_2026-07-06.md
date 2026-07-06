@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-06
 **Source URL**: https://huggingface.co/papers/date/2026-07-06
 
 ============================================================
 
-### 📄 Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots
+## 📄 Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots
 
 - **链接**: https://huggingface.co/papers/2607.02501
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers
+## 📄 OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2607.02461
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon
+## 📄 VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon
 
 - **链接**: https://huggingface.co/papers/2607.01804
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering
+## 📄 MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering
 
 - **链接**: https://huggingface.co/papers/2607.01420
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment
+## 📄 Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment
 
 - **链接**: https://huggingface.co/papers/2607.02471
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning
+## 📄 The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2606.29526
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation
+## 📄 AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation
 
 - **链接**: https://huggingface.co/papers/2607.00052
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DataComp-VLM: Improved Open Datasets for Vision-Language Models
+## 📄 DataComp-VLM: Improved Open Datasets for Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2606.28551
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming
+## 📄 Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming
 
 - **链接**: https://huggingface.co/papers/2606.31227
 - **阅读来源**: HTML
@@ -96,4 +93,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
