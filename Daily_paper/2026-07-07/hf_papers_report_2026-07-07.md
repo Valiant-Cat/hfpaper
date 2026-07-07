@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-07
 **Source URL**: https://huggingface.co/papers/date/2026-07-07
 
 ============================================================
 
-### 📄 Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization
+## 📄 Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization
 
 - **链接**: https://huggingface.co/papers/2607.04064
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Perceptual Flow Matching for Few-Step Generative Modeling
+## 📄 Perceptual Flow Matching for Few-Step Generative Modeling
 
 - **链接**: https://huggingface.co/papers/2607.03524
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog
+## 📄 ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog
 
 - **链接**: https://huggingface.co/papers/2607.04438
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Vision Pretraining for Dense Spatial Perception
+## 📄 Vision Pretraining for Dense Spatial Perception
 
 - **链接**: https://huggingface.co/papers/2607.05247
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes
+## 📄 ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes
 
 - **链接**: https://huggingface.co/papers/2607.04439
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 dOPSD: On-Policy Self-Distillation for Diffusion Language Models
+## 📄 dOPSD: On-Policy Self-Distillation for Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2607.04428
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing
+## 📄 MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing
 
 - **链接**: https://huggingface.co/papers/2607.05376
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots
+## 📄 EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots
 
 - **链接**: https://huggingface.co/papers/2607.02646
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments
+## 📄 EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments
 
 - **链接**: https://huggingface.co/papers/2607.05155
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction
+## 📄 PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction
 
 - **链接**: https://huggingface.co/papers/2607.02881
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval
+## 📄 Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval
 
 - **链接**: https://huggingface.co/papers/2607.04605
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers
+## 📄 OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers
 
 - **链接**: https://huggingface.co/papers/2607.04033
 - **阅读来源**: ArXiv Abs
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 KVpop -- Key-Value Cache Compression with Predictive Online Pruning
+## 📄 KVpop -- Key-Value Cache Compression with Predictive Online Pruning
 
 - **链接**: https://huggingface.co/papers/2607.05061
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Multi-Turn Agentic Scientific Literature Search via Workflow Induction
+## 📄 Multi-Turn Agentic Scientific Literature Search via Workflow Induction
 
 - **链接**: https://huggingface.co/papers/2607.00597
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning
+## 📄 UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning
 
 - **链接**: https://huggingface.co/papers/2607.04425
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Wan-Streamer v0.2: Higher Resolution, Same Latency
+## 📄 Wan-Streamer v0.2: Higher Resolution, Same Latency
 
 - **链接**: https://huggingface.co/papers/2607.04443
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Multiplayer Interactive World Models with Representation Autoencoders
+## 📄 Multiplayer Interactive World Models with Representation Autoencoders
 
 - **链接**: https://huggingface.co/papers/2607.05352
 - **阅读来源**: ArXiv Abs
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction
+## 📄 Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction
 
 - **链接**: https://huggingface.co/papers/2607.01764
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models
+## 📄 Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models
 
 - **链接**: https://huggingface.co/papers/2607.05390
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving
+## 📄 GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving
 
 - **链接**: https://huggingface.co/papers/2602.11688
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LLM-as-a-Verifier: A General-Purpose Verification Framework
+## 📄 LLM-as-a-Verifier: A General-Purpose Verification Framework
 
 - **链接**: https://huggingface.co/papers/2607.05391
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training
+## 📄 CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training
 
 - **链接**: https://huggingface.co/papers/2607.02998
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space
+## 📄 PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space
 
 - **链接**: https://huggingface.co/papers/2607.05373
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization
+## 📄 InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization
 
 - **链接**: https://huggingface.co/papers/2607.04988
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification
+## 📄 Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification
 
 - **链接**: https://huggingface.co/papers/2607.01793
 - **阅读来源**: HTML
@@ -257,7 +254,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AI Wizards at EXIST 2026: Hierarchical Soft-Label Learning for Multimodal Sexism Identification in Memes
+## 📄 AI Wizards at EXIST 2026: Hierarchical Soft-Label Learning for Multimodal Sexism Identification in Memes
 
 - **链接**: https://huggingface.co/papers/2607.04410
 - **阅读来源**: HTML
@@ -267,7 +264,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation
+## 📄 GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation
 
 - **链接**: https://huggingface.co/papers/2607.02642
 - **阅读来源**: HTML
@@ -277,7 +274,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation
+## 📄 PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation
 
 - **链接**: https://huggingface.co/papers/2607.03068
 - **阅读来源**: HTML
@@ -286,4 +283,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
