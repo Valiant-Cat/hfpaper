@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-08
 **Source URL**: https://huggingface.co/papers/date/2026-07-08
 
 ============================================================
 
-### 📄 TREK: Distill to Explore, Reinforce to Refine
+## 📄 TREK: Distill to Explore, Reinforce to Refine
 
 - **链接**: https://huggingface.co/papers/2607.05339
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs
+## 📄 MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs
 
 - **链接**: https://huggingface.co/papers/2606.30026
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator
+## 📄 Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator
 
 - **链接**: https://huggingface.co/papers/2607.05765
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning
+## 📄 Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning
 
 - **链接**: https://huggingface.co/papers/2607.02963
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Gemma 4 Technical Report
+## 📄 Gemma 4 Technical Report
 
 - **链接**: https://huggingface.co/papers/2607.02770
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training
+## 📄 TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training
 
 - **链接**: https://huggingface.co/papers/2607.05804
 - **阅读来源**: ArXiv Abs
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AlayaWorld: Long-Horizon and Playable Video World Generation
+## 📄 AlayaWorld: Long-Horizon and Playable Video World Generation
 
 - **链接**: https://huggingface.co/papers/2607.06291
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Vision as Unified Multimodal Generation
+## 📄 Vision as Unified Multimodal Generation
 
 - **链接**: https://huggingface.co/papers/2607.06560
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From Foundation to Application: Improving VLA Models in Practice
+## 📄 From Foundation to Application: Improving VLA Models in Practice
 
 - **链接**: https://huggingface.co/papers/2607.06403
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Bibby AI: An Editor-Native Agentic Platform for Academic Research, Writing, and Publishing
+## 📄 Bibby AI: An Editor-Native Agentic Platform for Academic Research, Writing, and Publishing
 
 - **链接**: https://huggingface.co/papers/2607.05435
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 When Classic Cache Policies Fail: Learning-Augmented Replacement for Semantic Retrieval Buffers
+## 📄 When Classic Cache Policies Fail: Learning-Augmented Replacement for Semantic Retrieval Buffers
 
 - **链接**: https://huggingface.co/papers/2607.00394
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages
+## 📄 PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages
 
 - **链接**: https://huggingface.co/papers/2607.05992
 - **阅读来源**: ArXiv Abs
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding
+## 📄 Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding
 
 - **链接**: https://huggingface.co/papers/2607.05722
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment
+## 📄 Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment
 
 - **链接**: https://huggingface.co/papers/2607.02920
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation
+## 📄 DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation
 
 - **链接**: https://huggingface.co/papers/2607.05147
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe
+## 📄 SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe
 
 - **链接**: https://huggingface.co/papers/2607.03451
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation
+## 📄 RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation
 
 - **链接**: https://huggingface.co/papers/2607.06558
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation
+## 📄 RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation
 
 - **链接**: https://huggingface.co/papers/2607.06559
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MentalThink: Shaping Thoughts in Mental SVG World
+## 📄 MentalThink: Shaping Thoughts in Mental SVG World
 
 - **链接**: https://huggingface.co/papers/2607.03530
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation
+## 📄 CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation
 
 - **链接**: https://huggingface.co/papers/2607.03819
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory
+## 📄 Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory
 
 - **链接**: https://huggingface.co/papers/2607.05511
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling
+## 📄 Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling
 
 - **链接**: https://huggingface.co/papers/2607.02980
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration
+## 📄 CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration
 
 - **链接**: https://huggingface.co/papers/2607.05465
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models
+## 📄 SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models
 
 - **链接**: https://huggingface.co/papers/2607.06442
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance
+## 📄 3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance
 
 - **链接**: https://huggingface.co/papers/2606.31329
 - **阅读来源**: HTML
@@ -257,7 +254,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model
+## 📄 Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model
 
 - **链接**: https://huggingface.co/papers/2607.03509
 - **阅读来源**: HTML
@@ -267,7 +264,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
+## 📄 PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
 
 - **链接**: https://huggingface.co/papers/2607.02515
 - **阅读来源**: HTML
@@ -277,7 +274,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models
+## 📄 Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models
 
 - **链接**: https://huggingface.co/papers/2607.05803
 - **阅读来源**: HTML
@@ -286,4 +283,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
