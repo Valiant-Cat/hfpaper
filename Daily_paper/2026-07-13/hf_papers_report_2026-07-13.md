@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-13
 **Source URL**: https://huggingface.co/papers/date/2026-07-13
 
 ============================================================
 
-### 📄 Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation
+## 📄 Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation
 
 - **链接**: https://huggingface.co/papers/2607.06957
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Phone Segmentation and Recognition through Phonological Activation Mapping
+## 📄 Phone Segmentation and Recognition through Phonological Activation Mapping
 
 - **链接**: https://huggingface.co/papers/2607.09020
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 A Sovereign, Open-Source Foundation Model for German and English
+## 📄 A Sovereign, Open-Source Foundation Model for German and English
 
 - **链接**: https://huggingface.co/papers/2607.09424
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Trust Region Policy Distillation
+## 📄 Trust Region Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2607.04751
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery
+## 📄 VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery
 
 - **链接**: https://huggingface.co/papers/2607.06374
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning
+## 📄 Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning
 
 - **链接**: https://huggingface.co/papers/2607.08393
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Video Generation Models are General-Purpose Vision Learners
+## 📄 Video Generation Models are General-Purpose Vision Learners
 
 - **链接**: https://huggingface.co/papers/2607.09024
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Self-Guided Test-Time Training for Long-Context LLMs
+## 📄 Self-Guided Test-Time Training for Long-Context LLMs
 
 - **链接**: https://huggingface.co/papers/2607.09415
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 KronQ: LLM Quantization via Kronecker-Factored Hessian
+## 📄 KronQ: LLM Quantization via Kronecker-Factored Hessian
 
 - **链接**: https://huggingface.co/papers/2607.07964
 - **阅读来源**: ArXiv Abs
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models
+## 📄 From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models
 
 - **链接**: https://huggingface.co/papers/2607.06553
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PanoWorld: Real-World Panoramic Generation
+## 📄 PanoWorld: Real-World Panoramic Generation
 
 - **链接**: https://huggingface.co/papers/2607.09661
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Scalable Visual Pretraining for Language Intelligence
+## 📄 Scalable Visual Pretraining for Language Intelligence
 
 - **链接**: https://huggingface.co/papers/2607.09657
 - **阅读来源**: ArXiv Abs
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading
+## 📄 Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading
 
 - **链接**: https://huggingface.co/papers/2607.08964
 - **阅读来源**: HTML
@@ -136,4 +133,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
