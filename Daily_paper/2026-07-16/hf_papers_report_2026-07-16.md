@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-16
 **Source URL**: https://huggingface.co/papers/date/2026-07-16
 
 ============================================================
 
-### 📄 Tracing Agentic Failure from the Flow of Success
+## 📄 Tracing Agentic Failure from the Flow of Success
 
 - **链接**: https://huggingface.co/papers/2607.12747
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill
+## 📄 KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill
 
 - **链接**: https://huggingface.co/papers/2607.12625
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation
+## 📄 Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation
 
 - **链接**: https://huggingface.co/papers/2607.13125
 - **阅读来源**: ArXiv Abs
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OvisOCR2 Technical Report
+## 📄 OvisOCR2 Technical Report
 
 - **链接**: https://huggingface.co/papers/2607.13639
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos
+## 📄 Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos
 
 - **链接**: https://huggingface.co/papers/2607.11523
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors
+## 📄 MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors
 
 - **链接**: https://huggingface.co/papers/2607.12000
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch
+## 📄 GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch
 
 - **链接**: https://huggingface.co/papers/2607.13960
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable
+## 📄 Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable
 
 - **链接**: https://huggingface.co/papers/2607.13285
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities
+## 📄 AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities
 
 - **链接**: https://huggingface.co/papers/2607.13705
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation
+## 📄 ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2607.13124
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization
+## 📄 From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization
 
 - **链接**: https://huggingface.co/papers/2607.07702
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails
+## 📄 PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails
 
 - **链接**: https://huggingface.co/papers/2607.05910
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Registers Matter for Pixel-Space Diffusion Transformers
+## 📄 Registers Matter for Pixel-Space Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2605.16147
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation
+## 📄 Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation
 
 - **链接**: https://huggingface.co/papers/2607.12752
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PalmClaw: A Native On-Device Agent Framework for Mobile Phones
+## 📄 PalmClaw: A Native On-Device Agent Framework for Mobile Phones
 
 - **链接**: https://huggingface.co/papers/2607.13027
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning
+## 📄 Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning
 
 - **链接**: https://huggingface.co/papers/2607.12395
 - **阅读来源**: HTML
@@ -166,4 +163,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
