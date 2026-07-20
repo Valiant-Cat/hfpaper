@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-20
 **Source URL**: https://huggingface.co/papers/date/2026-07-20
 
 ============================================================
 
-### 📄 Loop the Loopies!
+## 📄 Loop the Loopies!
 
 - **链接**: https://huggingface.co/papers/2607.16051
 - **阅读来源**: ArXiv Abs
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos
+## 📄 Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos
 
 - **链接**: https://huggingface.co/papers/2607.16107
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Qwen-Music Technical Report
+## 📄 Qwen-Music Technical Report
 
 - **链接**: https://huggingface.co/papers/2607.11699
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 When Does Muon Help Agentic Reinforcement Learning?
+## 📄 When Does Muon Help Agentic Reinforcement Learning?
 
 - **链接**: https://huggingface.co/papers/2607.16169
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RecGPT-V3 Technical Report
+## 📄 RecGPT-V3 Technical Report
 
 - **链接**: https://huggingface.co/papers/2607.15591
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM
+## 📄 RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM
 
 - **链接**: https://huggingface.co/papers/2607.11683
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories
+## 📄 Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories
 
 - **链接**: https://huggingface.co/papers/2607.15330
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality
+## 📄 From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality
 
 - **链接**: https://huggingface.co/papers/2607.13196
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization
+## 📄 Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2607.14614
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DSWorld: A Data Science World Model for Efficient Autonomous Agents
+## 📄 DSWorld: A Data Science World Model for Efficient Autonomous Agents
 
 - **链接**: https://huggingface.co/papers/2607.15901
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Understanding Reasoning from Pretraining to Post-Training
+## 📄 Understanding Reasoning from Pretraining to Post-Training
 
 - **链接**: https://huggingface.co/papers/2607.16097
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Recursive Harness Self-Improvement
+## 📄 Recursive Harness Self-Improvement
 
 - **链接**: https://huggingface.co/papers/2607.15524
 - **阅读来源**: ArXiv Abs
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources
+## 📄 RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources
 
 - **链接**: https://huggingface.co/papers/2606.29538
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Cura 1T: Specialized Model for Agentic Healthcare
+## 📄 Cura 1T: Specialized Model for Agentic Healthcare
 
 - **链接**: https://huggingface.co/papers/2607.15314
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 xHC: Expanded Hyper-Connections
+## 📄 xHC: Expanded Hyper-Connections
 
 - **链接**: https://huggingface.co/papers/2607.14530
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation
+## 📄 S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation
 
 - **链接**: https://huggingface.co/papers/2607.15686
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders
+## 📄 VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders
 
 - **链接**: https://huggingface.co/papers/2607.14088
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 On-Policy Delta Distillation
+## 📄 On-Policy Delta Distillation
 
 - **链接**: https://huggingface.co/papers/2607.15161
 - **阅读来源**: HTML
@@ -186,4 +183,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
