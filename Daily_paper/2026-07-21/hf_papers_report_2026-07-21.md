@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-21
 **Source URL**: https://huggingface.co/papers/date/2026-07-21
 
 ============================================================
 
-### 📄 EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World
+## 📄 EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World
 
 - **链接**: https://huggingface.co/papers/2607.17250
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs
+## 📄 TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs
 
 - **链接**: https://huggingface.co/papers/2607.17423
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry
+## 📄 FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry
 
 - **链接**: https://huggingface.co/papers/2607.18227
 - **阅读来源**: ArXiv Abs
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DiFA: Inference-Time Forward-Process Alignment for Diffusion Models
+## 📄 DiFA: Inference-Time Forward-Process Alignment for Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2607.17972
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence
+## 📄 Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence
 
 - **链接**: https://huggingface.co/papers/2607.16401
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OpenLongTail: Generative Scaling of Long-Tail Driving Data
+## 📄 OpenLongTail: Generative Scaling of Long-Tail Driving Data
 
 - **链接**: https://huggingface.co/papers/2607.09655
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?
+## 📄 Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?
 
 - **链接**: https://huggingface.co/papers/2607.17986
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting
+## 📄 WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting
 
 - **链接**: https://huggingface.co/papers/2607.18084
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement
+## 📄 HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement
 
 - **链接**: https://huggingface.co/papers/2607.18217
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation
+## 📄 DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation
 
 - **链接**: https://huggingface.co/papers/2607.13365
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GigaAM Multilingual: Foundation Model for Underrepresented Languages
+## 📄 GigaAM Multilingual: Foundation Model for Underrepresented Languages
 
 - **链接**: https://huggingface.co/papers/2607.10371
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams
+## 📄 ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams
 
 - **链接**: https://huggingface.co/papers/2607.09759
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Group Entropy-Controlled Policy Optimization
+## 📄 Group Entropy-Controlled Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2607.16850
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model
+## 📄 RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model
 
 - **链接**: https://huggingface.co/papers/2607.17977
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SWE-Pruner Pro: The Coder LLM Already Knows What to Prune
+## 📄 SWE-Pruner Pro: The Coder LLM Already Knows What to Prune
 
 - **链接**: https://huggingface.co/papers/2607.18213
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Environment-free Synthetic Data Generation for API-Calling Agents
+## 📄 Environment-free Synthetic Data Generation for API-Calling Agents
 
 - **链接**: https://huggingface.co/papers/2607.16900
 - **阅读来源**: ArXiv Abs
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks
+## 📄 LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks
 
 - **链接**: https://huggingface.co/papers/2607.18110
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Distilled Reinforcement Learning for LLM Post-training
+## 📄 Distilled Reinforcement Learning for LLM Post-training
 
 - **链接**: https://huggingface.co/papers/2607.17247
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications
+## 📄 FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications
 
 - **链接**: https://huggingface.co/papers/2607.18171
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models
+## 📄 JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models
 
 - **链接**: https://huggingface.co/papers/2607.16074
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GigaChat Audio: Time-aware Large Audio Language Model
+## 📄 GigaChat Audio: Time-aware Large Audio Language Model
 
 - **链接**: https://huggingface.co/papers/2607.10387
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift
+## 📄 Token-Level Off-Policy Learning for Faithful Generation Under Distribution Shift
 
 - **链接**: https://huggingface.co/papers/2607.17524
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Geometry of Semantic Space: A Continuous Geometric Framework for the Transformer Architecture
+## 📄 The Geometry of Semantic Space: A Continuous Geometric Framework for the Transformer Architecture
 
 - **链接**: https://huggingface.co/papers/2607.17146
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis
+## 📄 HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis
 
 - **链接**: https://huggingface.co/papers/2607.17097
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment
+## 📄 DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment
 
 - **链接**: https://huggingface.co/papers/2607.07820
 - **阅读来源**: ArXiv Abs
@@ -256,4 +253,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
