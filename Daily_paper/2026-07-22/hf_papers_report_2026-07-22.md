@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-22
 **Source URL**: https://huggingface.co/papers/date/2026-07-22
 
 ============================================================
 
-### 📄 EduPanel: A Three-Agent LLM Judge for Teaching Videos -- Reliability, Complementarity, and Human Trust Calibration
+## 📄 EduPanel: A Three-Agent LLM Judge for Teaching Videos -- Reliability, Complementarity, and Human Trust Calibration
 
 - **链接**: https://huggingface.co/papers/2607.18529
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness
+## 📄 Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness
 
 - **链接**: https://huggingface.co/papers/2607.19322
 - **阅读来源**: ArXiv Abs
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SciForma: Structure-Faithful Generation of Scientific Diagrams
+## 📄 SciForma: Structure-Faithful Generation of Scientific Diagrams
 
 - **链接**: https://huggingface.co/papers/2607.18091
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 HPD-Parsing: Hierarchical Parallel Document Parsing
+## 📄 HPD-Parsing: Hierarchical Parallel Document Parsing
 
 - **链接**: https://huggingface.co/papers/2607.18839
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Masked Visual Actions for Unified World Modeling
+## 📄 Masked Visual Actions for Unified World Modeling
 
 - **链接**: https://huggingface.co/papers/2607.19343
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report
+## 📄 AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report
 
 - **链接**: https://huggingface.co/papers/2607.18367
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ConsiSpace: Learning Geometric Consistency Matters for Video Spatial Reasoning
+## 📄 ConsiSpace: Learning Geometric Consistency Matters for Video Spatial Reasoning
 
 - **链接**: https://huggingface.co/papers/2607.17599
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Trajectory-aware Cross-view Geo-localization with Sequential Observations
+## 📄 Trajectory-aware Cross-view Geo-localization with Sequential Observations
 
 - **链接**: https://huggingface.co/papers/2607.15491
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU
+## 📄 ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU
 
 - **链接**: https://huggingface.co/papers/2607.19191
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents
+## 📄 AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents
 
 - **链接**: https://huggingface.co/papers/2607.18754
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ISO: An RLVR-Native Optimization Stack
+## 📄 ISO: An RLVR-Native Optimization Stack
 
 - **链接**: https://huggingface.co/papers/2607.19331
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 H^2SD: Hybrid Hindsight Self-Distillation
+## 📄 H^2SD: Hybrid Hindsight Self-Distillation
 
 - **链接**: https://huggingface.co/papers/2607.18955
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing
+## 📄 Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing
 
 - **链接**: https://huggingface.co/papers/2607.19064
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning
+## 📄 Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2607.18722
 - **阅读来源**: ArXiv Abs
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Generative World Renderer at the Speed of Play
+## 📄 Generative World Renderer at the Speed of Play
 
 - **链接**: https://huggingface.co/papers/2607.18703
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Appearance Pointers -- Multimodal Region Control of Diffusion Transformers
+## 📄 Appearance Pointers -- Multimodal Region Control of Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2607.19344
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training
+## 📄 Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training
 
 - **链接**: https://huggingface.co/papers/2607.19058
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines
+## 📄 DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines
 
 - **链接**: https://huggingface.co/papers/2607.16617
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers
+## 📄 Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers
 
 - **链接**: https://huggingface.co/papers/2607.19139
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Delineate Anything v2: A Global Foundation Model for Field Delineation
+## 📄 Delineate Anything v2: A Global Foundation Model for Field Delineation
 
 - **链接**: https://huggingface.co/papers/2607.19069
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges
+## 📄 Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges
 
 - **链接**: https://huggingface.co/papers/2607.19011
 - **阅读来源**: HTML
@@ -216,4 +213,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
