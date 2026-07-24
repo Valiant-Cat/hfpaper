@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-24
 **Source URL**: https://huggingface.co/papers/date/2026-07-24
 
 ============================================================
 
-### 📄 Robostral Navigate
+## 📄 Robostral Navigate
 
 - **链接**: https://huggingface.co/papers/2607.20785
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GraphVid: Interactive Graph-Controllable Video Generation
+## 📄 GraphVid: Interactive Graph-Controllable Video Generation
 
 - **链接**: https://huggingface.co/papers/2607.21580
 - **阅读来源**: ArXiv Abs
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation
+## 📄 TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation
 
 - **链接**: https://huggingface.co/papers/2607.21017
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Predictive Divergence Masks for LLM RL
+## 📄 Predictive Divergence Masks for LLM RL
 
 - **链接**: https://huggingface.co/papers/2607.10848
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text
+## 📄 Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text
 
 - **链接**: https://huggingface.co/papers/2607.21072
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Color Pass-Through via Camera-Display Coupling
+## 📄 Color Pass-Through via Camera-Display Coupling
 
 - **链接**: https://huggingface.co/papers/2607.12746
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Sample-Efficient Learning from Agent Experience
+## 📄 Sample-Efficient Learning from Agent Experience
 
 - **链接**: https://huggingface.co/papers/2607.21051
 - **阅读来源**: ArXiv Abs
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ReferTrack: Referring Then Tracking for Embodied Visual Tracking
+## 📄 ReferTrack: Referring Then Tracking for Embodied Visual Tracking
 
 - **链接**: https://huggingface.co/papers/2607.20061
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers
+## 📄 Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers
 
 - **链接**: https://huggingface.co/papers/2607.21594
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 NVIDIA-labs OO Agents: Native Python Object-Oriented Agents
+## 📄 NVIDIA-labs OO Agents: Native Python Object-Oriented Agents
 
 - **链接**: https://huggingface.co/papers/2607.20709
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Visual Contrastive Self-Distillation
+## 📄 Visual Contrastive Self-Distillation
 
 - **链接**: https://huggingface.co/papers/2607.21556
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Self-Supervised Learning of Structured Dynamics from Videos
+## 📄 Self-Supervised Learning of Structured Dynamics from Videos
 
 - **链接**: https://huggingface.co/papers/2607.21576
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction
+## 📄 Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction
 
 - **链接**: https://huggingface.co/papers/2607.20911
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AREX: Towards a Recursively Self-Improving Agent for Deep Research
+## 📄 AREX: Towards a Recursively Self-Improving Agent for Deep Research
 
 - **链接**: https://huggingface.co/papers/2607.21461
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation
+## 📄 Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation
 
 - **链接**: https://huggingface.co/papers/2607.21485
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs
+## 📄 K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs
 
 - **链接**: https://huggingface.co/papers/2605.09635
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LLMs Get Lost in Evolving User Intent
+## 📄 LLMs Get Lost in Evolving User Intent
 
 - **链接**: https://huggingface.co/papers/2607.20734
 - **阅读来源**: ArXiv Abs
@@ -176,4 +173,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
