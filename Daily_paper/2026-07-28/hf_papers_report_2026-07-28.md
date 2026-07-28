@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-28
 **Source URL**: https://huggingface.co/papers/date/2026-07-28
 
 ============================================================
 
-### 📄 StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents
+## 📄 StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents
 
 - **链接**: https://huggingface.co/papers/2607.22798
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 FilmBench: A Film-Grade Benchmark for Cinematic Video Generation
+## 📄 FilmBench: A Film-Grade Benchmark for Cinematic Video Generation
 
 - **链接**: https://huggingface.co/papers/2607.24241
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GNM Head: A Generative aNthropometric Model of the human head
+## 📄 GNM Head: A Generative aNthropometric Model of the human head
 
 - **链接**: https://huggingface.co/papers/2607.23687
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Kimi K3: Open Frontier Intelligence
+## 📄 Kimi K3: Open Frontier Intelligence
 
 - **链接**: https://huggingface.co/papers/2607.24653
 - **阅读来源**: ArXiv Abs
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling
+## 📄 Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling
 
 - **链接**: https://huggingface.co/papers/2607.23518
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation
+## 📄 OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation
 
 - **链接**: https://huggingface.co/papers/2607.23855
 - **阅读来源**: ArXiv Abs
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Progress Reward Modeling for Robotic Learning: A Comprehensive Survey
+## 📄 Progress Reward Modeling for Robotic Learning: A Comprehensive Survey
 
 - **链接**: https://huggingface.co/papers/2607.21655
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On
+## 📄 Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On
 
 - **链接**: https://huggingface.co/papers/2607.21694
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Characterizing Warp Divergence from Pascal to Blackwell
+## 📄 Characterizing Warp Divergence from Pascal to Blackwell
 
 - **链接**: https://huggingface.co/papers/2607.23402
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search
+## 📄 From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search
 
 - **链接**: https://huggingface.co/papers/2607.24280
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels
+## 📄 Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels
 
 - **链接**: https://huggingface.co/papers/2607.24651
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models
+## 📄 Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models
 
 - **链接**: https://huggingface.co/papers/2607.22098
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation
+## 📄 The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation
 
 - **链接**: https://huggingface.co/papers/2607.24720
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 IndicTalk: A Large-Scale Persona-Based Multilingual Conversational Corpus for Indic Languages
+## 📄 IndicTalk: A Large-Scale Persona-Based Multilingual Conversational Corpus for Indic Languages
 
 - **链接**: https://huggingface.co/papers/2607.23242
 - **阅读来源**: ArXiv Abs
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation
+## 📄 Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation
 
 - **链接**: https://huggingface.co/papers/2607.24731
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 dRAE: Representation Autoencoder with Hyper-Spherical Codes
+## 📄 dRAE: Representation Autoencoder with Hyper-Spherical Codes
 
 - **链接**: https://huggingface.co/papers/2607.22148
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes
+## 📄 DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes
 
 - **链接**: https://huggingface.co/papers/2607.24516
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding
+## 📄 ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding
 
 - **链接**: https://huggingface.co/papers/2607.24743
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models
+## 📄 Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models
 
 - **链接**: https://huggingface.co/papers/2607.21936
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 A Frozen 12B Beats Frontier Models on Verified Work: 100% Accuracy, 0 Tokens, Bit-Exact, Forever
+## 📄 A Frozen 12B Beats Frontier Models on Verified Work: 100% Accuracy, 0 Tokens, Bit-Exact, Forever
 
 - **链接**: https://huggingface.co/papers/2607.23806
 - **阅读来源**: ArXiv Abs
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Data Pyramid for Embodied Manipulation
+## 📄 Data Pyramid for Embodied Manipulation
 
 - **链接**: https://huggingface.co/papers/2607.24744
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents
+## 📄 JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents
 
 - **链接**: https://huggingface.co/papers/2607.23588
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification
+## 📄 Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification
 
 - **链接**: https://huggingface.co/papers/2607.24027
 - **阅读来源**: ArXiv Abs
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Codifying the Judge: Scalable Evaluation via Program Distillation
+## 📄 Codifying the Judge: Scalable Evaluation via Program Distillation
 
 - **链接**: https://huggingface.co/papers/2607.22561
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DriveDNA: A Large-Scale Multimodal Naturalistic Driving Dataset and Benchmark for Driving Style Identification
+## 📄 DriveDNA: A Large-Scale Multimodal Naturalistic Driving Dataset and Benchmark for Driving Style Identification
 
 - **链接**: https://huggingface.co/papers/2607.23822
 - **阅读来源**: HTML
@@ -256,4 +253,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
