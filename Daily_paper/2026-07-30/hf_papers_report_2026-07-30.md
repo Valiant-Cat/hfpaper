@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-07-30
 **Source URL**: https://huggingface.co/papers/date/2026-07-30
 
 ============================================================
 
-### 📄 HumanCLAW: Can Vision-Language Models Act Through a Body?
+## 📄 HumanCLAW: Can Vision-Language Models Act Through a Body?
 
 - **链接**: https://huggingface.co/papers/2607.27180
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CAST: Game Solvers as Turn-Level Teachers for LLM Agents
+## 📄 CAST: Game Solvers as Turn-Level Teachers for LLM Agents
 
 - **链接**: https://huggingface.co/papers/2607.25308
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GPT-Red: Automated Red Teaming via Self-Play at Scale
+## 📄 GPT-Red: Automated Red Teaming via Self-Play at Scale
 
 - **链接**: https://huggingface.co/papers/2607.26115
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response
+## 📄 SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response
 
 - **链接**: https://huggingface.co/papers/2607.26791
 - **阅读来源**: ArXiv Abs
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CADENCE: Closing the Reasoning Gap via Coverage-Adaptive On-Policy Distillation
+## 📄 CADENCE: Closing the Reasoning Gap via Coverage-Adaptive On-Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2607.16955
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Can AI agents conduct open-ended AI research? Early evidence from two case studies
+## 📄 Can AI agents conduct open-ended AI research? Early evidence from two case studies
 
 - **链接**: https://huggingface.co/papers/2607.27191
 - **阅读来源**: ArXiv Abs
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Explicit Layer Modeling for Video Object Insertion and Layer Decomposition
+## 📄 Explicit Layer Modeling for Video Object Insertion and Layer Decomposition
 
 - **链接**: https://huggingface.co/papers/2607.25802
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation
+## 📄 StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation
 
 - **链接**: https://huggingface.co/papers/2607.26754
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents
+## 📄 StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents
 
 - **链接**: https://huggingface.co/papers/2607.26314
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding
+## 📄 OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding
 
 - **链接**: https://huggingface.co/papers/2607.27155
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization
+## 📄 CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2607.25659
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space
+## 📄 DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space
 
 - **链接**: https://huggingface.co/papers/2607.25675
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Grading the Narrators: An Isnad-Rijal Framework for Claim-Level Provenance in Multi-Agent Knowledge Systems
+## 📄 Grading the Narrators: An Isnad-Rijal Framework for Claim-Level Provenance in Multi-Agent Knowledge Systems
 
 - **链接**: https://huggingface.co/papers/2607.24117
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution
+## 📄 SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution
 
 - **链接**: https://huggingface.co/papers/2607.26784
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition
+## 📄 CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition
 
 - **链接**: https://huggingface.co/papers/2607.25294
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM
+## 📄 TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM
 
 - **链接**: https://huggingface.co/papers/2607.27205
 - **阅读来源**: HTML
@@ -166,4 +163,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
