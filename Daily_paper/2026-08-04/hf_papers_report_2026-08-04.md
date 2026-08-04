@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-08-04
 **Source URL**: https://huggingface.co/papers/date/2026-08-04
 
 ============================================================
 
-### 📄 StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field
+## 📄 StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field
 
 - **链接**: https://huggingface.co/papers/2608.01954
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation
+## 📄 VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2607.28590
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs
+## 📄 Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs
 
 - **链接**: https://huggingface.co/papers/2608.01755
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks
+## 📄 SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks
 
 - **链接**: https://huggingface.co/papers/2608.02023
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 UEmbed: Unified Sparse and Dense Multimodal Embeddings
+## 📄 UEmbed: Unified Sparse and Dense Multimodal Embeddings
 
 - **链接**: https://huggingface.co/papers/2608.02583
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CADENA: Stepwise CAD Reverse Engineering
+## 📄 CADENA: Stepwise CAD Reverse Engineering
 
 - **链接**: https://huggingface.co/papers/2608.00799
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DAPD: Dual-Anchored Policy Distillation
+## 📄 DAPD: Dual-Anchored Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2608.01735
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DeepVoyager-VL: Incentivizing Vision-in-the-Loop Search for Long-Horizon Multimodal Agents
+## 📄 DeepVoyager-VL: Incentivizing Vision-in-the-Loop Search for Long-Horizon Multimodal Agents
 
 - **链接**: https://huggingface.co/papers/2608.01827
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Relax Within, Balance Across: Geometry-Guided Load Balancing for Vision-Language Mixture-of-Experts
+## 📄 Relax Within, Balance Across: Geometry-Guided Load Balancing for Vision-Language Mixture-of-Experts
 
 - **链接**: https://huggingface.co/papers/2608.00574
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SWE-Touch: Benchmarking Coding Agents When Users Touch the Code
+## 📄 SWE-Touch: Benchmarking Coding Agents When Users Touch the Code
 
 - **链接**: https://huggingface.co/papers/2608.02499
 - **阅读来源**: ArXiv Abs
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LeapTalk: Breaking the Latency-Quality Trade-off in Talking Head Generation
+## 📄 LeapTalk: Breaking the Latency-Quality Trade-off in Talking Head Generation
 
 - **链接**: https://huggingface.co/papers/2608.00079
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Poplar: A Scalable Pipeline for Human-Centric Image Dataset Synthesis
+## 📄 Poplar: A Scalable Pipeline for Human-Centric Image Dataset Synthesis
 
 - **链接**: https://huggingface.co/papers/2608.00440
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems
+## 📄 RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems
 
 - **链接**: https://huggingface.co/papers/2607.29241
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis
+## 📄 Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis
 
 - **链接**: https://huggingface.co/papers/2608.01973
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation
+## 📄 SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation
 
 - **链接**: https://huggingface.co/papers/2608.02287
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity
+## 📄 WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity
 
 - **链接**: https://huggingface.co/papers/2608.02603
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Progressive Agent Skill Generation via Reinforcement Learning
+## 📄 Progressive Agent Skill Generation via Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2608.01678
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DiffusionGemma Technical Report
+## 📄 DiffusionGemma Technical Report
 
 - **链接**: https://huggingface.co/papers/2608.00146
 - **阅读来源**: ArXiv Abs
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning
+## 📄 GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning
 
 - **链接**: https://huggingface.co/papers/2608.02585
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Motion Beyond Morphology: Bootstrapping Cross-Category Motion Transfer from Abstract Motion Representations
+## 📄 Motion Beyond Morphology: Bootstrapping Cross-Category Motion Transfer from Abstract Motion Representations
 
 - **链接**: https://huggingface.co/papers/2608.01628
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step
+## 📄 ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step
 
 - **链接**: https://huggingface.co/papers/2608.02358
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks
+## 📄 LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks
 
 - **链接**: https://huggingface.co/papers/2608.01964
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning
+## 📄 WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2607.29613
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GPTQ-2D: Cubic-Time Two-Sided Adaptive Rounding
+## 📄 GPTQ-2D: Cubic-Time Two-Sided Adaptive Rounding
 
 - **链接**: https://huggingface.co/papers/2607.27042
 - **阅读来源**: ArXiv Abs
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents
+## 📄 DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents
 
 - **链接**: https://huggingface.co/papers/2608.00486
 - **阅读来源**: HTML
@@ -257,7 +254,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering
+## 📄 3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering
 
 - **链接**: https://huggingface.co/papers/2608.01185
 - **阅读来源**: HTML
@@ -266,4 +263,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
