@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-08-14
 **Source URL**: https://huggingface.co/papers/date/2026-08-14
 
 ============================================================
 
-### 📄 How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review
+## 📄 How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review
 
 - **链接**: https://huggingface.co/papers/2608.08975
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 An AI4AI Framework for Visual Token Pruning
+## 📄 An AI4AI Framework for Visual Token Pruning
 
 - **链接**: https://huggingface.co/papers/2608.07193
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives
+## 📄 PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives
 
 - **链接**: https://huggingface.co/papers/2608.13552
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models
+## 📄 H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models
 
 - **链接**: https://huggingface.co/papers/2608.13049
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence
+## 📄 Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence
 
 - **链接**: https://huggingface.co/papers/2608.12743
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PixSDS: Why Latent SDS Makes Noisy Pixels
+## 📄 PixSDS: Why Latent SDS Makes Noisy Pixels
 
 - **链接**: https://huggingface.co/papers/2608.12997
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers
+## 📄 LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers
 
 - **链接**: https://huggingface.co/papers/2608.06867
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity
+## 📄 Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity
 
 - **链接**: https://huggingface.co/papers/2608.13430
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos
+## 📄 UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos
 
 - **链接**: https://huggingface.co/papers/2608.11752
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement
+## 📄 TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement
 
 - **链接**: https://huggingface.co/papers/2608.11951
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Full-bandwidth transformer
+## 📄 Full-bandwidth transformer
 
 - **链接**: https://huggingface.co/papers/2608.08888
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation
+## 📄 DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation
 
 - **链接**: https://huggingface.co/papers/2608.13489
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DarwinX: Evolving Agent Harnesses Through Natural Selection
+## 📄 DarwinX: Evolving Agent Harnesses Through Natural Selection
 
 - **链接**: https://huggingface.co/papers/2608.07545
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time
+## 📄 LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time
 
 - **链接**: https://huggingface.co/papers/2608.11745
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Intern-S2-Preview: Scientific Agentic Foundation Model
+## 📄 Intern-S2-Preview: Scientific Agentic Foundation Model
 
 - **链接**: https://huggingface.co/papers/2608.13505
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design
+## 📄 AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design
 
 - **链接**: https://huggingface.co/papers/2608.13560
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers
+## 📄 CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers
 
 - **链接**: https://huggingface.co/papers/2608.12773
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning
+## 📄 Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning
 
 - **链接**: https://huggingface.co/papers/2607.29211
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Alaya-EVOKE: From Linear-Scaling Supervision to Endless World
+## 📄 Alaya-EVOKE: From Linear-Scaling Supervision to Endless World
 
 - **链接**: https://huggingface.co/papers/2608.13546
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models
+## 📄 SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models
 
 - **链接**: https://huggingface.co/papers/2608.10538
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus
+## 📄 Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus
 
 - **链接**: https://huggingface.co/papers/2608.12149
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation
+## 📄 LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation
 
 - **链接**: https://huggingface.co/papers/2608.12990
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OmniScientist: An Omni-Modal Omni-Discipline AI Scientist
+## 📄 OmniScientist: An Omni-Modal Omni-Discipline AI Scientist
 
 - **链接**: https://huggingface.co/papers/2608.13558
 - **阅读来源**: HTML
@@ -236,4 +233,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
