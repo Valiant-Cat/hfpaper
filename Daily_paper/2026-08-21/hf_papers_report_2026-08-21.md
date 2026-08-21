@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-08-21
 **Source URL**: https://huggingface.co/papers/date/2026-08-21
 
 ============================================================
 
-### 📄 Chain-of-Experience for Continual LLM Improvement
+## 📄 Chain-of-Experience for Continual LLM Improvement
 
 - **链接**: https://huggingface.co/papers/2608.18027
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving
+## 📄 FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving
 
 - **链接**: https://huggingface.co/papers/2608.19758
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents
+## 📄 PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents
 
 - **链接**: https://huggingface.co/papers/2608.19861
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
+## 📄 WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
 
 - **链接**: https://huggingface.co/papers/2608.20336
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use
+## 📄 MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use
 
 - **链接**: https://huggingface.co/papers/2608.20202
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 EnvHarness: Awakening Static Worlds for Agent Learning
+## 📄 EnvHarness: Awakening Static Worlds for Agent Learning
 
 - **链接**: https://huggingface.co/papers/2608.19880
 - **阅读来源**: ArXiv Abs
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models
+## 📄 ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models
 
 - **链接**: https://huggingface.co/papers/2608.14022
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners
+## 📄 Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners
 
 - **链接**: https://huggingface.co/papers/2608.19863
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?
+## 📄 SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?
 
 - **链接**: https://huggingface.co/papers/2608.19799
 - **阅读来源**: ArXiv Abs
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+## 📄 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
 
 - **链接**: https://huggingface.co/papers/2608.20335
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback
+## 📄 SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback
 
 - **链接**: https://huggingface.co/papers/2608.13120
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video
+## 📄 NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video
 
 - **链接**: https://huggingface.co/papers/2608.13210
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Repo0: Design-Driven Zero-to-All Code Generation
+## 📄 Repo0: Design-Driven Zero-to-All Code Generation
 
 - **链接**: https://huggingface.co/papers/2608.19854
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis
+## 📄 FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis
 
 - **链接**: https://huggingface.co/papers/2608.18580
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 EXIMO: VLM Guided Exploration of VLA Policies
+## 📄 EXIMO: VLM Guided Exploration of VLA Policies
 
 - **链接**: https://huggingface.co/papers/2608.19891
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Towards Quantifying Benchmark Optimization in ASR Models
+## 📄 Towards Quantifying Benchmark Optimization in ASR Models
 
 - **链接**: https://huggingface.co/papers/2608.19936
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization
+## 📄 Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization
 
 - **链接**: https://huggingface.co/papers/2608.20281
 - **阅读来源**: HTML
@@ -176,4 +173,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
