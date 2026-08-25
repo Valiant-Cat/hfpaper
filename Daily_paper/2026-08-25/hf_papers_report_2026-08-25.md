@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-08-25
 **Source URL**: https://huggingface.co/papers/date/2026-08-25
 
 ============================================================
 
-### 📄 Prime Agent: A Self-Improving RLM Harness
+## 📄 Prime Agent: A Self-Improving RLM Harness
 
 - **链接**: https://huggingface.co/papers/2608.23552
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection
+## 📄 Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection
 
 - **链接**: https://huggingface.co/papers/2608.20169
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization
+## 📄 Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2608.23311
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling
+## 📄 RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling
 
 - **链接**: https://huggingface.co/papers/2608.22849
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks
+## 📄 MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks
 
 - **链接**: https://huggingface.co/papers/2608.23035
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision
+## 📄 Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision
 
 - **链接**: https://huggingface.co/papers/2608.16812
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress
+## 📄 Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress
 
 - **链接**: https://huggingface.co/papers/2608.19408
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows
+## 📄 One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows
 
 - **链接**: https://huggingface.co/papers/2608.19741
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RISE: Adaptive Imagination for World Action Models
+## 📄 RISE: Adaptive Imagination for World Action Models
 
 - **链接**: https://huggingface.co/papers/2608.20430
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?
+## 📄 GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?
 
 - **链接**: https://huggingface.co/papers/2608.21833
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 EchoWM: Open and Enterable Omnimodal World Models
+## 📄 EchoWM: Open and Enterable Omnimodal World Models
 
 - **链接**: https://huggingface.co/papers/2608.23189
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion
+## 📄 Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion
 
 - **链接**: https://huggingface.co/papers/2608.19567
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders
+## 📄 One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders
 
 - **链接**: https://huggingface.co/papers/2606.13610
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors
+## 📄 Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors
 
 - **链接**: https://huggingface.co/papers/2608.22872
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ReWorld: An Interactive World Model with Long-Horizon Memory
+## 📄 ReWorld: An Interactive World Model with Long-Horizon Memory
 
 - **链接**: https://huggingface.co/papers/2608.23565
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From Generation to Simulation: How Far Are World Models from Being True Simulators?
+## 📄 From Generation to Simulation: How Far Are World Models from Being True Simulators?
 
 - **链接**: https://huggingface.co/papers/2608.23070
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Same Agent, Different Answers: A Repeat-Aware Audit of Corpus-Induced Answer Churn in Retrieval-Augmented QA
+## 📄 Same Agent, Different Answers: A Repeat-Aware Audit of Corpus-Induced Answer Churn in Retrieval-Augmented QA
 
 - **链接**: https://huggingface.co/papers/2608.22856
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
+## 📄 TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
 
 - **链接**: https://huggingface.co/papers/2608.20958
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration
+## 📄 TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration
 
 - **链接**: https://huggingface.co/papers/2608.17336
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Apodex 1.1: Scaling Agentic Intelligence for Complex Work
+## 📄 Apodex 1.1: Scaling Agentic Intelligence for Complex Work
 
 - **链接**: https://huggingface.co/papers/2608.23283
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction
+## 📄 ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction
 
 - **链接**: https://huggingface.co/papers/2608.13622
 - **阅读来源**: HTML
@@ -216,4 +213,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
