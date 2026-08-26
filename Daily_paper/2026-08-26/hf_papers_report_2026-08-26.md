@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-08-26
 **Source URL**: https://huggingface.co/papers/date/2026-08-26
 
 ============================================================
 
-### 📄 From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms
+## 📄 From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms
 
 - **链接**: https://huggingface.co/papers/2608.24877
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
+## 📄 Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
 
 - **链接**: https://huggingface.co/papers/2608.24876
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Length-Adaptive Decoding for Masked Diffusion Machine Translation
+## 📄 Length-Adaptive Decoding for Masked Diffusion Machine Translation
 
 - **链接**: https://huggingface.co/papers/2608.22274
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training
+## 📄 Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training
 
 - **链接**: https://huggingface.co/papers/2608.24680
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 TorchMorph: CUDA-accelerated Morphological Transforms
+## 📄 TorchMorph: CUDA-accelerated Morphological Transforms
 
 - **链接**: https://huggingface.co/papers/2608.24738
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces
+## 📄 AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces
 
 - **链接**: https://huggingface.co/papers/2608.23041
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs
+## 📄 Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs
 
 - **链接**: https://huggingface.co/papers/2608.20492
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Best Practice Critic Optimization
+## 📄 Best Practice Critic Optimization
 
 - **链接**: https://huggingface.co/papers/2608.23566
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Meta^n: Recursive Self-Improvement through Emergent Depth
+## 📄 Meta^n: Recursive Self-Improvement through Emergent Depth
 
 - **链接**: https://huggingface.co/papers/2608.24735
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CAFE: Self-Improving Search Agents Need Co-Evolving Feedback
+## 📄 CAFE: Self-Improving Search Agents Need Co-Evolving Feedback
 
 - **链接**: https://huggingface.co/papers/2608.24794
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 On-policy Distillation with Verifiable Reward
+## 📄 On-policy Distillation with Verifiable Reward
 
 - **链接**: https://huggingface.co/papers/2608.24696
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 On-Policy Self-Distillation in Diffusion Models
+## 📄 On-Policy Self-Distillation in Diffusion Models
 
 - **链接**: https://huggingface.co/papers/2608.24646
 - **阅读来源**: ArXiv Abs
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report
+## 📄 WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report
 
 - **链接**: https://huggingface.co/papers/2608.24053
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training
+## 📄 LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training
 
 - **链接**: https://huggingface.co/papers/2608.24845
 - **阅读来源**: ArXiv Abs
@@ -146,4 +143,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
