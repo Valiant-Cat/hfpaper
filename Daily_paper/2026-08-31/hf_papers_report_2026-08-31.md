@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-08-31
 **Source URL**: https://huggingface.co/papers/date/2026-08-31
 
 ============================================================
 
-### 📄 Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities
+## 📄 Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities
 
 - **链接**: https://huggingface.co/papers/2608.28122
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation
+## 📄 LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation
 
 - **链接**: https://huggingface.co/papers/2608.28460
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents
+## 📄 Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents
 
 - **链接**: https://huggingface.co/papers/2608.25417
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL
+## 📄 ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL
 
 - **链接**: https://huggingface.co/papers/2608.28476
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Fast Weight Attention for Continual Learning
+## 📄 Fast Weight Attention for Continual Learning
 
 - **链接**: https://huggingface.co/papers/2608.27763
 - **阅读来源**: ArXiv Abs
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering
+## 📄 LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering
 
 - **链接**: https://huggingface.co/papers/2608.28281
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments
+## 📄 StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments
 
 - **链接**: https://huggingface.co/papers/2608.24804
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors
+## 📄 Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors
 
 - **链接**: https://huggingface.co/papers/2608.26175
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion
+## 📄 Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion
 
 - **链接**: https://huggingface.co/papers/2608.26794
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LMSM: LLM Security Framework Inspired by Linux Security Modules
+## 📄 LMSM: LLM Security Framework Inspired by Linux Security Modules
 
 - **链接**: https://huggingface.co/papers/2608.25697
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models
+## 📄 Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2608.27550
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning
+## 📄 Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning
 
 - **链接**: https://huggingface.co/papers/2608.27549
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models
+## 📄 GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models
 
 - **链接**: https://huggingface.co/papers/2608.25375
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding
+## 📄 Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding
 
 - **链接**: https://huggingface.co/papers/2608.28192
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data
+## 📄 J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data
 
 - **链接**: https://huggingface.co/papers/2608.26582
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models
+## 📄 Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2608.23478
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge
+## 📄 Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge
 
 - **链接**: https://huggingface.co/papers/2608.28478
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Sliding-window beats linear attention
+## 📄 Sliding-window beats linear attention
 
 - **链接**: https://huggingface.co/papers/2608.28444
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control
+## 📄 PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control
 
 - **链接**: https://huggingface.co/papers/2608.24115
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents
+## 📄 DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents
 
 - **链接**: https://huggingface.co/papers/2608.18524
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction
+## 📄 Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction
 
 - **链接**: https://huggingface.co/papers/2608.27529
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090
+## 📄 Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090
 
 - **链接**: https://huggingface.co/papers/2608.27370
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Video Generative Models as Geometry Learner
+## 📄 Video Generative Models as Geometry Learner
 
 - **链接**: https://huggingface.co/papers/2608.28549
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing
+## 📄 StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing
 
 - **链接**: https://huggingface.co/papers/2608.24777
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Language Chain in Alignment: Cross-lingual Ranking Preference Optimization
+## 📄 Language Chain in Alignment: Cross-lingual Ranking Preference Optimization
 
 - **链接**: https://huggingface.co/papers/2608.23149
 - **阅读来源**: HTML
@@ -257,7 +254,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Rubric-to-Code Credit Assignment for Reinforcement Learning
+## 📄 Rubric-to-Code Credit Assignment for Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2608.27906
 - **阅读来源**: HTML
@@ -267,7 +264,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Training, learning and inference: unified dynamics of neural systems
+## 📄 Training, learning and inference: unified dynamics of neural systems
 
 - **链接**: https://huggingface.co/papers/2608.20965
 - **阅读来源**: ArXiv Abs
@@ -276,4 +273,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
