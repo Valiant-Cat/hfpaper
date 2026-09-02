@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-09-02
 **Source URL**: https://huggingface.co/papers/date/2026-09-02
 
 ============================================================
 
-### 📄 InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal
+## 📄 InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal
 
 - **链接**: https://huggingface.co/papers/2608.28612
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory
+## 📄 DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory
 
 - **链接**: https://huggingface.co/papers/2609.00768
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training
+## 📄 ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training
 
 - **链接**: https://huggingface.co/papers/2609.00188
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Safin-1: Safety from Within through Memory-Native State Evolution
+## 📄 Safin-1: Safety from Within through Memory-Native State Evolution
 
 - **链接**: https://huggingface.co/papers/2609.00092
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix
+## 📄 From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix
 
 - **链接**: https://huggingface.co/papers/2609.01572
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving
+## 📄 Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving
 
 - **链接**: https://huggingface.co/papers/2609.00111
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 EM^2Mem: Event-Centric Multimodal Memory for Large Language Models
+## 📄 EM^2Mem: Event-Centric Multimodal Memory for Large Language Models
 
 - **链接**: https://huggingface.co/papers/2609.00551
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation
+## 📄 E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation
 
 - **链接**: https://huggingface.co/papers/2608.30730
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching
+## 📄 Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching
 
 - **链接**: https://huggingface.co/papers/2609.01404
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 StudentSim: Training LLM-based Student Simulators
+## 📄 StudentSim: Training LLM-based Student Simulators
 
 - **链接**: https://huggingface.co/papers/2609.01591
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 H3-World: Turning Language Understanding into World Control
+## 📄 H3-World: Turning Language Understanding into World Control
 
 - **链接**: https://huggingface.co/papers/2609.01560
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs
+## 📄 Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs
 
 - **链接**: https://huggingface.co/papers/2609.00621
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement
+## 📄 Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement
 
 - **链接**: https://huggingface.co/papers/2609.01481
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Agents in the Large: Perception-Centered Architecture for Persistent Agents
+## 📄 Agents in the Large: Perception-Centered Architecture for Persistent Agents
 
 - **链接**: https://huggingface.co/papers/2608.30478
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering
+## 📄 Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering
 
 - **链接**: https://huggingface.co/papers/2608.30468
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Consent Engineering
+## 📄 The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Consent Engineering
 
 - **链接**: https://huggingface.co/papers/2608.27509
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 UI-Venus-2 Technical Report
+## 📄 UI-Venus-2 Technical Report
 
 - **链接**: https://huggingface.co/papers/2609.00028
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System
+## 📄 Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System
 
 - **链接**: https://huggingface.co/papers/2609.01607
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers
+## 📄 SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers
 
 - **链接**: https://huggingface.co/papers/2609.01343
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation
+## 📄 ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation
 
 - **链接**: https://huggingface.co/papers/2609.00968
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Recursive Criticality of AI Self-Improvement
+## 📄 Recursive Criticality of AI Self-Improvement
 
 - **链接**: https://huggingface.co/papers/2609.00137
 - **阅读来源**: HTML
@@ -216,4 +213,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
