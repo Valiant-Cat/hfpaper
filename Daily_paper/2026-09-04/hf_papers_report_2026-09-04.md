@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-09-04
 **Source URL**: https://huggingface.co/papers/date/2026-09-04
 
 ============================================================
 
-### 📄 Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction
+## 📄 Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction
 
 - **链接**: https://huggingface.co/papers/2609.04201
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Editable Visual Design
+## 📄 Editable Visual Design
 
 - **链接**: https://huggingface.co/papers/2609.04034
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments
+## 📄 Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments
 
 - **链接**: https://huggingface.co/papers/2609.04148
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding
+## 📄 Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding
 
 - **链接**: https://huggingface.co/papers/2609.04131
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation
+## 📄 CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation
 
 - **链接**: https://huggingface.co/papers/2609.04083
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs
+## 📄 Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs
 
 - **链接**: https://huggingface.co/papers/2609.03820
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM
+## 📄 Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM
 
 - **链接**: https://huggingface.co/papers/2609.04098
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training
+## 📄 Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training
 
 - **链接**: https://huggingface.co/papers/2608.26730
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance
+## 📄 Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance
 
 - **链接**: https://huggingface.co/papers/2609.02373
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes
+## 📄 LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes
 
 - **链接**: https://huggingface.co/papers/2609.03796
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Environment Evolution for Terminal Agents
+## 📄 Environment Evolution for Terminal Agents
 
 - **链接**: https://huggingface.co/papers/2609.04128
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation
+## 📄 QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation
 
 - **链接**: https://huggingface.co/papers/2608.29253
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow
+## 📄 FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow
 
 - **链接**: https://huggingface.co/papers/2609.03563
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests
+## 📄 RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests
 
 - **链接**: https://huggingface.co/papers/2608.27831
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning
+## 📄 Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning
 
 - **链接**: https://huggingface.co/papers/2609.03430
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Rethinking On-Policy Distillation of Large Language Models II: One Training Example
+## 📄 Rethinking On-Policy Distillation of Large Language Models II: One Training Example
 
 - **链接**: https://huggingface.co/papers/2609.04172
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Compile by Training: Turning Natural-Language Specifications into Local Neural Functions
+## 📄 Compile by Training: Turning Natural-Language Specifications into Local Neural Functions
 
 - **链接**: https://huggingface.co/papers/2609.04199
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WorldReward: Reward Modeling for Camera-Conditioned World Models
+## 📄 WorldReward: Reward Modeling for Camera-Conditioned World Models
 
 - **链接**: https://huggingface.co/papers/2609.03952
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration
+## 📄 Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration
 
 - **链接**: https://huggingface.co/papers/2609.01072
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LatentPress: Context Compression Beyond Text and Vision
+## 📄 LatentPress: Context Compression Beyond Text and Vision
 
 - **链接**: https://huggingface.co/papers/2609.01507
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PACE: Towards Surfacing Hidden Conflicts in User Requests
+## 📄 PACE: Towards Surfacing Hidden Conflicts in User Requests
 
 - **链接**: https://huggingface.co/papers/2609.03293
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Using Grounded Theory for Agent Behavior Analysis at Scale
+## 📄 Using Grounded Theory for Agent Behavior Analysis at Scale
 
 - **链接**: https://huggingface.co/papers/2608.30391
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation
+## 📄 The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation
 
 - **链接**: https://huggingface.co/papers/2609.02367
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Principia: Relational Physics Tests for Video Models
+## 📄 Principia: Relational Physics Tests for Video Models
 
 - **链接**: https://huggingface.co/papers/2609.04200
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States
+## 📄 Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States
 
 - **链接**: https://huggingface.co/papers/2609.04196
 - **阅读来源**: HTML
@@ -256,4 +253,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
