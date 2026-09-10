@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-09-10
 **Source URL**: https://huggingface.co/papers/date/2026-09-10
 
 ============================================================
 
-### 📄 PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving
+## 📄 PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving
 
 - **链接**: https://huggingface.co/papers/2609.08965
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States
+## 📄 Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States
 
 - **链接**: https://huggingface.co/papers/2609.10060
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data
+## 📄 WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data
 
 - **链接**: https://huggingface.co/papers/2609.05405
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs
+## 📄 Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs
 
 - **链接**: https://huggingface.co/papers/2609.10355
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents
+## 📄 SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents
 
 - **链接**: https://huggingface.co/papers/2609.08149
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?
+## 📄 Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?
 
 - **链接**: https://huggingface.co/papers/2609.10226
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators
+## 📄 SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators
 
 - **链接**: https://huggingface.co/papers/2609.09155
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Show-Harness: Just a VLM Agent Can Play Robots
+## 📄 Show-Harness: Just a VLM Agent Can Play Robots
 
 - **链接**: https://huggingface.co/papers/2609.10522
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems
+## 📄 AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems
 
 - **链接**: https://huggingface.co/papers/2609.08572
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Programmable World Model
+## 📄 Programmable World Model
 
 - **链接**: https://huggingface.co/papers/2609.10540
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning Coverage in RLVR
+## 📄 Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning Coverage in RLVR
 
 - **链接**: https://huggingface.co/papers/2609.08650
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding
+## 📄 The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding
 
 - **链接**: https://huggingface.co/papers/2609.10296
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?
+## 📄 SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?
 
 - **链接**: https://huggingface.co/papers/2609.09113
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DF26: We Cannot Tell Fake From Real Anymore
+## 📄 DF26: We Cannot Tell Fake From Real Anymore
 
 - **链接**: https://huggingface.co/papers/2609.07369
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems
+## 📄 RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems
 
 - **链接**: https://huggingface.co/papers/2609.09657
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning
+## 📄 Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning
 
 - **链接**: https://huggingface.co/papers/2609.06806
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OracleZoom: On-Policy Self-Distillation Inspired Reference-Constrained Recursive Image Super Resolution
+## 📄 OracleZoom: On-Policy Self-Distillation Inspired Reference-Constrained Recursive Image Super Resolution
 
 - **链接**: https://huggingface.co/papers/2609.06490
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models
+## 📄 Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models
 
 - **链接**: https://huggingface.co/papers/2609.05779
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AgenticGen: Reward-Guided Agentic Video Generation for Advertising
+## 📄 AgenticGen: Reward-Guided Agentic Video Generation for Advertising
 
 - **链接**: https://huggingface.co/papers/2609.09187
 - **阅读来源**: ArXiv Abs
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents
+## 📄 Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents
 
 - **链接**: https://huggingface.co/papers/2609.09219
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built via a Fully Automated Pipeline for Researchers and AI Agents
+## 📄 DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built via a Fully Automated Pipeline for Researchers and AI Agents
 
 - **链接**: https://huggingface.co/papers/2609.06703
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation
+## 📄 Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation
 
 - **链接**: https://huggingface.co/papers/2609.00369
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean
+## 📄 StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean
 
 - **链接**: https://huggingface.co/papers/2609.09264
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Revisiting Complete Reasoning Traces for Post-Training
+## 📄 Revisiting Complete Reasoning Traces for Post-Training
 
 - **链接**: https://huggingface.co/papers/2609.07103
 - **阅读来源**: ArXiv Abs
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails
+## 📄 Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails
 
 - **链接**: https://huggingface.co/papers/2609.09134
 - **阅读来源**: HTML
@@ -256,4 +253,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
