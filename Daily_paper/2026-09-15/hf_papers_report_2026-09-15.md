@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-09-15
 **Source URL**: https://huggingface.co/papers/date/2026-09-15
 
 ============================================================
 
-### 📄 LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows
+## 📄 LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows
 
 - **链接**: https://huggingface.co/papers/2609.15863
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models
+## 📄 PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models
 
 - **链接**: https://huggingface.co/papers/2609.14973
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Grouped Value Attention: Efficient KV Caching via On-Demand Key Reconstruction
+## 📄 Grouped Value Attention: Efficient KV Caching via On-Demand Key Reconstruction
 
 - **链接**: https://huggingface.co/papers/2609.13285
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Discovery Foundation Models: Toward Open-Ended Discovery Intelligence
+## 📄 Discovery Foundation Models: Toward Open-Ended Discovery Intelligence
 
 - **链接**: https://huggingface.co/papers/2609.15973
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments
+## 📄 RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments
 
 - **链接**: https://huggingface.co/papers/2609.15364
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs
+## 📄 ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs
 
 - **链接**: https://huggingface.co/papers/2609.15635
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Atria Dawn: The Dawn of Agentic Superintelligence
+## 📄 Atria Dawn: The Dawn of Agentic Superintelligence
 
 - **链接**: https://huggingface.co/papers/2609.15818
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Dream-RSI: Recursive Self-Improvement through Evolving Worlds
+## 📄 Dream-RSI: Recursive Self-Improvement through Evolving Worlds
 
 - **链接**: https://huggingface.co/papers/2609.14858
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video
+## 📄 AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video
 
 - **链接**: https://huggingface.co/papers/2609.14462
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model
+## 📄 Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model
 
 - **链接**: https://huggingface.co/papers/2609.13053
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Attention-DP3: Spatially Object-aware 3D Diffusion Policy via Geometry-aligned Attentional Conditioning
+## 📄 Attention-DP3: Spatially Object-aware 3D Diffusion Policy via Geometry-aligned Attentional Conditioning
 
 - **链接**: https://huggingface.co/papers/2609.13318
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Enabling Creative Exploration for Vibe Design Agents
+## 📄 Enabling Creative Exploration for Vibe Design Agents
 
 - **链接**: https://huggingface.co/papers/2609.15078
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender
+## 📄 BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender
 
 - **链接**: https://huggingface.co/papers/2609.15478
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Agent as Policy for Robotic Manipulation
+## 📄 Agent as Policy for Robotic Manipulation
 
 - **链接**: https://huggingface.co/papers/2609.12541
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 When Agents Slow Down: Understanding LLM Agents' Test-Time Strategies via Elo-per-token Analysis
+## 📄 When Agents Slow Down: Understanding LLM Agents' Test-Time Strategies via Elo-per-token Analysis
 
 - **链接**: https://huggingface.co/papers/2609.15309
 - **阅读来源**: ArXiv Abs
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation
+## 📄 Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation
 
 - **链接**: https://huggingface.co/papers/2609.11638
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MInTRL: Off-policy Intervention can boost On-policy RL
+## 📄 MInTRL: Off-policy Intervention can boost On-policy RL
 
 - **链接**: https://huggingface.co/papers/2609.12419
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Not All Prompts Are Equal: Exploration-Guided Prompt Scaffolding for Multimodal Reinforcement Post-Training
+## 📄 Not All Prompts Are Equal: Exploration-Guided Prompt Scaffolding for Multimodal Reinforcement Post-Training
 
 - **链接**: https://huggingface.co/papers/2609.15051
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 HazardAuditor: From Executable Threats to Safer Computer-Use Agents
+## 📄 HazardAuditor: From Executable Threats to Safer Computer-Use Agents
 
 - **链接**: https://huggingface.co/papers/2609.15134
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Expert-Space Exploration in MoE Reinforcement Learning
+## 📄 Expert-Space Exploration in MoE Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2609.13058
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus
+## 📄 How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus
 
 - **链接**: https://huggingface.co/papers/2609.15504
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Kaininja: Extending Native 3D Generators to the Part Level
+## 📄 Kaininja: Extending Native 3D Generators to the Part Level
 
 - **链接**: https://huggingface.co/papers/2609.15659
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Omni-Streaming Thinking
+## 📄 Omni-Streaming Thinking
 
 - **链接**: https://huggingface.co/papers/2609.15128
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search
+## 📄 ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search
 
 - **链接**: https://huggingface.co/papers/2609.13356
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Building a Production Greek-English Speech Recognizer
+## 📄 Building a Production Greek-English Speech Recognizer
 
 - **链接**: https://huggingface.co/papers/2609.13498
 - **阅读来源**: HTML
@@ -257,7 +254,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents
+## 📄 LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents
 
 - **链接**: https://huggingface.co/papers/2609.13287
 - **阅读来源**: HTML
@@ -267,7 +264,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks
+## 📄 Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks
 
 - **链接**: https://huggingface.co/papers/2609.15029
 - **阅读来源**: HTML
@@ -276,4 +273,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
