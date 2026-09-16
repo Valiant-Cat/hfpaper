@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-09-16
 **Source URL**: https://huggingface.co/papers/date/2026-09-16
 
 ============================================================
 
-### 📄 ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement
+## 📄 ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement
 
 - **链接**: https://huggingface.co/papers/2609.14857
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement
+## 📄 The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement
 
 - **链接**: https://huggingface.co/papers/2609.11873
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models
+## 📄 Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models
 
 - **链接**: https://huggingface.co/papers/2609.13680
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 StepAudio 3 Realtime Technical Report
+## 📄 StepAudio 3 Realtime Technical Report
 
 - **链接**: https://huggingface.co/papers/2609.14005
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration
+## 📄 Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration
 
 - **链接**: https://huggingface.co/papers/2609.16204
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States
+## 📄 Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States
 
 - **链接**: https://huggingface.co/papers/2609.15972
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Training Specialist Models without Reasoning Trajectories for Domain Expert Distillation
+## 📄 Training Specialist Models without Reasoning Trajectories for Domain Expert Distillation
 
 - **链接**: https://huggingface.co/papers/2609.13770
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents
+## 📄 ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents
 
 - **链接**: https://huggingface.co/papers/2609.17523
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control
+## 📄 PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control
 
 - **链接**: https://huggingface.co/papers/2609.17521
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?
+## 📄 Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?
 
 - **链接**: https://huggingface.co/papers/2609.14803
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness
+## 📄 HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness
 
 - **链接**: https://huggingface.co/papers/2609.15195
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ImpossibleRubrics: Stress-Testing Generated Rubrics as Reward Signals
+## 📄 ImpossibleRubrics: Stress-Testing Generated Rubrics as Reward Signals
 
 - **链接**: https://huggingface.co/papers/2609.16816
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Convergent Emergence of In-Context Learning Across Modalities
+## 📄 Convergent Emergence of In-Context Learning Across Modalities
 
 - **链接**: https://huggingface.co/papers/2609.14011
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems
+## 📄 Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems
 
 - **链接**: https://huggingface.co/papers/2609.17320
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Continual Learning Mechanisms Compose for Long-Horizon Memorization
+## 📄 Continual Learning Mechanisms Compose for Long-Horizon Memorization
 
 - **链接**: https://huggingface.co/papers/2609.06986
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AI for Games in the Foundation Model Era
+## 📄 AI for Games in the Foundation Model Era
 
 - **链接**: https://huggingface.co/papers/2609.16679
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 StepAudio 3 Music Technical Report
+## 📄 StepAudio 3 Music Technical Report
 
 - **链接**: https://huggingface.co/papers/2609.16034
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Router Within: Eliciting Native Skill Routing from a Frozen LLM
+## 📄 The Router Within: Eliciting Native Skill Routing from a Frozen LLM
 
 - **链接**: https://huggingface.co/papers/2609.15982
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Modality-Autoregressive World-Action Models
+## 📄 Modality-Autoregressive World-Action Models
 
 - **链接**: https://huggingface.co/papers/2609.17524
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Disentangling Representation Evolution in Transformers through Directional Decomposition
+## 📄 Disentangling Representation Evolution in Transformers through Directional Decomposition
 
 - **链接**: https://huggingface.co/papers/2609.15975
 - **阅读来源**: HTML
@@ -206,4 +203,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
