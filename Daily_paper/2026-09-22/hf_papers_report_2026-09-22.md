@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-09-22
 **Source URL**: https://huggingface.co/papers/date/2026-09-22
 
 ============================================================
 
-### 📄 Streaming Video Editing with Easy Adaptation
+## 📄 Streaming Video Editing with Easy Adaptation
 
 - **链接**: https://huggingface.co/papers/2609.24788
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
+## 📄 RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
 
 - **链接**: https://huggingface.co/papers/2609.24972
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Grounded Action Model: 3D Grounding as a Foundation for Robotics
+## 📄 Grounded Action Model: 3D Grounding as a Foundation for Robotics
 
 - **链接**: https://huggingface.co/papers/2609.23863
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
+## 📄 WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
 
 - **链接**: https://huggingface.co/papers/2609.24984
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Harness-Zero: Harness Distillation via Agent-as-Harness
+## 📄 Harness-Zero: Harness Distillation via Agent-as-Harness
 
 - **链接**: https://huggingface.co/papers/2609.24974
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations
+## 📄 Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations
 
 - **链接**: https://huggingface.co/papers/2609.22255
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles
+## 📄 Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles
 
 - **链接**: https://huggingface.co/papers/2609.22220
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms
+## 📄 Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms
 
 - **链接**: https://huggingface.co/papers/2609.23658
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction
+## 📄 onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction
 
 - **链接**: https://huggingface.co/papers/2609.24983
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents
+## 📄 Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents
 
 - **链接**: https://huggingface.co/papers/2609.23986
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation
+## 📄 1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2609.24432
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention
+## 📄 Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention
 
 - **链接**: https://huggingface.co/papers/2609.24797
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation
+## 📄 Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation
 
 - **链接**: https://huggingface.co/papers/2609.20758
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies
+## 📄 CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies
 
 - **链接**: https://huggingface.co/papers/2609.24118
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Transferring the Intelligence of VLMs to Robotic Control
+## 📄 Transferring the Intelligence of VLMs to Robotic Control
 
 - **链接**: https://huggingface.co/papers/2609.22966
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies
+## 📄 Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies
 
 - **链接**: https://huggingface.co/papers/2609.24682
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents
+## 📄 One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents
 
 - **链接**: https://huggingface.co/papers/2609.23377
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 HuRo: Robotizing Human Videos for Scalable VLA Pretraining
+## 📄 HuRo: Robotizing Human Videos for Scalable VLA Pretraining
 
 - **链接**: https://huggingface.co/papers/2609.10706
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 VideoGen-Agent: Reinforcing Video Generation Agents
+## 📄 VideoGen-Agent: Reinforcing Video Generation Agents
 
 - **链接**: https://huggingface.co/papers/2609.24997
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OmniEdu: Open Foundation Models for Learning and Teaching
+## 📄 OmniEdu: Open Foundation Models for Learning and Teaching
 
 - **链接**: https://huggingface.co/papers/2609.23088
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene
+## 📄 Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene
 
 - **链接**: https://huggingface.co/papers/2609.23796
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay
+## 📄 GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay
 
 - **链接**: https://huggingface.co/papers/2609.25001
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion
+## 📄 Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion
 
 - **链接**: https://huggingface.co/papers/2609.24220
 - **阅读来源**: HTML
@@ -236,4 +233,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
