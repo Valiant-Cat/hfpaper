@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-09-23
 **Source URL**: https://huggingface.co/papers/date/2026-09-23
 
 ============================================================
 
-### 📄 Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes
+## 📄 Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes
 
 - **链接**: https://huggingface.co/papers/2609.25247
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LatentPort: Beyond KV Cache - Cross-Model Transfer of Recurrent Memory in Hybrid Language Models: A 4B-to-9B Hybrid-State Handoff Without Target Prefix Replay
+## 📄 LatentPort: Beyond KV Cache - Cross-Model Transfer of Recurrent Memory in Hybrid Language Models: A 4B-to-9B Hybrid-State Handoff Without Target Prefix Replay
 
 - **链接**: https://huggingface.co/papers/2609.25053
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health
+## 📄 From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health
 
 - **链接**: https://huggingface.co/papers/2609.25186
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Recursive self-improvement of AI research agents
+## 📄 Recursive self-improvement of AI research agents
 
 - **链接**: https://huggingface.co/papers/2609.26457
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Lean Pool: An AI-Maintained Archive of Formalized Mathematics
+## 📄 Lean Pool: An AI-Maintained Archive of Formalized Mathematics
 
 - **链接**: https://huggingface.co/papers/2609.25199
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Agensh: Scaling Organizational Intelligence to 1,024 Agents
+## 📄 Agensh: Scaling Organizational Intelligence to 1,024 Agents
 
 - **链接**: https://huggingface.co/papers/2609.26781
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 JEV-as-a-Judge: Accept When Confident, Escalate When Unsure
+## 📄 JEV-as-a-Judge: Accept When Confident, Escalate When Unsure
 
 - **链接**: https://huggingface.co/papers/2609.26550
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Bellman Policy Optimization
+## 📄 Bellman Policy Optimization
 
 - **链接**: https://huggingface.co/papers/2609.15987
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Emergent Collusion in Long-Horizon LLM Agent Interaction
+## 📄 Emergent Collusion in Long-Horizon LLM Agent Interaction
 
 - **链接**: https://huggingface.co/papers/2609.24967
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks
+## 📄 The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks
 
 - **链接**: https://huggingface.co/papers/2609.25804
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ImIR: Image-Instruction Tuning for All-in-One Image Restoration
+## 📄 ImIR: Image-Instruction Tuning for All-in-One Image Restoration
 
 - **链接**: https://huggingface.co/papers/2609.25267
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts
+## 📄 All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts
 
 - **链接**: https://huggingface.co/papers/2609.24058
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents
+## 📄 RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents
 
 - **链接**: https://huggingface.co/papers/2609.25636
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training
+## 📄 StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training
 
 - **链接**: https://huggingface.co/papers/2609.26774
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
+## 📄 GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
 
 - **链接**: https://huggingface.co/papers/2609.24981
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning
+## 📄 ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning
 
 - **链接**: https://huggingface.co/papers/2609.22323
 - **阅读来源**: ArXiv Abs
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings
+## 📄 Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings
 
 - **链接**: https://huggingface.co/papers/2609.25165
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RULER: Instance-aware Rubric Rewards for SVG Generation
+## 📄 RULER: Instance-aware Rubric Rewards for SVG Generation
 
 - **链接**: https://huggingface.co/papers/2609.25270
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models
+## 📄 Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2609.24657
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs
+## 📄 Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs
 
 - **链接**: https://huggingface.co/papers/2609.26796
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Blaming Across the Aisle: Political Contrasting and Blame Attribution in the Danish Parliament
+## 📄 Blaming Across the Aisle: Political Contrasting and Blame Attribution in the Danish Parliament
 
 - **链接**: https://huggingface.co/papers/2609.26346
 - **阅读来源**: HTML
@@ -216,4 +213,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
