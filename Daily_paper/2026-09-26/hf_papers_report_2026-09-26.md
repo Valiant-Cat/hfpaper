@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-09-26
 **Source URL**: https://huggingface.co/papers/date/2026-09-26
 
 ============================================================
 
-### 📄 Agent-Editing World Model: Rethinking World Modeling for LLM Agents
+## 📄 Agent-Editing World Model: Rethinking World Modeling for LLM Agents
 
 - **链接**: https://huggingface.co/papers/2609.28416
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone
+## 📄 Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone
 
 - **链接**: https://huggingface.co/papers/2609.23087
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation
+## 📄 RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation
 
 - **链接**: https://huggingface.co/papers/2609.29028
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Training Object Permanence in World Models
+## 📄 Training Object Permanence in World Models
 
 - **链接**: https://huggingface.co/papers/2609.28654
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PUBG Ally: A Conversational Embodied Agent as an AI Teammate
+## 📄 PUBG Ally: A Conversational Embodied Agent as an AI Teammate
 
 - **链接**: https://huggingface.co/papers/2609.29837
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DeltaWAM: Delta World Action Models for Bimanual Manipulation
+## 📄 DeltaWAM: Delta World Action Models for Bimanual Manipulation
 
 - **链接**: https://huggingface.co/papers/2609.28811
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal
+## 📄 World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal
 
 - **链接**: https://huggingface.co/papers/2609.29964
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation
+## 📄 WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation
 
 - **链接**: https://huggingface.co/papers/2609.30221
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation
+## 📄 AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation
 
 - **链接**: https://huggingface.co/papers/2609.29816
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents
+## 📄 Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents
 
 - **链接**: https://huggingface.co/papers/2609.29892
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures
+## 📄 Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures
 
 - **链接**: https://huggingface.co/papers/2609.29429
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis
+## 📄 IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis
 
 - **链接**: https://huggingface.co/papers/2609.29444
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Learning to Discover Interesting Mathematics
+## 📄 Learning to Discover Interesting Mathematics
 
 - **链接**: https://huggingface.co/papers/2609.28603
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 OmniEcho: Spatial Audio Understanding for Embodied Agents
+## 📄 OmniEcho: Spatial Audio Understanding for Embodied Agents
 
 - **链接**: https://huggingface.co/papers/2609.23407
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs
+## 📄 Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs
 
 - **链接**: https://huggingface.co/papers/2609.29845
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates
+## 📄 Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates
 
 - **链接**: https://huggingface.co/papers/2609.30077
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 AgentKernel: The Trust-Native Agentic Operating System
+## 📄 AgentKernel: The Trust-Native Agentic Operating System
 
 - **链接**: https://huggingface.co/papers/2609.29647
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Coding Agents for Generalized Task and Motion Planning Problems
+## 📄 Coding Agents for Generalized Task and Motion Planning Problems
 
 - **链接**: https://huggingface.co/papers/2609.30233
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation
+## 📄 ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation
 
 - **链接**: https://huggingface.co/papers/2609.28923
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Parts-of-Speech as Emergent Categories in SAE Latent Space
+## 📄 Parts-of-Speech as Emergent Categories in SAE Latent Space
 
 - **链接**: https://huggingface.co/papers/2609.29362
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds
+## 📄 ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds
 
 - **链接**: https://huggingface.co/papers/2609.30199
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Rufus-Air: An Open LLM Post-Training Recipe
+## 📄 Rufus-Air: An Open LLM Post-Training Recipe
 
 - **链接**: https://huggingface.co/papers/2609.29421
 - **阅读来源**: HTML
@@ -226,4 +223,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
