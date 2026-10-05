@@ -1,13 +1,10 @@
-## 最新日报
-
-<!-- DAILY_REPORT_START -->
-## Hugging Face Daily Papers Report
+# Hugging Face Daily Papers Report
 **Date**: 2026-10-05
 **Source URL**: https://huggingface.co/papers/date/2026-10-05
 
 ============================================================
 
-### 📄 Collective Bias Mitigation via Model Routing and Collaboration
+## 📄 Collective Bias Mitigation via Model Routing and Collaboration
 
 - **链接**: https://huggingface.co/papers/2610.03240
 - **阅读来源**: HTML
@@ -17,7 +14,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models
+## 📄 Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models
 
 - **链接**: https://huggingface.co/papers/2610.03665
 - **阅读来源**: HTML
@@ -27,7 +24,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 ProAR: Learning Prospective Reasoning with Autoregressive Video Models
+## 📄 ProAR: Learning Prospective Reasoning with Autoregressive Video Models
 
 - **链接**: https://huggingface.co/papers/2610.03664
 - **阅读来源**: HTML
@@ -37,7 +34,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Can Computation from Earlier Problems Help LLMs Solve New Ones?
+## 📄 Can Computation from Earlier Problems Help LLMs Solve New Ones?
 
 - **链接**: https://huggingface.co/papers/2609.39394
 - **阅读来源**: HTML
@@ -47,7 +44,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 GTR: Gated Token Recurrence for Efficient Dense Prediction
+## 📄 GTR: Gated Token Recurrence for Efficient Dense Prediction
 
 - **链接**: https://huggingface.co/papers/2609.26590
 - **阅读来源**: HTML
@@ -57,7 +54,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Native Action-Prior Learning from Videos for World Action Models
+## 📄 Native Action-Prior Learning from Videos for World Action Models
 
 - **链接**: https://huggingface.co/papers/2610.03391
 - **阅读来源**: HTML
@@ -67,7 +64,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Local Support Learning
+## 📄 Local Support Learning
 
 - **链接**: https://huggingface.co/papers/2610.02126
 - **阅读来源**: HTML
@@ -77,7 +74,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Does Learning Protein Folding Generalize to Broader Reasoning?
+## 📄 Does Learning Protein Folding Generalize to Broader Reasoning?
 
 - **链接**: https://huggingface.co/papers/2609.38879
 - **阅读来源**: HTML
@@ -87,7 +84,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation
+## 📄 Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation
 
 - **链接**: https://huggingface.co/papers/2609.37925
 - **阅读来源**: HTML
@@ -97,7 +94,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 World Action Modeling with Progressive Visual Planning
+## 📄 World Action Modeling with Progressive Visual Planning
 
 - **链接**: https://huggingface.co/papers/2610.02508
 - **阅读来源**: HTML
@@ -107,7 +104,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Equal Ranking Quality, Different Decisions: Measuring and Reducing Order Dependence in LLM Scorers
+## 📄 Equal Ranking Quality, Different Decisions: Measuring and Reducing Order Dependence in LLM Scorers
 
 - **链接**: https://huggingface.co/papers/2608.26762
 - **阅读来源**: HTML
@@ -117,7 +114,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation
+## 📄 SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation
 
 - **链接**: https://huggingface.co/papers/2610.02304
 - **阅读来源**: HTML
@@ -127,7 +124,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory
+## 📄 Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory
 
 - **链接**: https://huggingface.co/papers/2610.02521
 - **阅读来源**: HTML
@@ -137,7 +134,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Octrees as an Explicit 3D Language
+## 📄 Octrees as an Explicit 3D Language
 
 - **链接**: https://huggingface.co/papers/2610.02388
 - **阅读来源**: HTML
@@ -147,7 +144,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling
+## 📄 EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling
 
 - **链接**: https://huggingface.co/papers/2610.02298
 - **阅读来源**: HTML
@@ -157,7 +154,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 PDE-JEPA: Predictive Representation Learning of Latent Dynamics Modeling for Parametric PDEs
+## 📄 PDE-JEPA: Predictive Representation Learning of Latent Dynamics Modeling for Parametric PDEs
 
 - **链接**: https://huggingface.co/papers/2609.34715
 - **阅读来源**: HTML
@@ -167,7 +164,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation
+## 📄 Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation
 
 - **链接**: https://huggingface.co/papers/2610.02788
 - **阅读来源**: HTML
@@ -177,7 +174,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Rethinking Token Reweighting for SFT: Suppress, Reverse, and Extrapolate Learned Features
+## 📄 Rethinking Token Reweighting for SFT: Suppress, Reverse, and Extrapolate Learned Features
 
 - **链接**: https://huggingface.co/papers/2609.33463
 - **阅读来源**: HTML
@@ -187,7 +184,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Covert Assistance: Helpful LLM Agents Evade Oversight in Multi-Agent Systems
+## 📄 Covert Assistance: Helpful LLM Agents Evade Oversight in Multi-Agent Systems
 
 - **链接**: https://huggingface.co/papers/2609.39050
 - **阅读来源**: HTML
@@ -197,7 +194,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks
+## 📄 VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks
 
 - **链接**: https://huggingface.co/papers/2610.00972
 - **阅读来源**: HTML
@@ -207,7 +204,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation
+## 📄 MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation
 
 - **链接**: https://huggingface.co/papers/2609.38078
 - **阅读来源**: HTML
@@ -217,7 +214,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents
+## 📄 HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents
 
 - **链接**: https://huggingface.co/papers/2610.03574
 - **阅读来源**: HTML
@@ -227,7 +224,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 MetaRubric: Learning to Reward for Rubric-Based Reinforcement Learning
+## 📄 MetaRubric: Learning to Reward for Rubric-Based Reinforcement Learning
 
 - **链接**: https://huggingface.co/papers/2610.02824
 - **阅读来源**: HTML
@@ -237,7 +234,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Receiver-Conditioned Latent Communication gives 94% CacheBack
+## 📄 Receiver-Conditioned Latent Communication gives 94% CacheBack
 
 - **链接**: https://huggingface.co/papers/2609.32046
 - **阅读来源**: HTML
@@ -247,7 +244,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS
+## 📄 DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS
 
 - **链接**: https://huggingface.co/papers/2609.32777
 - **阅读来源**: HTML
@@ -257,7 +254,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Efficient Reasoning Training Does Not Always Harm CoT Faithfulness and Monitorability
+## 📄 Efficient Reasoning Training Does Not Always Harm CoT Faithfulness and Monitorability
 
 - **链接**: https://huggingface.co/papers/2610.03509
 - **阅读来源**: HTML
@@ -267,7 +264,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 On-Policy Parameter Update Direction Underlies Generalization in LLM Post-Training
+## 📄 On-Policy Parameter Update Direction Underlies Generalization in LLM Post-Training
 
 - **链接**: https://huggingface.co/papers/2609.36659
 - **阅读来源**: HTML
@@ -277,7 +274,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation
+## 📄 From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation
 
 - **链接**: https://huggingface.co/papers/2610.02179
 - **阅读来源**: HTML
@@ -287,7 +284,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It
+## 📄 Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It
 
 - **链接**: https://huggingface.co/papers/2610.03195
 - **阅读来源**: HTML
@@ -297,7 +294,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling
+## 📄 Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling
 
 - **链接**: https://huggingface.co/papers/2609.36529
 - **阅读来源**: HTML
@@ -307,7 +304,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems
+## 📄 Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems
 
 - **链接**: https://huggingface.co/papers/2610.01257
 - **阅读来源**: HTML
@@ -317,7 +314,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution
+## 📄 FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution
 
 - **链接**: https://huggingface.co/papers/2610.03675
 - **阅读来源**: HTML
@@ -327,7 +324,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Multilingual GSM-Symbolic: What determines capability transfer across languages?
+## 📄 Multilingual GSM-Symbolic: What determines capability transfer across languages?
 
 - **链接**: https://huggingface.co/papers/2610.03367
 - **阅读来源**: HTML
@@ -337,7 +334,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LVMT: Video Mask Transformer for Long-term Video Segmentation
+## 📄 LVMT: Video Mask Transformer for Long-term Video Segmentation
 
 - **链接**: https://huggingface.co/papers/2609.34895
 - **阅读来源**: HTML
@@ -347,7 +344,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Strike a Chord! Modal Kinetic Typography
+## 📄 Strike a Chord! Modal Kinetic Typography
 
 - **链接**: https://huggingface.co/papers/2609.38325
 - **阅读来源**: ArXiv Abs
@@ -357,7 +354,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 World Embedding Benchmark
+## 📄 World Embedding Benchmark
 
 - **链接**: https://huggingface.co/papers/2610.03632
 - **阅读来源**: HTML
@@ -367,7 +364,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 HelixWorld: A Real-time Interactive Audio-Visual World Model
+## 📄 HelixWorld: A Real-time Interactive Audio-Visual World Model
 
 - **链接**: https://huggingface.co/papers/2609.38123
 - **阅读来源**: HTML
@@ -377,7 +374,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation
+## 📄 FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation
 
 - **链接**: https://huggingface.co/papers/2609.38839
 - **阅读来源**: HTML
@@ -387,7 +384,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models
+## 📄 Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models
 
 - **链接**: https://huggingface.co/papers/2609.39820
 - **阅读来源**: HTML
@@ -397,7 +394,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders
+## 📄 From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders
 
 - **链接**: https://huggingface.co/papers/2610.02486
 - **阅读来源**: HTML
@@ -407,7 +404,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 WEFT: Scaling Tool-Use Post-Training for General-Purpose Agents
+## 📄 WEFT: Scaling Tool-Use Post-Training for General-Purpose Agents
 
 - **链接**: https://huggingface.co/papers/2609.36887
 - **阅读来源**: ArXiv Abs
@@ -417,7 +414,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Language Models that Play Chess and Explain Their Moves
+## 📄 Language Models that Play Chess and Explain Their Moves
 
 - **链接**: https://huggingface.co/papers/2610.03695
 - **阅读来源**: HTML
@@ -427,7 +424,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers
+## 📄 Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers
 
 - **链接**: https://huggingface.co/papers/2610.00531
 - **阅读来源**: HTML
@@ -437,7 +434,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling
+## 📄 Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling
 
 - **链接**: https://huggingface.co/papers/2609.40153
 - **阅读来源**: HTML
@@ -447,7 +444,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite
+## 📄 Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite
 
 - **链接**: https://huggingface.co/papers/2610.02826
 - **阅读来源**: HTML
@@ -457,7 +454,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Diptych: Scoped, AI-Interpreted Comparison for Reference Listening in Music Production
+## 📄 Diptych: Scoped, AI-Interpreted Comparison for Reference Listening in Music Production
 
 - **链接**: https://huggingface.co/papers/2609.39963
 - **阅读来源**: HTML
@@ -467,7 +464,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts
+## 📄 Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts
 
 - **链接**: https://huggingface.co/papers/2610.01153
 - **阅读来源**: HTML
@@ -477,7 +474,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control
+## 📄 Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control
 
 - **链接**: https://huggingface.co/papers/2609.28339
 - **阅读来源**: HTML
@@ -487,7 +484,7 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 ============================================================
 
-### 📄 LexReward: A Taxonomy-Driven Reward Framework for Legal Language Models
+## 📄 LexReward: A Taxonomy-Driven Reward Framework for Legal Language Models
 
 - **链接**: https://huggingface.co/papers/2609.39071
 - **阅读来源**: HTML
@@ -496,4 +493,3 @@ AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model m
 
 
 ============================================================
-<!-- DAILY_REPORT_END -->
