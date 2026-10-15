@@ -2,807 +2,677 @@
 
 <!-- DAILY_REPORT_START -->
 ## Hugging Face Daily Papers Report
-**Date**: 2026-10-14
-**Source URL**: https://huggingface.co/papers/date/2026-10-14
+**Date**: 2026-10-15
+**Source URL**: https://huggingface.co/papers/date/2026-10-15
 
 ============================================================
 
-### 📄 Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes
+### 📄 SWEeper-Bench: Can Agents Discover Bugs in Interactive Software?
 
-- **链接**: https://huggingface.co/papers/2610.18356
+- **链接**: https://huggingface.co/papers/2610.14096
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 DoSA: Dots Sparse Attention
+### 📄 Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents
 
-- **链接**: https://huggingface.co/papers/2610.13990
+- **链接**: https://huggingface.co/papers/2610.20344
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 CURIO: Curiosity-Driven Test-Time Learning for Open-Ended Discovery
+### 📄 What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds
 
-- **链接**: https://huggingface.co/papers/2610.04851
+- **链接**: https://huggingface.co/papers/2610.20195
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards
+### 📄 Cortex: Consolidating Context into Parametric Memory
 
-- **链接**: https://huggingface.co/papers/2602.05758
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Controlled Acquisition and Abstention in Three-Channel Score Conflicts
-
-- **链接**: https://huggingface.co/papers/2610.10808
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Scaling Repeated-Data Pretraining: Batch Size, Regularization, and GPU-Time Tradeoffs
-
-- **链接**: https://huggingface.co/papers/2610.15965
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 GeoFix: Geometry Fixing for 4D Consistent Generation
-
-- **链接**: https://huggingface.co/papers/2610.14293
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Video-Arena: A Scalable Agentic Video Benchmark for Spatiotemporal Capability
-
-- **链接**: https://huggingface.co/papers/2610.14158
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 ClawLoop: Self-Improving Agents via Harness-Native Training Loop
-
-- **链接**: https://huggingface.co/papers/2610.14118
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 VEDJE: Video-Efficient Discriminative Joint Encoder for Scalable Video-Text Retrieval
-
-- **链接**: https://huggingface.co/papers/2610.11850
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Diffusion Editing with Soft Mask: Pixel Level Redo of Image and Video with Adjustable Strength
-
-- **链接**: https://huggingface.co/papers/2610.00359
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 CineRecon: Benchmarking Frontier Models for Agentic Cinematic Reconstruction
-
-- **链接**: https://huggingface.co/papers/2610.16577
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos
-
-- **链接**: https://huggingface.co/papers/2609.38377
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution
-
-- **链接**: https://huggingface.co/papers/2610.15772
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Jeva: System One Models from First Principles
-
-- **链接**: https://huggingface.co/papers/2610.18773
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution
-
-- **链接**: https://huggingface.co/papers/2610.18067
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Learning How to Remember: Memory Modality Selection for GUI Agents
-
-- **链接**: https://huggingface.co/papers/2610.17928
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling
-
-- **链接**: https://huggingface.co/papers/2610.15166
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 JevGPT: Thinking Fast and Slow in Autonomous Research
-
-- **链接**: https://huggingface.co/papers/2610.18272
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces
-
-- **链接**: https://huggingface.co/papers/2610.15208
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Beyond Prompt Count: How Data Shapes Transfer in On-Policy Distillation
-
-- **链接**: https://huggingface.co/papers/2609.37377
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Open-o3-Video-v2: Seek, Ground, and Reason with Verifiable Spatio-Temporal Evidence
-
-- **链接**: https://huggingface.co/papers/2610.17656
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 VIEWCRAFT: Evolving What Multimodal Agents See and How They Read It
-
-- **链接**: https://huggingface.co/papers/2610.15915
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World
-
-- **链接**: https://huggingface.co/papers/2610.18846
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 WorldCast: Distributed Multiplayer World Models
-
-- **链接**: https://huggingface.co/papers/2610.12412
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 VideoJev: System One Model for Video Understanding and Interaction
-
-- **链接**: https://huggingface.co/papers/2610.18615
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 UniForge3D: Joint 3D Reconstruction and Generation in a Shared Anchor-Guided Space
-
-- **链接**: https://huggingface.co/papers/2610.15357
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Self-Distillation with Verbal Regularization
-
-- **链接**: https://huggingface.co/papers/2610.16354
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 MixLID: Token-Level Language Identification in Mixed-Language Text
-
-- **链接**: https://huggingface.co/papers/2610.16601
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 LifeSearch: Benchmarking Deep Research Agents for Real-World Life and Productivity
-
-- **链接**: https://huggingface.co/papers/2610.18092
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 EviScene: Beyond "Is It AI?" for Agentic Image Factuality Assessment
-
-- **链接**: https://huggingface.co/papers/2610.14609
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 What Really Works for Universal Multimodal Embeddings? A Controlled Study of Contrastive Training Strategies
-
-- **链接**: https://huggingface.co/papers/2610.15035
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Web$hell: A Unified Interface for Agentic Web Access
-
-- **链接**: https://huggingface.co/papers/2610.13416
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Last Secure Code Benchmark: Is the Code You Vibe Secure?
-
-- **链接**: https://huggingface.co/papers/2610.14766
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 EMHO: EMbodied Agent Harness Optimization via Experience Traces
-
-- **链接**: https://huggingface.co/papers/2610.08432
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 SHELDON: Reasoning through Dual Search over Hypothesis and Observation Spaces
-
-- **链接**: https://huggingface.co/papers/2610.18025
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics
-
-- **链接**: https://huggingface.co/papers/2609.38847
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion
-
-- **链接**: https://huggingface.co/papers/2610.18871
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 SALD: Self-Referenced Advantage Learning for Diffusion Models
-
-- **链接**: https://huggingface.co/papers/2610.01496
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards
-
-- **链接**: https://huggingface.co/papers/2610.18868
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 AReA: Adaptive Receptive-Field Attention for Efficient High-Resolution Diffusion Transformers
-
-- **链接**: https://huggingface.co/papers/2610.17227
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 SWE-MISBEHAVIOR: Benchmarking and Mitigating Boundary Violations in Software Coding Agents
-
-- **链接**: https://huggingface.co/papers/2610.18206
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 TacitVLA: Reasoning Vision-Language-Action Models Without Reasoning Latency
-
-- **链接**: https://huggingface.co/papers/2610.17540
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Learning Transferable World-Action Models from Task-Paired Human Videos
-
-- **链接**: https://huggingface.co/papers/2610.14351
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 APEX: Asynchronous Prefix Denoising for Extreme Compression
-
-- **链接**: https://huggingface.co/papers/2610.12843
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 ShellElastic: Scalable Elastic Pretraining with Simultaneous Maximal Updates and Hyperparameter Transfer
-
-- **链接**: https://huggingface.co/papers/2610.15124
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards
-
-- **链接**: https://huggingface.co/papers/2610.18860
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Agent-Reflex: Teaching Language Agents to Act Reflectively
-
-- **链接**: https://huggingface.co/papers/2610.17953
-- **阅读来源**: HTML
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 Omni-Modal LLMs Know More Than They Say
-
-- **链接**: https://huggingface.co/papers/2610.16135
+- **链接**: https://huggingface.co/papers/2610.20399
 - **阅读来源**: ArXiv Abs
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Rubrics from the Task, Verdicts from Evidence: Pointwise Rubric Rewards with Tool-Augmented Judges
+### 📄 Acting Through Registers
 
-- **链接**: https://huggingface.co/papers/2610.18766
+- **链接**: https://huggingface.co/papers/2610.17638
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Fish Audio Drama 3 Technical Report
+### 📄 RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models
 
-- **链接**: https://huggingface.co/papers/2610.18010
+- **链接**: https://huggingface.co/papers/2610.16302
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Harness^2: Recursive Agent Harnessing for an Open World
+### 📄 Jag: Direct Box Prediction for Efficient Visual Grounding
 
-- **链接**: https://huggingface.co/papers/2610.14224
+- **链接**: https://huggingface.co/papers/2610.13239
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 UltraBERT: Beyond the Limit of BERT Pre-Training
+### 📄 Player-1: Learning to Play from Synthetic Experience
 
-- **链接**: https://huggingface.co/papers/2610.15028
+- **链接**: https://huggingface.co/papers/2610.20584
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning
+### 📄 Apertus 1.5: From Open Text Models to Open Multimodal Reasoners
 
-- **链接**: https://huggingface.co/papers/2610.16811
+- **链接**: https://huggingface.co/papers/2610.15542
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 EventLens: Event-Structure Reinforcement Learning for Video Understanding
+### 📄 GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning
 
-- **链接**: https://huggingface.co/papers/2610.16172
+- **链接**: https://huggingface.co/papers/2610.19100
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 AutoEnvScaling: Automating the Data Flywheel with Terminal Agents
+### 📄 ProgAgent: Learning Tool Orchestration through Programmatic Training
 
-- **链接**: https://huggingface.co/papers/2610.14163
+- **链接**: https://huggingface.co/papers/2610.14774
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 AUGUstus: Autonomous Driving VLA Model with Unified Generation and Understanding
+### 📄 Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance
 
-- **链接**: https://huggingface.co/papers/2610.16985
+- **链接**: https://huggingface.co/papers/2610.20220
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Agent Sociodrama: Social-Dynamics-Guided Persona Recasting for LLM Agent Teams
+### 📄 HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution
 
-- **链接**: https://huggingface.co/papers/2610.15788
+- **链接**: https://huggingface.co/papers/2610.02089
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning
+### 📄 SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving
 
-- **链接**: https://huggingface.co/papers/2610.18862
+- **链接**: https://huggingface.co/papers/2610.20609
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching
+### 📄 TextVerifier: Seeing Beyond Recognition to Verify Chinese Text Rendering
 
-- **链接**: https://huggingface.co/papers/2610.17552
+- **链接**: https://huggingface.co/papers/2610.19551
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 LeWAM: End-to-End World and Action Modeling with JEPAs
+### 📄 ProbabilityBench: Model Evaluation and Calibration with Exact Ground-Truth Uncertainty
 
-- **链接**: https://huggingface.co/papers/2610.12818
+- **链接**: https://huggingface.co/papers/2610.17016
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution
+### 📄 NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime
 
-- **链接**: https://huggingface.co/papers/2610.15765
+- **链接**: https://huggingface.co/papers/2610.10787
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Spectral-Driven Adaptive-Rank Optimizer for Large Language Model Reinforcement Learning with Verifiable Rewards
+### 📄 τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions
 
-- **链接**: https://huggingface.co/papers/2610.16533
+- **链接**: https://huggingface.co/papers/2610.19560
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 DeltaTTG: Training Multi-Turn Agents with a Token-to-Go Progress Meter
+### 📄 Joint Subspace Sparse Attention for Efficient Long-Context Decoding
 
-- **链接**: https://huggingface.co/papers/2610.17666
+- **链接**: https://huggingface.co/papers/2610.19026
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 WAVE-0: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction
+### 📄 Long-Horizon RL Needs Muon
 
-- **链接**: https://huggingface.co/papers/2610.18568
+- **链接**: https://huggingface.co/papers/2610.20256
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Super-Resolution in The Right Latent Space: A Frozen Vision-Foundation Substrate
+
+- **链接**: https://huggingface.co/papers/2610.04781
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Rethinking Projector Training in Multimodal LLMs
+
+- **链接**: https://huggingface.co/papers/2610.18598
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions
+
+- **链接**: https://huggingface.co/papers/2610.17309
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Diff Diffusion: Predicting Edit Paths with Diffusion Models for Efficient Code Editing
+
+- **链接**: https://huggingface.co/papers/2610.17831
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning
+
+- **链接**: https://huggingface.co/papers/2610.19789
 - **阅读来源**: ArXiv Abs
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Vela: User Behavior as Supervision Sparks LLM Intelligence
+### 📄 Efficient Scene-Text Refinement via Pixel-Space Grouped Image Generation
 
-- **链接**: https://huggingface.co/papers/2610.14709
+- **链接**: https://huggingface.co/papers/2610.18284
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding
+### 📄 Continuum Attention
 
-- **链接**: https://huggingface.co/papers/2610.16118
+- **链接**: https://huggingface.co/papers/2610.20586
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Latent World Action Model for GUI Agents
+### 📄 SyncReward: Human-Aligned Synchronization Reward for Audio-Visual Generation
 
-- **链接**: https://huggingface.co/papers/2610.14228
+- **链接**: https://huggingface.co/papers/2610.16338
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Probable but Not Valid: A Psychometric Audit of Decision Models as Synthetic Survey Respondents
+### 📄 LensErase: A Foundation Model for Erase Anything
 
-- **链接**: https://huggingface.co/papers/2610.14912
+- **链接**: https://huggingface.co/papers/2610.18072
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems
+### 📄 APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation
 
-- **链接**: https://huggingface.co/papers/2610.13989
+- **链接**: https://huggingface.co/papers/2610.18097
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ
+### 📄 ActionOPD: Distilling Decisions, Not Tokens
 
-- **链接**: https://huggingface.co/papers/2610.18872
+- **链接**: https://huggingface.co/papers/2610.19820
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 LightVAE: Towards Compact and Efficient Video Autoencoders
+### 📄 Are We Testing Too Much? A Survey of Benchmark Compression for Efficient Evaluation of Large Language Models
 
-- **链接**: https://huggingface.co/papers/2610.14726
+- **链接**: https://huggingface.co/papers/2610.18248
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Data-Centric Recursive Self-Improvement for Navigation via Policy-Synchronized Language-Action Dual Bootstrapping
+### 📄 Scaling Online Optimal Transport Minibatches for Flow Matching
 
-- **链接**: https://huggingface.co/papers/2610.15782
+- **链接**: https://huggingface.co/papers/2610.18838
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 HexaBee-4B: Six-Language Translation with Multilingual Answering and Bidirectional Supervision
+### 📄 Towards Agentic Robots: Model, Data, Environment, and Harness
 
-- **链接**: https://huggingface.co/papers/2610.16361
+- **链接**: https://huggingface.co/papers/2610.20442
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 ReTerm: Recovery Training for Self-Improving Terminal Agents
+### 📄 To Align or Not To Align: Check Your COMPASS Before You Train
 
-- **链接**: https://huggingface.co/papers/2610.18484
+- **链接**: https://huggingface.co/papers/2610.18638
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 Multics: Generative Multi-Player World Model with Hierarchical Communication
+### 📄 MimicX: Policy-in-the-Loop Supervision Refinement for Video-Driven Humanoid Motion Tracking
 
-- **链接**: https://huggingface.co/papers/2610.17201
+- **链接**: https://huggingface.co/papers/2610.09055
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 GreenWAM: A World Foundation Model for Robotics
+### 📄 KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization
 
-- **链接**: https://huggingface.co/papers/2610.18774
-- **阅读来源**: ArXiv Abs
-
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
-
-
-============================================================
-
-### 📄 4LC: 4D Latent Cache for Efficient Conditioning in Dynamic World Modeling
-
-- **链接**: https://huggingface.co/papers/2610.17625
+- **链接**: https://huggingface.co/papers/2610.14448
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 TPPO: Tracking-Value PPO For Language Model Reasoning
+### 📄 Latent Compaction with Test-Time Training
 
-- **链接**: https://huggingface.co/papers/2610.16794
+- **链接**: https://huggingface.co/papers/2610.20582
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
 
-### 📄 CIViC: Evidence Gates for Audio-Conditioned Visual Prediction on Proxy Tasks
+### 📄 Exploring the Limits of Combinatorial Generalization in Embodied Manipulation
 
-- **链接**: https://huggingface.co/papers/2610.15327
+- **链接**: https://huggingface.co/papers/2610.15425
 - **阅读来源**: HTML
 
-AI 分析出错: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-3-pro-preview is no longer available. Please update your code to use models/gemini-3.1-pro-preview for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 BigCell: Generating Gigapixel Whole-Slide Images
+
+- **链接**: https://huggingface.co/papers/2610.14261
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 MA-Bench: Measuring Operational Planning in Language Models
+
+- **链接**: https://huggingface.co/papers/2610.19138
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 The Thinking Leakage in Reinforcement Learning for LLMs
+
+- **链接**: https://huggingface.co/papers/2610.14270
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 VITAL: From Visual Motion to Precise Action
+
+- **链接**: https://huggingface.co/papers/2610.20604
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 SkillMarker: A KGW-Based Watermarking Method for Agent Skill Ownership Verification
+
+- **链接**: https://huggingface.co/papers/2610.15725
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Physical Time as a Missing Dimension of Robot Policy Memory Dynamics
+
+- **链接**: https://huggingface.co/papers/2610.20524
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards
+
+- **链接**: https://huggingface.co/papers/2610.17893
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Hybrid Reasoning Agents
+
+- **链接**: https://huggingface.co/papers/2610.18861
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation
+
+- **链接**: https://huggingface.co/papers/2610.13521
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 VASPO: Self-Distillation with Privileged Value Estimation
+
+- **链接**: https://huggingface.co/papers/2610.20516
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Recovering Reliable Supervision via Critique-Guided On-Policy Distillation
+
+- **链接**: https://huggingface.co/papers/2610.20572
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following
+
+- **链接**: https://huggingface.co/papers/2610.19525
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Rethinking LLM-Guided Visual Question Answering: Does Deeper Knowledge Integration Really Help?
+
+- **链接**: https://huggingface.co/papers/2610.17079
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation
+
+- **链接**: https://huggingface.co/papers/2610.20456
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 StreamErase: Towards Ultra-Fast Streaming Video Erasing
+
+- **链接**: https://huggingface.co/papers/2610.20137
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 G^3VLA: Geometric Inductive Bias for Vision-Language-Action Models
+
+- **链接**: https://huggingface.co/papers/2606.24472
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 LLM-to-Flow Distillation: Teaching Natural Language Goals to Scientific Generators
+
+- **链接**: https://huggingface.co/papers/2610.17246
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Generative World Simulation with DAO and JING
+
+- **链接**: https://huggingface.co/papers/2610.19726
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation
+
+- **链接**: https://huggingface.co/papers/2610.20571
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory
+
+- **链接**: https://huggingface.co/papers/2610.19366
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Vela: Scaling Vision-Language-Action Models with Adaptive Action Curve Parametrization
+
+- **链接**: https://huggingface.co/papers/2610.05230
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety
+
+- **链接**: https://huggingface.co/papers/2610.19422
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision
+
+- **链接**: https://huggingface.co/papers/2610.19118
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 SwarmRSI: Recursive Self-Improvement through Evolving Scientific Agent Swarm
+
+- **链接**: https://huggingface.co/papers/2610.20431
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation
+
+- **链接**: https://huggingface.co/papers/2610.19975
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios
+
+- **链接**: https://huggingface.co/papers/2610.19698
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Share the Symbol, Not the Vector: Training-Free Fact Communication Across Language Models
+
+- **链接**: https://huggingface.co/papers/2610.19696
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
+
+
+============================================================
+
+### 📄 Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders
+
+- **链接**: https://huggingface.co/papers/2610.17771
+- **阅读来源**: HTML
+
+AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
 
 
 ============================================================
