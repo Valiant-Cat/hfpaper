@@ -2,14 +2,14 @@
 
 <!-- DAILY_REPORT_START -->
 ## Hugging Face Daily Papers Report
-**Date**: 2026-10-18
-**Source URL**: https://huggingface.co/papers/date/2026-10-18
+**Date**: 2026-10-19
+**Source URL**: https://huggingface.co/papers/date/2026-10-19
 
 ============================================================
 
-### 📄 Learning to Read Out: Unembedding Dynamics in Language Model Pretraining
+### 📄 Xiaomi-Lens-0 Technical Report
 
-- **链接**: https://huggingface.co/papers/2610.21025
+- **链接**: https://huggingface.co/papers/2610.23279
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -17,9 +17,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Recursive Environment Scaling for General Long-Horizon Agents
+### 📄 Speculative Sampling in Interactive Video Generation
 
-- **链接**: https://huggingface.co/papers/2610.16397
+- **链接**: https://huggingface.co/papers/2610.20556
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -27,9 +27,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Mosaic: Multi-Session Agentic Reinforcement Learning
+### 📄 DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses
 
-- **链接**: https://huggingface.co/papers/2610.22174
+- **链接**: https://huggingface.co/papers/2610.23839
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -37,9 +37,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization
+### 📄 Selection Is Not Learning: Choosing Model Futures
 
-- **链接**: https://huggingface.co/papers/2610.22127
+- **链接**: https://huggingface.co/papers/2610.22029
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -47,9 +47,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 H-DDCM: Hadamard Codebooks for Fast Generative Image and Video Compression
+### 📄 StopWatch: Goal Grounding for Object-goal Navigation
 
-- **链接**: https://huggingface.co/papers/2610.18125
+- **链接**: https://huggingface.co/papers/2610.23841
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -57,9 +57,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling
+### 📄 SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents
 
-- **链接**: https://huggingface.co/papers/2610.06829
+- **链接**: https://huggingface.co/papers/2610.21082
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -67,9 +67,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models
+### 📄 DuET: Note-Frame Dual Encoding for Piano Performance-to-Score Transcription
 
-- **链接**: https://huggingface.co/papers/2610.21306
+- **链接**: https://huggingface.co/papers/2610.21467
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -77,9 +77,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents
+### 📄 PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design
 
-- **链接**: https://huggingface.co/papers/2610.21463
+- **链接**: https://huggingface.co/papers/2610.20628
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -87,9 +87,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility
+### 📄 Dream2Discern: Learning from Hard Latent Variants for Runtime Failure Prediction in Multi-Agent Systems
 
-- **链接**: https://huggingface.co/papers/2610.20680
+- **链接**: https://huggingface.co/papers/2610.16071
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -97,9 +97,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Learning Self-Orchestration in Decentralized Agent Swarms
+### 📄 MorphAct: Robot Policies Morphing with the Worlds They Act In
 
-- **链接**: https://huggingface.co/papers/2610.22322
+- **链接**: https://huggingface.co/papers/2610.20019
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -107,9 +107,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Virtual Head Attention
+### 📄 FC-SWE: Failure-Conditioned RL for Long-Horizon Software Engineering Agents
 
-- **链接**: https://huggingface.co/papers/2610.17959
+- **链接**: https://huggingface.co/papers/2610.07898
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -117,9 +117,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Scalable Weak-to-Strong Verifier Hardening for Agent Environments
+### 📄 Game2Real-Bench: Do Toy Games Reveal and Transfer to Real-World Visual Reasoning?
 
-- **链接**: https://huggingface.co/papers/2610.15924
+- **链接**: https://huggingface.co/papers/2610.18834
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -127,9 +127,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 PINT: A Unified Model with Shared Predictive Intent for Robot Manipulation
+### 📄 BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business
 
-- **链接**: https://huggingface.co/papers/2610.16355
+- **链接**: https://huggingface.co/papers/2610.20424
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -137,9 +137,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents
+### 📄 ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models
 
-- **链接**: https://huggingface.co/papers/2610.22280
+- **链接**: https://huggingface.co/papers/2610.22306
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -147,9 +147,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation
+### 📄 What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics
 
-- **链接**: https://huggingface.co/papers/2610.22264
+- **链接**: https://huggingface.co/papers/2610.22697
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -157,269 +157,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Speech event detector: Timestamped detection of non-verbal vocalizations and background sounds for rich speech transcription
+### 📄 AI-Driven Disaster Response and Displacement Monitoring
 
-- **链接**: https://huggingface.co/papers/2610.14232
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Gen4P: Video Generators are 4D Perceivers
-
-- **链接**: https://huggingface.co/papers/2610.22371
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use
-
-- **链接**: https://huggingface.co/papers/2610.22200
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding
-
-- **链接**: https://huggingface.co/papers/2610.18829
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Orbia: Do Generated Videos Form a Consistent 3D World?
-
-- **链接**: https://huggingface.co/papers/2610.20693
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Copy-Paste Language Models
-
-- **链接**: https://huggingface.co/papers/2610.19247
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation
-
-- **链接**: https://huggingface.co/papers/2610.20603
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 JevAgentHarness: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs
-
-- **链接**: https://huggingface.co/papers/2610.21412
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 FlashMask-3: Efficient and Expressive Mask-Aware Distributed Attention
-
-- **链接**: https://huggingface.co/papers/2610.17901
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill
-
-- **链接**: https://huggingface.co/papers/2610.21500
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Self-Evolving Agent Harness
-
-- **链接**: https://huggingface.co/papers/2610.18813
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation
-
-- **链接**: https://huggingface.co/papers/2610.20818
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Velox: Spatial Memory Makes World Models Efficient
-
-- **链接**: https://huggingface.co/papers/2610.22311
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents
-
-- **链接**: https://huggingface.co/papers/2610.22240
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Data World: Scaling Data Environments from Scratch
-
-- **链接**: https://huggingface.co/papers/2610.21656
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 CoDA: Co-Evolution of Data Engines and Action Policies
-
-- **链接**: https://huggingface.co/papers/2610.22362
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models
-
-- **链接**: https://huggingface.co/papers/2610.21185
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models
-
-- **链接**: https://huggingface.co/papers/2610.13781
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Each Reward to Its Relevant Tokens: Reward-Specific Token-Level Credit Assignment for Multi-Reward RL
-
-- **链接**: https://huggingface.co/papers/2610.21439
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Behavioral Compositionality of Sparse Autoencoder Representations
-
-- **链接**: https://huggingface.co/papers/2610.21261
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Do Better Visual Representations Always Lead to Better End-to-End Autonomous Driving?
-
-- **链接**: https://huggingface.co/papers/2610.09695
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Cowork-Gym: Synthesizing Interactive Work Environments at Scale
-
-- **链接**: https://huggingface.co/papers/2610.17670
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Learning Where to Split: Dynamic Band Splitting for Audio Source Separation
-
-- **链接**: https://huggingface.co/papers/2610.14993
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 AutoSFT: An Agentic System for Automated Data Research in Supervised Fine-Tuning
-
-- **链接**: https://huggingface.co/papers/2610.22194
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Beyond Policy Rollouts: Embedding-Space Directional Exploration with Anchored Noise for LLM RLVR
-
-- **链接**: https://huggingface.co/papers/2610.16105
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 Calibrated Typed Decisions for Entity, Relation, and Event Extraction
-
-- **链接**: https://huggingface.co/papers/2610.17113
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness
-
-- **链接**: https://huggingface.co/papers/2610.21910
+- **链接**: https://huggingface.co/papers/2610.21482
 - **阅读来源**: ArXiv Abs
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -427,9 +167,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 PathFM: Fast Generative Forecasting of Multivariate Trajectories
+### 📄 From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research
 
-- **链接**: https://huggingface.co/papers/2610.22358
+- **链接**: https://huggingface.co/papers/2610.21767
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -437,9 +177,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 MJev-Spatial: System One Spatial Intelligence via Native Attention Matching
+### 📄 Scene-Designer: Learning Design Intelligence for Agentic 3D Scene Generation
 
-- **链接**: https://huggingface.co/papers/2610.22276
+- **链接**: https://huggingface.co/papers/2610.23121
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -447,9 +187,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 TimeRSI: Towards Self-Improved Agentic Deployment for Time-Series Foundation Models
+### 📄 OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents
 
-- **链接**: https://huggingface.co/papers/2610.19725
+- **链接**: https://huggingface.co/papers/2610.22234
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -457,9 +197,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Routing Policy Optimization for Online Diffusion Reinforcement Learning
+### 📄 Learning to Think and Explore in 3D World
 
-- **链接**: https://huggingface.co/papers/2610.22282
+- **链接**: https://huggingface.co/papers/2610.21783
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -467,9 +207,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment
+### 📄 HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents
 
-- **链接**: https://huggingface.co/papers/2610.17665
+- **链接**: https://huggingface.co/papers/2610.23479
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -477,9 +217,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 EdgeWise: Bringing Long-Horizon Agents to the Edge via Selective Cloud Delegation
+### 📄 Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents
 
-- **链接**: https://huggingface.co/papers/2610.17560
+- **链接**: https://huggingface.co/papers/2610.18784
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -487,9 +227,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments
+### 📄 RAP: A Dataset for Paper-to-Poster Generation via Declarative Markup from Human-Crafted Exemplars
 
-- **链接**: https://huggingface.co/papers/2610.20939
+- **链接**: https://huggingface.co/papers/2610.23230
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -497,9 +237,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding
+### 📄 Belief-Trajectory Energy: Measuring the Path to a Prediction
 
-- **链接**: https://huggingface.co/papers/2610.19849
+- **链接**: https://huggingface.co/papers/2610.05114
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -507,9 +247,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Can World and Action Modeling Benefit Each Other under Unified Causal Training?
+### 📄 Stuck on Shuffle: On Attribute-Object Binding in Vision-Language Models
 
-- **链接**: https://huggingface.co/papers/2610.21095
+- **链接**: https://huggingface.co/papers/2610.22602
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -517,9 +257,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling
+### 📄 Persistent Planar Memory for Video World Models
 
-- **链接**: https://huggingface.co/papers/2610.22355
+- **链接**: https://huggingface.co/papers/2610.23795
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -527,9 +267,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 ANTE: Anticipate, Then Execute -- Learning Internal World Models for Coding Agents from Verified Beliefs
+### 📄 OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools
 
-- **链接**: https://huggingface.co/papers/2610.15368
+- **链接**: https://huggingface.co/papers/2610.14157
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -537,19 +277,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Athanor: An Agent-Native System for Autonomous Post-Training Research
+### 📄 OPMD: On-Policy Mechanism Distillation Beyond Output Supervision
 
-- **链接**: https://huggingface.co/papers/2610.21055
-- **阅读来源**: ArXiv Abs
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 InfoVis: Unified Slide Image Generation and Editing
-
-- **链接**: https://huggingface.co/papers/2610.16784
+- **链接**: https://huggingface.co/papers/2610.14022
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -557,9 +287,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Terminal-RSI: Recursive Self-Improving Terminal Agents via Recursive Self-Rewrite and Policy-Refine
+### 📄 BridgeWAM: Bridging Video and Action Experts via Latent Bridge Queries
 
-- **链接**: https://huggingface.co/papers/2610.22192
+- **链接**: https://huggingface.co/papers/2610.14746
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -567,9 +297,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 ForcingBooster: Adaptive Patch-wise Denoising for Fast Autoregressive Video Diffusion
+### 📄 Into the Unknown: Benchmarking AI agents on open scientific research problems
 
-- **链接**: https://huggingface.co/papers/2610.12625
+- **链接**: https://huggingface.co/papers/2610.19159
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -577,9 +307,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 SERO: Learning from Executable Oracle Continuations for Long-Horizon Agentic Reinforcement Learning
+### 📄 Resisting Harmful Instructions through Training-Free Weight Editing
 
-- **链接**: https://huggingface.co/papers/2610.19397
+- **链接**: https://huggingface.co/papers/2610.21189
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -587,9 +317,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance
+### 📄 LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets
 
-- **链接**: https://huggingface.co/papers/2610.21453
+- **链接**: https://huggingface.co/papers/2610.09872
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -597,9 +327,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution
+### 📄 PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews
 
-- **链接**: https://huggingface.co/papers/2610.20509
+- **链接**: https://huggingface.co/papers/2610.21046
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -607,9 +337,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 EVA-Cap: Optimizing Audiovisual Video Captioning via Event-Centric Alignment
+### 📄 MOSS-Image Technical Report
 
-- **链接**: https://huggingface.co/papers/2610.22186
+- **链接**: https://huggingface.co/papers/2610.23374
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -617,9 +347,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation
+### 📄 DLite: History-free Speculative Decoding for Agentic AI
 
-- **链接**: https://huggingface.co/papers/2610.21601
+- **链接**: https://huggingface.co/papers/2610.23787
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -627,9 +357,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR
+### 📄 OfficeTown: Generative Organizations for Evolving Agent Intelligence
 
-- **链接**: https://huggingface.co/papers/2610.20461
+- **链接**: https://huggingface.co/papers/2610.23194
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -637,9 +367,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models
+### 📄 Execution Before Memory: Diagnosing Memory Failures in Video World Models
 
-- **链接**: https://huggingface.co/papers/2610.06598
+- **链接**: https://huggingface.co/papers/2610.23542
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -647,9 +377,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference
+### 📄 ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models
 
-- **链接**: https://huggingface.co/papers/2610.19605
+- **链接**: https://huggingface.co/papers/2610.20503
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -657,9 +387,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes
+### 📄 Relational Learning as World Modeling
 
-- **链接**: https://huggingface.co/papers/2610.21359
+- **链接**: https://huggingface.co/papers/2610.16763
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -667,9 +397,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views
+### 📄 GeoState: Learning View-Decoupled Geometry States for 3D World Modeling
 
-- **链接**: https://huggingface.co/papers/2610.20341
+- **链接**: https://huggingface.co/papers/2610.22343
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -677,9 +407,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Speculative Forcing for Efficient Autoregressive Video Generation
+### 📄 Failure Recovery via Belief Updates and World Modeling for Long-Horizon Agents
 
-- **链接**: https://huggingface.co/papers/2610.22347
+- **链接**: https://huggingface.co/papers/2610.18082
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -687,9 +417,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification
+### 📄 LEV: Thinking Fast and Deep with Looped Decision Models
 
-- **链接**: https://huggingface.co/papers/2610.17697
+- **链接**: https://huggingface.co/papers/2610.20951
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -697,9 +427,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering
+### 📄 Can Visual Generation Expand What Unified Multimodal Models Know?
 
-- **链接**: https://huggingface.co/papers/2610.22344
+- **链接**: https://huggingface.co/papers/2610.21459
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -707,9 +437,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 RepForcing: Representation-Space Initialization for Autoregressive Video Distillation
+### 📄 Has GPT-6-Astra Achieved Embodied Intelligence?
 
-- **链接**: https://huggingface.co/papers/2610.20111
+- **链接**: https://huggingface.co/papers/2610.22471
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -717,9 +447,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 PAIR: Bridging Perception and Action in Vision-Language-Action Models
+### 📄 Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models
 
-- **链接**: https://huggingface.co/papers/2610.09016
+- **链接**: https://huggingface.co/papers/2610.22428
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -727,9 +457,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 FDE-Gym: The Last Mile of AI Delivery
+### 📄 Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design
 
-- **链接**: https://huggingface.co/papers/2610.22350
+- **链接**: https://huggingface.co/papers/2610.23036
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -737,9 +467,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Memory as Weights: Internalizing Long-Term History for Streaming Videos
+### 📄 Dusting the Phantom: Gaussian Allocation for Fading Dynamic Content
 
-- **链接**: https://huggingface.co/papers/2610.22070
+- **链接**: https://huggingface.co/papers/2610.21302
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -747,9 +477,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 A team of Gemini 4 Argon agents beats Minecraft
+### 📄 DAGFormer: Global Topology Prediction for Transformer Cross-Layer Connections
 
-- **链接**: https://huggingface.co/papers/2610.22319
+- **链接**: https://huggingface.co/papers/2610.19625
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -757,9 +487,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 WorldMemBench: A Comprehensive Benchmark for Memory of Video World Models
+### 📄 MTEdit: Packed Trajectories Beat Rollouts for Multi-Turn Image Editing
 
-- **链接**: https://huggingface.co/papers/2610.19063
+- **链接**: https://huggingface.co/papers/2610.23751
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -767,9 +497,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Intern-Decision: Efficient Multimodal Decision Making with Autoregressive Masked Language Modeling
+### 📄 Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning
 
-- **链接**: https://huggingface.co/papers/2610.22131
+- **链接**: https://huggingface.co/papers/2610.23181
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -777,9 +507,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 3DCodeVerse: Exploring 3D Worlds as Code
+### 📄 DuoDiscover: Scaling Autonomous Discovery Beyond the Evaluation Bottleneck
 
-- **链接**: https://huggingface.co/papers/2610.22341
+- **链接**: https://huggingface.co/papers/2610.17184
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -787,9 +517,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models
+### 📄 Sparse Autoencoders Are a Shared Coordinate System for Symbolic Matching
 
-- **链接**: https://huggingface.co/papers/2610.22217
+- **链接**: https://huggingface.co/papers/2610.19636
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -797,9 +527,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 MFVSR: A Multi-Style and Fine-Grained Benchmark for Video Subtitle Removal
+### 📄 Lexical Reference Frames: Interpreting LM Residual Streams in Native Semantics
 
-- **链接**: https://huggingface.co/papers/2610.18461
+- **链接**: https://huggingface.co/papers/2610.22169
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -807,9 +537,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 One Bias Score, Two Factors: How Mitigations Affect Option Bias in Multiple-Choice Evaluation
+### 📄 Skip the Compressor: Coding Agents Fix More Issues When They Pick Whole Files
 
-- **链接**: https://huggingface.co/papers/2610.20993
+- **链接**: https://huggingface.co/papers/2610.21073
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -817,9 +547,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 WorldCast: Exploring Intelligent Visual Generation in World State Prediction
+### 📄 AVC-Reward: Event-Centric Audio-Video Consistency Evaluation
 
-- **链接**: https://huggingface.co/papers/2610.20731
+- **链接**: https://huggingface.co/papers/2610.22321
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
@@ -827,19 +557,9 @@ AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Ligh
 
 ============================================================
 
-### 📄 AI-Driven, Timing-Aware Power Optimization
+### 📄 Consistent Distribution Matching for Data-Free Diffusion Distillation
 
-- **链接**: https://huggingface.co/papers/2610.18890
-- **阅读来源**: HTML
-
-AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
-
-
-============================================================
-
-### 📄 SUPRA-TEX: 3D Generation with Super-Aligned Texture
-
-- **链接**: https://huggingface.co/papers/2610.22352
+- **链接**: https://huggingface.co/papers/2610.09221
 - **阅读来源**: HTML
 
 AI 分析出错: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'Lightning dunning decision is deny for project: projects/329718279534', 'status': 'PERMISSION_DENIED'}}
